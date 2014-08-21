@@ -84,8 +84,6 @@ OsiaTouTheou.text = "Saint of God, intercede for us."
 
 EleisonMeOTheos.text = "Have mercy on me, O God. Have mercy on me."
 
-YperagiaTheotokeSosonImas.text = res11
-
 AxionEstin.text = "It is truly right to call you blessed, O Theotokos, the ever-blessed and all-blameless one, and the Mother of our God. Great in honor than the Cherubim, and in glory greater beyond compare than the Seraphim, you without corruption gave birth to God the Word and are truly Theotokos. You do we magnify."
 
 AgiosOTheos.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
@@ -501,8 +499,6 @@ res09 = "Father, bless!"
 
 res10 = "Amen. Amen. Amen."
 
-res11 = "Most-holy Theotokos, save us."
-
 res12 = "Holy Father, bless."
 
 res13 = "Holy Master, bless."
@@ -532,8 +528,6 @@ res08p = "(Master, give the blessing.)"
 res09p = "(Father, give the blessing.)"
 
 res10p = "(Amen. Amen. Amen.)"
-
-res11p = "(Most-holy Theotokos, save us.)"
 
 res12p = "(Holy Father, give the blessing.)"
 
@@ -632,3 +626,51 @@ gos03a = "The reading is from the holy Gospel according to"
 gos03b = ""
 
 gos04 = "Peace be to you who proclaim the Gospel."
+
+verse_Angels.text = ""
+
+verseP_Angels.text = ""
+
+verse_ApostlesMartyrs.text = ""
+
+verseP_ApostlesMartyrs.text = ""
+
+verse_Baptist.text = ""
+
+verseP_Baptist.text = ""
+
+verse_Cross.text = ""
+
+verseP_Cross.text = ""
+
+verse_Forefathers.text = ""
+
+verseP_Forefathers.text = ""
+
+verse_GreatMartyrs.text = ""
+
+verseP_GreatMartyrs.text = ""
+
+verse_Hierarchs.text = ""
+
+verseP_Hierarchs.text = ""
+
+verse_Nicholas.text = ""
+
+verseP_Nicholas.text = ""
+
+verse_Panteleimon.text = ""
+
+verseP_Panteleimon.text = ""
+
+verse_Theotokos.text = "Most-holy Theotokos, save us."
+
+verseP_Theotokos.text = "(Most-holy Theotokos, save us.)"
+
+verse_Trinity.text = ""
+
+verseP_Trinity.text = ""
+
+verse_Unmercenaries.text = ""
+
+verseP_Unmercenaries.text = ""
