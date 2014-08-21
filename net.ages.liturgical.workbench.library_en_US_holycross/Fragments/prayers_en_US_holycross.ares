@@ -155,6 +155,12 @@ pet03 = "For peace in the whole world, for the stability of the holy churches of
 
 pet04 = "For this holy house and for those who enter it with faith, reverence, and the fear of God, let us pray to the Lord."
 
+pet04alt1.title = "In a house."
+pet04alt1 = "For this house and those who dwell in it, let us pray to the Lord."
+
+pet04alt2.title = "On a ship."
+pet04alt2 = "For this ship and all those aboard it, let us pray to the Lord."
+
 pet05 = "For pious and Orthodox Christians, let us pray to the Lord."
 
 pet06 = "For our Archbishop (Name), the honorable presbyters, the deacons in the service of Christ, and all the clergy and laity, let us pray to the Lord."
@@ -353,7 +359,7 @@ petKneel01 = "For the people here present, awaiting the grace of the Holy Spirit
 
 petKneel02 = "For those who incline their hearts as well as the knee before the Lord, let us pray to the Lord."
 
-petKneel03 = "That we may be strengthened to complete works well??pleasing to the Lord, let us pray to the Lord."
+petKneel03 = "That we may be strengthened to complete works well-pleasing to the Lord, let us pray to the Lord."
 
 petKneel04 = "That His mercies may be lavished upon us, let us pray to the Lord."
 
@@ -381,7 +387,7 @@ petWater02 = "That there may descend upon these waters the cleansing operation o
 
 petWater03 = "That there may be sent down upon it the Grace of Redemption, the blessing of the Jordan; let us pray to the Lord."
 
-petWater03b = "That there may be sent down upon it the Grace of Redemption, the blessing of the Jordan; let us pray to the Lord."
+petWater03alt = "That there may be sent down upon it the Grace of Redemption, the blessing of the Jordan; let us pray to the Lord."
 
 petWater04 = "That we may be illumined with the Light of Knowledge and Piety through the descent of the Holy Spirit; let us pray to the Lord."
 
@@ -391,7 +397,7 @@ petWater06 = "That it may become water welling up to eternal life; let us pray t
 
 petWater07 = "That this water may prove effectual for the averting of every plot of visible and invisible enemies; let us pray to the Lord."
 
-petWater07b = "That this water may prove effectual for the averting of every plot of visible and invisible enemies; let us pray to the Lord."
+petWater07alt = "That this water may prove effectual for the averting of every plot of visible and invisible enemies; let us pray to the Lord."
 
 petWater08 = "For those who are sprinkled with it and take it for the blessing of homes; let us pray to the Lord."
 
@@ -400,6 +406,16 @@ petWater09 = "That it may be for the purification of soul and body to all who wi
 petWater10 = "That we may be granted to be filled with sanctification through drinking this water, by the invisible manifestation of the Holy Spirit; let us pray to the Lord."
 
 petWater11 = "That the Lord God may listen to the voice of the prayer of us sinners and have mercy on us; let us pray to the Lord."
+
+petWater12 = "That there may descend upon these waters the cleansing operation of the super substantial Trinity; let us pray to the Lord."
+
+petWater13 = "That this water may be to the healing of souls and bodies, and to the banishment of every hostile power, let us pray to the Lord."
+
+petWater14 = "For all of them who need God to help and give protection, let us pray to the Lord."
+
+petWater15 = "That He will illuminate us with the Light of understanding of the Consubstantial Trinity; let us pray to the Lord."
+
+petWater16 = "That the Lord our God will show us forth as sons and daughters and heirs of His Kingdom through the partaking and sprinkling of these waters; let us pray to the Lord."
 
 petWed01 = "For the servant of God (Name) and the servant of God (Name) who now pledge themselves to one another, and for their salvation; let us pray to the Lord."
 
@@ -575,6 +591,8 @@ exc15 = "Let us honor and magnify in song the Theotokos and the Mother of light.
 
 exc16 = "For hallowed and glorified is your all-honored and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
+exc16a = "For blessed and glorified is your all-honored and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+
 exc17 = "Wisdom!"
 
 exc18 = "Arise!"
@@ -594,6 +612,8 @@ exc25 = "For holy are You, our God, resting on the glorious throne of the cherub
 exc26 = "For You are the King of peace and the Savior of our souls, O Christ our God, and to You we send up glory, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
 
 exc27 = "For You are the repose of our souls and bodies, and to You do we send up glory, to the Father, and to the Son, and to the Holy Spirit, both now and ever, and to the ages of ages."
+
+exc28 = "For You are the One who sanctifies all things, O Christ our God, and to You we send up glory, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
 
 epi01a = "The reading is from" // "
 
