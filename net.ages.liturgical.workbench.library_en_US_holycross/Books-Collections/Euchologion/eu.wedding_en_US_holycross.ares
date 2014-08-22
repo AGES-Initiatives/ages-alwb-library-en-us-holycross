@@ -1,7 +1,8 @@
 A_Resource_Whose_Name = eu.wedding_en_US_holycross 
 
 euWED.title = "Holy Matrimony"
-euWED.translator = "Translation by Holy Cross Press"
+euWED.translator1 = "Holy Cross Press"
+euWED.translator2 = ""
 
 euWED.Key0100.title = "The Service of Betrothal"
 
@@ -15,24 +16,6 @@ euWED.Key0107.text = "O Lord our God, Who accompanied the servant of the patriar
 euWED.Key0108.text = "For You are He that blesses and sanctifies all things, and to You do we send up Glory: to the Father, and to the Son, and to the Holy Spirit, both now and ever, and to the ages of ages."
 
 euWED.Key0200.title = "The Service of the Crowning - The Service of Marriage"
-euWED.Key0201.source = "127"
-euWED.Key0201.text = "Blessed is everyone that fears the Lord."
-euWED.Key0202.source = "127"
-euWED.Key0202.text = "That walks in His ways."
-euWED.Key0203.source = ""
-euWED.Key0203.text = "For you shall eat the labor of your hands."
-euWED.Key0204.source = "127"
-euWED.Key0204.text = "Blessed are you, and it shall be well with you."
-euWED.Key0205.source = "127"
-euWED.Key0205.text = "Your wife shall be as a fruitful vine on the sides of your house."
-euWED.Key0206.source = "127"
-euWED.Key0206.text = "Your children like young olive plants around your table."
-euWED.Key0207.source = "127"
-euWED.Key0207.text = "Behold! The man shall be blessed that fears the Lord."
-euWED.Key0208.source = "127"
-euWED.Key0208.text = "The Lord shall bless you out of Zion, and you shall see the good things of Jerusalem all the days of your life."
-euWED.Key0209.source = "127"
-euWED.Key0209.text = "Yea! You shall see your children's children, and peace be upon Israel."
 
 euWED.Key0210.text = "O God most pure, Author of all creation, Who through Your manbefriending love transformed a rib of Adam the forefather into a woman, and blessed them and said, \"Increase and multiply, and have dominion over the earth,\" and, by the conjoining, declared them both to be one member, for because of this a man shall forsake his father and his mother, and shall cleave unto his wife, and the two shall be one flesh-and whom God has joined together let not man put asunder; Who did also bless Your servant Abraham, and opened the womb of Sara, and made him the father of many nations; Who bestowed Isaac upon Rebecca, and blessed her offspring; Who joined Jacob and Rachel, and from them made manifest the twelve patriarchs; Who yoked Joseph and Asenath together, and as the fruit of generation did bestow upon them Ephrem and Manasse; Who accepted Zacharias and Elizabeth, and declared their offspring the Forerunner; Who out of the root of Jesse, according to the flesh, produced the Ever-Virgin Mary, and from her were Incarnate-born for the salvation of the human race; Who through Your unspeakable Grace and plentiful goodness were present in Cana of Galilee, and blessed the marriage there, that You might show a lawful union, and a generation there from, is according to Your Will; do You Yourself, O Most Holy Master, accept the prayer of us, Your servants; and as You were present there, be present also here with Your invisible protection. Bless (+) this marriage and grant unto these Your servants (Name) and (Name) a peaceful life, length of days, chastity, love for one another in a bond of peace, offspring long-lived, fair fame by reason of their children, and a crown of glory that does not fade away. Account them worthy to see their children's children. Keep their wedlock safe against every hostile scheme; give them of the dew from the Heavens above, and of the fatness of the earth. Fill their houses with bountiful food, and with every good thing, that they may have to give to them that are in need, bestowing also on them that are here assembled with us all their supplications that are unto salvation."
 euWED.Key0211.text = "For a God of mercy and of compassion, and of manbefriending love are You, and to You do we send up Glory: as to Your eternal Father and Your All-Holy, Good, and Life-creating Spirit, both now and ever, and to the ages of ages."
@@ -43,34 +26,11 @@ euWED.Key0215.text = "The servant of God (Name) is crowned for the servant of Go
 euWED.Key0216.text = "The servant of God (Name) is crowned for the servant of God (Name), in the Name of the Father, and of the Son, and of the Holy Spirit. "
 euWED.Key0217.text = "O Lord, our God, crown them with glory and honor."
 
-euWED.EpistleProkeimenon.mode = misc_en_US_holycross.Mode8
-euWED.EpistleProkeimenon.source = ""
-euWED.EpistleProkeimenon.text = "You have set upon their heads crowns of precious stones."
-euWED.EpistleProkeimenonVerse.source = ""
-euWED.EpistleProkeimenonVerse.text = "They asked life of You, and You gave it to them."
-
-//euWED.Epistle.book = bible_en_US_rsv.Ephesians
-euWED.Epistle.chapverse = "(5:20-33)"
-euWED.Epistle.text = "Brethren, give thanks always for all things in the name of our Lord Jesus Christ to God the Father. Be subject to one another out of reverence for Christ. Wives, be subject to your husbands, as to the Lord. For the husband is the head of the wife as Christ is the head of the church, his body, and is himself its Savior. As the church is subject to Christ, so let wives be also subject in everything to their husbands. Husbands, love your wives, as Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. Even so husbands should love their wives as their own bodies. He who loves his wife loves himself For no man ever hates his own flesh, but nourishes and cherishes it, as Christ does the church, because we are members of his body. \"For this reason a man shall leave his father and his mother and shall be joined to his wife, and the two shall become one.\" This is a great mystery, and I take it to mean Christ and the church; however, let each one of you love his wife as himself, and let the wife see that she respects her husband."
-
-euWED.GospelAlleluia.mode = misc_en_US_holycross.Mode5
-euWED.GospelAlleluia.text = prayers_en_US_holycross.Allilouia3.text
-euWED.GospelAlleluiaVerse1.source = ""
-euWED.GospelAlleluiaVerse1.text = "O Lord, You shall keep us and You shall preserve us from this generation forth and forever."
-
-//euWED.Gospel.book = bible_en_US_rsv.John
-euWED.Gospel.chapverse = "(2:1-11)"
-euWED.Gospel.text = "At that time there was a marriage at Cana in Galilee, and the mother of Jesus was there; Jesus also was invited to the marriage, with his disciples. When the wine failed, the mother of Jesus said to him, \"They have no wine.\" And Jesus said to her, \"O woman, what have you to do with me? My hour has not yet come.\" His mother said to the servants, \"Do whatever he tells you.\" Now six stone jars were standing there, for the Jewish rites of purification, each holding twenty or thirty gallons. Jesus said to them, \"Fill the jars with water.\" And they filled them up to the brim. He said to them, \"Now draw some out, and take it to the steward of the feast.\" So they took it. When the steward of the feast tasted the water now become wine, and did not know where it came from (though the servants who had drawn the water knew), the steward of the feast called the bridegroom and said to him, \"Every man serves the good wine first; and when men have drunk freely, then the poor wine; but you have kept the good wine until now.\" This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory; and his disciples believed in him."
-
 euWED.Key0301.text = "O Lord our God, Who in Your saving Providence did promise in Cana of Galilee to declare marriage honorable by Your presence, do You Yourself preserve in peace and oneness of mind these Your servants (Name) and (Name), whom You are well pleased should be joined to one another. Declare their marriage honorable. Preserve their bed undefiled. Grant that their life together be with be without spot of sin. And assure that they may be worthy to attain unto a ripe old age, keeping Your commandments in a pure heart."
 euWED.Key0302.text = "For You are our God, the God to have mercy and save, and to You do we send up all Glory, as to Your Eternal Father, and Your All-Holy, Good, and Life-creating Spirit, both now and ever, and to the ages of ages."
 euWED.Key0303.title = ""
 euWED.Key0303.text = "O God, Who by Your might create all things, and confirm the universe, and adorn the crown of all things created by You, do You, with Your spiritual blessing (+), bless also this common cup given to them that are joined in the community of marriage."
 euWED.Key0304.text = "For blessed is Your Holy Name, and glorified is the Kingdom of the Father, and of the Son, and of the Holy Spirit, both now and ever, and to the ages of ages."
-
-euWED.Key0305.source = "115"
-euWED.Key0305.mode = ""
-euWED.Key0305.text = "I will drink from the cup of salvation; I will call upon the name of the Lord."
 
 euWED.Key0306.title = "The Dance of Isaiah"
 euWED.Key0306.mode = "Tone 5."
@@ -91,5 +51,5 @@ euWED.Key0311.text = "O God our God, Who was present in Cana of Galilee and bles
 euWED.Key0312.title = ""
 euWED.Key0312.text = "The Father, the Son, and the Holy Spirit; the All-Holy, Consubstantial and Life-creating Trinity; One Godhead and Kingdom; bless (+) you; grant to you long life, well-favored children, progress in life and in Faith; replenish you with all the good things of the earth, and count you worthy of the promised blessings, through the intercessions of the holy Theotokos, and of all the Saints."
 
-euWED.Key0313.title = ""
-euWED.Key0313.text = "He, Who by His presence in Cana of Galilee declared marriage to be honorable, Christ our true God, through the intercessions of His all-pure Mother, of the holy, glorious, and all-praiseworthy Apostles, of the holy, God-crowned and Equal-to-the-Apostles Constantine and Helen, of the Holy, great Martyr Procopios, and of all the holy Saints, have mercy on us and save us, as our good and loving Lord."
+euWED.Key0313.title = "DISMISSAL"
+euWED.Key0313.text = "May He, who by His presence in Cana of Galilee declared marriage to be honorable, Christ our true God, through the intercessions of His all-pure Mother, of the holy, glorious, and all-praiseworthy Apostles, of the holy, God-crowned and Equal-to-the-Apostles Constantine and Helen, of the Holy, great Martyr Procopios, and of all the holy Saints, have mercy on us and save us, as our good and loving Lord."
