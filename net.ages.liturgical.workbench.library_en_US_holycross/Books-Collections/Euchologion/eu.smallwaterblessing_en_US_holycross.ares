@@ -1,6 +1,9 @@
 A_Resource_Whose_Name = eu.smallwaterblessing_en_US_holycross
 
 euSW.Key0100.title = "The Order for the Lesser Sanctification of the Water"
+euSW.translator1 = "Prayers by Holy Cross."
+euSW.translator2 = "Hymns by Holy Cross."
+
 euSW.R101 = "Items needed for the celebration of the Lesser Sanctification of Water are a small table, upon which the Priest places the Gospel; a wooden, silver-bound Cross; a censer; a bowl of water; two candlesticks with their candles; a few branches of basil and a clean white towel. The Priest wears his cassock and stole."
 euSW.R102 = ""
 
@@ -116,7 +119,7 @@ euSW.Key0227.text = "Through the prayers of Your Holy Mother, and of Your Holy S
 
 euSW.Key0228.mode = misc_en_US_holycross.Mode6
 euSW.Key0228.melody = misc_en_US_holycross.NotMetered
-euSW.Key0228.text = ""
+euSW.Key0228.text = "(Cross)"
 
 euSW.Key0229.mode = misc_en_US_holycross.Mode6
 euSW.Key0229.melody = misc_en_US_holycross.NotMetered
@@ -132,45 +135,37 @@ euSW.Key0231.text = "Through the prayers of the glorious Apostles, and the victo
 
 euSW.Key0232.mode = misc_en_US_holycross.Mode6
 euSW.Key0232.melody = misc_en_US_holycross.NotMetered
-euSW.Key0232.text = ""
+euSW.Key0232.text = "(Hierarchs)"
 
 euSW.Key0233.mode = misc_en_US_holycross.Mode6
 euSW.Key0233.melody = misc_en_US_holycross.NotMetered
-euSW.Key0233.text = ""
+euSW.Key0233.text = "(Nicholas)"
 
 euSW.Key0234.mode = misc_en_US_holycross.Mode6
 euSW.Key0234.melody = misc_en_US_holycross.NotMetered
-euSW.Key0234.text = ""
+euSW.Key0234.text = "(Great Martyrs)"
 
 euSW.Key0235.mode = misc_en_US_holycross.Mode6
 euSW.Key0235.melody = misc_en_US_holycross.NotMetered
-euSW.Key0235.text = ""
+euSW.Key0235.text = "(Unmercenaries)"
 
 euSW.Key0236.mode = misc_en_US_holycross.Mode6
 euSW.Key0236.melody = misc_en_US_holycross.NotMetered
-euSW.Key0236.text = ""
+euSW.Key0236.text = "(Panteleimon)"
 
 euSW.Key0237.mode = misc_en_US_holycross.Mode6
 euSW.Key0237.melody = misc_en_US_holycross.NotMetered
-euSW.Key0237.text = ""
+euSW.Key0237.text = "(Rightous)"
 
 euSW.Key0238.mode = misc_en_US_holycross.Mode6
 euSW.Key0238.melody = misc_en_US_holycross.NotMetered
-euSW.Key0238.text = ""
+euSW.Key0238.text = "The Father and the Son and the Holy Spirit we glorify saying: O Holy Trinity, save our souls."
 
 euSW.Key0239.mode = misc_en_US_holycross.Mode6
 euSW.Key0239.melody = misc_en_US_holycross.NotMetered
-euSW.Key0239.text = "The Father and the Son and the Holy Spirit we glorify saying: O Holy Trinity, save our souls."
+euSW.Key0239.text = "O Virgin who in mystery did conceive and bring forth in these latter days Your Creator: save us who magnify you."
 
-euSW.Key0240.mode = misc_en_US_holycross.Mode6
-euSW.Key0240.melody = misc_en_US_holycross.NotMetered
-euSW.Key0240.text = ""
-
-euSW.Key0241.mode = misc_en_US_holycross.Mode6
-euSW.Key0241.melody = misc_en_US_holycross.NotMetered
-euSW.Key0241.text = "O Virgin who in mystery did conceive and bring forth in these latter days Your Creator: save us who magnify you:"
-
-euSW.Key0242.text = "Open for us the door of your tender compassion, O blessed Theotokos; and as we set our hope in you, let us never be confounded; through you may we be delivered from all adversity; you, who are the salvation of all good Christian folk."
+euSW.Key0240.text = "Open for us the door of your tender compassion, O blessed Theotokos; and as we set our hope in you, let us never be confounded; through you may we be delivered from all adversity; you, who are the salvation of all good Christian folk."
 
 euSW.R301 = "And the following:"
 
