@@ -36,7 +36,6 @@ euFUN.Key0500.text  = ""
 
 euFUN.Key0600.title  = ""
 euFUN.Key0600.mode = misc_en_US_holycross.Mode5
-euFUN.Key0600.source = ""
 euFUN.Key0600.text = ho.s03_en_US_holycross.hoMA.FuneralEvlogVerse.text
 euFUN.Key0601.text = ho.s03_en_US_holycross.hoMA.FuneralEvlog1.text
 euFUN.Key0602.text = ho.s03_en_US_holycross.hoMA.FuneralEvlog4.text
