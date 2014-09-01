@@ -3,13 +3,13 @@ A_Resource_Whose_Name = eu.lichrysbasil_en_US_holycross
 euLI.title = "The Divine Liturgy of Saint John Chrysostom"
 
 // Part 01 Enarxis
-euLI.Key0101.text = "Καιρός τοῦ ποιῆσαι τῷ Κυρίῳ. Δέσποτα Ἅγιε εὐλόγησον."
+euLI.Key0101.text = ""
 euLI.Key0102.text = prayers_en_US_holycross.enarxis01
-euLI.Key0103.text = "Ἀμην. Εὖξαι ὑπὲρ ἐμοῦ, Δέσποτα Ἅγιε."
-euLI.Key0104.text = "Κατευθύναι Κύριος τὰ διαβήματά σου εἰς πᾶν ἔργον ἀγαθόν."
-euLI.Key0105.text = "Μνήσθητί μου, Δέσποτα Ἅγιε."
-euLI.Key0106.text = "Μνησθείη σου Κύριος ὁ Θεὸς ἐν τῇ βασιλείᾳ αὐτοῦ, πάντοτε, νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων. Ἀμήν."
-euLI.Key0107.text = "Κύριε, τὰ χείλη μου ἀνοίξεις, καὶ τὸ στόμα μου ἀναγγελεῖ τὴν αἴνεσίν σου."
+euLI.Key0103.text = ""
+euLI.Key0104.text = ""
+euLI.Key0105.text = ""
+euLI.Key0106.text = ""
+euLI.Key0107.text = ""
 euLI.Key0108.text = prayers_en_US_holycross.res08
 euLI.Key0109.text = prayers_en_US_holycross.enarxis02
 euLI.Key0110.text = prayers_en_US_holycross.res04
