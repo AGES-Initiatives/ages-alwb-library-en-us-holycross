@@ -55,7 +55,11 @@ lecAP.Eothinon.uc = "EOTHINON"
 lecAP.Eothinon = "Eothinon"
 
 lecEV.Evangelion = "Gospel Reading"
+lecEV.ForefestalGospel = "Fore-festal Gospel Reading"
+lecEV.PostfestalGospel = "Post-festal Gospel Reading"
 lecEV.Evangelion.uc = "GOSPEL READING"
+lecEV.ForefestalGospel.uc = "FORE-FESTAL GOSPEL READING"
+lecEV.PostfestalGospel.uc = "POST-FESTAL GOSPEL READING"
 
 lecLE.separator = " – "
 lecLE.openP = "("
