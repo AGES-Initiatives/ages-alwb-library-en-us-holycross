@@ -25,7 +25,7 @@ lecAP.mc.R120 = "they are sung on Easter Sunday and throughout Renewal Week."
 lecAP.me.m07.dHF.R01 = "Note: If the thirteenth of July is a Sunday, or, on the first Sunday following the thirteenth, the service of the Holy Fathers of the Fourth Ecumenical Synod is sung in which we read the following apostolos:"
 lecAP.me.m10.dHF.R01 = "Note: If the eleventh of October is a Sunday, or, on the first Sunday following the eleventh, the service of the 300 Holy Fathers of the Seventh Ecumenical Synod is sung during which the following apostolos is read:"
 lecAP.me.m11.d16.R01 = "Another Apostolos in the Menaion"
-lecAP.me.m12.dSunFF.R01 = "Note: We read the apostolos below on December 11 if this is a Sunday, or on the first Sunday following December 11."
+lecAP.me.m12.dFF.R01 = "Note: We read the apostolos below on December 11 if this is a Sunday, or on the first Sunday following December 11."
 lecAP.me.m12.dSunBE.R01 = "(From December 30 through January 5)"
 lecAP.me.m12.dSunBE.R02 = "Note: If there are two Sundays between Christmas and Theophany, we read the apostolos of the Sunday After the Nativity on the first Sunday, and on the second, the apostolos of the Sunday Before Theophany."
 
