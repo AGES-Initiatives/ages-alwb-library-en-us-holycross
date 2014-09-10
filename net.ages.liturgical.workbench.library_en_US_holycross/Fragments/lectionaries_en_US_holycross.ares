@@ -50,9 +50,9 @@ lecAP.Period.uc = "PERIOD"
 lecAP.HolyWeek.uc = "HOLY WEEK"
 lecAP.Menaion.uc = "MENAION"
 lecAP.Various.uc = "VARIOUS SERVICES"
-lecAP.Eothinon.uc = "EOTHINON"
+lecLE.Eothinon.uc = "EOTHINON"
 
-lecAP.Eothinon = "Eothinon"
+lecLE.Eothinon = "Eothinon"
 
 lecEV.Evangelion = "Gospel Reading"
 lecEV.ForefestalGospel = "Fore-festal Gospel Reading"
