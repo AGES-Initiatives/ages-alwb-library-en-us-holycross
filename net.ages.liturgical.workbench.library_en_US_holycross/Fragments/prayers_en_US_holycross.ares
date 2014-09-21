@@ -662,6 +662,10 @@ verse_Righteous.text = ""
 
 verseP_Righteous.text = ""
 
+verse_SoulSaturday.text = ""
+
+verseP_SoulSaturday.text = ""
+
 verse_Theotokos.text = "Most-holy Theotokos, save us."
 
 verseP_Theotokos.text = "(Most-holy Theotokos, save us.)"
