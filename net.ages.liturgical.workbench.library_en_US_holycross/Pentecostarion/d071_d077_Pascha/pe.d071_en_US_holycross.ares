@@ -1,0 +1,31 @@
+A_Resource_Whose_Name = pe.d071_en_US_holycross
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_en_US_holycross.dis00.resurrection
+
+peMA.Synaxarion1.Com = ""
+peMA.Synaxarion1.Ver1 = ""
+peMA.Synaxarion1.Ver2 = ""
+peMA.Synaxarion1.Nar = ""
+
+peMA.Synaxarion.LastLine = ""
+
+peMA.Lauds1.mode = misc_en_US_holycross.Mode1
+peMA.Lauds1.melody  = ""
+peMA.Lauds1.text = oc.m1.d1_en_US_holycross.ocMA.Lauds1.text
+
+peMA.Lauds2.mode = misc_en_US_holycross.Mode1
+peMA.Lauds2.melody  = ""
+peMA.Lauds2.text = oc.m1.d1_en_US_holycross.ocMA.Lauds2.text
+
+peMA.Lauds3.mode = misc_en_US_holycross.Mode1
+peMA.Lauds3.melody  = ""
+peMA.Lauds3.text = oc.m1.d1_en_US_holycross.ocMA.Lauds3.text
+
+peMA.Lauds4.mode = misc_en_US_holycross.Mode1
+peMA.Lauds4.melody  = ""
+peMA.Lauds4.text = oc.m1.d1_en_US_holycross.ocMA.Lauds4.text
