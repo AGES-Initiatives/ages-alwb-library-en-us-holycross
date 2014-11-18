@@ -1,0 +1,101 @@
+A_Resource_Whose_Name = pe.d091_en_US_holycross
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peDismissal = dismissals_en_US_holycross.dis00.resurrection
+
+peVE.Stichera01.mode = misc_en_US_holycross.Mode2
+peVE.Stichera01.melody = misc_en_US_holycross.Idiomelon
+peVE.Stichera01.text = pe.d085_en_US_holycross.peVE.Stichera08.text
+
+peVE.Stichera02.mode = misc_en_US_holycross.Mode2
+peVE.Stichera02.melody = misc_en_US_holycross.Idiomelon
+peVE.Stichera02.text = pe.d085_en_US_holycross.peVE.Stichera09.text
+
+peVE.Stichera03.mode = misc_en_US_holycross.Mode2
+peVE.Stichera03.melody = misc_en_US_holycross.Idiomelon
+peVE.Stichera03.text = pe.d085_en_US_holycross.peVE.Stichera10.text
+
+peVE.SticGlory.mode = misc_en_US_holycross.Mode6
+peVE.SticGlory.melody = misc_en_US_holycross.Idiomelon
+peVE.SticGlory.text = pe.d085_en_US_holycross.peVE.SticGlory.text
+
+peVE.SticBoth.mode = misc_en_US_holycross.Mode2
+peVE.SticBoth.melody = misc_en_US_holycross.Idiomelon
+peVE.SticBoth.text = oc.m2.d1_en_US_holycross.ocVE.SticTheotokion.text
+
+peVE.Aposticha1.mode = misc_en_US_holycross.Mode2
+peVE.Aposticha1.melody  = ""
+peVE.Aposticha1.text = oc.m2.d1_en_US_holycross.ocVE.Stichera1.text
+
+peVE.Aposticha2.mode = misc_en_US_holycross.Mode2
+peVE.Aposticha2.melody  = ""
+peVE.Aposticha2.text = oc.m2.d1_en_US_holycross.ocVE.Stichera2.text
+
+peVE.Aposticha3.mode = misc_en_US_holycross.Mode2
+peVE.Aposticha3.melody  = ""
+peVE.Aposticha3.text = oc.m2.d1_en_US_holycross.ocVE.Stichera3.text
+
+peVE.Aposticha4.mode = misc_en_US_holycross.Mode2
+peVE.Aposticha4.melody  = ""
+peVE.Aposticha4.text = oc.m2.d1_en_US_holycross.ocVE.Aposticha1.text
+
+peVE.AposGlory.mode = misc_en_US_holycross.Mode5
+peVE.AposGlory.melody = misc_en_US_holycross.Idiomelon
+peVE.AposGlory.text = pe.d085_en_US_holycross.peVE.AposGlory.text
+
+peMA.Kathisma11.mode = misc_en_US_holycross.Mode2
+peMA.Kathisma11.melody  = ""
+peMA.Kathisma11.text = pe.d085_en_US_holycross.peMA.Kathisma11.text
+
+peMA.Kathisma12.mode = misc_en_US_holycross.Mode2
+peMA.Kathisma12.melody  = ""
+peMA.Kathisma12.text = pe.d085_en_US_holycross.peMA.Kathisma12.text
+
+peMA.Kathisma1T.mode = misc_en_US_holycross.Mode2
+peMA.Kathisma1T.melody = oc.m2.d7_en_US_holycross.ocMA.Kathisma14.melody
+peMA.Kathisma1T.text = oc.m2.d7_en_US_holycross.ocMA.Kathisma14.text
+
+peMA.Kathisma21.mode = misc_en_US_holycross.Mode2
+peMA.Kathisma21.melody  = ""
+peMA.Kathisma21.text = pe.d085_en_US_holycross.peMA.Ode3Kathisma2.text
+
+peMA.Lauds1.mode = misc_en_US_holycross.Mode2
+peMA.Lauds1.melody  = ""
+peMA.Lauds1.text = oc.m2.d1_en_US_holycross.ocMA.Lauds1.text
+
+peMA.Lauds2.mode = misc_en_US_holycross.Mode2
+peMA.Lauds2.melody  = ""
+peMA.Lauds2.text = oc.m2.d1_en_US_holycross.ocMA.Lauds2.text
+
+peMA.Lauds3.mode = misc_en_US_holycross.Mode2
+peMA.Lauds3.melody  = ""
+peMA.Lauds3.text = oc.m2.d1_en_US_holycross.ocMA.Lauds3.text
+
+peMA.Lauds4.mode = misc_en_US_holycross.Mode2
+peMA.Lauds4.melody  = ""
+peMA.Lauds4.text = oc.m2.d1_en_US_holycross.ocMA.Lauds4.text
+
+peMA.LaudsGlory.mode = misc_en_US_holycross.Mode1
+peMA.LaudsGlory.melody = misc_en_US_holycross.Idiomelon
+peMA.LaudsGlory.text = pe.d085_en_US_holycross.peVE.Lity3.text
+
+peMA.Aposticha1.mode = misc_en_US_holycross.Mode2
+peMA.Aposticha1.melody = tr.d070_en_US_holycross.trVE.Aposticha1.melody
+peMA.Aposticha1.text = tr.d070_en_US_holycross.trVE.Aposticha1.text
+
+peMA.Aposticha2.mode = misc_en_US_holycross.Mode2
+peMA.Aposticha2.melody = tr.d070_en_US_holycross.trVE.Aposticha2.melody
+peMA.Aposticha2.text = tr.d070_en_US_holycross.trVE.Aposticha2.text
+
+peMA.Aposticha3.mode = misc_en_US_holycross.Mode2
+peMA.Aposticha3.melody = tr.d070_en_US_holycross.trVE.Aposticha4.melody
+peMA.Aposticha3.text = tr.d070_en_US_holycross.trVE.Aposticha4.text
+
+peMA.AposGlory.mode = misc_en_US_holycross.Mode6
+peMA.AposGlory.melody = misc_en_US_holycross.Idiomelon
+peMA.AposGlory.text = pe.d085_en_US_holycross.peVE.LityGlory.text
+
