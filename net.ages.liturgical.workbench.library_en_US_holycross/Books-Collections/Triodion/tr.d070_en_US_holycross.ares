@@ -37,7 +37,7 @@ trVE.SticBoth.mode = misc_en_US_holycross.Mode6
 trVE.SticBoth.melody = misc_en_US_holycross.Idiomelon
 trVE.SticBoth.text = ""
 
-trVE.Prokeimenon.text = ""//for media
+trVE.Prokeimenon.text = "" // for media
 
 trVE.Aposticha1.mode = misc_en_US_holycross.Mode2
 trVE.Aposticha1.melody = misc_en_US_holycross.Automelon
