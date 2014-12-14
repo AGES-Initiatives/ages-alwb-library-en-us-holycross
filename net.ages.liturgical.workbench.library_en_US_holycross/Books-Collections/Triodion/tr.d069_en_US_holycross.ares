@@ -346,11 +346,11 @@ trMA.Ode5K.mode = misc_en_US_holycross.Mode6
 trMA.Ode5K.melody = misc_en_US_holycross.Heirmos
 trMA.Ode5K.text = he.h.m6_en_US_holycross.ProsSeOrthrizo.text
 
-trMA.Kontakion.mode = misc_en_US_holycross.Mode8
-trMA.Kontakion.melody  = ""
-trMA.Kontakion.text = ""
+trMA.Kontakion1.mode = misc_en_US_holycross.Mode8
+trMA.Kontakion1.melody  = ""
+trMA.Kontakion1.text = ""
 
-trMA.Oikos.text = ""
+trMA.Oikos1.text = ""
 
 trMA.Synaxarion1.Com = "" 
 trMA.Synaxarion1.Ver1 = "" //used as Title
@@ -504,7 +504,7 @@ trH1.Idiomelon3.melody  = ""
 trH1.Idiomelon3.text = trHW.Antiphon071.text
 
 trH1.Kontakion.mode = misc_en_US_holycross.Mode8
-trH1.Kontakion.text = trMA.Kontakion.text
+trH1.Kontakion.text = trMA.Kontakion1.text
 
 trH3.Troparion.mode = misc_en_US_holycross.Mode6
 trH3.Troparion.text = ""
@@ -522,7 +522,7 @@ trH3.Idiomelon3.melody = misc_en_US_holycross.Idiomelon
 trH3.Idiomelon3.text = ""
 
 trH3.Kontakion.mode = misc_en_US_holycross.Mode8
-trH3.Kontakion.text = trMA.Kontakion.text
+trH3.Kontakion.text = trMA.Kontakion1.text
 
 trH6.Troparion.mode = misc_en_US_holycross.Mode2
 trH6.Troparion.text = oc.m2.d4_en_US_holycross.ocMA.Kathisma11.text
@@ -540,7 +540,7 @@ trH6.Idiomelon3.melody = misc_en_US_holycross.Idiomelon
 trH6.Idiomelon3.text = ""
 
 trH6.Kontakion.mode = misc_en_US_holycross.Mode8
-trH6.Kontakion.text = trMA.Kontakion.text
+trH6.Kontakion.text = trMA.Kontakion1.text
 
 trH9.Troparion.mode = misc_en_US_holycross.Mode8
 trH9.Troparion.text = oc.m8.d4_en_US_holycross.ocMA.Kathisma11.text
@@ -559,5 +559,5 @@ trH9.Idiomelon3.melody = misc_en_US_holycross.Idiomelon
 trH9.Idiomelon3.text = "" //use Antiphon151
 
 trH9.Kontakion.mode = misc_en_US_holycross.Mode8
-trH9.Kontakion.text = trMA.Kontakion.text
+trH9.Kontakion.text = trMA.Kontakion1.text
 

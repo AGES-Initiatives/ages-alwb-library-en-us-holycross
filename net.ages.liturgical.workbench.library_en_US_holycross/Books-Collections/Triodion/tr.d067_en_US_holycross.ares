@@ -242,11 +242,11 @@ trMA.Ode3K.mode = misc_en_US_holycross.Mode2
 trMA.Ode3K.melody = misc_en_US_holycross.Heirmos
 trMA.Ode3K.text = he.h.m2_en_US_holycross.TisPisteosEnPetra.text
 
-trMA.Kontakion.mode = misc_en_US_holycross.Mode4
-trMA.Kontakion.melody = he.a.m4_en_US_holycross.OYpsotheisEnToStavro.name
-trMA.Kontakion.text = ""
+trMA.Kontakion1.mode = misc_en_US_holycross.Mode4
+trMA.Kontakion1.melody = he.a.m4_en_US_holycross.OYpsotheisEnToStavro.name
+trMA.Kontakion1.text = ""
 
-trMA.Oikos.text = ""
+trMA.Oikos1.text = ""
 
 trMA.Synaxarion1.Com = ""
 trMA.Synaxarion1.Ver1 = ""
