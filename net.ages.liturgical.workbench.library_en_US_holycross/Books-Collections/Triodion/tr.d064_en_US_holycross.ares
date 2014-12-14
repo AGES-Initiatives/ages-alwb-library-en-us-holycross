@@ -273,11 +273,11 @@ trMA.Ode6K.mode = misc_en_US_holycross.Mode4
 trMA.Ode6K.melody = misc_en_US_holycross.Heirmos
 trMA.Ode6K.text = he.h.m4_en_US_holycross.EvoisanEnEffrosyni.text
 
-trMA.Kontakion.mode = misc_en_US_holycross.Mode6
-trMA.Kontakion.melody = misc_en_US_holycross.Automelon
-trMA.Kontakion.text = ""
+trMA.Kontakion1.mode = misc_en_US_holycross.Mode6
+trMA.Kontakion1.melody = misc_en_US_holycross.Automelon
+trMA.Kontakion1.text = ""
 
-trMA.Oikos.text = ""
+trMA.Oikos1.text = ""
 
 trMA.Synaxarion1.Com = ""
 trMA.Synaxarion1.Ver1 = ""
@@ -392,7 +392,7 @@ trLI.EntranceHymn.text = "" //for media
 
 trLI.SeasonalKontakion.mode = misc_en_US_holycross.Mode6
 trLI.SeasonalKontakion.melody = misc_en_US_holycross.Automelon
-trLI.SeasonalKontakion.text = trMA.Kontakion.text
+trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_en_US_holycross.Mode4
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text
