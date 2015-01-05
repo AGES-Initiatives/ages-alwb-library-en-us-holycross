@@ -383,12 +383,11 @@ peMA.Kontakion1.text = ""
 
 peMA.Oikos1.text = ""
 
-peMA.Synaxarion1.Com = ""
-peMA.Synaxarion1.Ver1 = ""
-peMA.Synaxarion1.Ver2 = ""
-peMA.Synaxarion1.Nar = ""
-
-peMA.Synaxarion.LastLine = ""
+peMA.Synaxarion.commemoration.text = ""
+peMA.Synaxarion.couplet1.title = titles_en_US_holycross.Stichoi
+peMA.Synaxarion.couplet1.verse1 = ""
+peMA.Synaxarion.couplet1.verse2 = ""
+peMA.Synaxarion.lastline.text = ""
 
 peMA.Ode7C1H.ode = misc_en_US_holycross.Ode7
 peMA.Ode7C1H.mode = misc_en_US_holycross.Mode2
