@@ -1,7 +1,6 @@
 A_Resource_Whose_Name = properties_en_US_holycross
 
-//version.designation = "HC"
-version.designation = "<span title='Translation from Holy Cross Orthodox Press'>HC</>"
+version.designation = "HC"
 version.translator = "N. Michael Vaporis"
 
 
