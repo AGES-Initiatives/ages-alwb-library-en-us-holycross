@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = pe.d109b_en_US_holycross
+A_Resource_Whose_Name = pe.d109_en_US_holycross
 
 peCommemoration.text = "" //full title of day
 peShortCommemoration1.text = "Leave-taking of Pascha"
