@@ -120,6 +120,7 @@ euLI.Key1208.text = "Guard the doors. Wisdom. Let us be attentive."
 
 // Part 13 Holy Anaphora
 euLI.Key1300.title = "THE HOLY ANAPHORA"
+euLI.Key1300.text = "" //for media
 euLI.Key1301.text = "Let us stand well. Let us stand in awe. Let us be attentive, that we may present the holy offering in peace."
 euLI.Key1302.text = "Mercy and peace, a sacrifice of praise."
 euLI.Key1303.text = "The grace of our Lord Jesus Christ, and the love of God the Father, and the communion of the Holy Spirit, be with all of you."
