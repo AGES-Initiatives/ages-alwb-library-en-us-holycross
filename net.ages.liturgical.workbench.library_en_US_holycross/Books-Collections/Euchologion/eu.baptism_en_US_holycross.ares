@@ -98,3 +98,4 @@ euBAP.Key0701.text = "(Name of Saint whose name the child has received),"
 euBAP.Key0800.title = "Holy Communion" // Key0800 - 0801 not in the texts
 euBAP.Key0801.mode = "Tone 1."
 euBAP.Key0801.text = "I will drink from the cup of salvation; I will call upon the name of the Lord."
+euBAP.Key0901.text = "" // only in Constantinides
