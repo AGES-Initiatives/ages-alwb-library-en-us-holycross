@@ -471,19 +471,13 @@ trMA.Aposticha1.mode = misc_en_US_holycross.Mode8
 trMA.Aposticha1.melody = misc_en_US_holycross.Idiomelon
 trMA.Aposticha1.text = ""
 
-trMA.ApostichaVerse2.text = ""
-
 trMA.Aposticha2.mode = misc_en_US_holycross.Mode8
 trMA.Aposticha2.melody = misc_en_US_holycross.Idiomelon
 trMA.Aposticha2.text = ""
 
-trMA.ApostichaVerse3.text = ""
-
 trMA.Aposticha3.mode = misc_en_US_holycross.Mode8
 trMA.Aposticha3.melody = misc_en_US_holycross.Idiomelon
 trMA.Aposticha3.text = ""
-
-trMA.ApostichaVerse4.text = ""
 
 trMA.Aposticha4.mode = misc_en_US_holycross.Mode8
 trMA.Aposticha4.melody = misc_en_US_holycross.Idiomelon
