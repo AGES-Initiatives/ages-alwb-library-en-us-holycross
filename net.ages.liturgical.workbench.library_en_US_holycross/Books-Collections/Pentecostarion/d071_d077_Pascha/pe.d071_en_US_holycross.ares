@@ -20,17 +20,17 @@ peMA.Synaxarion.couplet1.verse2 = ""
 peMA.Synaxarion.lastline.text = ""
 
 peMA.Lauds1.mode = misc_en_US_holycross.Mode1
-peMA.Lauds1.melody  = ""
+peMA.Lauds1.melody = ""
 peMA.Lauds1.text = oc.m1.d1_en_US_holycross.ocMA.Lauds1.text
 
 peMA.Lauds2.mode = misc_en_US_holycross.Mode1
-peMA.Lauds2.melody  = ""
+peMA.Lauds2.melody = ""
 peMA.Lauds2.text = oc.m1.d1_en_US_holycross.ocMA.Lauds2.text
 
 peMA.Lauds3.mode = misc_en_US_holycross.Mode1
-peMA.Lauds3.melody  = ""
+peMA.Lauds3.melody = ""
 peMA.Lauds3.text = oc.m1.d1_en_US_holycross.ocMA.Lauds3.text
 
 peMA.Lauds4.mode = misc_en_US_holycross.Mode1
-peMA.Lauds4.melody  = ""
+peMA.Lauds4.melody = ""
 peMA.Lauds4.text = oc.m1.d1_en_US_holycross.ocMA.Lauds4.text

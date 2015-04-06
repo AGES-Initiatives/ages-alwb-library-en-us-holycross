@@ -43,10 +43,10 @@ trLI.CherubicHymnPart2.text = ""
 trLI.TheotokosHymn.mode = misc_en_US_holycross.Mode8
 trLI.TheotokosHymn.text = oc.m8.d1_en_US_holycross.ocMA.Kathisma23.text
 
-trLI.CommunionHymn.text = ""
+trLI.MM.CommunionHymn.text = properties_en_US_holycross.media.key
 
-trLI.AfterCommunion.mode  = ""
-trLI.AfterCommunion.text = trLI.CommunionHymn.text
+trLI.AfterCommunion.mode = ""
+trLI.AfterCommunion.text = trLI.MM.CommunionHymn.text
 
 // Foot Washing
 trHW.NiptirIdiomelon1.mode = misc_en_US_holycross.Mode1
@@ -78,7 +78,7 @@ trHW.NiptirIdiomelon6.text = ""
 trHW.Alleluia.text = "" //for media
 
 trHW.Troparion.mode = misc_en_US_holycross.Mode8
-trHW.Troparion.melody  = ""
+trHW.Troparion.melody = ""
 trHW.Troparion.text = tr.d068_en_US_holycross.trHW.Troparion.text
 
 trHW.Antiphon01.title = ""
@@ -353,7 +353,7 @@ trMA.Ode5K.melody = misc_en_US_holycross.Heirmos
 trMA.Ode5K.text = he.h.m6_en_US_holycross.ProsSeOrthrizo.text
 
 trMA.Kontakion1.mode = misc_en_US_holycross.Mode8
-trMA.Kontakion1.melody  = ""
+trMA.Kontakion1.melody = ""
 trMA.Kontakion1.text = ""
 
 trMA.Oikos1.text = ""
@@ -495,15 +495,15 @@ trH1.Troparion.mode = misc_en_US_holycross.Mode1
 trH1.Troparion.text = oc.m1.d4_en_US_holycross.ocMA.Kathisma12.text
 
 trH1.Idiomelon1.mode = misc_en_US_holycross.Mode8
-trH1.Idiomelon1.melody  = ""
+trH1.Idiomelon1.melody = ""
 trH1.Idiomelon1.text = trHW.Antiphon122.text
 
 trH1.Idiomelon2.mode = misc_en_US_holycross.Mode8
-trH1.Idiomelon2.melody  = ""
+trH1.Idiomelon2.melody = ""
 trH1.Idiomelon2.text = ""
 
 trH1.Idiomelon3.mode = misc_en_US_holycross.Mode8
-trH1.Idiomelon3.melody  = ""
+trH1.Idiomelon3.melody = ""
 trH1.Idiomelon3.text = trHW.Antiphon071.text
 
 trH1.Kontakion.mode = misc_en_US_holycross.Mode8
