@@ -13,19 +13,19 @@ trHO.note1 = ""
 trHO.note2 = ""
 
 trVE.Stichera01.mode = misc_en_US_holycross.Mode1
-trVE.Stichera01.melody  = ""
+trVE.Stichera01.melody = ""
 trVE.Stichera01.text = oc.m1.d1_en_US_holycross.ocVE.Stichera1.text
 
 trVE.Stichera02.mode = misc_en_US_holycross.Mode1
-trVE.Stichera02.melody  = ""
+trVE.Stichera02.melody = ""
 trVE.Stichera02.text = oc.m1.d1_en_US_holycross.ocVE.Stichera2.text
 
 trVE.Stichera03.mode = misc_en_US_holycross.Mode1
-trVE.Stichera03.melody  = ""
+trVE.Stichera03.melody = ""
 trVE.Stichera03.text = oc.m1.d1_en_US_holycross.ocVE.Stichera3.text
 
 trVE.Stichera04.mode = misc_en_US_holycross.Mode1
-trVE.Stichera04.melody  = ""
+trVE.Stichera04.melody = ""
 trVE.Stichera04.text = oc.m1.d1_en_US_holycross.ocVE.Aposticha1.text
 
 trVE.Stichera05.mode = misc_en_US_holycross.Mode8
@@ -45,7 +45,7 @@ trVE.SticGlory.melody = misc_en_US_holycross.Idiomelon
 trVE.SticGlory.text = tr.d070_en_US_holycross.trMA.LaudsGlory.text
 
 trVE.SticTheotokion.mode = misc_en_US_holycross.Mode1
-trVE.SticTheotokion.melody  = ""
+trVE.SticTheotokion.melody = ""
 trVE.SticTheotokion.text = oc.m1.d1_en_US_holycross.ocVE.SticTheotokion.text
 
 // Hymn of the Three Servants

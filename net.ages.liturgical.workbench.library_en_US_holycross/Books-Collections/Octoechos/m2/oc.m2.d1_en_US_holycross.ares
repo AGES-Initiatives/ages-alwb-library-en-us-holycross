@@ -13,7 +13,7 @@ ocGE.BothHeirmologic.mode = misc_en_US_holycross.Mode2 // for mode-specific medi
 ocGE.BothHeirmologic.text = prayers_en_US_holycross.KaiNynKaiAei.text
 
 ocSV.Dogmatic.mode = misc_en_US_holycross.Mode2
-ocSV.Dogmatic.melody  = ""
+ocSV.Dogmatic.melody = ""
 ocSV.Dogmatic.text = "Ὢ τοῦ μεγίστου μυστηρίου! βλέπων τὰ θαύματα, ἀνακηρύττω τὴν Θεότητα, οὐκ ἀρνοῦμαι τὴν ἀνθρωπότητα· ὁ γὰρ Ἐμμανουὴλ φύσεως μὲν πύλας ἤνοιξεν, ὡς φιλάνθρωπος, παρθενίας δὲ κλεῖθρα οὐ διέρρηξεν, ὡς Θεός, ἀλλ' οὕτως ἐκ μήτρας προῆλθεν, ὡς δι' ἀκοῆς εἰσῆλθεν, οὕτως ἐσαρκώθη, ὡς συνελήφθη, ἀπαθῶς εἰσῆλθεν, ἀφράστως ἐξῆλθε, κατὰ τὸν Προφήτην τὸν λέγοντα. Αὕτη ἡ πύλη κεκλεισμένη ἔσται, οὐδεὶς οὐ μὴ διέλθῃ δι' αὐτῆς, εἰμὴ μόνος Κύριος ὁ Θεὸς Ἰσραήλ, ὁ ἔχων τὸ μέγα ἔλεος."
 
 ocSV.Aposticha1.mode = misc_en_US_holycross.Mode2
@@ -29,7 +29,7 @@ ocSV.Aposticha1.melody= he.a.m2_en_US_holycross.OteEkTouXylou.name
 ocSV.Aposticha3.text = "Ἄλλο καταφύγιον Ἁγνή, πρὸς τὸν ποιητὴν καὶ Δεσπότην, οὐκ εὐποροῦμεν ἡμεῖς, εἰμὴ σὲ Θεόνυμφε, μὴ ἀπορρίψῃς ἡμᾶς, τῆς θερμῆς προστασίας σου, μηδὲ καταισχύνῃς, πόθῳ τοὺς προστρέχοντας, ὑπὸ τὴν σκέπην σου, Μήτηρ τοῦ Θεοῦ ἡμῶν σπεῦσον, δεῖξόν σου ἐλέους τὸν πλοῦτον, καὶ τῆς νῦν ὀργῆς ἡμᾶς διάσωσον."
 
 ocSV.AposDogmatic.mode = misc_en_US_holycross.Mode2
-ocSV.AposDogmatic.melody  = ""
+ocSV.AposDogmatic.melody = ""
 ocSV.AposDogmatic.text = "Τίς σε κατ' ἀξίαν ἐπαινέσει, καὶ μακαρίσει Κόρη Θεόνυμφε, ὑπὲρ τῆς διὰ σοῦ γεγονυίας τῷ κόσμῳ ἀπολυτρώσεως; εὐχαριστοῦντες οὖν κραυγάζομέν σοι λέγοντες· Χαῖρε ἡ τὸν Ἀδὰμ θεώσασα, καὶ τὰ διεστῶτα συνάψασα. Χαῖρε ἡ φωτίσασα τὸ γένος ἡμῶν, τῇ φωτοφόρῳ Ἀναστάσει, τοῦ Υἱοῦ σου καὶ Θεοῦ ἡμῶν· σὲ γὰρ Χριστιανῶν τὸ γένος, ἀπαύστως μεγαλύνομεν."
 
 ocVE.LIHC1.mode = misc_en_US_holycross.Mode2
@@ -91,11 +91,11 @@ ocVE.AposTheotokion.melody = ""
 ocVE.AposTheotokion.text = "Here is a new miracle greater than all the miracles of old! For who has ever known a mother to bear a child without the help of man, and hold in her arms him who encompasses the whole of creation? It was the will of God to be born, and you most pure Virgin, have carried him, an infant in your arms. The boldness of a mother is yours. Pray, therefore, to him unceasingly for us who honor you, and entreat him to have mercy on us and save our souls."
 
 ocVE.Apolytikion.mode = misc_en_US_holycross.Mode2
-ocVE.Apolytikion.melody  = ""
+ocVE.Apolytikion.melody = ""
 ocVE.Apolytikion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_holycross.Mode2
-ocVE.ApolTheotokionVM.melody  = ""
+ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = ""
 
 ocMO.Poet = poets_en_US_holycross.MitrofanousSmirnis
@@ -142,11 +142,11 @@ ocMO.Ode3T.melody = he.h.m2_en_US_holycross.EnPetraMeTisPisteos.name
 ocMO.Ode3T.text = ""
 
 ocMO.Kathisma11.mode = misc_en_US_holycross.Mode2
-ocMO.Kathisma11.melody  = ""
+ocMO.Kathisma11.melody = ""
 ocMO.Kathisma11.text = ""
 
 ocMO.Kathisma12.mode = misc_en_US_holycross.Mode2
-ocMO.Kathisma12.melody  = ""
+ocMO.Kathisma12.melody = ""
 ocMO.Kathisma12.text = ""
 
 ocMO.Ode41.mode = misc_en_US_holycross.Mode2
@@ -265,67 +265,67 @@ ocMO.Ode9T.text = ""
 ocMA.GodIsTheLord.mode = misc_en_US_holycross.Mode2
 ocMA.GodIsTheLord.text = ho.s03_en_US_holycross.hoMA.GodIsTheLord.text
 
-ocMA.Kathisma11.melody  = ""
+ocMA.Kathisma11.melody = ""
 ocMA.Kathisma11.mode = misc_en_US_holycross.Mode2
 ocMA.Kathisma11.text = ""
 
-ocMA.Kathisma12.melody  = ""
+ocMA.Kathisma12.melody = ""
 ocMA.Kathisma12.mode = misc_en_US_holycross.Mode2
 ocMA.Kathisma12.text = ""
 
-ocMA.Kathisma13.melody  = ""
+ocMA.Kathisma13.melody = ""
 ocMA.Kathisma13.mode = misc_en_US_holycross.Mode2
 ocMA.Kathisma13.text = ""
 
-ocMA.Kathisma21.melody  = ""
+ocMA.Kathisma21.melody = ""
 ocMA.Kathisma21.mode = misc_en_US_holycross.Mode2
 ocMA.Kathisma21.text = ""
 
 ocMA.Kathisma22.mode = misc_en_US_holycross.Mode2
-ocMA.Kathisma22.melody  = ""
+ocMA.Kathisma22.melody = ""
 ocMA.Kathisma22.text = ""
 
-ocMA.Kathisma23.melody  = ""
+ocMA.Kathisma23.melody = ""
 ocMA.Kathisma23.mode = misc_en_US_holycross.Mode2
 ocMA.Kathisma23.text = ""
 
 ocMA.Hypakoe.mode = misc_en_US_holycross.Mode2
-ocMA.Hypakoe.melody  = ""
+ocMA.Hypakoe.melody = ""
 ocMA.Hypakoe.text = ""
 
 ocMA.Antiphon11.mode = misc_en_US_holycross.Mode2
-ocMA.Antiphon11.melody  = ""
+ocMA.Antiphon11.melody = ""
 ocMA.Antiphon11.text = ""
 
 ocMA.Antiphon12.mode = misc_en_US_holycross.Mode2
-ocMA.Antiphon12.melody  = ""
+ocMA.Antiphon12.melody = ""
 ocMA.Antiphon12.text = ""
 
 ocMA.Antiphon13.mode = misc_en_US_holycross.Mode2
-ocMA.Antiphon13.melody  = ""
+ocMA.Antiphon13.melody = ""
 ocMA.Antiphon13.text = ""
 
 ocMA.Antiphon21.mode = misc_en_US_holycross.Mode2
-ocMA.Antiphon21.melody  = ""
+ocMA.Antiphon21.melody = ""
 ocMA.Antiphon21.text = ""
 ocMA.Antiphon22.mode = misc_en_US_holycross.Mode2
-ocMA.Antiphon22.melody  = ""
+ocMA.Antiphon22.melody = ""
 ocMA.Antiphon22.text = ""
 
 ocMA.Antiphon23.mode = misc_en_US_holycross.Mode2
-ocMA.Antiphon23.melody  = ""
+ocMA.Antiphon23.melody = ""
 ocMA.Antiphon23.text = ""
 
 ocMA.Antiphon31.mode = misc_en_US_holycross.Mode2
-ocMA.Antiphon31.melody  = ""
+ocMA.Antiphon31.melody = ""
 ocMA.Antiphon31.text = ""
 
 ocMA.Antiphon32.mode = misc_en_US_holycross.Mode2
-ocMA.Antiphon32.melody  = ""
+ocMA.Antiphon32.melody = ""
 ocMA.Antiphon32.text = ""
 
 ocMA.Antiphon33.mode = misc_en_US_holycross.Mode2
-ocMA.Antiphon33.melody  = ""
+ocMA.Antiphon33.melody = ""
 ocMA.Antiphon33.text = ""
 
 ocMA.Prokeimenon.text = ""
@@ -573,7 +573,7 @@ ocMA.OdeS7C1T.text = ""
 
 ocMA.OdeS7C21.mode = misc_en_US_holycross.Mode2
 ocMA.OdeS7C21.ode = misc_en_US_holycross.Ode7
-ocMA.OdeS7C21.melody  = he.h.m2_en_US_holycross.AntitheonProstagma.name
+ocMA.OdeS7C21.melody = he.h.m2_en_US_holycross.AntitheonProstagma.name
 ocMA.OdeS7C21.text = ""
 
 ocMA.OdeS7C22.mode = misc_en_US_holycross.Mode2
@@ -721,38 +721,38 @@ ocMA.Lauds8.melody = ""
 ocMA.Lauds8.text = ""
 
 ocMA.ApolTheotokion.mode = misc_en_US_holycross.Mode2
-ocMA.ApolTheotokion.melody  = ""
+ocMA.ApolTheotokion.melody = ""
 ocMA.ApolTheotokion.text = ho.s03_en_US_holycross.hoMA.SunTroparion1.text
 
 ocLI.Beatitudes1.mode = misc_en_US_holycross.Mode2
-ocLI.Beatitudes1.melody  = ""
+ocLI.Beatitudes1.melody = ""
 ocLI.Beatitudes1.text = ""
 
 ocLI.Beatitudes2.mode = misc_en_US_holycross.Mode2
-ocLI.Beatitudes2.melody  = ""
+ocLI.Beatitudes2.melody = ""
 ocLI.Beatitudes2.text = ""
 
 ocLI.Beatitudes3.mode = misc_en_US_holycross.Mode2
-ocLI.Beatitudes3.melody  = ""
+ocLI.Beatitudes3.melody = ""
 ocLI.Beatitudes3.text = ""
 
 ocLI.Beatitudes4.mode = misc_en_US_holycross.Mode2
-ocLI.Beatitudes4.melody  = ""
+ocLI.Beatitudes4.melody = ""
 ocLI.Beatitudes4.text = ""
 
 ocLI.Beatitudes5.mode = misc_en_US_holycross.Mode2
-ocLI.Beatitudes5.melody  = ""
+ocLI.Beatitudes5.melody = ""
 ocLI.Beatitudes5.text = ""
 
 ocLI.Beatitudes6.mode = misc_en_US_holycross.Mode2
-ocLI.Beatitudes6.melody  = ""
+ocLI.Beatitudes6.melody = ""
 ocLI.Beatitudes6.text = ""
 
 ocLI.BeatitudesGlory.mode = misc_en_US_holycross.Mode2
-ocLI.BeatitudesGlory.melody  = ""
+ocLI.BeatitudesGlory.melody = ""
 ocLI.BeatitudesGlory.text = ""
 
 ocLI.BeatitudesBoth.mode = misc_en_US_holycross.Mode2
-ocLI.BeatitudesBoth.melody  = ""
+ocLI.BeatitudesBoth.melody = ""
 ocLI.BeatitudesBoth.text = ""
 

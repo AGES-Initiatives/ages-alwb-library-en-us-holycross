@@ -122,11 +122,11 @@ trVE.AposBoth.melody = misc_en_US_holycross.Idiomelon
 trVE.AposBoth.text = trVE.Stichera01.text
 
 trVE.Apolytikion1.mode = misc_en_US_holycross.Mode1
-trVE.Apolytikion1.melody  = ""
+trVE.Apolytikion1.melody = ""
 trVE.Apolytikion1.text = tr.d063_en_US_holycross.trVE.Apolytikion1.text
 
 trVE.Apolytikion2.mode = misc_en_US_holycross.Mode4
-trVE.Apolytikion2.melody  = ""
+trVE.Apolytikion2.melody = ""
 trVE.Apolytikion2.text = ""
 
 trMA.Kathisma11.mode = misc_en_US_holycross.Mode4
@@ -149,18 +149,15 @@ trMA.Kathisma31.mode = misc_en_US_holycross.Mode8
 trMA.Kathisma31.melody = he.a.m8_en_US_holycross.ToProstachthen.name
 trMA.Kathisma31.text = ""
 
-trMA.Prokeimenon.text = "" //for media
+trMA.MM.Prokeimenon.text = properties_en_US_holycross.media.key
 
-trMA.Gospel.name = ""
-trMA.Gospel.chapverse = ""
-trMA.Gospel.text = ""
 
 trMA.PostGospelGlory.mode = misc_en_US_holycross.Mode2
-trMA.PostGospelGlory.melody  = ""
+trMA.PostGospelGlory.melody = ""
 trMA.PostGospelGlory.text = ""
 
 trMA.PostGospelBoth.mode = misc_en_US_holycross.Mode2
-trMA.PostGospelBoth.melody  = ""
+trMA.PostGospelBoth.melody = ""
 trMA.PostGospelBoth.text = trMA.PostGospelGlory.text
 
 trMA.PostGospelIdiomelon.mode = misc_en_US_holycross.Mode6
@@ -211,7 +208,7 @@ trMA.Ode3K.melody = misc_en_US_holycross.Heirmos
 trMA.Ode3K.text = he.h.m4_en_US_holycross.NaousanAkrotomon.text
 
 trMA.Hypakoe.mode = misc_en_US_holycross.Mode6
-trMA.Hypakoe.melody  = ""
+trMA.Hypakoe.melody = ""
 trMA.Hypakoe.text = ""
 
 trMA.Ode4C1H.ode = misc_en_US_holycross.Ode4
@@ -367,7 +364,7 @@ trMA.Ode9K.melody = misc_en_US_holycross.Heirmos
 trMA.Ode9K.text = he.h.m4_en_US_holycross.TheosKyriosKaiEpefanenImin.text
 
 trMA.Exaposteilarion1.mode = misc_en_US_holycross.Mode2
-trMA.Exaposteilarion1.melody  = ""
+trMA.Exaposteilarion1.melody = ""
 trMA.Exaposteilarion1.text = ho.s03_en_US_holycross.hoMA.SunExapVerse1.text
 
 trMA.Lauds1.mode = misc_en_US_holycross.Mode4
@@ -392,8 +389,7 @@ trMA.LaudsGlory.text = ""
 
 trLI.Antiphon2.text = "" //for media
 
-trLI.EntranceHymn.text = "" //for media
-
+trLI.MM.EntranceHymn.text = properties_en_US_holycross.media.key
 trLI.SeasonalKontakion.mode = misc_en_US_holycross.Mode6
 trLI.SeasonalKontakion.melody = misc_en_US_holycross.Automelon
 trLI.SeasonalKontakion.text = trMA.Kontakion1.text
@@ -401,7 +397,7 @@ trLI.SeasonalKontakion.text = trMA.Kontakion1.text
 trLI.TheotokosHymn.mode = misc_en_US_holycross.Mode4
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text
 
-trLI.CommunionHymn.text = "" //for media
+trLI.MM.CommunionHymn.text = properties_en_US_holycross.media.key
 
 trLI.AfterCommunion.mode = misc_en_US_holycross.Mode1
 trLI.AfterCommunion.text = trVE.Apolytikion1.text

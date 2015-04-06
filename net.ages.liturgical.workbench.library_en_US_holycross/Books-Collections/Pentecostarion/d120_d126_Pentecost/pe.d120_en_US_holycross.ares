@@ -83,7 +83,7 @@ peVE.AposGlory.melody = misc_en_US_holycross.Idiomelon
 peVE.AposGlory.text = ""
 
 peVE.Apolytikion1.mode = misc_en_US_holycross.Mode8
-peVE.Apolytikion1.melody  = ""
+peVE.Apolytikion1.melody = ""
 peVE.Apolytikion1.text = "Blessed are You, O Christ our God, who made fishermen all-wise, sending upon them the Holy Spirit and, through them, drawing the world. O Loving One, glory to You."
 
 peMA.Kathisma11.mode = misc_en_US_holycross.Mode4
@@ -98,14 +98,14 @@ peMA.Kathisma31.mode = misc_en_US_holycross.Mode8
 peMA.Kathisma31.melody = he.a.m8_en_US_holycross.ToProstachthen.name
 peMA.Kathisma31.text = ""
 
-peMA.Prokeimenon.text = "" //for media
+peMA.MM.Prokeimenon.text = properties_en_US_holycross.media.key
 
 peMA.PostGospelGlory.mode = misc_en_US_holycross.Mode2
-peMA.PostGospelGlory.melody  = ""
+peMA.PostGospelGlory.melody = ""
 peMA.PostGospelGlory.text = ho.s03_en_US_holycross.hoMA.PostGospelApostles.text
 
 peMA.PostGospelBoth.mode = misc_en_US_holycross.Mode2
-peMA.PostGospelBoth.melody  = ""
+peMA.PostGospelBoth.melody = ""
 peMA.PostGospelBoth.text = ho.s03_en_US_holycross.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_en_US_holycross.Mode6
@@ -348,7 +348,7 @@ peMA.Ode6C224.text = ""
 peMA.Ode6C225.text = ""
 
 peMA.Kontakion1.mode = misc_en_US_holycross.Mode8
-peMA.Kontakion1.melody  = ""
+peMA.Kontakion1.melody = ""
 peMA.Kontakion1.text = ""
 
 peMA.Oikos1.text = ""
@@ -524,15 +524,15 @@ peMA.Exaposteilarion2.melody = he.a.m3_en_US_holycross.OOuranonToisAstrois.name
 peMA.Exaposteilarion2.text = ""
 
 peMA.Lauds1.mode = misc_en_US_holycross.Mode4
-peMA.Lauds1.melody  = ""
+peMA.Lauds1.melody = ""
 peMA.Lauds1.text = "The many nations saw strange things in the city of David when the Holy Spirit descended in fiery tongues as the inspired Luke recounted. For he says: \"They were all together in one place. And suddenly a sound came like the rush of a mighty wind, and it filled all the house where they were sitting. And all began to speak in other tongues, other doctrines, other teachings, of the Holy Spirit.\""
 
 peMA.Lauds2.mode = misc_en_US_holycross.Mode4
-peMA.Lauds2.melody  = ""
+peMA.Lauds2.melody = ""
 peMA.Lauds2.text = "The Holy Spirit has always been, is now and ever shall be, having neither beginning nor end, but one with the Father and the Son: life and life giving; goodness itself and source of goodness, through Whom the Father is made known and the Son is glorified, and is known by all: one power, one unity, one worship, of the Holy Trinity."
 
 peMA.Lauds3.mode = misc_en_US_holycross.Mode4
-peMA.Lauds3.melody  = ""
+peMA.Lauds3.melody = ""
 peMA.Lauds3.text = "The Holy Spirit, light and life, and living fountain of reason. Spirit of wisdom, Spirit of understanding, of goodness and honesty, intelligence and sovereignty, expiating sins. God who deifies; fire deriving from fire, speaking, acting, meting out gifts; through Whom the prophets all and God's apostles together with the martyrs were crowned. Different sounds, a different sight: fire divided into gifts of grace."
 
 peMA.LaudsGlory.mode = misc_en_US_holycross.Mode6
@@ -541,16 +541,16 @@ peMA.LaudsGlory.text = prayers_en_US_holycross.VasilefOuranie.text
 
 peLI.Antiphon2.text = ""
 
-peLI.EntranceHymn.text = "" //for media
+peLI.MM.EntranceHymn.text = properties_en_US_holycross.media.key
 
 peLI.SeasonalKontakion.mode = peMA.Kontakion1.mode
-peLI.SeasonalKontakion.melody  = ""
+peLI.SeasonalKontakion.melody = ""
 peLI.SeasonalKontakion.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = peMA.Ode9C1H.mode
 peLI.TheotokosHymn.text = peMA.Ode9C1H.text
 
-peLI.CommunionHymn.text = "" //for media
+peLI.MM.CommunionHymn.text = properties_en_US_holycross.media.key
 
 peLI.AfterCommunion.mode = peVE.Apolytikion1.mode
 peLI.AfterCommunion.text = peVE.Apolytikion1.text
