@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = eu.funeral_en_US_holycross
 
 euFUN.title = "Funeral Service"
+euFUN.brightweek.title = "Funeral Service During Renewal Week"
 euFUN.translator = ""
 
 euFUN.Key0100.title = "The Trisagion"
@@ -97,6 +98,8 @@ euFUN.Key0908.text = ""
 
 euFUN.EpistleProkeimenon.text = ""
 
+euFUN.brightweek.R091= "Then the Epistle and the Gospel of the day."
+
 euFUN.Key1000.title = "PRAYERS OF ABSOLUTION"
 euFUN.Key1001.title = "For the loosing from every curse and interdict, read for the deceased person by the Bishop."
 euFUN.Key1002.text = "O Lord our God, Who by Your unutterable wisdom have fashioned man out of the dust and transformed him into comeliness and beauty; and have adorned him, as a precious and heavenly creature, for doxology and magnificence of Your glory and Kingdom, in that You brought him into existence as a being fashioned according to Your image and likeness; and Who, when he had transgressed the commandment of Your ordinance, and kept it not, although he participated in Your image, gave command for this reason, as God of our fathers, to prevent evil from becoming immortal, decreeing that his composite and mixture, this bond which You made for joining body and soul unbreakably, should be sundered by Your divine Will, and be dissolved; so that the soul would withdraw where it had required existence, and there abide until the general Resurrection; whereas the body would break up into the elements out of which it had first been compounded; for this reason we pray You, the beginning-less Father, and Your Only; Begotten Son, and Your All-Holy, Consubstantial and Life-creating Spirit, that endured not to see the work of Your fashioning swallowed up by destruction, but rather let the body indeed be dissolved into the elements,and let the soul be appointed a place in the Choir of the Just: Yea, O Lord our God, let Your Immeasurable mercy prevail, and Your man befriending love which is beyond compare; and if this servant has incurred the curse of father or mother, or a ban invoked upon himself (herself); or if he (she) has provoked any priest to bitter severity, and from him has incurred a ban unbreakable; or if he (she) has incurred a Bishop's very grievous interdict, but through thoughtlessness and needlessness has failed to obtain forgiveness; do You forgive him (her) through me, Your sinful and unworthy servant; and let his (her) body indeed dissolve into its elements, but his (her) soul do You appoint to dwell in the tents of the Saints. Yea, O Lord our God, Who to Your holy Disciples and Apostles gave this authority for granting remission of sins, and did say that whatsoever things they would bind and loose, those things would be bound and would be loosed; and Who through them in Your man befriending love has caused to be transmitted to us also, unworthy though we be, the same gift in equal measure; loose this Your servant (Name), now fallen asleep from sin of soul and body, and make him (her) to be now forgiven in this present world and in the world to come;through the intercessions of Your all-pure and Ever Virgin Mother, and of all the Saints."
@@ -122,6 +125,9 @@ euFUN.Key1104.text = ""
 euFUN.Key1105.mode = ""
 euFUN.Key1105.melody = ""
 euFUN.Key1105.text = ""
+
+euFUN.brightweek.R111= "Instead of \"Brethren, come and let us a farewell kiss,\" we sing the following:"
+euFUN.brightweek.R112= "Exiting from the church we say:"
 
 euFUN.Key1200.title = "THE BURIAL"
 
