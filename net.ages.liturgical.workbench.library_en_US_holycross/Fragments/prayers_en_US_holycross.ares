@@ -633,6 +633,10 @@ verse_Archangel.text = "Archangel of God, intercede for us."
 
 verseP_Archangel.text = "(Archangel of God, intercede for us.)"
 
+verse_Archangels.text = "Archangels of God, intercede for us."
+
+verseP_Archangels.text = "(Archangels of God, intercede for us.)"
+
 verse_Baptist.text = "Baptist of Christ, intercede for us."
 
 verseP_Baptist.text = "(Baptist of Christ, intercede for us.)"
