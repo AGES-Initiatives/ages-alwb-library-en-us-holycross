@@ -359,6 +359,19 @@ petKneel07 = "Again, on bended knees, let us pray to the Lord."
 
 petKneel08 = "Help us, save us, have mercy on us, raise us up and protect us, O God, by your grace."
 
+petOrdination01a = "For our " // supplement with client specific rank and name
+petOrdination01b = "or his priesthood, sustenance, sojourn, peace, health, salvation, and for the works of his hands, let us pray to the Lord."
+
+petOrdination02_deacon = "For the servant of God (Name of the new deacon), who has now been ordained a deacon, and for his salvation, let us pray to the Lord."
+petOrdination02_priest = "For the servant of God (Name of the new presbyter), who has now been ordained a presbyter, and for his salvation, let us pray to the Lord."
+petOrdination02_bishop = ""
+
+petOrdination03_deacon = "That God who loves mankind will grant to him a pure and blameless diaconate, let us pray to the Lord."
+petOrdination03_priest = "That God who loves mankind will grant to him a pure and blameless priesthood, let us pray to the Lord."
+petOrdination03_bishop = ""
+
+petOrdination04 = ""
+
 petSouls01 = "Again we pray for the blessed memory and eternal repose of all pious Orthodox Christians who have fallen asleep in the hope of the resurrection unto life everlasting, emperors, patriarchs, bishops, priests, deacons, hieromonks, deacon-monks, monks, nuns, fathers, forebears, grandparents, great-grandparents, parents, spouses, children, siblings, and all our relatives, from the beginning until the end of time; and for the forgiveness of all their sins, both voluntary and involuntary."
 
 petSouls02 = "May the Lord God place their souls where the righteous repose. Let us ask for the mercies of God, the kingdom of Heaven, and the forgiveness of their sins from Christ our immortal king and God."
