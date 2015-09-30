@@ -49,16 +49,13 @@ trVE.Aposticha1.mode = misc_en_US_holycross.Mode2
 trVE.Aposticha1.melody = misc_en_US_holycross.Automelon
 trVE.Aposticha1.text = he.a.m2_en_US_holycross.OteEkTouXylou.text
 
-
 trVE.Aposticha2.mode = misc_en_US_holycross.Mode2
 trVE.Aposticha2.melody = he.a.m2_en_US_holycross.OteEkTouXylou.name
 trVE.Aposticha2.text = ""
 
-
 trVE.Aposticha3.mode = misc_en_US_holycross.Mode2
 trVE.Aposticha3.melody = he.a.m2_en_US_holycross.OteEkTouXylou.name
 trVE.Aposticha3.text = ""
-
 
 trVE.Aposticha4.mode = misc_en_US_holycross.Mode2
 trVE.Aposticha4.melody = he.a.m2_en_US_holycross.OteEkTouXylou.name

@@ -325,7 +325,6 @@ ocMA.Antiphon33.text = ""
 
 ocMA.MM.Prokeimenon.text = properties_en_US_holycross.media.key
 
-
 ocMA.C1Poet = poets_en_US_holycross.IoannouMonachou
 ocMA.C2Poet = poets_en_US_holycross.IoannouMonachou
 ocMA.C2Acrostic.text = ""
