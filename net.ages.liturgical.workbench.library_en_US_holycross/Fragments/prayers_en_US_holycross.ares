@@ -491,6 +491,7 @@ res04 = "Amen."
 res05 = "And with your spirit."
 
 res06 = "Lord, have mercy. Lord, have mercy. Lord, have mercy."
+res06.MM.long.sos.text = properties_en_US_holycross.media.key
 
 res07 = "Eis polla eti, Despota!"
 
