@@ -239,6 +239,10 @@ pet36 = "Accept our prayer; grant us forgiveness of our transgressions; protect 
 
 pet37 = "May the blessing and mercy of the Lord come upon you, by His divine grace and love for mankind, always, now and ever, and to the ages of ages." // Dismissal
 
+pet37a = ""
+
+pet37b = ""
+
 petBap01 = "That he (she) that is about to be baptized herein may become worthy of the incorruptible Kingdom; let us pray to the Lord."
 
 petBap02 = "That he (she) that now comes to holy Illumination, and for his (her) salvation; let us pray to the Lord."
@@ -305,7 +309,7 @@ petCompline01 = "Let us pray for the peace of the world."
 
 petCompline02 = "For all pious and Orthodox Christians."
 
-petCompline03 = "For our Archbishop "
+petCompline03 = "For our "
 
 petCompline04 = "For our nation."
 
