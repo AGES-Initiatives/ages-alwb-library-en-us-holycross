@@ -324,7 +324,7 @@ trMA.Ode9C13.text = ""
 
 trMA.Exaposteilarion1.mode = misc_en_US_holycross.Mode2
 trMA.Exaposteilarion1.melody = ""
-trMA.Exaposteilarion1.text = ho.s03_en_US_holycross.hoMA.SunExapVerse1.text
+trMA.Exaposteilarion1.text = properties_en_US_holycross.media.key
 
 trMA.Lauds1.mode = misc_en_US_holycross.Mode4
 trMA.Lauds1.melody = misc_en_US_holycross.Idiomelon
