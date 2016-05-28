@@ -128,6 +128,9 @@ peMA.Ode1C1H.mode = misc_en_US_holycross.Mode7
 peMA.Ode1C1H.melody = misc_en_US_holycross.Heirmos
 peMA.Ode1C1H.text = he.h.m7_en_US_holycross.PontoEkalypse.text
 
+peMA.C1.title = ""
+peMA.C1.verse = ""
+
 peMA.Ode1C11.ode = misc_en_US_holycross.Ode1
 peMA.Ode1C11.mode = misc_en_US_holycross.Mode7
 peMA.Ode1C11.melody = he.h.m7_en_US_holycross.PontoEkalypse.name 
@@ -147,6 +150,9 @@ peMA.Ode1C2H2.text = he.h.m4_en_US_holycross.TheioKalyftheis2.text
 peMA.Ode1C2H3.text = he.h.m4_en_US_holycross.TheioKalyftheis3.text
 peMA.Ode1C2H4.text = he.h.m4_en_US_holycross.TheioKalyftheis4.text
 peMA.Ode1C2H5.text = he.h.m4_en_US_holycross.TheioKalyftheis5.text
+
+peMA.C2.title = ""
+peMA.C2.verse = ""
 
 peMA.Ode1C21.ode = misc_en_US_holycross.Ode1
 peMA.Ode1C21.mode = misc_en_US_holycross.Mode4
