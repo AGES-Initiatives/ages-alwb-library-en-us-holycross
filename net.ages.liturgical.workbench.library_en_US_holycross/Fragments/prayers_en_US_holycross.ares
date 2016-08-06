@@ -474,6 +474,17 @@ sup10 = "the Hieromartyrs Haralambos and Eleftherios;"
 
 sup11 = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
 
+sup11_eufimia = "the holy, glorious, and victorious martyrs; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
+sup11_thekla = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
+sup11_barbara = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
+sup11_anastasia = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
+sup11_catherine = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Kyriake, Fotene, Marina, Paraskeve and Irene;"
+sup11_kyriaki = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine,Fotene, Marina, Paraskeve and Irene;"
+sup11_photeini = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Marina, Paraskeve and Irene;"
+sup11_marina = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Paraskeve and Irene;"
+sup11_paraskevi = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, and Irene;"
+sup11_irene = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, and Paraskeve;"
+
 sup12 = "of our holy God-bearing Fathers;"
 
 sup13 = "(the patron saint of the church);"
