@@ -103,8 +103,9 @@ hoCO.Key1009.text = ""
 hoCO.Key1010.text = ""
 
 hoCO.Key1011.mode = misc_en_US_holycross.Mode2
-hoCO.Key1011.text = "Lord, if we did not have your Saints as intercessors, and your goodness feeling compassion for us, how would we dare, O Savior, to sing hymns to you, whom the Angels unceasingly bless? O you who know our hearts, spare our souls."
-hoCO.Key1012.text = "Great is the multitude of my errors, O Mother of God; to you have I fled, O Pure one, seeking salvation; visit my ailing soul, and intercede with your Son and our God, to grant me forgiveness for all the evils I have done, O only blessed one."
+hoCO.Key1011.text = "Lord, if we did not have your Saints as intercessors, and your goodness feeling compassion for us, how would we dare, O Savior, to sing hymns to you, whom the Angels unceasingly bless? O you who know our hearts, spare our souls."  //hoCO.Key1011.text = oc.m6.d3_en_US_holycross.ocMA.Aposticha3.text
+
+hoCO.Key1012.text = "Great is the multitude of my errors, O Mother of God; to you have I fled, O Pure one, seeking salvation; visit my ailing soul, and intercede with your Son and our God, to grant me forgiveness for all the evils I have done, O only blessed one." //hoCO.Key1012.text = oc.m6.d3_en_US_holycross.ocMA.Kathisma33.text
 hoCO.Key1013.mode = misc_en_US_holycross.Mode2
 hoCO.Key1013.text = "All Holy Theotokos, in the time of my life, never do forsake me, to any human protection; never trust me blindly, but personally take charge, and have mercy on me."
 hoCO.Key1014.text = "My one and my every hope, now I entrust in you, O Mother of God, under your shelter, cover me." //ho.s23_en_US_holycross.hoCA.Troparion7.text
