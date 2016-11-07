@@ -93,8 +93,8 @@ R26 = ""
 hoVE.LityKyrieEleison.text = prayers_en_US_holycross.res06
 
 // Artoclasia
-hoVE.ArtoTheotokeParthene.text = hoVE.LentApolytikion1.text
-hoVE.ArtoPrayer1 = ""
-hoVE.ArtoPrayer2 = ""
-hoVE.LityArtoHymn.text = "" //for media
+hoVE.ArtoklasiaTheotokeParthene.text = hoVE.LentApolytikion1.text
+hoVE.ArtoklasiaPrayer1 = ""
+hoVE.ArtoklasiaPrayer2 = ""
+hoVE.ArtoklasiaHymn.text = "" //for media
 
