@@ -1,5 +1,7 @@
 A_Resource_Whose_Name = eu.lichrysbasil_en_US_holycross
 
+euLI.notice = properties_en_US_holycross.version.notice1
+euLI.copyright = properties_en_US_holycross.version.copyright1
 euLI.title = "The Divine Liturgy of Saint John Chrysostom"
 
 // Part 01 Enarxis
