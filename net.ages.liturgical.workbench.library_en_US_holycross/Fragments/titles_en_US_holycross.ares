@@ -714,8 +714,10 @@ ofBrightWeek = ""
 
 sourceHorologion = ""
 sourceMenaion = ""
+sourceMeSupplement = ""
 sourceOctoechos = ""
 sourcePentecostarion = ""
+sourcePeSupplement = ""
 sourceTriodion = ""
 
 //used by Horologion Eclogarion
