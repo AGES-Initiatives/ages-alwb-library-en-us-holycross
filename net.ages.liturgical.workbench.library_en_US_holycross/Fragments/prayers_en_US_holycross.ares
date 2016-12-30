@@ -394,7 +394,7 @@ petWater03alt = "That there may be sent down upon it the Grace of Redemption, th
 
 petWater04 = "That we may be illumined with the Light of Knowledge and Piety through the descent of the Holy Spirit; let us pray to the Lord."
 
-petWater05 = "That this water may become the gift of sanctification, redemption from sins, for the healing of soul and body, and"
+petWater05 = "That this water may become the gift of sanctification, redemption from sins, for the healing of soul and body, and for every suitable purpose, let us pray to the Lord."
 
 petWater06 = "That it may become water welling up to eternal life; let us pray to the Lord."
 
@@ -463,6 +463,10 @@ sup04 = "the supplications of the honorable and glorious prophet, and forerunner
 sup05 = "the holy, glorious, and praiseworthy Apostles,"
 
 sup06 = "our Fathers among the Saints, the great hierarchs and ecumenical teachers, Basil the Great, Gregory the Theologian and John Chrysostom,"
+
+sup06a = "our Fathers among the Saints,"
+
+sup06b = "the great hierarchs and ecumenical teachers,"
 
 sup07 = "Athanasios, Cyril, and John the Merciful, patriarchs of Alexandria;"
 
