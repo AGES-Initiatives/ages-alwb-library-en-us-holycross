@@ -361,10 +361,17 @@ petKneel07 = "Again, on bended knees, let us pray to the Lord."
 
 petKneel08 = "Help us, save us, have mercy on us, raise us up and protect us, O God, by your grace."
 
+petMonasteryLity01 = ""
+petMonasteryLity02 = ""
+petMonasteryLity03 = ""
+
 petMonastery01a = "For"
 petMonastery01b = "let us pray to the Lord."
 petMonastery02a = "For"
 petMonastery02b = "let us pray to the Lord."
+
+petMonastery22 = ""
+petMonastery23 = ""
 
 petOrdination01a = "For our " // supplement with client specific rank and name
 petOrdination01b = "or his priesthood, sustenance, sojourn, peace, health, salvation, and for the works of his hands, let us pray to the Lord."
