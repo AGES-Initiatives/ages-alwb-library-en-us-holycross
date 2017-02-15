@@ -37,8 +37,8 @@ trVE.SticGlory.melody = misc_en_US_holycross.Idiomelon
 trVE.SticGlory.text = ""
 
 trLI.CherubicHymn.mode = misc_en_US_holycross.Mode6
-trLI.CherubicHymnPart1.text = ""
-trLI.CherubicHymnPart2.text = ""
+trLI.CherubicHymnPart1.text = "Receive me today, Son of God, as a partaker of Your mystical Supper. I will not reveal Your mystery to Your adversaries. Nor will I give You a kiss as did Judas."
+trLI.CherubicHymnPart2.text = "But as the thief I confess to You: Lord, remember me in Your kingdom."
 
 trLI.TheotokosHymn.mode = misc_en_US_holycross.Mode8
 trLI.TheotokosHymn.text = oc.m8.d1_en_US_holycross.ocMA.Kathisma23.text
