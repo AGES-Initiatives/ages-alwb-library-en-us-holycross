@@ -78,7 +78,7 @@ ocMA.Kathisma31.text = ""
 
 ocMA.Kathisma32.mode = misc_en_US_holycross.Mode1
 ocMA.Kathisma32.melody = ""
-ocMA.Kathisma32.text = ""
+ocMA.Kathisma32.text = oc.m1.d2_en_US_holycross.ocMA.Kathisma32.text
 
 ocMA.Kathisma33.mode = misc_en_US_holycross.Mode1
 ocMA.Kathisma33.melody = he.a.m1_en_US_holycross.TonTafonSouSotir.name 
