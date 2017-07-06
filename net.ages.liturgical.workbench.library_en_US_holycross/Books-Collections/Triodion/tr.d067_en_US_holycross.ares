@@ -50,51 +50,51 @@ trCO.Ode3C1H.text = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.text
 
 trCO.Ode3C11.ode = misc_en_US_holycross.Ode3
 trCO.Ode3C11.mode = misc_en_US_holycross.Mode2
-trCO.Ode3C11.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.name
+trCO.Ode3C11.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.notmetered
 trCO.Ode3C11.text = ""
 
 trCO.Ode3C12.ode = misc_en_US_holycross.Ode3
 trCO.Ode3C12.mode = misc_en_US_holycross.Mode2
-trCO.Ode3C12.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.name
+trCO.Ode3C12.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.notmetered
 trCO.Ode3C12.text = ""
 
 trCO.Ode3C13.ode = misc_en_US_holycross.Ode3
 trCO.Ode3C13.mode = misc_en_US_holycross.Mode2
-trCO.Ode3C13.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.name
+trCO.Ode3C13.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.notmetered
 trCO.Ode3C13.text = ""
 
 trCO.Ode3C14.ode = misc_en_US_holycross.Ode3
 trCO.Ode3C14.mode = misc_en_US_holycross.Mode2
-trCO.Ode3C14.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.name
+trCO.Ode3C14.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.notmetered
 trCO.Ode3C14.text = ""
 
 trCO.Ode3C15.ode = misc_en_US_holycross.Ode3
 trCO.Ode3C15.mode = misc_en_US_holycross.Mode2
-trCO.Ode3C15.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.name
+trCO.Ode3C15.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.notmetered
 trCO.Ode3C15.text = ""
 
 trCO.Ode3C16.ode = misc_en_US_holycross.Ode3
 trCO.Ode3C16.mode = misc_en_US_holycross.Mode2
-trCO.Ode3C16.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.name
+trCO.Ode3C16.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.notmetered
 trCO.Ode3C16.text = ""
 
 trCO.Ode3C17.ode = misc_en_US_holycross.Ode3
 trCO.Ode3C17.mode = misc_en_US_holycross.Mode2
-trCO.Ode3C17.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.name
+trCO.Ode3C17.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.notmetered
 trCO.Ode3C17.text = ""
 
 trCO.Ode3C1Tr.ode = misc_en_US_holycross.Ode3
 trCO.Ode3C1Tr.mode = misc_en_US_holycross.Mode2
-trCO.Ode3C1Tr.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.name
+trCO.Ode3C1Tr.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.notmetered
 trCO.Ode3C1Tr.text = ""
 
 trCO.Ode3C1T.ode = misc_en_US_holycross.Ode3
 trCO.Ode3C1T.mode = misc_en_US_holycross.Mode2
-trCO.Ode3C1T.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.name
+trCO.Ode3C1T.melody = he.h.m2_en_US_holycross.SteirothentaMouTonNoun.notmetered
 trCO.Ode3C1T.text = ""
 
 trCO.Kathisma11.mode = misc_en_US_holycross.Mode1
-trCO.Kathisma11.melody = he.a.m1_en_US_holycross.ChorosAngelikos.name
+trCO.Kathisma11.melody = he.a.m1_en_US_holycross.ChorosAngelikos.notmetered
 trCO.Kathisma11.text = ""
 
 trCO.Ode8C1H.ode = misc_en_US_holycross.Ode8
@@ -104,52 +104,52 @@ trCO.Ode8C1H.text = he.h.m2_en_US_holycross.TonEnTiVatoMosi.text
 
 trCO.Ode8C11.ode = misc_en_US_holycross.Ode8
 trCO.Ode8C11.mode = misc_en_US_holycross.Mode2
-trCO.Ode8C11.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.name
+trCO.Ode8C11.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.notmetered
 trCO.Ode8C11.text = ""
 
 trCO.Ode8C12.ode = misc_en_US_holycross.Ode8
 trCO.Ode8C12.mode = misc_en_US_holycross.Mode2
-trCO.Ode8C12.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.name
+trCO.Ode8C12.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.notmetered
 trCO.Ode8C12.text = ""
 
 trCO.Ode8C13.ode = misc_en_US_holycross.Ode8
 trCO.Ode8C13.mode = misc_en_US_holycross.Mode2
-trCO.Ode8C13.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.name
+trCO.Ode8C13.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.notmetered
 trCO.Ode8C13.text = ""
 
 trCO.Ode8C14.ode = misc_en_US_holycross.Ode8
 trCO.Ode8C14.mode = misc_en_US_holycross.Mode2
-trCO.Ode8C14.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.name
+trCO.Ode8C14.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.notmetered
 trCO.Ode8C14.text = ""
 
 trCO.Ode8C15.ode = misc_en_US_holycross.Ode8
 trCO.Ode8C15.mode = misc_en_US_holycross.Mode2
-trCO.Ode8C15.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.name
+trCO.Ode8C15.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.notmetered
 trCO.Ode8C15.text = ""
 
 trCO.Ode8C16.ode = misc_en_US_holycross.Ode8
 trCO.Ode8C16.mode = misc_en_US_holycross.Mode2
-trCO.Ode8C16.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.name
+trCO.Ode8C16.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.notmetered
 trCO.Ode8C16.text = ""
 
 trCO.Ode8C17.ode = misc_en_US_holycross.Ode8
 trCO.Ode8C17.mode = misc_en_US_holycross.Mode2
-trCO.Ode8C17.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.name
+trCO.Ode8C17.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.notmetered
 trCO.Ode8C17.text = ""
 
 trCO.Ode8C18.ode = misc_en_US_holycross.Ode8
 trCO.Ode8C18.mode = misc_en_US_holycross.Mode2
-trCO.Ode8C18.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.name
+trCO.Ode8C18.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.notmetered
 trCO.Ode8C18.text = ""
 
 trCO.Ode8C1Tr.ode = misc_en_US_holycross.Ode8
 trCO.Ode8C1Tr.mode = misc_en_US_holycross.Mode2
-trCO.Ode8C1Tr.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.name
+trCO.Ode8C1Tr.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.notmetered
 trCO.Ode8C1Tr.text = ""
 
 trCO.Ode8C1T.ode = misc_en_US_holycross.Ode8
 trCO.Ode8C1T.mode = misc_en_US_holycross.Mode2
-trCO.Ode8C1T.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.name
+trCO.Ode8C1T.melody = he.h.m2_en_US_holycross.TonEnTiVatoMosi.notmetered
 trCO.Ode8C1T.text = ""
 
 trCO.Ode9C1H.ode = misc_en_US_holycross.Ode9
@@ -159,52 +159,52 @@ trCO.Ode9C1H.text = he.h.m2_en_US_holycross.TinYperfyosSarki.text
 
 trCO.Ode9C11.ode = misc_en_US_holycross.Ode9
 trCO.Ode9C11.mode = misc_en_US_holycross.Mode2
-trCO.Ode9C11.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.name
+trCO.Ode9C11.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.notmetered
 trCO.Ode9C11.text = ""
 
 trCO.Ode9C12.ode = misc_en_US_holycross.Ode9
 trCO.Ode9C12.mode = misc_en_US_holycross.Mode2
-trCO.Ode9C12.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.name
+trCO.Ode9C12.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.notmetered
 trCO.Ode9C12.text = ""
 
 trCO.Ode9C13.ode = misc_en_US_holycross.Ode9
 trCO.Ode9C13.mode = misc_en_US_holycross.Mode2
-trCO.Ode9C13.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.name
+trCO.Ode9C13.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.notmetered
 trCO.Ode9C13.text = ""
 
 trCO.Ode9C14.ode = misc_en_US_holycross.Ode9
 trCO.Ode9C14.mode = misc_en_US_holycross.Mode2
-trCO.Ode9C14.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.name
+trCO.Ode9C14.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.notmetered
 trCO.Ode9C14.text = ""
 
 trCO.Ode9C15.ode = misc_en_US_holycross.Ode9
 trCO.Ode9C15.mode = misc_en_US_holycross.Mode2
-trCO.Ode9C15.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.name
+trCO.Ode9C15.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.notmetered
 trCO.Ode9C15.text = ""
 
 trCO.Ode9C16.ode = misc_en_US_holycross.Ode9
 trCO.Ode9C16.mode = misc_en_US_holycross.Mode2
-trCO.Ode9C16.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.name
+trCO.Ode9C16.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.notmetered
 trCO.Ode9C16.text = ""
 
 trCO.Ode9C17.ode = misc_en_US_holycross.Ode9
 trCO.Ode9C17.mode = misc_en_US_holycross.Mode2
-trCO.Ode9C17.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.name
+trCO.Ode9C17.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.notmetered
 trCO.Ode9C17.text = ""
 
 trCO.Ode9C18.ode = misc_en_US_holycross.Ode9
 trCO.Ode9C18.mode = misc_en_US_holycross.Mode2
-trCO.Ode9C18.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.name
+trCO.Ode9C18.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.notmetered
 trCO.Ode9C18.text = ""
 
 trCO.Ode9C1Tr.ode = misc_en_US_holycross.Ode9
 trCO.Ode9C1Tr.mode = misc_en_US_holycross.Mode2
-trCO.Ode9C1Tr.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.name
+trCO.Ode9C1Tr.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.notmetered
 trCO.Ode9C1Tr.text = ""
 
 trCO.Ode9C1T.ode = misc_en_US_holycross.Ode9
 trCO.Ode9C1T.mode = misc_en_US_holycross.Mode2
-trCO.Ode9C1T.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.name
+trCO.Ode9C1T.melody = he.h.m2_en_US_holycross.TinYperfyosSarki.notmetered
 trCO.Ode9C1T.text = ""
 
 trHW.Alleluia.text = "" // for media
@@ -214,15 +214,15 @@ trHW.Troparion.melody = ""
 trHW.Troparion.text = tr.d065_en_US_holycross.trHW.Troparion.text
 
 trMA.Kathisma11.mode = misc_en_US_holycross.Mode3
-trMA.Kathisma11.melody = he.a.m3_en_US_holycross.TinOraiotita.name
+trMA.Kathisma11.melody = he.a.m3_en_US_holycross.TinOraiotita.notmetered
 trMA.Kathisma11.text = ""
 
 trMA.Kathisma21.mode = misc_en_US_holycross.Mode4
-trMA.Kathisma21.melody = he.a.m4_en_US_holycross.TachyProkatalave.name
+trMA.Kathisma21.melody = he.a.m4_en_US_holycross.TachyProkatalave.notmetered
 trMA.Kathisma21.text = ""
 
 trMA.Kathisma31.mode = misc_en_US_holycross.Mode1
-trMA.Kathisma31.melody = he.a.m1_en_US_holycross.TonTafonSouSotir.name
+trMA.Kathisma31.melody = he.a.m1_en_US_holycross.TonTafonSouSotir.notmetered
 trMA.Kathisma31.text = ""
 
 trMA.C1Poet = poets_en_US_holycross.KosmaMonachou
@@ -235,12 +235,12 @@ trMA.Ode3C1H.text = he.h.m2_en_US_holycross.TisPisteosEnPetra.text
 
 trMA.Ode3C11.ode = misc_en_US_holycross.Ode3
 trMA.Ode3C11.mode = misc_en_US_holycross.Mode2
-trMA.Ode3C11.melody = he.h.m2_en_US_holycross.TisPisteosEnPetra.name
+trMA.Ode3C11.melody = he.h.m2_en_US_holycross.TisPisteosEnPetra.notmetered
 trMA.Ode3C11.text = ""
 
 trMA.Ode3C12.ode = misc_en_US_holycross.Ode3
 trMA.Ode3C12.mode = misc_en_US_holycross.Mode2
-trMA.Ode3C12.melody = he.h.m2_en_US_holycross.TisPisteosEnPetra.name
+trMA.Ode3C12.melody = he.h.m2_en_US_holycross.TisPisteosEnPetra.notmetered
 trMA.Ode3C12.text = ""
 
 trMA.Ode3K.ode = misc_en_US_holycross.Ode3
@@ -249,7 +249,7 @@ trMA.Ode3K.melody = misc_en_US_holycross.Heirmos
 trMA.Ode3K.text = he.h.m2_en_US_holycross.TisPisteosEnPetra.text
 
 trMA.Kontakion1.mode = misc_en_US_holycross.Mode4
-trMA.Kontakion1.melody = he.a.m4_en_US_holycross.OYpsotheisEnToStavro.name
+trMA.Kontakion1.melody = he.a.m4_en_US_holycross.OYpsotheisEnToStavro.notmetered
 trMA.Kontakion1.text = ""
 
 trMA.Oikos1.text = ""
@@ -267,17 +267,17 @@ trMA.Ode8C1H.text = he.h.m2_en_US_holycross.RimaTyrannou.text
 
 trMA.Ode8C11.ode = misc_en_US_holycross.Ode8
 trMA.Ode8C11.mode = misc_en_US_holycross.Mode2
-trMA.Ode8C11.melody = he.h.m2_en_US_holycross.RimaTyrannou.name
+trMA.Ode8C11.melody = he.h.m2_en_US_holycross.RimaTyrannou.notmetered
 trMA.Ode8C11.text = ""
 
 trMA.Ode8C12.ode = misc_en_US_holycross.Ode8
 trMA.Ode8C12.mode = misc_en_US_holycross.Mode2
-trMA.Ode8C12.melody = he.h.m2_en_US_holycross.RimaTyrannou.name
+trMA.Ode8C12.melody = he.h.m2_en_US_holycross.RimaTyrannou.notmetered
 trMA.Ode8C12.text = ""
 
 trMA.Ode8C13.ode = misc_en_US_holycross.Ode8
 trMA.Ode8C13.mode = misc_en_US_holycross.Mode2
-trMA.Ode8C13.melody = he.h.m2_en_US_holycross.RimaTyrannou.name
+trMA.Ode8C13.melody = he.h.m2_en_US_holycross.RimaTyrannou.notmetered
 trMA.Ode8C13.text = ""
 
 trMA.Ode8K.ode = misc_en_US_holycross.Ode8
@@ -292,17 +292,17 @@ trMA.Ode9C1H.text = he.h.m2_en_US_holycross.PsychaisKatharais.text
 
 trMA.Ode9C11.ode = misc_en_US_holycross.Ode9
 trMA.Ode9C11.mode = misc_en_US_holycross.Mode2
-trMA.Ode9C11.melody = he.h.m2_en_US_holycross.PsychaisKatharais.name
+trMA.Ode9C11.melody = he.h.m2_en_US_holycross.PsychaisKatharais.notmetered
 trMA.Ode9C11.text = ""
 
 trMA.Ode9C12.ode = misc_en_US_holycross.Ode9
 trMA.Ode9C12.mode = misc_en_US_holycross.Mode2
-trMA.Ode9C12.melody = he.h.m2_en_US_holycross.PsychaisKatharais.name
+trMA.Ode9C12.melody = he.h.m2_en_US_holycross.PsychaisKatharais.notmetered
 trMA.Ode9C12.text = ""
 
 trMA.Ode9C13.ode = misc_en_US_holycross.Ode9
 trMA.Ode9C13.mode = misc_en_US_holycross.Mode2
-trMA.Ode9C13.melody = he.h.m2_en_US_holycross.PsychaisKatharais.name
+trMA.Ode9C13.melody = he.h.m2_en_US_holycross.PsychaisKatharais.notmetered
 trMA.Ode9C13.text = ""
 
 trMA.Ode9K.ode = misc_en_US_holycross.Ode9
