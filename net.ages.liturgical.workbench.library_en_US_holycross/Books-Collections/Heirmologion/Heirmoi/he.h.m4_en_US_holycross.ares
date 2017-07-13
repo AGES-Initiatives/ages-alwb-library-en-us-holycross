@@ -65,6 +65,12 @@ ApasGigenis.mode = misc_en_US_holycross.Mode4
 ApasGigenis.ode = misc_en_US_holycross.Ode9
 ApasGigenis.text = ""
 
+ApasGigenis_Akathist.notmetered = "Not Metered (All you born on earth.)"
+ApasGigenis_Akathist.name = ""
+ApasGigenis_Akathist.mode = misc_en_US_holycross.Mode4
+ApasGigenis_Akathist.ode = misc_en_US_holycross.Ode9
+ApasGigenis_Akathist.text = ""
+
 ApasGigenis_Eisodia.notmetered = "Not Metered (All you born on earth.)"
 ApasGigenis_Eisodia.name = ""
 ApasGigenis_Eisodia.mode = misc_en_US_holycross.Mode4
