@@ -217,7 +217,7 @@ trHW.Alleluia.text = "" // for media
 
 trHW.Troparion.mode = misc_en_US_holycross.Mode8
 trHW.Troparion.melody = ""
-trHW.Troparion.text = ""
+trHW.Troparion.text = "The glorious disciples were illumined at the Supper during the washing of the feet. But ungodly Judas was darkened by the disease of avarice, and he delivered you, the righteous judge, to lawless judges. Behold, lover of money, how for the sake of money he hanged himself. Flee from greed which made him dare to do such things against his Master. Glory to you, Lord, who are good towards all people."
 
 trMA.C1Poet = poets_en_US_holycross.KosmaMonachou
 trMA.C1Acrostic.text = ""
