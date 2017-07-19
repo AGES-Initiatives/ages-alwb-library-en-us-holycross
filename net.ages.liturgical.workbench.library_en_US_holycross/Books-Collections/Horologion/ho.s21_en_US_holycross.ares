@@ -146,7 +146,7 @@ R03 = "After the usual morning prayers say:"
 hoPCPrayer.Key001.title = "Then the following hymns."
 hoPCPrayer.Key001.text = oc.m2.d2_en_US_holycross.ocMA.Aposticha2.text
 hoPCPrayer.Key002.text = "How shall I, the unworthy, be not ashamed of your holy things? If I dare to approach you with the worthy, my garment will condemn me, for it is not a supper garment, and I shall bring reproach upon my most sinful soul. Therefore, cleanse me Lord of the defilement of my soul and save me, for you are a loving God."
-hoPCPrayer.Key003.text = "Becauseof the multitude of my transgressions, I come to you, pure Theotokos, asking for salvation. Visit my ailing soul, only blessed one, and beseech your Son, our God, to grant me remission of the evil I have done." //oc.m6.d3_en_US_holycross.ocMA.Kathisma33.text
+hoPCPrayer.Key003.text = "Because of the multitude of my transgressions, I come to you, pure Theotokos, asking for salvation. Visit my ailing soul, only blessed one, and beseech your Son, our God, to grant me remission of the evil I have done." //oc.m6.d3_en_US_holycross.ocMA.Kathisma33.text
 hoPCPrayer.Key004.title = "On Holy And Great Thursday"
 hoPCPrayer.Key004.text = tr.d068_en_US_holycross.trHW.Troparion.text
 
