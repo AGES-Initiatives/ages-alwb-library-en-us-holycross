@@ -480,8 +480,8 @@ StereosonMeChriste.mode = misc_en_US_holycross.Mode1
 StereosonMeChriste.ode = misc_en_US_holycross.Ode3
 StereosonMeChriste.text = ""
 
-StereothitoIKardiaMou.notmetered = "N/M ()"
-StereothitoIKardiaMou.name = ""
+StereothitoIKardiaMou.notmetered = "N/M (Firmly established be.)"
+StereothitoIKardiaMou.name = "Firmly established be my hear."
 StereothitoIKardiaMou.mode = misc_en_US_holycross.Mode1
 StereothitoIKardiaMou.ode = misc_en_US_holycross.Ode3
 StereothitoIKardiaMou.text = ""
