@@ -25,15 +25,15 @@ euFUN.Key0200.title = "The Funeral"
 
 euFUN.Key0300.title = ""
 euFUN.Key0300.mode = ""
-euFUN.Key0300.text = ""
+euFUN.MM.Key0300.text = properties_en_US_holycross.media.key
 
 euFUN.Key0400.title = ""
 euFUN.Key0400.mode = ""
-euFUN.Key0400.text = ""
+euFUN.MM.Key0400.text = properties_en_US_holycross.media.key
 
 euFUN.Key0500.title = ""
 euFUN.Key0500.mode = ""
-euFUN.Key0500.text = ""
+euFUN.MM.Key0500.text = properties_en_US_holycross.media.key
 
 euFUN.Key0600.title = ""
 euFUN.Key0600.mode = misc_en_US_holycross.Mode5
