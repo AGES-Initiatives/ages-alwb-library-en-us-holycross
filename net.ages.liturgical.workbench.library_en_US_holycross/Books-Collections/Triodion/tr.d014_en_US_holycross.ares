@@ -507,17 +507,10 @@ trMA.AposTheotokion.mode = misc_en_US_holycross.Mode6
 trMA.AposTheotokion.melody = ""
 trMA.AposTheotokion.text = //oc.m6.d7_en_US_holycross.ocMA.LaudsTheotokion.text
 
-trLI.SeasonalKontakion.mode = misc_en_US_holycross.Mode8
-trLI.SeasonalKontakion.melody = ""
-trLI.SeasonalKontakion.text = trMA.Kontakion1.text
-
-trLI.Alleluia.mode = misc_en_US_holycross.Mode6
-
-trLI.AlleluiaVerse1.text = ""
-
-trLI.AlleluiaVerse2.text = ""
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.MM.CommunionHymn.text = properties_en_US_holycross.media.key
 
 trMegalynarion.text = ""
-

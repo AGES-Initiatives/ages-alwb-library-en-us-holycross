@@ -352,9 +352,10 @@ trMA.LaudsGlory.text = ""
 trLI.Antiphon2.text = "" //for media
 
 trLI.MM.EntranceHymn.text = properties_en_US_holycross.media.key
-trLI.SeasonalKontakion.mode = misc_en_US_holycross.Mode6
-trLI.SeasonalKontakion.melody = misc_en_US_holycross.Automelon
-trLI.SeasonalKontakion.text = trMA.Kontakion1.text
+
+trLI.Kontakion1.mode = trMA.Kontakion1.mode
+trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trLI.TheotokosHymn.mode = misc_en_US_holycross.Mode4
 trLI.TheotokosHymn.text = trMA.Ode9C1H.text

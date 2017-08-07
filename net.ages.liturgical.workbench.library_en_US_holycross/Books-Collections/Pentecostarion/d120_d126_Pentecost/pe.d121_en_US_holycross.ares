@@ -139,10 +139,6 @@ peLI.Antiphon2.text = pe.d120_en_US_holycross.peLI.Antiphon2.text
 
 peLI.MM.EntranceHymn.text = properties_en_US_holycross.media.key
 
-peLI.SeasonalKontakion.mode = pe.d120_en_US_holycross.peMA.Kontakion1.mode
-peLI.SeasonalKontakion.melody = ""
-peLI.SeasonalKontakion.text = pe.d120_en_US_holycross.peMA.Kontakion1.text
-
 peLI.TheotokosHymn.mode = pe.d120_en_US_holycross.peMA.Ode9C2H.mode
 peLI.TheotokosHymn.text = pe.d120_en_US_holycross.peMA.Ode9C2H.text
 
