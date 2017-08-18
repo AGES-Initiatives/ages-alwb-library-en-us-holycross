@@ -485,6 +485,9 @@ sup06b = "the great hierarchs and ecumenical teachers,"
 sup07 = "Athanasios, Cyril, and John the Merciful, patriarchs of Alexandria;"
 
 sup08 = "Nicholas, bishop of Myra, Spyridon, bishop of Trimythous, Nektarios of Pentapolis, the wonder-workers;"
+sup08_nicholas = "Spyridon, bishop of Trimythous, Nektarios of Pentapolis, the wonder-workers;"
+sup08_spyridon = "Nicholas, bishop of Myra, Nektarios of Pentapolis, the wonder-workers;"
+sup08_nektarios = "Nicholas, bishop of Myra, Spyridon, bishop of Trimythous, the wonder-workers;"
 
 sup09 = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the Teron, and Theodore the General, Menas the Wonderworker,"
 sup09_demetrios = "the holy, glorious great Martyrs George the Victorious, Theodore the Teron, and Theodore the General, Menas the Wonderworker,"
