@@ -153,7 +153,7 @@ pet05 = "For pious and Orthodox Christians, let us pray to the Lord."
 
 pet06 = "For our Archbishop (Name), the honorable presbyters, the deacons in the service of Christ, and all the clergy and laity, let us pray to the Lord."
 
-pet06a = "For our" // supplement with client specific rank and name
+pet06a = "For" // supplement with client specific rank and name
 
 pet06b = "the honorable presbyters, the deacons in the service of Christ, and all the clergy and laity, let us pray to the Lord."
 
