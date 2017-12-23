@@ -522,6 +522,12 @@ OsEmpsychoTheouKivoto.mode = misc_en_US_holycross.Mode4
 OsEmpsychoTheouKivoto.ode = misc_en_US_holycross.Ode9
 OsEmpsychoTheouKivoto.text = ""
 
+OsEmpsychoTheouKivoto_Annunciation.notmetered = "N/M (Now let no uninitiated hand.)"
+OsEmpsychoTheouKivoto_Annunciation.name = ""
+OsEmpsychoTheouKivoto_Annunciation.mode = misc_en_US_holycross.Mode4
+OsEmpsychoTheouKivoto_Annunciation.ode = misc_en_US_holycross.Ode9
+OsEmpsychoTheouKivoto_Annunciation.text = ""
+
 OsIonanTonProfitin.notmetered = "N/M ()"
 OsIonanTonProfitin.name = ""
 OsIonanTonProfitin.mode = misc_en_US_holycross.Mode4
