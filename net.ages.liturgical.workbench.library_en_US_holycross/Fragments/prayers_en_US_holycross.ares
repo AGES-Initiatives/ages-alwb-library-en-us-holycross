@@ -482,8 +482,14 @@ sup06a = "our Fathers among the Saints,"
 
 sup06b = "the great hierarchs and ecumenical teachers,"
 
+sup06_basil = "Gregory the Theologian and John Chrysostom,"
+sup06_gregory = "Basil the Great and John Chrysostom,"
+sup06_john = "Basil the Great and Gregory the Theologian,"
 sup07 = "Athanasios, Cyril, and John the Merciful, patriarchs of Alexandria;"
-
+sup07_athanasios_cyril = "John the Merciful, patriarch of Alexandria;"
+sup07_athanasios = "Cyril and John the Merciful, patriarchs of Alexandria;"
+sup07_cyril = "Athanasios and John the Merciful, patriarchs of Alexandria;"
+sup07_john = "Athanasios and Cyril, patriarchs of Alexandria;"
 sup08 = "Nicholas, bishop of Myra, Spyridon, bishop of Trimythous, Nektarios of Pentapolis, the wonder-workers;"
 sup08_nicholas = "Spyridon, bishop of Trimythous, Nektarios of Pentapolis, the wonder-workers;"
 sup08_spyridon = "Nicholas, bishop of Myra, Nektarios of Pentapolis, the wonder-workers;"
@@ -492,9 +498,12 @@ sup08_nektarios = "Nicholas, bishop of Myra, Spyridon, bishop of Trimythous, the
 sup09 = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the Teron, and Theodore the General, Menas the Wonderworker,"
 sup09_demetrios = "the holy, glorious great Martyrs George the Victorious, Theodore the Teron, and Theodore the General, Menas the Wonderworker,"
 sup09_george = "the holy, glorious great Martyrs Demetrios the Myrobletes, Theodore the Teron, and Theodore the General, Menas the Wonderworker,"
-
+sup09_tyro = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the General, and Menas the Wonderworker,"
+sup09_general = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the Teron, and Menas the Wonderworker,"
+sup09_minas = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the Teron, and Theodore the General,"
 sup10 = "the Hieromartyrs Haralambos and Eleftherios;"
-
+sup10_haralambos = "the Hieromartyr Eleftherios;"
+sup10_eleutherios = "the Hieromartyr Haralambos;"
 sup11 = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
 
 sup11_eufimia = "the holy, glorious, and victorious martyrs; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
