@@ -673,7 +673,9 @@ epi01a = "The reading is from"
 
 epi01b = "" // leave blank in English
 
-epi02 = "Peace be to you the reader."
+epi02 = "Peace be to you."
+
+epi03 = "Peace be to you the reader."
 
 gos01 = "Let us pray to the Lord our God that we may be made worthy to hear the holy Gospel."
 
@@ -683,7 +685,9 @@ gos03a = "The reading is from the holy Gospel according to"
 
 gos03b = ""
 
-gos04 = "Peace be to you who proclaim the Gospel."
+gos04 = "Peace be to you."
+
+gos05 = "Peace be to you who proclaim the Gospel."
 
 otr01a = "The reading is from"
 
