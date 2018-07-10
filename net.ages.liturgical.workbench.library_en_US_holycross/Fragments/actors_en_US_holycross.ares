@@ -2,6 +2,7 @@ A_Resource_Whose_Name = actors_en_US_holycross
 
 Candidate_Sponsor = "CATECHUMEN/SPONSOR"
 //Chanter        = ""
+//Chanters        = ""
 //ChanterOrReader = ""
 Choir         = "CHOIR"
 //Clergy         = ""
