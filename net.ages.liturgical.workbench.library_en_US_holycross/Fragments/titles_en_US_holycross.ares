@@ -234,6 +234,8 @@ KanonBTisEortis = ""
 
 KanonTisEortis = ""
 
+KanonTisMartyros = ""
+
 KanonATisMesopentikostis = ""
 
 KanonBTisMesopentikostis = ""
@@ -881,6 +883,7 @@ eclog.Thomas.title = ""
 eclog.Ascension.title = ""
 eclog.Pentecost.title = ""
 eclog.Forerunner.title = ""
+eclog.ProphetElias.title = ""
 eclog.StAnne.title = ""
 eclog.Transfiguration.title = ""
 eclog.Dormition.title = ""
