@@ -73,6 +73,7 @@ hoVE.LentApolytikion2.mode = misc_en_US_holycross.Mode5
 hoVE.LentApolytikion2.text = ""
 hoVE.LentApolytikion3.mode = misc_en_US_holycross.Mode5
 hoVE.LentApolytikion3.text = ""
+hoVE.LentApolytikion4.note = ""
 hoVE.LentApolytikion4.mode = misc_en_US_holycross.Mode5
 hoVE.LentApolytikion4.text = //oc.m5.d7_en_US_holycross.ocMA.LaudsTheotokion.text 
 R22 = ""
