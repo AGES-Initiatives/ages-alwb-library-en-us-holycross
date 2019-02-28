@@ -6,7 +6,7 @@ lecAP.title3.text = "THE PROKEIMENA OF THE APOSTOLOS"
 lecAP.title4.text = "AND"
 lecAP.title5.text = "THE ALLELUARIA OF THE GOSPEL"
 
-lecAP.R01 = "(When there is no Feast Day)"
+lecAP.R01 = "When there is no Feast Day"
 lecAP.R02 = "Sung throughout the week when there is no Feast Day."
 lecAP.R03 = "Prokeimenon of the day."
 lecAP.R04 = "Prokeimeon and Alleluia in the Sunday's Mode."
@@ -26,7 +26,7 @@ lecAP.me.m07.dHF.R01 = "Note: If the thirteenth of July is a Sunday, or, on the 
 lecAP.me.m10.dHF.R01 = "Note: If the eleventh of October is a Sunday, or, on the first Sunday following the eleventh, the service of the 300 Holy Fathers of the Seventh Ecumenical Synod is sung during which the following apostolos is read:"
 lecAP.me.m11.d16.R01 = "Another Apostolos in the Menaion"
 lecAP.me.m12.dFF.R01 = "Note: We read the apostolos below on December 11 if this is a Sunday, or on the first Sunday following December 11."
-lecAP.me.m12.dSunBE.R01 = "(From December 30 through January 5)"
+lecAP.me.m12.dSunBE.R01 = "From December 30 through January 5"
 lecAP.me.m12.dSunBE.R02 = "Note: If there are two Sundays between Christmas and Theophany, we read the apostolos of the Sunday After the Nativity on the first Sunday, and on the second, the apostolos of the Sunday Before Theophany."
 
 lecAP.forSundays = "For Sundays"
@@ -113,8 +113,8 @@ lecEV.me.m12.dFF.R01 = "Note: We use the Gospel reading below on December 11 if 
 lecEV.me.m12.dSunBE.R01 = "Note: If there are two Sundays between Christmas and Theophany, we use the Gospel reading of the Sunday After the Nativity on the first Sunday, and on the second, the Gospel reading of the Sunday Before Theophany. If there is only one Saturday and one Sunday, on Saturday we use the Gospel reading for Saturday After Christmas, and on Sunday we use the Gospel reading for the Sunday Before Epiphany."
 
 lecLE.separator = " – "
-lecLE.openP = "("
-lecLE.closeP = ")"
+lecLE.openP = ""
+lecLE.closeP = ""
 
 lecLE.Day1 = "Sunday"
 lecLE.Day2 = "Monday"
