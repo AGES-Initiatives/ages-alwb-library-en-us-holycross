@@ -11,6 +11,8 @@ trHO.description1 = ""
 trHO.description2 = ""
 trHO.note1 = ""
 trHO.note2 = ""
+trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
+trEM.header = "" //for pdf evening Matins
 trDismissal = dismissals_en_US_holycross.dis00.bridegroom
 
 trVE.Stichera01.mode = misc_en_US_holycross.Mode1
