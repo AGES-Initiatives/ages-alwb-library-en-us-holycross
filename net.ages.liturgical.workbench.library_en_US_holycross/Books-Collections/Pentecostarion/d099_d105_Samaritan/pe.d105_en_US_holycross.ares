@@ -66,8 +66,8 @@ peMA.Kathisma1T.melody = ""
 peMA.Kathisma1T.text = oc.m4.d7_en_US_holycross.ocMA.Kathisma14.text
 
 peMA.Kathisma21.mode = misc_en_US_holycross.Mode4
-peMA.Kathisma21.melody = pe.d099_en_US_holycross.peMA.Ode3Kathisma1.melody
-peMA.Kathisma21.text = pe.d099_en_US_holycross.peMA.Ode3Kathisma1.text
+peMA.Kathisma21.melody = he.a.m4_en_US_holycross.OYpsotheisEnToStavro.notmetered
+peMA.Kathisma21.text = ""
 
 peMA.Lauds1.mode = misc_en_US_holycross.Mode4
 peMA.Lauds1.melody = ""
