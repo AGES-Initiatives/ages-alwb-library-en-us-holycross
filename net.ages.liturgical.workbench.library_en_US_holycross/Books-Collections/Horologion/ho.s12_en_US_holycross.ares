@@ -79,7 +79,7 @@ hoCO.Key0804.mode = misc_en_US_holycross.Mode6
 //hoCO.Key0806.text = oc.m6.d5_en_US_holycross.ocMA.Kathisma13.text
 
 hoCO.Key0807.title = ""
-hoCO.Key0807.text = "O Master God, Father Almighty, only begotten Son, Lord Jesus Christ, and Holy Spirit: One Godhead, One Power, have mercy on me, a sinner, and in your knowing ways save me, your unworthy servant; for you are blessed unto the ages of ages."
+hoCO.Key0807.text = ho.s05_en_US_holycross.hoH3.Prayer.text
 
 hoCO.Key0901.title = ""
 
