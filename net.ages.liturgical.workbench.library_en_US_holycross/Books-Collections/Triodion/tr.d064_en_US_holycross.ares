@@ -361,7 +361,7 @@ trMA.Lauds4.text = ""
 
 trMA.LaudsGlory.mode = misc_en_US_holycross.Mode6
 trMA.LaudsGlory.melody = misc_en_US_holycross.Idiomelon
-trMA.LaudsGlory.text = ""
+trMA.LaudsGlory.text = trVE.Stichera05.text
 
 trLI.Antiphon2.text = "" //for media
 
