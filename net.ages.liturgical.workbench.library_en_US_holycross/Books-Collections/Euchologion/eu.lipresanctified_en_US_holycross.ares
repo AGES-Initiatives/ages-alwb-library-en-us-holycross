@@ -29,7 +29,7 @@ euPL.Key0406.text = "O Lord, our God, be mindful of us Your sinful and useless s
 euPL.Key0407.text = prayers_en_US_holycross.exc03
 
 euPL.Key0500.title = "Third Stanza"
-euPL.Key0506.title = ""
+euPL.Key0506.title = "PRAYER OF THE FOURTH ANTIPHON"
 euPL.Key0506.text = "You who are praised with incessant hymns and ceaseless doxologies by the heavenly Powers, fill our mouth with Your praise, so that we may exalt Your holy name. Grant us a share and a part with all those who fear You in truth and keep Your commandments, through the intercessions of the holy Theotokos and all Your saints."
 euPL.Key0507.text = prayers_en_US_holycross.exc22
 
@@ -73,7 +73,7 @@ euPL.Key1201.text = "" //for media
 euPL.Key1202.title = "After Communion"
 euPL.Key1202.text = "I will bless the Lord at all times; His praise shall continually be in my mouth. Taste the Bread of heaven and the Cup of Life, and see that the Lord is good. Alleluia, Alleluia, Alleluia."
 euPL.Key1203.text = "Having prayed for a perfect, holy, peaceful, and sinless evening, let us commit ourselves, and one another, and our whole life to Christ our God."
-euPL.Key1204.title = ""
+euPL.Key1204.title = "PRAYER AFTER HOLY COMMUNION"
 euPL.Key1204.text = "We thank You, O God, Savior of us all, for all the good things you have given us, and for the communion of Your holy Body and Blood of Your Christ. And we pray to You, loving Master: Protect us under the covering of Your wings and grant that we may worthily partake of your blessings to the end of our days, for the illumination of our soul and body to inherit the kingdom of heaven."
 euPL.Key1205.text = prayers_en_US_holycross.exc24
 euPL.Key1206.title = ""
