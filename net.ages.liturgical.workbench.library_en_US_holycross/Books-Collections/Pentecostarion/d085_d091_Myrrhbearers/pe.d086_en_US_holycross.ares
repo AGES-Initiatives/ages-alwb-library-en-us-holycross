@@ -79,7 +79,7 @@ peMA.Lauds3.text = oc.m2.d2_en_US_holycross.ocMA.Aposticha3.text
 
 peMA.LaudsGlory.mode = misc_en_US_holycross.Mode1
 peMA.LaudsGlory.melody = misc_en_US_holycross.Idiomelon
-peMA.LaudsGlory.text = pe.d085_en_US_holycross.peVE.LityGlory.text
+peMA.LaudsGlory.text = pe.d085_en_US_holycross.peVE.Lity3.text
 
 peMA.Aposticha1.mode = misc_en_US_holycross.Mode6
 peMA.Aposticha1.melody = he.a.m6_en_US_holycross.TriimerosAnestis.name
