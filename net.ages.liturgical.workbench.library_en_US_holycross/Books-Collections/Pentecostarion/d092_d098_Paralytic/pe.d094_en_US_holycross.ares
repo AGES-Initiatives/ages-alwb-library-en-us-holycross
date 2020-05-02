@@ -19,11 +19,7 @@ peVE.Stichera01.text = pe.d092_en_US_holycross.peVE.Stichera09.text
 
 peVE.Stichera02.mode = misc_en_US_holycross.Mode1
 peVE.Stichera02.melody = misc_en_US_holycross.Idiomelon
-peVE.Stichera02.text = pe.d092_en_US_holycross.peVE.Stichera09.text
-
-peVE.Stichera03.mode = misc_en_US_holycross.Mode1
-peVE.Stichera03.melody = misc_en_US_holycross.Idiomelon
-peVE.Stichera03.text = pe.d092_en_US_holycross.peVE.Stichera10.text
+peVE.Stichera02.text = pe.d092_en_US_holycross.peVE.Stichera10.text
 
 peVE.SticGlory.mode = misc_en_US_holycross.Mode5
 peVE.SticGlory.melody = misc_en_US_holycross.Idiomelon
