@@ -78,7 +78,7 @@ peVE.Aposticha2.text = ""
 
 peVE.Aposticha3.mode = misc_en_US_holycross.Mode6
 peVE.Aposticha3.melody = misc_en_US_holycross.Idiomelon
-peVE.Aposticha3.text = prayers_en_US_holycross.VasilefOuranie.text
+peVE.Aposticha3.text = "Heavenly King, Comforter, Spirit of Truth, present in all places and filling all things, treasury of good things and giver of life: come; take Your abode in us; cleanse us of every stain, and save our souls, O Good one."
 
 peVE.AposGlory.mode = misc_en_US_holycross.Mode8
 peVE.AposGlory.melody = misc_en_US_holycross.Idiomelon
@@ -112,7 +112,7 @@ peMA.PostGospelBoth.text = ho.s03_en_US_holycross.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_en_US_holycross.Mode6
 peMA.PostGospelIdiomelon.melody = misc_en_US_holycross.Idiomelon
-peMA.PostGospelIdiomelon.text = prayers_en_US_holycross.VasilefOuranie.text
+peMA.PostGospelIdiomelon.text = peVE.Aposticha3.text
 
 peMA.C1Poet = poets_en_US_holycross.KosmaMonachou
 peMA.C1Acrostic.text = ""
@@ -557,9 +557,11 @@ peMA.Lauds3.mode = misc_en_US_holycross.Mode4
 peMA.Lauds3.melody = ""
 peMA.Lauds3.text = "The Holy Spirit, light and life, and living fountain of reason. Spirit of wisdom, Spirit of understanding, of goodness and honesty, intelligence and sovereignty, expiating sins. God who deifies; fire deriving from fire, speaking, acting, meting out gifts; through Whom the prophets all and God's apostles together with the martyrs were crowned. Different sounds, a different sight: fire divided into gifts of grace."
 
+peMA.MM.Lauds123as123.text = properties_en_US_holycross.media.key
+
 peMA.LaudsGlory.mode = misc_en_US_holycross.Mode6
 peMA.LaudsGlory.melody = misc_en_US_holycross.Idiomelon
-peMA.LaudsGlory.text = prayers_en_US_holycross.VasilefOuranie.text
+peMA.LaudsGlory.text = peVE.Aposticha3.text
 
 peLI.Antiphon2.text = ""
 
