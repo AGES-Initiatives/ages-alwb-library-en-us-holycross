@@ -360,6 +360,7 @@ peMA.Lauds3.text = ""
 
 peMA.MM.Lauds123as123.text = properties_en_US_holycross.media.key
 peMA.MM.Lauds123as345.text = properties_en_US_holycross.media.key
+peMA.MM.Lauds123as456.text = properties_en_US_holycross.media.key
 
 peMA.LaudsGlory.mode = misc_en_US_holycross.Mode6
 peMA.LaudsGlory.melody = misc_en_US_holycross.Idiomelon
