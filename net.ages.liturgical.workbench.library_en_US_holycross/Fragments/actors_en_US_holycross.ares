@@ -1,5 +1,7 @@
 A_Resource_Whose_Name = actors_en_US_holycross
 
+Archbishop = ""
+Bishop_Elect = ""
 Candidate_Sponsor = "CATECHUMEN/SPONSOR"
 //Chanter        = ""
 //Chanters        = ""
