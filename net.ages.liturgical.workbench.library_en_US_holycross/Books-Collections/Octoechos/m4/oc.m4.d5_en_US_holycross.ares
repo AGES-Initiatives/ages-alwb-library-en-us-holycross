@@ -529,7 +529,7 @@ octrMA.Kathisma1T.melody = ""
 octrMA.Kathisma1T.text = "" //oc.m4.d3_en_US_holycross.ocMA.Kathisma13.text
 
 octrMA.Ode7Martyricon.mode = misc_en_US_holycross.Mode4
-octrMA.Ode7Martyricon.melody = he.a.m4_en_US_holycross.TachyProkatalave.mode
+octrMA.Ode7Martyricon.melody = he.a.m4_en_US_holycross.TachyProkatalave.name
 octrMA.Ode7Martyricon.text = "" //oc.m4.d3_en_US_holycross.ocMA.Kathisma32.text
 
 octrMA.Photogogic.mode = misc_en_US_holycross.Mode4
