@@ -1,5 +1,8 @@
 A_Resource_Whose_Name = oc.m1.d1_en_US_holycross
 
+ocBK.title = ""
+ocBK.mode.title = ""
+
 ocGE.MM.GlorySticheraric.text = properties_en_US_holycross.media.key
 
 ocGE.MM.BothSticheraric.text = properties_en_US_holycross.media.key
