@@ -84,11 +84,11 @@ ocMA.Kathisma33.mode = misc_en_US_holycross.Mode1
 ocMA.Kathisma33.melody = he.a.m1_en_US_holycross.TonTafonSouSotir.notmetered
 ocMA.Kathisma33.text = ""
 
-ocMA.C1Poet = poets_en_US_holycross.Iosif
-ocMA.C1Acrostic.text = ""
+ocMA.C1.poet = poets_en_US_holycross.Iosif
+ocMA.C1.acrostic = ""
 
-ocMA.C2Poet = poets_en_US_holycross.Theofanous
-ocMA.C2Acrostic.text = ""
+ocMA.C2.poet = poets_en_US_holycross.Theofanous
+ocMA.C2.acrostic = ""
 
 ocMA.OdeW1C1H.mode = misc_en_US_holycross.Mode1
 ocMA.OdeW1C1H.ode = misc_en_US_holycross.Ode1

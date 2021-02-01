@@ -163,8 +163,8 @@ trMA.PostGospelIdiomelon.mode = misc_en_US_holycross.Mode6
 trMA.PostGospelIdiomelon.melody = misc_en_US_holycross.Idiomelon
 trMA.PostGospelIdiomelon.text = trVE.Stichera01.text
 
-trMA.C1Poet = poets_en_US_holycross.KosmaMonachou
-trMA.C1Acrostic.text = ""
+trMA.C1.poet = poets_en_US_holycross.KosmaMonachou
+trMA.C1.acrostic = ""
 
 trMA.Ode1C1H.ode = misc_en_US_holycross.Ode1
 trMA.Ode1C1H.mode = misc_en_US_holycross.Mode4

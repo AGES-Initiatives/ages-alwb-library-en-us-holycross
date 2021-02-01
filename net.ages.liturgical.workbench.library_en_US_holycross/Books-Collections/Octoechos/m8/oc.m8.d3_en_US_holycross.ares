@@ -88,7 +88,7 @@ ocMA.Kathisma33.mode = misc_en_US_holycross.Mode8
 ocMA.Kathisma33.melody = ""
 ocMA.Kathisma33.text = ""
 
-ocMA.C1Acrostic.text = ""
+ocMA.C1.acrostic = ""
 
 ocMA.OdeW1C1H.mode = misc_en_US_holycross.Mode8
 ocMA.OdeW1C1H.ode = misc_en_US_holycross.Ode1

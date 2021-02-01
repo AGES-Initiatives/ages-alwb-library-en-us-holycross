@@ -58,10 +58,10 @@ peMA.Kathisma21.mode = pe.d095_en_US_holycross.peMA.Kathisma21.mode
 peMA.Kathisma21.melody = pe.d095_en_US_holycross.peMA.Kathisma21.melody
 peMA.Kathisma21.text = pe.d095_en_US_holycross.peMA.Kathisma21.text
 
-peMA.C1Poet = pe.d095_en_US_holycross.peMA.C1Poet
-peMA.C1Acrostic.text = pe.d095_en_US_holycross.peMA.C1Acrostic.text
+peMA.C1.poet = pe.d095_en_US_holycross.peMA.C1.poet
+peMA.C1.acrostic = pe.d095_en_US_holycross.peMA.C1.acrostic
 
-peMA.C2Poet = pe.d095_en_US_holycross.peMA.C2Poet
+peMA.C2.poet = pe.d095_en_US_holycross.peMA.C2.poet
 
 peMA.Ode1C1H.ode = pe.d095_en_US_holycross.peMA.Ode1C1H.ode
 peMA.Ode1C1H.mode = pe.d095_en_US_holycross.peMA.Ode1C1H.mode

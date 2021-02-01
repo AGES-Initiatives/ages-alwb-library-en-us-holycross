@@ -59,7 +59,7 @@ trVE.SticGlory.mode = misc_en_US_holycross.Mode8
 trVE.SticGlory.melody = misc_en_US_holycross.Idiomelon
 trVE.SticGlory.text = tr.d067_en_US_holycross.trMA.AposGlory.text
 
-trCO.C1.Poet = poets_en_US_holycross.AndreouKritis
+trCO.C1.poet = poets_en_US_holycross.AndreouKritis
 
 trCO.Ode4C1H.ode = misc_en_US_holycross.Ode4
 trCO.Ode4C1H.mode = misc_en_US_holycross.Mode6
@@ -221,8 +221,8 @@ trHW.Troparion.mode = misc_en_US_holycross.Mode8
 trHW.Troparion.melody = ""
 trHW.Troparion.text = "The glorious disciples were illumined at the Supper during the washing of the feet. But ungodly Judas was darkened by the disease of avarice, and he delivered you, the righteous judge, to lawless judges. Behold, lover of money, how for the sake of money he hanged himself. Flee from greed which made him dare to do such things against his Master. Glory to you, Lord, who are good towards all people."
 
-trMA.C1Poet = poets_en_US_holycross.KosmaMonachou
-trMA.C1Acrostic.text = ""
+trMA.C1.poet = poets_en_US_holycross.KosmaMonachou
+trMA.C1.acrostic = ""
 
 trMA.Ode1C1H.ode = misc_en_US_holycross.Ode1
 trMA.Ode1C1H.mode = misc_en_US_holycross.Mode6

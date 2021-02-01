@@ -114,16 +114,16 @@ peMA.PostGospelIdiomelon.mode = misc_en_US_holycross.Mode6
 peMA.PostGospelIdiomelon.melody = misc_en_US_holycross.Idiomelon
 peMA.PostGospelIdiomelon.text = peVE.Aposticha3.text
 
-peMA.C1Poet = poets_en_US_holycross.KosmaMonachou
-peMA.C1Acrostic.text = ""
+peMA.C1.poet = poets_en_US_holycross.KosmaMonachou
+peMA.C1.acrostic = ""
 
-peMA.C2Poet = poets_en_US_holycross.KyriouIoannouArkla
-peMA.C2Acrostic.text = ""
-peMA.C2Acrostic1.text = ""
-peMA.C2Acrostic2.text = ""
-peMA.C2Acrostic3.text = ""
-peMA.C2Acrostic4.text = ""
-peMA.C2Acrostic5.text = ""
+peMA.C2.poet = poets_en_US_holycross.KyriouIoannouArkla
+peMA.C2.acrostic = ""
+peMA.C2.Acrostic1.acrostic = ""
+peMA.C2.Acrostic2.acrostic = ""
+peMA.C2.Acrostic3.acrostic = ""
+peMA.C2.Acrostic4.acrostic = ""
+peMA.C2.Acrostic5.acrostic = ""
 
 peMA.Ode1C1H.ode = misc_en_US_holycross.Ode1
 peMA.Ode1C1H.mode = misc_en_US_holycross.Mode7

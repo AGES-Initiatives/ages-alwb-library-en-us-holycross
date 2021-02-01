@@ -4,8 +4,8 @@ eo.Doxasticon.mode = misc_en_US_holycross.Mode2
 eo.Doxasticon.text = ""
 
 eo.Exaposteilarion.mode = misc_en_US_holycross.Mode2
-eo.Exaposteilarion.melody = he.a.m2_en_US_holycross.ToisMathitaisSynelthomen.name
+eo.Exaposteilarion.melody = he.a.m2_en_US_holycross.ToisMathitaisSynelthomen.incipit
 eo.Exaposteilarion.text = ""
 eo.Theotokion.mode = misc_en_US_holycross.Mode2
-eo.Theotokion.melody = he.a.m2_en_US_holycross.ToisMathitaisSynelthomen.name
+eo.Theotokion.melody = he.a.m2_en_US_holycross.ToisMathitaisSynelthomen.incipit
 eo.Theotokion.text = ""

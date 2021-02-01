@@ -56,7 +56,7 @@ trVE.Apolytikion1.mode = misc_en_US_holycross.Mode1
 trVE.Apolytikion1.melody = ""
 trVE.Apolytikion1.text = ""
 
-trCO.C1Poet = poets_en_US_holycross.AndreouKritis
+trCO.C1.poet = poets_en_US_holycross.AndreouKritis
 trCO.C1.title = "Canon for Lazarus"
 trCO.C1.verse = prayers_en_US_holycross.verse_God.text
 
@@ -498,9 +498,9 @@ trMA.Kathisma21.mode = misc_en_US_holycross.Mode5
 trMA.Kathisma21.melody = he.a.m5_en_US_holycross.TonSynanarchonLogon.notmetered
 trMA.Kathisma21.text = ""
 
-trMA.C1Poet = poets_en_US_holycross.Theofanous
+trMA.C1.poet = poets_en_US_holycross.Theofanous
 
-trMA.C2Poet = poets_en_US_holycross.KosmaMonachou
+trMA.C2.poet = poets_en_US_holycross.KosmaMonachou
 
 trMA.Ode1C1H.ode = misc_en_US_holycross.Ode1
 trMA.Ode1C1H.mode = misc_en_US_holycross.Mode8
@@ -711,9 +711,9 @@ trMA.Ode5K.mode = misc_en_US_holycross.Mode8
 trMA.Ode5K.melody = misc_en_US_holycross.Heirmos
 trMA.Ode5K.text = he.h.m8_en_US_holycross.InaTiMeAposo.text
 
-trMA.C3Poet = poets_en_US_holycross.KosmaMonachou
+trMA.C3.poet = poets_en_US_holycross.KosmaMonachou
 
-trMA.C4Poet = poets_en_US_holycross.IoannouMonachou
+trMA.C4.poet = poets_en_US_holycross.IoannouMonachou
 
 trMA.Ode6C1H.ode = misc_en_US_holycross.Ode6
 trMA.Ode6C1H.mode = misc_en_US_holycross.Mode8

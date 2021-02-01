@@ -331,8 +331,8 @@ trHW.BeatitudesT.text = ""
 
 trHW.Prokeimenon.text = "" //for media
 
-trMA.C1Poet = poets_en_US_holycross.KosmaMonachou
-trMA.C1Acrostic.text = ""
+trMA.C1.poet = poets_en_US_holycross.KosmaMonachou
+trMA.C1.acrostic = ""
 
 trMA.Ode5C1H.ode = misc_en_US_holycross.Ode5
 trMA.Ode5C1H.mode = misc_en_US_holycross.Mode6
@@ -496,8 +496,8 @@ trMA.AposBoth.text = ""
 trHW.Apolytikion1.mode = misc_en_US_holycross.Mode4
 trHW.Apolytikion1.text = trHW.Antiphon15Kathisma.text
 
-trH.Hours.title = ""
-trH.Hours.Poet = poets_en_US_holycross.KyrillouAlexandreias
+trHR.title = ""
+trHR.poet = poets_en_US_holycross.KyrillouAlexandreias
 
 trH1.title = ""
 

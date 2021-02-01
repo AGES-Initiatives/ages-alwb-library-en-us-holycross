@@ -86,10 +86,10 @@ ocMA.Kathisma24.mode = misc_en_US_holycross.Mode2
 ocMA.Kathisma24.melody = ""
 ocMA.Kathisma24.text = oc.m2.d2_en_US_holycross.ocMA.ApolTheotokion.text
 
-ocMA.C1Acrostic.text = ""
+ocMA.C1.acrostic = ""
 
-ocMA.C2Poet = poets_en_US_holycross.Theofanous
-ocMA.C2Acrostic.text = ""
+ocMA.C2.poet = poets_en_US_holycross.Theofanous
+ocMA.C2.acrostic = ""
 
 ocMA.OdeW1C1H.mode = misc_en_US_holycross.Mode2
 ocMA.OdeW1C1H.ode = misc_en_US_holycross.Ode1

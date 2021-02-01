@@ -43,7 +43,7 @@ trVE.SticGlory.mode = misc_en_US_holycross.Mode7
 trVE.SticGlory.melody = misc_en_US_holycross.Idiomelon
 trVE.SticGlory.text = tr.d066_en_US_holycross.trMA.AposGlory.text
 
-trCO.C1.Poet = poets_en_US_holycross.AndreouKritis
+trCO.C1.poet = poets_en_US_holycross.AndreouKritis
 
 trCO.Ode3C1H.ode = misc_en_US_holycross.Ode3
 trCO.Ode3C1H.mode = misc_en_US_holycross.Mode2
@@ -227,8 +227,8 @@ trMA.Kathisma31.mode = misc_en_US_holycross.Mode1
 trMA.Kathisma31.melody = he.a.m1_en_US_holycross.TonTafonSouSotir.notmetered
 trMA.Kathisma31.text = ""
 
-trMA.C1Poet = poets_en_US_holycross.KosmaMonachou
-trMA.C1Acrostic.text = ""
+trMA.C1.poet = poets_en_US_holycross.KosmaMonachou
+trMA.C1.acrostic = ""
 
 trMA.Ode3C1H.ode = misc_en_US_holycross.Ode3
 trMA.Ode3C1H.mode = misc_en_US_holycross.Mode2

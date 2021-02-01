@@ -4,20 +4,20 @@ he.title = ""
 
 ChairoisAskitikon.mode = misc_en_US_holycross.Mode5
 ChairoisAskitikon.notmetered = "N/M (Rejoice.)"
-ChairoisAskitikon.name = ""
+ChairoisAskitikon.incipit = ""
 ChairoisAskitikon.text = ""
 
 LampeiSimeron.mode = misc_en_US_holycross.Mode5
 LampeiSimeron.notmetered = "N/M ()"
-LampeiSimeron.name = ""
+LampeiSimeron.incipit = ""
 LampeiSimeron.text = ""
 
 OsiePater.mode = misc_en_US_holycross.Mode5
 OsiePater.notmetered = "N/M (God-bearing Father.)"
-OsiePater.name = ""
+OsiePater.incipit = ""
 OsiePater.text = ""
 
 TonSynanarchonLogon.mode = misc_en_US_holycross.Mode5
 TonSynanarchonLogon.notmetered = "N/M (Let us worship the Word.)"
-TonSynanarchonLogon.name = ""
+TonSynanarchonLogon.incipit = ""
 TonSynanarchonLogon.text = ""

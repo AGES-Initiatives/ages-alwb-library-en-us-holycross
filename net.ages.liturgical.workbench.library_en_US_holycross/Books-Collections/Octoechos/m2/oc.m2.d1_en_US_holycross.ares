@@ -15,15 +15,15 @@ ocSV.Dogmatic.melody = ""
 ocSV.Dogmatic.text = "Ὢ τοῦ μεγίστου μυστηρίου! βλέπων τὰ θαύματα, ἀνακηρύττω τὴν Θεότητα, οὐκ ἀρνοῦμαι τὴν ἀνθρωπότητα· ὁ γὰρ Ἐμμανουὴλ φύσεως μὲν πύλας ἤνοιξεν, ὡς φιλάνθρωπος, παρθενίας δὲ κλεῖθρα οὐ διέρρηξεν, ὡς Θεός, ἀλλ' οὕτως ἐκ μήτρας προῆλθεν, ὡς δι' ἀκοῆς εἰσῆλθεν, οὕτως ἐσαρκώθη, ὡς συνελήφθη, ἀπαθῶς εἰσῆλθεν, ἀφράστως ἐξῆλθε, κατὰ τὸν Προφήτην τὸν λέγοντα. Αὕτη ἡ πύλη κεκλεισμένη ἔσται, οὐδεὶς οὐ μὴ διέλθῃ δι' αὐτῆς, εἰμὴ μόνος Κύριος ὁ Θεὸς Ἰσραήλ, ὁ ἔχων τὸ μέγα ἔλεος."
 
 ocSV.Aposticha1.mode = misc_en_US_holycross.Mode2
-ocSV.Aposticha1.melody= he.a.m2_en_US_holycross.OteEkTouXylou.name
+ocSV.Aposticha1.melody = he.a.m2_en_US_holycross.OteEkTouXylou.incipit
 ocSV.Aposticha1.text = "Πάντων θλιβομένων ἡ χαρά, καὶ ἀδικουμένων προστάτις, καὶ πενομένων τροφή, ξένων τε παράκλησις, καὶ βακτηρία τυφλῶν, ἀσθενούντων ἐπίσκεψις, καταπονουμένων, σκέπη καὶ ἀντίληψις, καὶ ὀρφανῶν βοηθός, Μήτηρ τοῦ Θεοῦ τοῦ Ὑψίστου, σὺ ὑπάρχεις, Ἄχραντε, σπεῦσον, δυσωποῦμεν σῴζεσθαι τοὺς δούλους σου."
 
 ocSV.Aposticha2.mode = misc_en_US_holycross.Mode2
-ocSV.Aposticha2.melody= he.a.m2_en_US_holycross.OteEkTouXylou.name
+ocSV.Aposticha2.melody = he.a.m2_en_US_holycross.OteEkTouXylou.incipit
 ocSV.Aposticha2.text = "Πᾶσαν ἀνομίαν ἀφειδῶς, πᾶσαν ἀκρατῶς ἁμαρτίαν, ὁ τάλας ἔπραξα, πάσης κατακρίσεως, ἄξιος πέφυκα, ἀφορμὰς μετανοίας μοι παράσχου Παρθένε, ὅπως ἀκατάκριτος, ἐκεῖ ὀφθήσωμαι· σὲ γὰρ ἐπιγράφομαι, πρέσβυν, σὲ ἐπικαλοῦμαι προστάτιν, μή με καταισχύνῃς θεονύμφευτε."
 
 ocSV.Aposticha3.mode = misc_en_US_holycross.Mode2
-ocSV.Aposticha3.melody= he.a.m2_en_US_holycross.OteEkTouXylou.name
+ocSV.Aposticha3.melody = he.a.m2_en_US_holycross.OteEkTouXylou.incipit
 ocSV.Aposticha3.text = "Ἄλλο καταφύγιον Ἁγνή, πρὸς τὸν ποιητὴν καὶ Δεσπότην, οὐκ εὐποροῦμεν ἡμεῖς, εἰμὴ σὲ Θεόνυμφε, μὴ ἀπορρίψῃς ἡμᾶς, τῆς θερμῆς προστασίας σου, μηδὲ καταισχύνῃς, πόθῳ τοὺς προστρέχοντας, ὑπὸ τὴν σκέπην σου, Μήτηρ τοῦ Θεοῦ ἡμῶν σπεῦσον, δεῖξόν σου ἐλέους τὸν πλοῦτον, καὶ τῆς νῦν ὀργῆς ἡμᾶς διάσωσον."
 
 ocSV.AposDogmatic.mode = misc_en_US_holycross.Mode2
@@ -96,8 +96,8 @@ ocVE.ApolTheotokionVM.mode = misc_en_US_holycross.Mode2
 ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = ""
 
-ocMO.Poet = poets_en_US_holycross.MitrofanousSmirnis
-ocMO.Acrostic.text = ""
+ocMO.poet = poets_en_US_holycross.MitrofanousSmirnis
+ocMO.acrostic = ""
 
 ocMO.Ode11.mode = misc_en_US_holycross.Mode2
 ocMO.Ode11.ode = misc_en_US_holycross.Ode1
@@ -203,11 +203,11 @@ ocMO.Ode6T.melody = he.h.m2_en_US_holycross.EnAvyssoPtaismaton.notmetered
 ocMO.Ode6T.text = ""
 
 ocMO.Kathisma21.mode = misc_en_US_holycross.Mode2
-ocMO.Kathisma21.melody = he.a.m2_en_US_holycross.EfsplagchniasYparchousa.name
+ocMO.Kathisma21.melody = he.a.m2_en_US_holycross.EfsplagchniasYparchousa.incipit
 ocMO.Kathisma21.text = ""
 
 ocMO.Kathisma22.mode = misc_en_US_holycross.Mode2
-ocMO.Kathisma22.melody = he.a.m2_en_US_holycross.EfsplagchniasYparchousa.name
+ocMO.Kathisma22.melody = he.a.m2_en_US_holycross.EfsplagchniasYparchousa.incipit
 ocMO.Kathisma22.text = ""
 
 ocMO.Ode71.mode = misc_en_US_holycross.Mode2
@@ -327,12 +327,12 @@ ocMA.Antiphon33.text = ""
 
 ocMA.MM.Prokeimenon.text = properties_en_US_holycross.media.key
 
-ocMA.C1Poet = poets_en_US_holycross.IoannouMonachou
-ocMA.C2Poet = poets_en_US_holycross.IoannouMonachou
-ocMA.C2Acrostic.text = ""
+ocMA.C1.poet = poets_en_US_holycross.IoannouMonachou
+ocMA.C2.poet = poets_en_US_holycross.IoannouMonachou
+ocMA.C2.acrostic = ""
 
-ocMA.C3Poet = poets_en_US_holycross.IoannouMonachou
-ocMA.C3Acrostic.text = ""
+ocMA.C3.poet = poets_en_US_holycross.IoannouMonachou
+ocMA.C3.acrostic = ""
 
 ocMA.OdeS1C1H.mode = misc_en_US_holycross.Mode2
 ocMA.OdeS1C1H.ode = misc_en_US_holycross.Ode1
@@ -381,7 +381,7 @@ ocMA.OdeS1C33.text = ""
 
 ocMA.OdeS3C1H.mode = misc_en_US_holycross.Mode2
 ocMA.OdeS3C1H.ode = misc_en_US_holycross.Ode3
-ocMA.OdeS3C1H.melody= misc_en_US_holycross.Heirmos
+ocMA.OdeS3C1H.melody = misc_en_US_holycross.Heirmos
 ocMA.OdeS3C1H.text= he.h.m2_en_US_holycross.ExinthisenIErimos.text
 
 ocMA.OdeS3C11.mode = misc_en_US_holycross.Mode2
@@ -421,7 +421,7 @@ ocMA.OdeS3C32.text = ""
 
 ocMA.OdeS4C1H.mode = misc_en_US_holycross.Mode2
 ocMA.OdeS4C1H.ode = misc_en_US_holycross.Ode4
-ocMA.OdeS4C1H.melody= misc_en_US_holycross.Heirmos
+ocMA.OdeS4C1H.melody = misc_en_US_holycross.Heirmos
 ocMA.OdeS4C1H.text= he.h.m2_en_US_holycross.ElilythasEkParthenou.text
 
 ocMA.OdeS4C11.mode = misc_en_US_holycross.Mode2
@@ -461,7 +461,7 @@ ocMA.OdeS4C32.text = ""
 
 ocMA.OdeS5C1H.mode = misc_en_US_holycross.Mode2
 ocMA.OdeS5C1H.ode = misc_en_US_holycross.Ode5
-ocMA.OdeS5C1H.melody= misc_en_US_holycross.Heirmos
+ocMA.OdeS5C1H.melody = misc_en_US_holycross.Heirmos
 ocMA.OdeS5C1H.text= he.h.m2_en_US_holycross.MesitisTheou.text
 
 ocMA.OdeS5C11.mode = misc_en_US_holycross.Mode2
@@ -501,7 +501,7 @@ ocMA.OdeS5C32.text = ""
 
 ocMA.OdeS6C1H.mode = misc_en_US_holycross.Mode2
 ocMA.OdeS6C1H.ode = misc_en_US_holycross.Ode6
-ocMA.OdeS6C1H.melody= misc_en_US_holycross.Heirmos
+ocMA.OdeS6C1H.melody = misc_en_US_holycross.Heirmos
 ocMA.OdeS6C1H.text= he.h.m2_en_US_holycross.EnAvyssoPtaismaton.text
 
 ocMA.OdeS6C11.mode = misc_en_US_holycross.Mode2
@@ -548,7 +548,7 @@ ocMA.Oikos.text = ""
 
 ocMA.OdeS7C1H.mode = misc_en_US_holycross.Mode2
 ocMA.OdeS7C1H.ode = misc_en_US_holycross.Ode7
-ocMA.OdeS7C1H.melody= misc_en_US_holycross.Heirmos
+ocMA.OdeS7C1H.melody = misc_en_US_holycross.Heirmos
 ocMA.OdeS7C1H.text= he.h.m2_en_US_holycross.AntitheonProstagma.text
 
 ocMA.OdeS7C11.mode = misc_en_US_holycross.Mode2
@@ -598,7 +598,7 @@ ocMA.OdeS7C33.text = ""
 
 ocMA.OdeS8C1H.mode = misc_en_US_holycross.Mode2
 ocMA.OdeS8C1H.ode = misc_en_US_holycross.Ode8
-ocMA.OdeS8C1H.melody= misc_en_US_holycross.Heirmos
+ocMA.OdeS8C1H.melody = misc_en_US_holycross.Heirmos
 ocMA.OdeS8C1H.text= he.h.m2_en_US_holycross.KaminosPote.text
 
 ocMA.OdeS8C11.mode = misc_en_US_holycross.Mode2
@@ -638,7 +638,7 @@ ocMA.OdeS8C32.text = ""
 
 ocMA.OdeS9C1H.mode = misc_en_US_holycross.Mode2
 ocMA.OdeS9C1H.ode = misc_en_US_holycross.Ode9
-ocMA.OdeS9C1H.melody= misc_en_US_holycross.Heirmos
+ocMA.OdeS9C1H.melody = misc_en_US_holycross.Heirmos
 ocMA.OdeS9C1H.text= he.h.m2_en_US_holycross.AnarchouGennitoros.text
 
 ocMA.OdeS9C11.mode = misc_en_US_holycross.Mode2

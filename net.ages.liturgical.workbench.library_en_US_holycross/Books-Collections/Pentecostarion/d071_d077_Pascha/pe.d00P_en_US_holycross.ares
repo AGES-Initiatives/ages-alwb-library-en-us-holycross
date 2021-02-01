@@ -37,10 +37,10 @@ pePA.ChristIsRisenShort.text = "" //for media
 
 //pePA.PaschaVerse4.text = ""
 
-pePA.Canon.Poet = //poets_en_US_holycross.IoannouTouDamaskinou
-pePA.Canon.text = "" //for media of entire canon
+pePA.C1.poet = //poets_en_US_holycross.IoannouTouDamaskinou
+pePA.C1.text = "" //for media of entire canon
 
-pePA.CanonT.Acrostic = ""
+pePA.CTh.acrostic = ""
 
 pePA.Ode1H.ode = misc_en_US_holycross.Ode1
 pePA.Ode1H.mode = misc_en_US_holycross.Mode1
@@ -95,7 +95,7 @@ pePA.Ode3T2.mode = misc_en_US_holycross.Mode1
 pePA.Ode3T2.melody = //he.h.m1_en_US_holycross.DeftePomaPiomen.notmetered
 pePA.Ode3T2.text = ""
 
-pePA.Hypakoe.mode =misc_en_US_holycross.Mode4
+pePA.Hypakoe.mode = misc_en_US_holycross.Mode4
 pePA.Hypakoe.text = ""
 
 pePA.Ode4H.ode = misc_en_US_holycross.Ode4

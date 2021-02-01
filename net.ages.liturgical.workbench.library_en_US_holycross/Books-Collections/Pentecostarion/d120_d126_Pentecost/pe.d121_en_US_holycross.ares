@@ -17,7 +17,7 @@ peVE.Stichera01.mode = pe.d120_en_US_holycross.peMA.Lauds1.mode
 peVE.Stichera01.melody = ""
 peVE.Stichera01.text = pe.d120_en_US_holycross.peMA.Lauds1.text
 
-peVE.Stichera02.mode =pe.d120_en_US_holycross.peMA.Lauds2.mode
+peVE.Stichera02.mode = pe.d120_en_US_holycross.peMA.Lauds2.mode
 peVE.Stichera02.melody = ""
 peVE.Stichera02.text = pe.d120_en_US_holycross.peMA.Lauds2.text
 
@@ -135,7 +135,7 @@ peMA.Exaposteilarion2.mode = pe.d120_en_US_holycross.peMA.Exaposteilarion2.mode
 peMA.Exaposteilarion2.melody = pe.d120_en_US_holycross.peMA.Exaposteilarion2.melody
 peMA.Exaposteilarion2.text = pe.d120_en_US_holycross.peMA.Exaposteilarion2.text
 
-peMA.Lauds1.mode =pe.d120_en_US_holycross.peVE.Stichera05.mode
+peMA.Lauds1.mode = pe.d120_en_US_holycross.peVE.Stichera05.mode
 peMA.Lauds1.melody = pe.d120_en_US_holycross.peVE.Stichera05.melody
 peMA.Lauds1.text = pe.d120_en_US_holycross.peVE.Stichera05.text
 

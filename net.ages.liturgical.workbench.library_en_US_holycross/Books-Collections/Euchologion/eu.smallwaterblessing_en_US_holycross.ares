@@ -176,7 +176,7 @@ euSWB.Key0302.mode = misc_en_US_holycross.Mode8
 euSWB.Key0302.text = "O Christ, the Fountain, Who did sprinkle the waters of healing in the all-holy Temple of the Virgin, You, today, through the sprinkling of blessing did expel the maladies of ailing, O You Physician of our souls and bodies."
 
 euSWB.Key0303.mode = misc_en_US_holycross.Mode8
-euSWB.Key0303.meody = ""
+euSWB.Key0303.melody = ""
 euSWB.Key0303.text = "As a Virgin you knew not man, but gave birth; and as a Mother unwedded, a Virgin did you remain; entreat then, O Mary Theotokos, Christ our God that He will save us."
 
 euSWB.Key0304.mode = misc_en_US_holycross.Mode8

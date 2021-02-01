@@ -4,80 +4,80 @@ he.title = ""
 
 ApostoloiEkPeraton.mode = misc_en_US_holycross.Mode3
 ApostoloiEkPeraton.notmetered = "N/M (Apostles assembled.)"
-ApostoloiEkPeraton.name = ""
+ApostoloiEkPeraton.incipit = ""
 ApostoloiEkPeraton.text = ""
 
 EnPnevmatiToIero.mode = misc_en_US_holycross.Mode3
 EnPnevmatiToIero.notmetered = "N/M (The Elder.)"
-EnPnevmatiToIero.name = ""
+EnPnevmatiToIero.incipit = ""
 EnPnevmatiToIero.text = ""
 
 EpefaniOSotir.mode = misc_en_US_holycross.Mode3
 EpefaniOSotir.notmetered = "N/M (Our Savior, grace and truth.)"
-EpefaniOSotir.name = ""
+EpefaniOSotir.incipit = ""
 EpefaniOSotir.text = ""
 
 EpeskepsatoImas.mode = misc_en_US_holycross.Mode3
 EpeskepsatoImas.notmetered = "N/M (Our Savior from on high.)"
-EpeskepsatoImas.name = ""
+EpeskepsatoImas.incipit = ""
 EpeskepsatoImas.text = ""
 
 FosAnalloioton.mode = misc_en_US_holycross.Mode3
 FosAnalloioton.notmetered = "N/M (O Logos, light unaltered.)"
-FosAnalloioton.name = ""
+FosAnalloioton.incipit = ""
 FosAnalloioton.text = ""
 
 IParthenosSimeron.mode = misc_en_US_holycross.Mode3
 IParthenosSimeron.notmetered = "N/M (On this day.)"
-IParthenosSimeron.name = ""
+IParthenosSimeron.incipit = ""
 IParthenosSimeron.text = ""
 
 MegaliTonMartyronSou.mode = misc_en_US_holycross.Mode3
 MegaliTonMartyronSou.notmetered = "N/M (The power of Your martyr Saints.)"
-MegaliTonMartyronSou.name = ""
+MegaliTonMartyronSou.incipit = ""
 MegaliTonMartyronSou.text = ""
 
 MegaliTouStavrouSou.mode = misc_en_US_holycross.Mode3
 MegaliTouStavrouSou.notmetered = "N/M (The power of Your holy Cross.)"
-MegaliTouStavrouSou.name = ""
+MegaliTouStavrouSou.incipit = ""
 MegaliTouStavrouSou.text = ""
 
 OOuranonToisAstrois.mode = misc_en_US_holycross.Mode3
 OOuranonToisAstrois.notmetered = "N/M (Having embellished.)"
-OOuranonToisAstrois.name = ""
+OOuranonToisAstrois.incipit = ""
 OOuranonToisAstrois.text = ""
 
 SosonMeKyrie.mode = misc_en_US_holycross.Mode3
 SosonMeKyrie.notmetered = "N/M (Save me, O Lord.)"
-SosonMeKyrie.name = ""
+SosonMeKyrie.incipit = ""
 SosonMeKyrie.text = ""
 
 StavrofanosMoysis.mode = misc_en_US_holycross.Mode3
 StavrofanosMoysis.notmetered = "N/M (When Moses stood.)"
-StavrofanosMoysis.name = ""
+StavrofanosMoysis.incipit = ""
 StavrofanosMoysis.text = ""
 
 TheiasPisteos.mode = misc_en_US_holycross.Mode3
 TheiasPisteos.notmetered = "N/M (Your confession.)"
-TheiasPisteos.name = ""
+TheiasPisteos.incipit = ""
 TheiasPisteos.text = ""
 
 TinOraiotita.mode = misc_en_US_holycross.Mode3
 TinOraiotita.notmetered = "N/M (Seeing how beautiful.)"
-TinOraiotita.name = ""
+TinOraiotita.incipit = ""
 TinOraiotita.text = ""
 
 ToTypoTouStavrou.mode = misc_en_US_holycross.Mode3
 ToTypoTouStavrou.notmetered = "N/M ()"
-ToTypoTouStavrou.name = ""
+ToTypoTouStavrou.incipit = ""
 ToTypoTouStavrou.text = ""
 
 TonListinAfthimeron.mode = misc_en_US_holycross.Mode3
 TonListinAfthimeron.notmetered = "N/M (On the very same day.)"
-TonListinAfthimeron.name = ""
+TonListinAfthimeron.incipit = ""
 TonListinAfthimeron.text = ""
 
 TonNymfonaSouVlepo.mode = misc_en_US_holycross.Mode3
 TonNymfonaSouVlepo.notmetered = "N/M (O my Savior, now I see.)"
-TonNymfonaSouVlepo.name = ""
+TonNymfonaSouVlepo.incipit = ""
 TonNymfonaSouVlepo.text = ""

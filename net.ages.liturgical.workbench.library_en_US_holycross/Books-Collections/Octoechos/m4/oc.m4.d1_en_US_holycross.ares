@@ -62,8 +62,8 @@ ocVE.ApolTheotokionVM.mode = misc_en_US_holycross.Mode4
 ocVE.ApolTheotokionVM.melody = ""
 ocVE.ApolTheotokionVM.text = ""
 
-ocMO.Poet = poets_en_US_holycross.MitrofanousSmirnis
-ocMO.Acrostic.text = ""
+ocMO.poet = poets_en_US_holycross.MitrofanousSmirnis
+ocMO.acrostic = ""
 
 ocMO.Ode11.mode = misc_en_US_holycross.Mode4
 ocMO.Ode11.ode = misc_en_US_holycross.Ode1
@@ -294,11 +294,11 @@ ocMA.Antiphon33.text = ""
 
 ocMA.MM.Prokeimenon.text = properties_en_US_holycross.media.key
 
-ocMA.C1Poet = poets_en_US_holycross.IoannouTouDamaskinou
+ocMA.C1.poet = poets_en_US_holycross.IoannouTouDamaskinou
 
-ocMA.C2Acrostic.text = ""
+ocMA.C2.acrostic = ""
 
-ocMA.C3Acrostic.text = ""
+ocMA.C3.acrostic = ""
 
 ocMA.OdeS1C1H.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS1C1H.ode = misc_en_US_holycross.Ode1
