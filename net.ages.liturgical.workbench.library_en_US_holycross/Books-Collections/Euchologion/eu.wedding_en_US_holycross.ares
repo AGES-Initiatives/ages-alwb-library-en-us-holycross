@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = eu.wedding_en_US_holycross 
+A_Resource_Whose_Name = eu.wedding_en_US_holycross
 
 euWED.title = "Holy Matrimony"
 euWED.translator1 = "Prayers by Holy Cross Press."
@@ -34,12 +34,15 @@ euWED.Key0304.text = "For blessed is Your Holy Name, and glorified is the Kingdo
 
 euWED.Key0306.title = "The Dance of Isaiah"
 euWED.Key0306.mode = "Tone 5."
+euWED.Key0306.incipit = "O Isaiah, dance your joy,"
 euWED.Key0306.text = "O Isaiah, dance your joy, for the Virgin was indeed with child; and brought to birth a Son, that Emmanuel, Who came as both God and man; Day-at-the-Dawn is the Name He bears, and by extolling Him, We hail the Virgin as blessed."
 
 euWED.Key0307.mode = ""
+euWED.Key0307.incipit = "Hear us, you martyred Saints,"
 euWED.Key0307.text = "Hear us, you martyred Saints, who fought the good fight, gaining crowns: entreat the Lord to shed His tender mercy on our souls."
 
 euWED.Key0308.mode = ""
+euWED.Key0308.incipit = "Glory to You, O Christ"
 euWED.Key0308.text = "Glory to You, O Christ our God, Your Apostles' proudest boast and treasure of Your Martyrs' joy, Who to all proclaimed the Consubstantial Trinity."
 
 euWED.Key0309.text = "Be magnified, O Bridegroom, as Abraham, and blessed as Isaac, and increased as was Jacob. Go your way in peace, performing in righteousness the commandments of God."

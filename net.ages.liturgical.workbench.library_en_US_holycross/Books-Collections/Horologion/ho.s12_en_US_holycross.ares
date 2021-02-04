@@ -15,7 +15,7 @@ hoCO.Key0103.title = ""
 hoCO.Key0201.title = ""
 
 hoCO.Key0202.title = ""
- 
+
 hoCO.Key0203.title = ""
 
 hoCO.Key0300.mode = misc_en_US_holycross.Mode6
@@ -26,40 +26,68 @@ hoCO.Key0402.text = "Now that the day has gone by, I glorify you, Master; I ask 
 hoCO.Key0403.text = "Having traversed the day, I sing hymns to you, O Holy One; I ask of you to grant me the evening and the night free of plots, * O my Savior, and save me."
 
 hoCO.Key0501.mode = misc_en_US_holycross.Mode6
+hoCO.Key0501.incipit = ""
 hoCO.Key0501.text = ""
+hoCO.Key0502.incipit = ""
 hoCO.Key0502.text = ""
+hoCO.Key0503.incipit = ""
 hoCO.Key0503.text = ""
+hoCO.Key0504.incipit = ""
 hoCO.Key0504.text = ""
+hoCO.Key0505.incipit = ""
 hoCO.Key0505.text = ""
+hoCO.Key0506.incipit = ""
 hoCO.Key0506.text = ""
+hoCO.Key0507.incipit = ""
 hoCO.Key0507.text = ""
+hoCO.Key0508.incipit = ""
 hoCO.Key0508.text = ""
+hoCO.Key0509.incipit = ""
 hoCO.Key0509.text = ""
+hoCO.Key0510.incipit = ""
 hoCO.Key0510.text = ""
 hoCO.Key0511.title = "The Creed"
+hoCO.Key0511.incipit = prayers_en_US_holycross.Pistevo.incipit
 hoCO.Key0511.text = prayers_en_US_holycross.Pistevo.text
 
 hoCO.Key0601.mode = misc_en_US_holycross.Mode6
+hoCO.Key0601.incipit = ""
 hoCO.Key0601.text = ""
+hoCO.Key0602.incipit = ""
 hoCO.Key0602.text = ""
+hoCO.Key0603.incipit = ""
 hoCO.Key0603.text = ""
+hoCO.Key0604.incipit = ""
 hoCO.Key0604.text = ""
+hoCO.Key0605.incipit = ""
 hoCO.Key0605.text = ""
+hoCO.Key0606.incipit = ""
 hoCO.Key0606.text = ""
+hoCO.Key0607.incipit = ""
 hoCO.Key0607.text = ""
+hoCO.Key0608.incipit = ""
 hoCO.Key0608.text = ""
+hoCO.Key0609.incipit = ""
 hoCO.Key0609.text = ""
 
 hoCO.Key0701.mode = misc_en_US_holycross.Mode2
+hoCO.Key0701.incipit = "Illumine my eyes, O Christ,"
 hoCO.Key0701.text = "Illumine my eyes, O Christ, my God, lest I sleep to death; lest my enemy say: \"I prevailed over him.\""
+hoCO.Key0702.incipit = "O God, be the protector"
 hoCO.Key0702.text = "O God, be the protector of my soul, for I walk in the midst of many snares; deliver me from them and save me, O gracious one, as a good friend of man."
+hoCO.Key0703.incipit = "Since we have no standing"
 hoCO.Key0703.text = "Since we have no standing because of our many sins, urgently plead with him who was born of you, O Virgin Theotokos; for the pleadings of a Mother have much weight toward the favor of the Master; do not overlook the pleas of us sinners, O most venerable one, for he who condescended to suffer for us in the flesh is merciful and has the power to save us."
 hoCO.Key0704.rubric = "On Tuesdays and Thursdays read the following Troparia:"
 hoCO.Key0704.mode = misc_en_US_holycross.Mode8
+hoCO.Key0704.incipit = "O Lord, you know the"
 hoCO.Key0704.text = "O Lord, you know the wakefulness of my enemies, and the weakness of my miserable flesh, for you made man. Therefore, into your hands I shall entrust my spirit. Cover me with the wings of your goodness, lest I sleep unto death; illumine my inner eyes with the delight of your divine words; and awaken me at the right time, that I may sing your glory, as the only good one and true friend of man."
+hoCO.Key0705.incipit = "Look graciously upon me, and"
 hoCO.Key0705.text = "Look graciously upon me, and have mercy on me, as you do for those who love your name."
+hoCO.Key0706.incipit = "O how awesome is your"
 hoCO.Key0706.text = "O how awesome is your judgment, Lord! With the Angels standing by, the humans being brought in, the books of life being opened, the works being uncovered and the thoughts being searched! What judgment shall be on me who has been conceived in sin? Who shall extinguish the flames of my fire? Who shall illumine my darkness: Unless you, Lord, have mercy on me as a true friend of man?"
+hoCO.Key0707.incipit = oc.m8.d2_en_US_holycross.ocMA.Aposticha2.incipit
 hoCO.Key0707.text = oc.m8.d2_en_US_holycross.ocMA.Aposticha2.text
+hoCO.Key0708.incipit = "Trusting in your unashamable hope,"
 hoCO.Key0708.text = "Trusting in your unashamable hope, O Theotokos, I shall be saved; possessing your protection. Most pure one, I shall not be afraid; I shall pursue my enemies and drive them away wearing only your refuge as a breastplate; and asking for your all powerful help, I cry to you: O Lady, save me, through your intercessions and raise me from this dark slumber through the power of the Son and God born from you, so that I may sing your glory."
 
 hoCO.Key0709.title = "Prayer of St. Basil"
@@ -79,6 +107,7 @@ hoCO.Key0804.mode = misc_en_US_holycross.Mode6
 //hoCO.Key0806.text = oc.m6.d5_en_US_holycross.ocMA.Kathisma13.text
 
 hoCO.Key0807.title = ""
+hoCO.Key0807.incipit = ho.s05_en_US_holycross.hoH3.Prayer.incipit
 hoCO.Key0807.text = ho.s05_en_US_holycross.hoH3.Prayer.text
 
 hoCO.Key0901.title = ""
@@ -86,18 +115,24 @@ hoCO.Key0901.title = ""
 hoCO.Key0902.title = ""
 
 hoCO.Key0903.title = ho.s03_en_US_holycross.hoMA.SmallDoxology.title
+hoCO.Key0903.incipit = ho.s03_en_US_holycross.hoMA.SmallDoxology1.incipit
 hoCO.Key0903.text = ho.s03_en_US_holycross.hoMA.SmallDoxology1.text
 hoCO.Key0904.text = ho.s03_en_US_holycross.hoMA.SmallDoxology1e
+hoCO.Key0905.incipit = ho.s03_en_US_holycross.hoMA.SmallDoxology2.incipit
 hoCO.Key0905.text = ho.s03_en_US_holycross.hoMA.SmallDoxology2.text
 hoCO.Key0906.text = ho.s03_en_US_holycross.hoMA.SmallDoxology2n
+hoCO.Key0907.incipit = ho.s03_en_US_holycross.hoMA.SmallDoxology3.incipit
 hoCO.Key0907.text = ho.s03_en_US_holycross.hoMA.SmallDoxology3.text
 hoCO.Key0908.rubric = ""
 hoCO.Key0909.rubric = ""
 hoCO.Key0910.rubric = ""
 
 hoCO.Key1001.mode = misc_en_US_holycross.Mode6
+hoCO.Key1001.incipit = ""
 hoCO.Key1001.text = ""
+hoCO.Key1009.incipit = ""
 hoCO.Key1009.text = ""
+hoCO.Key1010.incipit = ""
 hoCO.Key1010.text = ""
 
 hoCO.Key1011.mode = misc_en_US_holycross.Mode2
@@ -105,9 +140,12 @@ hoCO.Key1011.text = "Lord, if we did not have your Saints as intercessors, and y
 
 hoCO.Key1012.text = "Great is the multitude of my errors, O Mother of God; to you have I fled, O Pure one, seeking salvation; visit my ailing soul, and intercede with your Son and our God, to grant me forgiveness for all the evils I have done, O only blessed one." //hoCO.Key1012.text = oc.m6.d3_en_US_holycross.ocMA.Kathisma33.text
 hoCO.Key1013.mode = misc_en_US_holycross.Mode2
+hoCO.Key1013.incipit = "All Holy Theotokos, in the"
 hoCO.Key1013.text = "All Holy Theotokos, in the time of my life, never do forsake me, to any human protection; never trust me blindly, but personally take charge, and have mercy on me."
+hoCO.Key1014.incipit = "My one and my every"
 hoCO.Key1014.text = "My one and my every hope, now I entrust in you, O Mother of God, under your shelter, cover me." //ho.s23_en_US_holycross.hoCA.Troparion7.text
 
+hoCO.Key1015.incipit = prayers_en_US_holycross.OEnPantiKairo.incipit
 hoCO.Key1015.text = prayers_en_US_holycross.OEnPantiKairo.text
 
 hoCO.Key1016.title = "Prayer of St. Ephraim the Syrian"
@@ -141,6 +179,7 @@ hoCO.Key1300.rubric = "And all receive forgiveness from the Priest by kissing hi
 hoCO.Key1301.rubric = "On Monday, Wednesday and Friday evening:"
 hoCO.Key1301.mode = misc_en_US_holycross.Mode2
 hoCO.Key1301.melody = misc_en_US_holycross.NotMetered //he.a.m2_en_US_holycross.OteEkTouXylou.name
+hoCO.Key1301.incipit = "All of us, do you"
 hoCO.Key1301.text = "All of us, do you protect, O Good One, who seek refuge in faith, in Your mighty hand; for none other have we, the sinners before God; in danger and in sorrow, forever interceding, for us who are laden by so many faults; Mother of the God the Most High, on our knees we ask You: deliver Your servants from all tribulation." //oc.m2.d5_en_US_holycross.ocVE.AposTheotokion.text
 
 hoCO.Key1302.rubric = ""
@@ -151,6 +190,7 @@ hoCO.Key1302.text = "" //oc.m1.d3_en_US_holycross.ocMA.AposTheotokion.text
 hoCO.Key1303.rubric = "On Tuesday and Thursday evening:"
 hoCO.Key1303.mode = misc_en_US_holycross.Mode1
 hoCO.Key1303.melody = misc_en_US_holycross.NotMetered //he.a.m1_en_US_holycross.PaneffimoiMartyres.name
+hoCO.Key1303.incipit = "Watching, O Christ, Your slaughter"
 hoCO.Key1303.text = "Watching, O Christ, Your slaughter the unjust, in torment the Virgin cried to You: O my sweetest child, how needlessly You die, and You hang upon the wood, You who on the waters suspended all the earth. Benefactor, most merciful, do not abandon alone now, Your Mother and servant, I pray to You." //oc.m1.d4_en_US_holycross.ocVE.SticTheotokion.text
 
 hoCO.Key1304.rubric = ""

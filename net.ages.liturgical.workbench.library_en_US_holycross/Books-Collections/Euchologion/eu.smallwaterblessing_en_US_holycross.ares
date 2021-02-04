@@ -11,110 +11,137 @@ euSWB.R201 = "Then is chanted the following verse: \"All-Holy Theotokos, guard, 
 
 euSWB.Key0201.mode = misc_en_US_holycross.Mode6
 euSWB.Key0201.melody = misc_en_US_holycross.Heirmos
+euSWB.Key0201.incipit = "O Virgin who from the"
 euSWB.Key0201.text = "O Virgin who from the Angel received, hail! And gave birth to the Life-giver Himself, your Creator, save them that magnify you."
 
 euSWB.Key0202.mode = misc_en_US_holycross.Mode6
 euSWB.Key0202.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0202.incipit = "We sing of your Son,"
 euSWB.Key0202.text = "We sing of your Son, O Theotokos, and cry aloud: from all adversities save your servants, O Immaculate."
 
 euSWB.Key0203.mode = misc_en_US_holycross.Mode6
 euSWB.Key0203.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0203.incipit = "The praise of Kings, Prophets,"
 euSWB.Key0203.text = "The praise of Kings, Prophets, Apostles, and Martyrs are you, and Intercessor of the world, O All-Immaculate One."
 
 euSWB.Key0204.mode = misc_en_US_holycross.Mode6
 euSWB.Key0204.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0204.incipit = "Every Orthodox tongue praises, blesses,"
 euSWB.Key0204.text = "Every Orthodox tongue praises, blesses, and glorifies your immaculate Birth-giving, O Mary, Bride of God."
 
 euSWB.Key0205.mode = misc_en_US_holycross.Mode6
 euSWB.Key0205.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0205.incipit = "I beseech You, O my"
 euSWB.Key0205.text = "I beseech You, O my Christ, give to me also, though unworthy, remission of offenses, I beseech You; through the intercessions of her that bore You, in that You are compassionate."
 
 euSWB.Key0206.mode = misc_en_US_holycross.Mode6
 euSWB.Key0206.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0206.incipit = "In you, O Theotokos, have"
 euSWB.Key0206.text = "In you, O Theotokos, have I put my hope. Save me by your prayers; grant for me remission of sins."
 
 euSWB.Key0207.mode = misc_en_US_holycross.Mode6
 euSWB.Key0207.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0207.incipit = "Give me life, you that"
 euSWB.Key0207.text = "Give me life, you that have borne the Life-giver and Savior: save me through your prayers, O blessed Hope of our souls."
 
 euSWB.Key0208.mode = misc_en_US_holycross.Mode6
 euSWB.Key0208.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0208.incipit = "O Virgin immaculate, who did"
 euSWB.Key0208.text = "O Virgin immaculate, who did conceive in your Womb the Creator of all people: through your prayers save our souls."
 
 euSWB.Key0209.mode = misc_en_US_holycross.Mode6
 euSWB.Key0209.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0209.incipit = "All-praised Theotokos, who through the"
 euSWB.Key0209.text = "All-praised Theotokos, who through the word of an Angel, in a manner beyond reason, gave birth to the Word, pray that He will save our souls."
 
 euSWB.Key0210.mode = misc_en_US_holycross.Mode6
 euSWB.Key0210.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0210.incipit = "Through your intercessions, O Lady,"
 euSWB.Key0210.text = "Through your intercessions, O Lady, make your Son a merciful Judge unto me, who am a sinner above all people."
 
 euSWB.Key0211.mode = misc_en_US_holycross.Mode6
 euSWB.Key0211.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0211.incipit = "With binding duty we cry"
 euSWB.Key0211.text = "With binding duty we cry to you, Hail! O immaculate Theotokos Ever-Virgin; through your intercessions are saved those that pray to you."
 
 euSWB.Key0212.mode = misc_en_US_holycross.Mode6
 euSWB.Key0212.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0212.incipit = "Deliver me from the fire"
 euSWB.Key0212.text = "Deliver me from the fire eternal, and the torments that await me, O all-praised Lady, that I may be delivered from all tribulation."
 
 euSWB.Key0213.mode = misc_en_US_holycross.Mode6
 euSWB.Key0213.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0213.incipit = "All-praised Sovereign Lady, we pray"
 euSWB.Key0213.text = "All-praised Sovereign Lady, we pray You: do not overlook the prayers of Your servants, so that we might be delivered from all tribulation."
 
 euSWB.Key0214.mode = misc_en_US_holycross.Mode6
 euSWB.Key0214.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0214.incipit = "From every sickness and infirmity."
 euSWB.Key0214.text = "From every sickness and infirmity. Deliver us, who have recourse unto you and your holy Protection."
 
 euSWB.Key0215.mode = misc_en_US_holycross.Mode6
 euSWB.Key0215.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0215.incipit = "Marvelous wonder shown to you,"
 euSWB.Key0215.text = "Marvelous wonder shown to you, O Theotokos: for our sake the Creator of All and our God was in our likeness born to you."
 
 euSWB.Key0216.mode = misc_en_US_holycross.Mode6
 euSWB.Key0216.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0216.incipit = "Your Temple, O Theotokos, was"
 euSWB.Key0216.text = "Your Temple, O Theotokos, was shown forth as remedy without price of ills -- the consolation of our wounded souls."
 
 euSWB.Key0217.mode = misc_en_US_holycross.Mode6
 euSWB.Key0217.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0217.incipit = "O All-Holy Theotokos, who has"
 euSWB.Key0217.text = "O All-Holy Theotokos, who has borne the Savior, save your servants from adversity and from all other necessity."
 
 euSWB.Key0218.mode = misc_en_US_holycross.Mode6
 euSWB.Key0218.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0218.incipit = "From every ban under which"
 euSWB.Key0218.text = "From every ban under which they labor deliver your servants from every ailment of body and spirit, O you most Holy."
 
 euSWB.Key0219.mode = misc_en_US_holycross.Mode6
 euSWB.Key0219.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0219.incipit = "Through your intercessions, O Virgin"
 euSWB.Key0219.text = "Through your intercessions, O Virgin Theotokos, save all that have recourse unto you; deliver all from sorrow and necessity."
 
 euSWB.Key0220.mode = misc_en_US_holycross.Mode6
 euSWB.Key0220.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0220.incipit = "Who, having recourse unto your"
 euSWB.Key0220.text = "Who, having recourse unto your Temple, O Theotokos, does not receive speedy healing both of soul and body, O All-immaculate?"
 
 euSWB.Key0221.mode = misc_en_US_holycross.Mode6
 euSWB.Key0221.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0221.incipit = "Entreated by the Saints and"
 euSWB.Key0221.text = "Entreated by the Saints and heavenly Hosts, O Merciful One, through her that bore You, do You cleanse me."
 
 euSWB.Key0222.mode = misc_en_US_holycross.Mode6
 euSWB.Key0222.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0222.incipit = "Spare, O Savior, the souls"
 euSWB.Key0222.text = "Spare, O Savior, the souls of our brethren, who died in the Hope of Life; loose, and remit their sins."
 
 euSWB.Key0223.mode = misc_en_US_holycross.Mode6
 euSWB.Key0223.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0223.incipit = "Hail! O Virgin, Mercy-Seat of"
 euSWB.Key0223.text = "Hail! O Virgin, Mercy-Seat of the world; Hail! O Receptacle of the Manna and Candelabrum all-golden of the light divine, O Bride of God unwedded."
 
 euSWB.Key0224.mode = misc_en_US_holycross.Mode6
 euSWB.Key0224.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0224.incipit = "We sing unto You, O"
 euSWB.Key0224.text = "We sing unto You, O God in Three Persons, crying aloud the thrice-Holy Hymn, entreating that we may receive salvation."
 
 euSWB.Key0225.mode = misc_en_US_holycross.Mode6
 euSWB.Key0225.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0225.incipit = "O Virgin, who has borne"
 euSWB.Key0225.text = "O Virgin, who has borne the Savior, the Sovereign of the world: pray unto Him that He will save our souls."
 
 euSWB.Key0226.mode = misc_en_US_holycross.Mode6
 euSWB.Key0226.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0226.incipit = "Hail! O Mount, Hail! O"
 euSWB.Key0226.text = "Hail! O Mount, Hail! O Bush that burned and yet was not consumed; Hail! O Gate, Hail! O Ladder and Altar Divine, Hail! Sovereign Lady, the Helper of all."
 
 euSWB.Key0227.mode = misc_en_US_holycross.Mode6
 euSWB.Key0227.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0227.incipit = "Through the prayers of Your"
 euSWB.Key0227.text = "Through the prayers of Your Holy Mother, and of Your Holy Saints, O Merciful God, to Your people grant Your great mercies."
 
 euSWB.Key0228.mode = misc_en_US_holycross.Mode6
@@ -123,14 +150,17 @@ euSWB.Key0228.text = "(Cross)"
 
 euSWB.Key0229.mode = misc_en_US_holycross.Mode6
 euSWB.Key0229.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0229.incipit = "Through the prayers of the"
 euSWB.Key0229.text = "Through the prayers of the glorious Archangels, the Angels, and all the heavenly Hosts, mightily preserve Your servants, O Savior."
 
 euSWB.Key0230.mode = misc_en_US_holycross.Mode6
 euSWB.Key0230.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0230.incipit = "Through the prayers of the"
 euSWB.Key0230.text = "Through the prayers of the glorious Prophet and Forerunner John the Baptist, and of all Your Saints, mightily preserve Your servants, O my Christ and Savior."
 
 euSWB.Key0231.mode = misc_en_US_holycross.Mode6
 euSWB.Key0231.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0231.incipit = "Through the prayers of the"
 euSWB.Key0231.text = "Through the prayers of the glorious Apostles, and the victorious Martyrs, and of all Your Saints, grant Your mercies to Your servants."
 
 euSWB.Key0232.mode = misc_en_US_holycross.Mode6
@@ -159,10 +189,12 @@ euSWB.Key0237.text = "(Rightous)"
 
 euSWB.Key0238.mode = misc_en_US_holycross.Mode6
 euSWB.Key0238.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0238.incipit = "The Father and the Son"
 euSWB.Key0238.text = "The Father and the Son and the Holy Spirit we glorify saying: O Holy Trinity, save our souls."
 
 euSWB.Key0239.mode = misc_en_US_holycross.Mode6
 euSWB.Key0239.melody = misc_en_US_holycross.NotMetered
+euSWB.Key0239.incipit = "O Virgin who in mystery"
 euSWB.Key0239.text = "O Virgin who in mystery did conceive and bring forth in these latter days Your Creator: save us who magnify you."
 
 euSWB.Key0240.text = "Open for us the door of your tender compassion, O blessed Theotokos; and as we set our hope in you, let us never be confounded; through you may we be delivered from all adversity; you, who are the salvation of all good Christian folk."
@@ -170,16 +202,20 @@ euSWB.Key0240.text = "Open for us the door of your tender compassion, O blessed 
 euSWB.R301 = "And the following:"
 
 euSWB.Key0301.mode = misc_en_US_holycross.Mode8
+euSWB.Key0301.incipit = "Now draws nigh the time"
 euSWB.Key0301.text = "Now draws nigh the time that sanctifies all men, and a just Judge awaits us; turn then, O my soul, to repentance, like the Adulteress tearfully crying: have mercy on me, O Lord."
 
 euSWB.Key0302.mode = misc_en_US_holycross.Mode8
+euSWB.Key0302.incipit = "O Christ, the Fountain, Who"
 euSWB.Key0302.text = "O Christ, the Fountain, Who did sprinkle the waters of healing in the all-holy Temple of the Virgin, You, today, through the sprinkling of blessing did expel the maladies of ailing, O You Physician of our souls and bodies."
 
 euSWB.Key0303.mode = misc_en_US_holycross.Mode8
 euSWB.Key0303.melody = ""
+euSWB.Key0303.incipit = "As a Virgin you knew"
 euSWB.Key0303.text = "As a Virgin you knew not man, but gave birth; and as a Mother unwedded, a Virgin did you remain; entreat then, O Mary Theotokos, Christ our God that He will save us."
 
 euSWB.Key0304.mode = misc_en_US_holycross.Mode8
+euSWB.Key0304.incipit = "O All-Holy Theotokos Virgin, guide"
 euSWB.Key0304.text = "O All-Holy Theotokos Virgin, guide aright the works of our hands, and entreat pardon for our transgressions, when we chant the angelic Hymn:"
 
 euSWB.R401 = ""
@@ -200,6 +236,7 @@ euSWB.R602 = "Then the Priest, taking up the venerable Cross, dips it crosswise 
 euSWB.R603 = "Then the Priest sprinkles the Holy Water in the form of the Cross and sings:"
 
 euSWB.Key0602.mode = misc_en_US_holycross.Mode2
+euSWB.Key0602.incipit = "Make us worthy of your"
 euSWB.Key0602.text = "Make us worthy of your gifts, O Virgin Theotokos, overlooking our transgressions; give healing through faith to them that accept your blessing, O Immaculate One."
 
 euSWB.R604 = "Then the Priest kisses the Precious Cross and blesses all the people, and he sprinkles all with the Holy Water, the Altar, and all the Temple."
