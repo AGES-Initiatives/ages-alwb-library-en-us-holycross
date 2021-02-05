@@ -96,6 +96,7 @@ ocMA.Kathisma31.text = ""
 
 ocMA.Kathisma32.mode = misc_en_US_holycross.Mode4
 ocMA.Kathisma32.melody = he.a.m4_en_US_holycross.TachyProkatalave.notmetered
+ocMA.Kathisma32.incipit = "" //he.ga_en_US_holycross.OiMartyresSouKyrie.incipit
 ocMA.Kathisma32.text = "" //he.ga_en_US_holycross.OiMartyresSouKyrie.text
 
 ocMA.Kathisma33.mode = misc_en_US_holycross.Mode4

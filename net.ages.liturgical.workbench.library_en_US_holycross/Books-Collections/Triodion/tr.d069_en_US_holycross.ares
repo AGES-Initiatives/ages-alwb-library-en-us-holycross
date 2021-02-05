@@ -57,7 +57,6 @@ trLI.TheotokosHymn.text = oc.m8.d1_en_US_holycross.ocMA.Kathisma23.text
 trLI.MM.CommunionHymn.text = properties_en_US_holycross.media.key
 
 trLI.AfterCommunion.mode = ""
-trLI.AfterCommunion.incipit = trLI.MM.CommunionHymn.incipit
 trLI.AfterCommunion.text = trLI.MM.CommunionHymn.text
 
 // Foot Washing

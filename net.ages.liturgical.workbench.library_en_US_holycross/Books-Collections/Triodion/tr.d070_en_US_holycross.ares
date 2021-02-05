@@ -245,15 +245,12 @@ trHW.Encomia171.text = ""
 
 trHW.Encomia172.text = ""
 
-trHW.Encomia1TrVerse.incipit = prayers_en_US_holycross.DoxaPatri.incipit
 trHW.Encomia1TrVerse.text = prayers_en_US_holycross.DoxaPatri.text
 trHW.Encomia1Tr.text = ""
 
-trHW.Encomia1TVerse.incipit = prayers_en_US_holycross.KaiNynKaiAei.incipit
 trHW.Encomia1TVerse.text = prayers_en_US_holycross.KaiNynKaiAei.text
 trHW.Encomia1T.text = ""
 
-trHW.Encomia1F.incipit = trHW.Encomia101.incipit
 trHW.Encomia1F.text = trHW.Encomia101.text
 
 // Second Stanza
@@ -380,15 +377,12 @@ trHW.Encomia259.text = ""
 
 trHW.Encomia260.text = ""
 
-trHW.Encomia2TrVerse.incipit = prayers_en_US_holycross.DoxaPatri.incipit
 trHW.Encomia2TrVerse.text = prayers_en_US_holycross.DoxaPatri.text
 trHW.Encomia2Tr.text = ""
 
-trHW.Encomia2TVerse.incipit = prayers_en_US_holycross.KaiNynKaiAei.incipit
 trHW.Encomia2TVerse.text = prayers_en_US_holycross.KaiNynKaiAei.text
 trHW.Encomia2T.text = ""
 
-trHW.Encomia2F.incipit = trHW.Encomia201.incipit
 trHW.Encomia2F.text = trHW.Encomia201.text
 
 // Stanza Three
@@ -487,16 +481,13 @@ trHW.Encomia345.text = ""
 
 trHW.Encomia346.text = ""
 
-trHW.Encomia3TrVerse.incipit = prayers_en_US_holycross.DoxaPatri.incipit
 trHW.Encomia3TrVerse.text = prayers_en_US_holycross.DoxaPatri.text
 trHW.Encomia3Tr.text = ""
 
-trHW.Encomia3TVerse.incipit = prayers_en_US_holycross.KaiNynKaiAei.incipit
 trHW.Encomia3TVerse.text = prayers_en_US_holycross.KaiNynKaiAei.text
 trHW.Encomia3T.text = ""
 
 // Not in Triodion, but common
-trHW.Encomia3F.incipit = trHW.Encomia301.incipit
 trHW.Encomia3F.text = trHW.Encomia301.text
 
 // Resurrectional Evlogetaria keys for media
@@ -512,7 +503,6 @@ trHW.Evlogetaria5.incipit = ho.s03_en_US_holycross.hoMA.ResEvlog5.incipit
 trHW.Evlogetaria5.text = ho.s03_en_US_holycross.hoMA.ResEvlog5.text
 trHW.Evlogetaria6.incipit = ho.s03_en_US_holycross.hoMA.ResEvlog6.incipit
 trHW.Evlogetaria6.text = ho.s03_en_US_holycross.hoMA.ResEvlog6.text
-trHW.Evlogetaria7.incipit = ho.s03_en_US_holycross.hoMA.ResEvlog7.incipit
 trHW.Evlogetaria7.text = ho.s03_en_US_holycross.hoMA.ResEvlog7.text
 
 trMA.Kathisma11.mode = misc_en_US_holycross.Mode1
@@ -818,7 +808,6 @@ trMA.Ode9K.text = he.h.m6_en_US_holycross.MiEpodyrouMouMiter.text
 
 trMA.Exaposteilarion1.mode = misc_en_US_holycross.Mode2
 trMA.Exaposteilarion1.melody = ""
-trMA.Exaposteilarion1.incipit = ho.s03_en_US_holycross.hoMA.SunExapVerse1.incipit
 trMA.Exaposteilarion1.text = ho.s03_en_US_holycross.hoMA.SunExapVerse1.text
 
 trHW.Lauds01.text = "" // for media

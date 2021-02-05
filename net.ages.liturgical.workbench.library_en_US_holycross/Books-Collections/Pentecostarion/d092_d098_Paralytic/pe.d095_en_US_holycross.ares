@@ -115,7 +115,8 @@ peMA.Ode1C1T.text = ""
 peMA.Ode1C2H.ode = misc_en_US_holycross.Ode1
 peMA.Ode1C2H.mode = misc_en_US_holycross.Mode8
 peMA.Ode1C2H.melody = misc_en_US_holycross.Heirmos
-peMA.Ode1C2H.text = he.h.m8_en_US_holycross.ThalassanEpixas.incipit
+peMA.Ode1C2H.incipit = he.h.m8_en_US_holycross.ThalassanEpixas.incipit
+peMA.Ode1C2H.text = he.h.m8_en_US_holycross.ThalassanEpixas.text
 
 peMA.C2.title = titles_en_US_holycross.KanonBTisMesopentikostis
 peMA.C2.verse = prayers_en_US_holycross.verse_God.text

@@ -507,14 +507,10 @@ peMA.Lauds4.melody = oc.m4.d1_en_US_holycross.ocMA.Lauds4.melody
 peMA.Lauds4.incipit = oc.m4.d1_en_US_holycross.ocMA.Lauds4.incipit
 peMA.Lauds4.text = oc.m4.d1_en_US_holycross.ocMA.Lauds4.text
 
-peMA.LaudsVerse7.text = ""
-
 peMA.Lauds7.mode = misc_en_US_holycross.Mode3
 peMA.Lauds7.melody = misc_en_US_holycross.Idiomelon
 peMA.Lauds7.incipit = peVE.LityGlory.incipit
 peMA.Lauds7.text = peVE.LityGlory.text
-
-peMA.LaudsVerse8.text = ""
 
 peMA.Lauds8.mode = misc_en_US_holycross.Mode6
 peMA.Lauds8.melody = misc_en_US_holycross.Idiomelon
@@ -532,7 +528,6 @@ peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text
 
 peLI.TheotokosHymn.mode = misc_en_US_holycross.Mode1
-peLI.TheotokosHymnVerse.incipit = pe.d00P_en_US_holycross.pePA.Ode9MKa.incipit
 peLI.TheotokosHymnVerse.text = pe.d00P_en_US_holycross.pePA.Ode9MKa.text
 peLI.TheotokosHymn.incipit = pe.d00P_en_US_holycross.pePA.Ode9T2.incipit
 peLI.TheotokosHymn.text = pe.d00P_en_US_holycross.pePA.Ode9T2.text

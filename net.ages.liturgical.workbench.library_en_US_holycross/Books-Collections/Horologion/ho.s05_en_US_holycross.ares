@@ -19,7 +19,9 @@ hoH3.Troparion1.text = pe.d120_en_US_holycross.peVE.Apolytikion1.text
 hoH3.Troparion2.incipit = pe.d120_en_US_holycross.peMA.Oikos1.incipit
 hoH3.Troparion2.text = pe.d120_en_US_holycross.peMA.Oikos1.text
 
+hoH3.Troparion3.incipit = ""
 hoH3.Troparion3.text = ""
 
+hoH3.Prayer.incipit = "O Master God, Father Almighty"
 hoH3.Prayer.text = "O Master God, Father Almighty, only begotten Son, Lord Jesus Christ, and Holy Spirit: One Godhead, One Power, have mercy on me, a sinner, and in your knowing ways save me, your unworthy servant; for you are blessed unto the ages of ages."
 
