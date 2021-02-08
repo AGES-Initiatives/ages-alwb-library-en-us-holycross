@@ -44,8 +44,8 @@ ocVE.SticTheotokion.text = "David the prophet, forefather of God through you, cr
 
 ocVE.Aposticha1.mode = misc_en_US_holycross.Mode4
 ocVE.Aposticha1.melody = ""
-ocVE.Aposticha1.incipit = "Ascending upon the cross, O"
-ocVE.Aposticha1.text = "Ascending upon the cross, O Lord, you abolished our ancestral curse; and descending into Hades, you set free those in eternal bonds. And you bestowed on humankind incorruption and life. We therefore praise and glorify your resurrection on the third day."
+ocVE.Aposticha1.incipit = he.a.m4_en_US_holycross.KyrieAnelthonEnToStavro.incipit
+ocVE.Aposticha1.text = he.a.m4_en_US_holycross.KyrieAnelthonEnToStavro.text
 
 ocVE.Aposticha2.mode = misc_en_US_holycross.Mode4
 ocVE.Aposticha2.melody = ""

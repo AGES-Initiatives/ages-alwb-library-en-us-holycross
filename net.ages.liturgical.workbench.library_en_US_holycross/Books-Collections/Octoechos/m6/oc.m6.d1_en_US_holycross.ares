@@ -44,7 +44,7 @@ ocVE.SticTheotokion.text = "Who will not call you blessed, most holy Virgin? Who
 
 ocVE.Aposticha1.mode = misc_en_US_holycross.Mode6
 ocVE.Aposticha1.melody = ""
-ocVE.Aposticha1.incipit = "Angels in heaven sing the"
+ocVE.Aposticha1.incipit = "Angels in heaven"
 ocVE.Aposticha1.text = "Angels in heaven sing the praises of your resurrection, Christ our Savior. Grant that we too on earth may with pure hearts glorify you."
 
 ocVE.Aposticha2.mode = misc_en_US_holycross.Mode6

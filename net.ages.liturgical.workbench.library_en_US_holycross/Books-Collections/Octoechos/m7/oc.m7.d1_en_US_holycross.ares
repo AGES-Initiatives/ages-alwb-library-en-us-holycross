@@ -44,7 +44,7 @@ ocVE.SticTheotokion.text = "You, O Theotokos, have been acknowledged as a mother
 
 ocVE.Aposticha1.mode = misc_en_US_holycross.Mode7
 ocVE.Aposticha1.melody = ""
-ocVE.Aposticha1.incipit = "Rising from the tomb, Savior"
+ocVE.Aposticha1.incipit = "Rising from the tomb"
 ocVE.Aposticha1.text = "Rising from the tomb, Savior of the world, you have, together with your flesh, raised up mankind. Glory to you, O Lord."
 
 ocVE.Aposticha2.mode = misc_en_US_holycross.Mode7

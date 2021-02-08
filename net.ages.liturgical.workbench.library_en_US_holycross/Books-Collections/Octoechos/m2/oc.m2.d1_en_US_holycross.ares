@@ -83,7 +83,7 @@ ocVE.SticTheotokion.text = "At the coming of grace, the shadow of the law passed
 
 ocVE.Aposticha1.mode = misc_en_US_holycross.Mode2
 ocVE.Aposticha1.melody = ""
-ocVE.Aposticha1.incipit = "Your resurrection, O Christ our"
+ocVE.Aposticha1.incipit = "Your resurrection, O Christ"
 ocVE.Aposticha1.text = "Your resurrection, O Christ our Savior, has illumined the entire earth, and has recalled your creation. O almighty Lord, glory to you."
 
 ocVE.Aposticha2.mode = misc_en_US_holycross.Mode2

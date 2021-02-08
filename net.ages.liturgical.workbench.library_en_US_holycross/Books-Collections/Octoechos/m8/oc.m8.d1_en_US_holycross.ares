@@ -83,7 +83,7 @@ ocVE.SticTheotokion.text = "In his love for mankind, the King of heaven appeared
 
 ocVE.Aposticha1.mode = misc_en_US_holycross.Mode8
 ocVE.Aposticha1.melody = ""
-ocVE.Aposticha1.incipit = "You ascended the cross, Jesus,"
+ocVE.Aposticha1.incipit = "You ascended the cross"
 ocVE.Aposticha1.text = "You ascended the cross, Jesus, and came down from heaven and went to your death, O life eternal. You are the true light to those in darkness and the resurrection of all those who have fallen. Our enlightener and Savior, glory to you."
 
 ocVE.Aposticha2.mode = misc_en_US_holycross.Mode8

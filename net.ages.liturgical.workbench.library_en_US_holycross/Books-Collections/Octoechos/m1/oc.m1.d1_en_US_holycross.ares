@@ -84,7 +84,7 @@ ocVE.SticTheotokion.text = "Let us praise Mary the Virgin, glory of all the worl
 
 ocVE.Aposticha1.mode = misc_en_US_holycross.Mode1
 ocVE.Aposticha1.melody = ""
-ocVE.Aposticha1.incipit = "By your Passion we were"
+ocVE.Aposticha1.incipit = "By your Passion"
 ocVE.Aposticha1.text = "By your Passion we were set free from our passions, O Christ, and by your resurrection we were redeemed from corruption. O Lord, glory to you."
 
 ocVE.Aposticha2.mode = misc_en_US_holycross.Mode1

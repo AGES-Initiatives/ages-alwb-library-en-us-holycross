@@ -44,7 +44,7 @@ ocVE.SticTheotokion.text = "How can we not be amazed at your giving birth to God
 
 ocVE.Aposticha1.mode = misc_en_US_holycross.Mode3
 ocVE.Aposticha1.melody = ""
-ocVE.Aposticha1.incipit = "By your passion, O Christ,"
+ocVE.Aposticha1.incipit = "By your passion, O Christ"
 ocVE.Aposticha1.text = "By your passion, O Christ, you have darkened the sun. By your resurrection, you have given all things light. Accept our evening hymn, O lover of mankind."
 
 ocVE.Aposticha2.mode = misc_en_US_holycross.Mode3
