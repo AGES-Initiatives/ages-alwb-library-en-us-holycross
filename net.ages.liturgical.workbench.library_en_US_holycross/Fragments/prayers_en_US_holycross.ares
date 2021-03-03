@@ -21,13 +21,13 @@ Allilouia3Doxa.text = "Alleluia. Alleluia. Alleluia. Glory to You, O God."
 Axios.incipit = ""
 Axios = ""
 
-DefteProskinisomen1.incipit = "Come, let us worship and"
+DefteProskinisomen1.incipit = "Come, let us worship"
 DefteProskinisomen1 = "Come, let us worship and bow down before God our King."
 
-DefteProskinisomen2.incipit = "Come, let us worship and"
+DefteProskinisomen2.incipit = "Come, let us worship"
 DefteProskinisomen2 = "Come, let us worship and bow down before Christ God our King."
 
-DefteProskinisomen3.incipit = "Come, let us worship and"
+DefteProskinisomen3.incipit = "Come, let us worship"
 DefteProskinisomen3 = "Come, let us worship and bow down before Him, Christ our King and God."
 
 DiEfchonDespotou.incipit = "Through the prayers of our"
@@ -172,7 +172,7 @@ TheotokeParthene.text = ""
 Thymiama.incipit = "We offer You incense, Christ"
 Thymiama.text = "We offer You incense, Christ our God, as a spiritual sweet fragrance. We pray You accept it at Your altar which is above the heavens, and in return send down to us the grace of Your all-holy Spirit. Amen."
 
-TinTimioteranPrayer.incipit = "" "
+TinTimioteranPrayer.incipit = ""
 TinTimioteranPrayer.text = "" //he.h.m6_en_US_holycross.TinTimioteranPrayer.text
 
 VasilefOuranie.incipit = "Heavenly King, Comforter, Spirit of"
@@ -196,13 +196,13 @@ fePresveiaisTonAgionKaiSosonMe = "by the intercessions of the Saints, and save m
 fbPresveiaisKyrieTonAgion.incipit = "By the intercessions of the"
 fbPresveiaisKyrieTonAgion = "By the intercessions of the Saints, O Lord,"
 
-enarxis01.incipit = "Blessed is our God always,"
+enarxis01.incipit = "Blessed is our God"
 enarxis01 = "Blessed is our God always, now and ever, and to the ages of ages."
 
-enarxis02.incipit = "Blessed is the kingdom of"
+enarxis02.incipit = "Blessed is the kingdom"
 enarxis02 = "Blessed is the kingdom of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
-enarxis03.incipit = "Glory to the holy and"
+enarxis03.incipit = "Glory to the holy and consubstantial"
 enarxis03 = "Glory to the holy and consubstantial, and life giving, and undivided Trinity, always, now and forever and to the ages of ages."
 
 pet00.incipit = "Let us pray to the"
@@ -236,7 +236,7 @@ pet05 = "For pious and Orthodox Christians, let us pray to the Lord."
 pet06.incipit = "For our Archbishop (Name), the"
 pet06 = "For our Archbishop (Name), the honorable presbyters, the deacons in the service of Christ, and all the clergy and laity, let us pray to the Lord."
 
-pet06a.incipit = "For" "
+pet06a.incipit = "For"
 pet06a = "For" // supplement with client specific rank and name
 
 pet06b.incipit = "the honorable presbyters, the deacons"
@@ -576,7 +576,7 @@ petMonastery22 = ""
 petMonastery23.incipit = ""
 petMonastery23 = ""
 
-petOrdination01a.incipit = "For our " "
+petOrdination01a.incipit = "For our "
 petOrdination01a = "For our " // supplement with client specific rank and name
 petOrdination01b.incipit = "or his priesthood, sustenance, sojourn,"
 petOrdination01b = "or his priesthood, sustenance, sojourn, peace, health, salvation, and for the works of his hands, let us pray to the Lord."
@@ -1021,7 +1021,7 @@ exc29 = "For You are the sanctification of our souls and bodies, and to You we g
 epi01a.incipit = "The reading is from"
 epi01a = "The reading is from"
 
-epi01b.incipit = "" "
+epi01b.incipit = ""
 epi01b = "" // leave blank in English
 
 epi02.incipit = "Peace be to you."
@@ -1051,7 +1051,7 @@ gos05 = "Peace be to you who proclaim the Gospel."
 otr01a.incipit = "The reading is from"
 otr01a = "The reading is from"
 
-otr01b.incipit = "" "
+otr01b.incipit = ""
 otr01b = "" // leave blank in English
 
 verse_Angels.incipit = "Archangels of God, intercede for"
