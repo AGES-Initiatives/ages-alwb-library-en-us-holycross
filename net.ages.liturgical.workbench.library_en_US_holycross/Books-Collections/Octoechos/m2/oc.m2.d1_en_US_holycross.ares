@@ -78,7 +78,7 @@ ocVE.Stichera7.text = "Let us open our mouths and sing hymns of salvation. Come 
 
 ocVE.SticTheotokion.mode = misc_en_US_holycross.Mode2
 ocVE.SticTheotokion.melody = ""
-ocVE.SticTheotokion.incipit = "At the coming of grace,"
+ocVE.SticTheotokion.incipit = "At the coming of grace"
 ocVE.SticTheotokion.text = "At the coming of grace, the shadow of the law passed away. Just as the bush that burned was not consumed, so have you given birth and remained a virgin. Instead of a pillar of fire, the Sun of Righteousness shone forth; instead of Moses, Christ, the salvation of our souls appeared."
 
 ocVE.Aposticha1.mode = misc_en_US_holycross.Mode2

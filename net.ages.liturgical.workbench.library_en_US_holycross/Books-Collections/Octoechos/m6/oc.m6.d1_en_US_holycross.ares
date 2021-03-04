@@ -39,7 +39,7 @@ ocVE.Stichera7.text = "Your burial, O Christ, burst asunder the bonds of Hades; 
 
 ocVE.SticTheotokion.mode = misc_en_US_holycross.Mode6
 ocVE.SticTheotokion.melody = ""
-ocVE.SticTheotokion.incipit = "Who will not call you"
+ocVE.SticTheotokion.incipit = "Who will not call you blessed"
 ocVE.SticTheotokion.text = "Who will not call you blessed, most holy Virgin? Who will not sing praises of your wondrous birth giving? For the only begotten Son, timelessly having shone forth from the Father, came forth from you who are pure. And having been ineffably made flesh, he, who by nature is God, for our sake became also by nature man: not in two divided persons, but in two natures without confusion. O honored and all blessed one, beseech him to have mercy on our souls."
 
 ocVE.Aposticha1.mode = misc_en_US_holycross.Mode6
