@@ -14,18 +14,18 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_holycross.dis00.resurrection
 
 peVE.Stichera01.mode = misc_en_US_holycross.Mode5
-peVE.Stichera01.melody = he.a.m5_en_US_holycross.ChairoisAskitikon.incipit
-peVE.Stichera01.incipit = ""
+peVE.Stichera01.melody = he.a.m5_en_US_holycross.ChairoisAskitikon.name
+peVE.Stichera01.incipit = "…"
 peVE.Stichera01.text = ""
 
 peVE.Stichera02.mode = misc_en_US_holycross.Mode5
-peVE.Stichera02.melody = he.a.m5_en_US_holycross.ChairoisAskitikon.incipit
-peVE.Stichera02.incipit = ""
+peVE.Stichera02.melody = he.a.m5_en_US_holycross.ChairoisAskitikon.name
+peVE.Stichera02.incipit = "…"
 peVE.Stichera02.text = ""
 
 peVE.Stichera03.mode = misc_en_US_holycross.Mode5
-peVE.Stichera03.melody = he.a.m5_en_US_holycross.ChairoisAskitikon.incipit
-peVE.Stichera03.incipit = ""
+peVE.Stichera03.melody = he.a.m5_en_US_holycross.ChairoisAskitikon.name
+peVE.Stichera03.incipit = "…"
 peVE.Stichera03.text = ""
 
 peVE.SticGlory.mode = misc_en_US_holycross.Mode6
@@ -35,7 +35,7 @@ peVE.SticGlory.text = pe.d095_en_US_holycross.peVE.SticGlory.text
 
 peVE.Aposticha1.mode = misc_en_US_holycross.Mode3
 peVE.Aposticha1.melody = ""
-peVE.Aposticha1.incipit = ""
+peVE.Aposticha1.incipit = "…"
 peVE.Aposticha1.text = //oc.m3.d6_en_US_holycross.ocVE.Aposticha2.text
 
 peVE.Aposticha2.mode = misc_en_US_holycross.Mode3
@@ -45,7 +45,7 @@ peVE.Aposticha2.text = oc.m3.d1_en_US_holycross.ocVE.Stichera1.text
 
 peVE.Aposticha3.mode = misc_en_US_holycross.Mode3
 peVE.Aposticha3.melody = //oc.m3.d6_en_US_holycross.ocVE.Aposticha3.melody
-peVE.Aposticha3.incipit = ""
+peVE.Aposticha3.incipit = "…"
 peVE.Aposticha3.text = //oc.m3.d6_en_US_holycross.ocVE.Aposticha3.text
 
 peVE.AposGlory.mode = misc_en_US_holycross.Mode8
@@ -55,22 +55,22 @@ peVE.AposGlory.text = pe.d096_en_US_holycross.peMA.AposGlory.text
 
 peMA.Kathisma11.mode = misc_en_US_holycross.Mode3
 peMA.Kathisma11.melody = //oc.m3.d6_en_US_holycross.ocMA.Kathisma22.melody
-peMA.Kathisma11.incipit = ""
+peMA.Kathisma11.incipit = "…"
 peMA.Kathisma11.text = //oc.m3.d6_en_US_holycross.ocMA.Kathisma22.text
 
 peMA.Kathisma12.mode = misc_en_US_holycross.Mode3
 peMA.Kathisma12.melody = //oc.m3.d1_en_US_holycross.ocMA.Kathisma22.melody
-peMA.Kathisma12.incipit = ""
+peMA.Kathisma12.incipit = "…"
 peMA.Kathisma12.text = //oc.m3.d1_en_US_holycross.ocMA.Kathisma22.text
 
 peMA.Kathisma13.mode = misc_en_US_holycross.Mode3
 peMA.Kathisma13.melody = ""
-peMA.Kathisma13.incipit = ""
+peMA.Kathisma13.incipit = "…"
 peMA.Kathisma13.text = //oc.m3.d6_en_US_holycross.ocMA.Kathisma32.text
 
 peMA.Kathisma1T.mode = misc_en_US_holycross.Mode3
 peMA.Kathisma1T.melody = ""
-peMA.Kathisma1T.incipit = ""
+peMA.Kathisma1T.incipit = "…"
 peMA.Kathisma1T.text = //oc.m3.d6_en_US_holycross.ocVE.ApolTheotokionVM.text
 
 peMA.Kathisma21.mode = misc_en_US_holycross.Mode8
@@ -80,7 +80,7 @@ peMA.Kathisma21.text = pe.d095_en_US_holycross.peMA.Ode3Kathisma2.text
 
 peMA.Lauds1.mode = misc_en_US_holycross.Mode3
 peMA.Lauds1.melody = ""
-peMA.Lauds1.incipit = ""
+peMA.Lauds1.incipit = "…"
 peMA.Lauds1.text = //oc.m3.d6_en_US_holycross.ocMA.Aposticha2.text
 
 peMA.Lauds2.mode = misc_en_US_holycross.Mode3
@@ -90,31 +90,31 @@ peMA.Lauds2.text = oc.m3.d1_en_US_holycross.ocMA.Lauds1.text
 
 peMA.Lauds3.mode = misc_en_US_holycross.Mode3
 peMA.Lauds3.melody = ""
-peMA.Lauds3.incipit = ""
+peMA.Lauds3.incipit = "…"
 peMA.Lauds3.text = //oc.m3.d6_en_US_holycross.ocMA.Aposticha3.text
 
 peMA.LaudsGlory.mode = misc_en_US_holycross.Mode8
 peMA.LaudsGlory.melody = misc_en_US_holycross.Idiomelon
-peMA.LaudsGlory.incipit = ""
+peMA.LaudsGlory.incipit = "…"
 peMA.LaudsGlory.text = ""
 
 peMA.Aposticha1.mode = misc_en_US_holycross.Mode2
-peMA.Aposticha1.melody = he.a.m2_en_US_holycross.OikosTouEfratha.incipit
-peMA.Aposticha1.incipit = ""
+peMA.Aposticha1.melody = he.a.m2_en_US_holycross.OikosTouEfratha.name
+peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""
 
 peMA.Aposticha2.mode = misc_en_US_holycross.Mode2
-peMA.Aposticha2.melody = he.a.m2_en_US_holycross.OikosTouEfratha.incipit
-peMA.Aposticha2.incipit = ""
+peMA.Aposticha2.melody = he.a.m2_en_US_holycross.OikosTouEfratha.name
+peMA.Aposticha2.incipit = "…"
 peMA.Aposticha2.text = ""
 
 peMA.Aposticha3.mode = misc_en_US_holycross.Mode2
-peMA.Aposticha3.melody = he.a.m2_en_US_holycross.OikosTouEfratha.incipit
-peMA.Aposticha3.incipit = ""
+peMA.Aposticha3.melody = he.a.m2_en_US_holycross.OikosTouEfratha.name
+peMA.Aposticha3.incipit = "…"
 peMA.Aposticha3.text = ""
 
 peMA.AposGlory.mode = misc_en_US_holycross.Mode8
 peMA.AposGlory.melody = misc_en_US_holycross.Idiomelon
-peMA.AposGlory.incipit = ""
+peMA.AposGlory.incipit = "…"
 peMA.AposGlory.text = ""
 

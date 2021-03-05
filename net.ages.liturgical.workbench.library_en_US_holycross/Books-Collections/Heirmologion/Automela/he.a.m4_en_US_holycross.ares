@@ -4,50 +4,60 @@ he.title = ""
 
 DiaXylouOAdam.mode = misc_en_US_holycross.Mode4
 DiaXylouOAdam.notmetered = "N/M (Adam fell by a tree.)"
-DiaXylouOAdam.incipit = ""
+DiaXylouOAdam.name = "N/M (Adam fell by a tree.)"
+DiaXylouOAdam.incipit = "…"
 DiaXylouOAdam.text = ""
 
 EdokasSimeiosin.mode = misc_en_US_holycross.Mode4
 EdokasSimeiosin.notmetered = "N/M (You have given.)"
-EdokasSimeiosin.incipit = ""
+EdokasSimeiosin.name = "N/M (You have given.)"
+EdokasSimeiosin.incipit = "…"
 EdokasSimeiosin.text = ""
 
 EpefanisSimeron.mode = misc_en_US_holycross.Mode4
 EpefanisSimeron.notmetered = "N/M (You appeared.)"
-EpefanisSimeron.incipit = ""
+EpefanisSimeron.name = "N/M (You appeared.)"
+EpefanisSimeron.incipit = "…"
 EpefanisSimeron.text = ""
 
 IthelonDakrysinExaleipsai.mode = misc_en_US_holycross.Mode4
 IthelonDakrysinExaleipsai.notmetered = "N/M (How I intended.)"
-IthelonDakrysinExaleipsai.incipit = ""
+IthelonDakrysinExaleipsai.name = "N/M (How I intended.)"
+IthelonDakrysinExaleipsai.incipit = "…"
 IthelonDakrysinExaleipsai.text = ""
 
 KateplagiIosif.mode = misc_en_US_holycross.Mode4
 KateplagiIosif.notmetered = "N/M (Joseph marveled.)"
-KateplagiIosif.incipit = ""
+KateplagiIosif.name = "N/M (Joseph marveled.)"
+KateplagiIosif.incipit = "…"
 KateplagiIosif.text = ""
 
 KyrieAnelthonEnToStavro.mode = misc_en_US_holycross.Mode4
 KyrieAnelthonEnToStavro.notmetered = "N/M (Sovereign Lord.)"
-KyrieAnelthonEnToStavro.incipit = "Ascending upon the cross"
+KyrieAnelthonEnToStavro.name = "N/M (Sovereign Lord.)"
+KyrieAnelthonEnToStavro.incipit = "Ascending upon the cross…"
 KyrieAnelthonEnToStavro.text = "Ascending upon the cross, O Lord, you abolished our ancestral curse; and descending into Hades, you set free those in eternal bonds. And you bestowed on humankind incorruption and life. We therefore praise and glorify your resurrection on the third day."
 
 OExYpsistouKlitheis.mode = misc_en_US_holycross.Mode4
 OExYpsistouKlitheis.notmetered = "N/M (When you were called.)"
-OExYpsistouKlitheis.incipit = ""
+OExYpsistouKlitheis.name = "N/M (When you were called.)"
+OExYpsistouKlitheis.incipit = "…"
 OExYpsistouKlitheis.text = ""
 
 OYpsotheisEnToStavro.mode = misc_en_US_holycross.Mode4
 OYpsotheisEnToStavro.notmetered = "N/M (You who were lifted.)"
-OYpsotheisEnToStavro.incipit = ""
+OYpsotheisEnToStavro.name = "N/M (You who were lifted.)"
+OYpsotheisEnToStavro.incipit = "…"
 OYpsotheisEnToStavro.text = ""
 
 OsGennaionEnMartysi.mode = misc_en_US_holycross.Mode4
 OsGennaionEnMartysi.notmetered = "N/M (To a brave one.)"
-OsGennaionEnMartysi.incipit = ""
+OsGennaionEnMartysi.name = "N/M (To a brave one.)"
+OsGennaionEnMartysi.incipit = "…"
 OsGennaionEnMartysi.text = ""
 
 TachyProkatalave.mode = misc_en_US_holycross.Mode4
 TachyProkatalave.notmetered = "N/M (Come quickly.)"
-TachyProkatalave.incipit = ""
+TachyProkatalave.name = "N/M (Come quickly.)"
+TachyProkatalave.incipit = "…"
 TachyProkatalave.text = ""

@@ -80,7 +80,7 @@ peMA.Kathisma1T.text = oc.m4.d7_en_US_holycross.ocMA.Kathisma14.text
 
 peMA.Kathisma21.mode = misc_en_US_holycross.Mode4
 peMA.Kathisma21.melody = he.a.m4_en_US_holycross.OYpsotheisEnToStavro.notmetered
-peMA.Kathisma21.incipit = ""
+peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Lauds1.mode = misc_en_US_holycross.Mode4
@@ -110,17 +110,17 @@ peMA.LaudsGlory.text = pe.d099_en_US_holycross.peMA.LaudsGlory.text
 
 peMA.Aposticha1.mode = misc_en_US_holycross.Mode4
 peMA.Aposticha1.melody = he.a.m4_en_US_holycross.OsGennaionEnMartysi.notmetered
-peMA.Aposticha1.incipit = ""
+peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""
 
 peMA.Aposticha2.mode = misc_en_US_holycross.Mode4
 peMA.Aposticha2.melody = he.a.m4_en_US_holycross.OsGennaionEnMartysi.notmetered
-peMA.Aposticha2.incipit = ""
+peMA.Aposticha2.incipit = "…"
 peMA.Aposticha2.text = ""
 
 peMA.Aposticha3.mode = misc_en_US_holycross.Mode4
 peMA.Aposticha3.melody = he.a.m4_en_US_holycross.OsGennaionEnMartysi.notmetered
-peMA.Aposticha3.incipit = ""
+peMA.Aposticha3.incipit = "…"
 peMA.Aposticha3.text = ""
 
 peMA.AposGlory.mode = misc_en_US_holycross.Mode6

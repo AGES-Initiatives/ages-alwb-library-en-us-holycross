@@ -4,40 +4,48 @@ he.title = ""
 
 KatafronisantesPanton.mode = misc_en_US_holycross.Mode7
 KatafronisantesPanton.notmetered = "N/M (When you had wisely.)"
-KatafronisantesPanton.incipit = ""
+KatafronisantesPanton.name = "N/M (When you had wisely.)"
+KatafronisantesPanton.incipit = "…"
 KatafronisantesPanton.text = ""
 
 ODiEmeAnaschomenos.mode = misc_en_US_holycross.Mode7
 ODiEmeAnaschomenos.notmetered = "N/M ()"
-ODiEmeAnaschomenos.incipit = ""
+ODiEmeAnaschomenos.name = ""
+ODiEmeAnaschomenos.incipit = "…"
 ODiEmeAnaschomenos.text = ""
 
 OsEchousaToSympathes.mode = misc_en_US_holycross.Mode7
 OsEchousaToSympathes.notmetered = "N/M ()"
-OsEchousaToSympathes.incipit = ""
+OsEchousaToSympathes.name = ""
+OsEchousaToSympathes.incipit = "…"
 OsEchousaToSympathes.text = ""
 
 OuketiFloginiRomfaia.mode = misc_en_US_holycross.Mode7
 OuketiFloginiRomfaia.notmetered = "N/M (The fiery sword.)"
-OuketiFloginiRomfaia.incipit = ""
+OuketiFloginiRomfaia.name = "N/M (The fiery sword.)"
+OuketiFloginiRomfaia.incipit = "…"
 OuketiFloginiRomfaia.text = ""
 
 OukEtiKolyometha.mode = misc_en_US_holycross.Mode7
 OukEtiKolyometha.notmetered = "N/M (No longer are we barred.)"
-OukEtiKolyometha.incipit = ""
+OukEtiKolyometha.name = "N/M (No longer are we barred.)"
+OukEtiKolyometha.incipit = "…"
 OukEtiKolyometha.text = ""
 
 PyrosFoteinoteron.mode = misc_en_US_holycross.Mode7
 PyrosFoteinoteron.notmetered = "N/M ()"
-PyrosFoteinoteron.incipit = ""
+PyrosFoteinoteron.name = ""
+PyrosFoteinoteron.incipit = "…"
 PyrosFoteinoteron.text = ""
 
 SimeronGrigoreiOIoudas.mode = misc_en_US_holycross.Mode7
 SimeronGrigoreiOIoudas.notmetered = "N/M (Judas today is vigilant.)"
-SimeronGrigoreiOIoudas.incipit = ""
+SimeronGrigoreiOIoudas.name = "N/M (Judas today is vigilant.)"
+SimeronGrigoreiOIoudas.incipit = "…"
 SimeronGrigoreiOIoudas.text = ""
 
 XylonZois.mode = misc_en_US_holycross.Mode7
 XylonZois.notmetered = "N/M (The tree of life.)"
-XylonZois.incipit = ""
+XylonZois.name = "N/M (The tree of life.)"
+XylonZois.incipit = "…"
 XylonZois.text = ""

@@ -4,42 +4,42 @@ ocBK.mode.title = ""
 
 ocVE.Stichera1.mode = misc_en_US_holycross.Mode4
 ocVE.Stichera1.melody = ""
-ocVE.Stichera1.incipit = "Ever venerating your life giving"
+ocVE.Stichera1.incipit = "Ever venerating your life giving…"
 ocVE.Stichera1.text = "Ever venerating your life giving cross, O Christ our Lord, we glorify your resurrection on the third day. By it you have restored corrupt human nature, O mighty One, and have reopened for us the upward path to heaven, for you only are a good and loving God."
 
 ocVE.Stichera2.mode = misc_en_US_holycross.Mode4
 ocVE.Stichera2.melody = ""
-ocVE.Stichera2.incipit = "Having willingly been nailed to"
+ocVE.Stichera2.incipit = "Having willingly been nailed to…"
 ocVE.Stichera2.text = "Having willingly been nailed to the wood of the Cross, you abolished the penalty of disobedience committed through the tree, and by descending into Hades you [O mighty One, as God,] have broken the bonds of death. Therefore, we worship your resurrection from the dead, and, rejoicing, we cry: Almighty Lord, glory to you."
 
 ocVE.Stichera3.mode = misc_en_US_holycross.Mode4
 ocVE.Stichera3.melody = ""
-ocVE.Stichera3.incipit = "You shattered the gates of"
+ocVE.Stichera3.incipit = "You shattered the gates of…"
 ocVE.Stichera3.text = "You shattered the gates of Hades, O Lord, and by your death you destroyed the dominion of death. You freed the human race from corruption, and granted the world life and incorruption, and your great mercy."
 
 ocVE.Stichera4.mode = misc_en_US_holycross.Mode4
 ocVE.Stichera4.melody = ""
-ocVE.Stichera4.incipit = "Come, all you people, let"
+ocVE.Stichera4.incipit = "Come, all you people, let…"
 ocVE.Stichera4.text = "Come, all you people, let us sing the praises of the Savior's resurrection on the third day by which we have been delivered from the unbreakable bonds of Hades. Having received incorruption and life, we cry out: You who were crucified, buried, and rose save us by your resurrection, O only loving God."
 
 ocVE.Stichera5.mode = misc_en_US_holycross.Mode4
 ocVE.Stichera5.melody = ""
-ocVE.Stichera5.incipit = "Angels and men, O Savior,"
+ocVE.Stichera5.incipit = "Angels and men, O Savior…"
 ocVE.Stichera5.text = "Angels and men, O Savior, sing the praises of your third day rising, for it has shed light to the ends of the world. Delivered from the bondage of the enemy, we all cry out: Almighty Savior, Creator of life, save us by your resurrection, O only loving God."
 
 ocVE.Stichera6.mode = misc_en_US_holycross.Mode4
 ocVE.Stichera6.melody = ""
-ocVE.Stichera6.incipit = "You have shattered the gates"
+ocVE.Stichera6.incipit = "You have shattered the gates…"
 ocVE.Stichera6.text = "You have shattered the gates of brass. You have broken asunder the chains and raised up fallen humankind, O Christ our God. Therefore, we cry with one voice: O Lord, who rose from the dead, glory to you."
 
 ocVE.Stichera7.mode = misc_en_US_holycross.Mode4
 ocVE.Stichera7.melody = ""
-ocVE.Stichera7.incipit = "Your birth from the Father"
+ocVE.Stichera7.incipit = "Your birth from the Father…"
 ocVE.Stichera7.text = "Your birth from the Father is timeless and eternal, O Lord; your incarnation from the Virgin is ineffable and beyond all understanding; and your descent into Hades put fear into the devil and his angels. On the third day you rose, having trampled upon death, and granted us incorruption and your great mercy."
 
 ocVE.SticTheotokion.mode = misc_en_US_holycross.Mode4
 ocVE.SticTheotokion.melody = ""
-ocVE.SticTheotokion.incipit = "David the prophet"
+ocVE.SticTheotokion.incipit = "David the prophet…"
 ocVE.SticTheotokion.text = "David the prophet, forefather of God through you, cried out in song concerning you to the One who has done magnificent things for you. The Queen stands at your right hand. For God, who gladly became man through you without a father, has proclaimed you mother and host of life, so that he might restore in us his image which was corrupted by passion. Having found the stray sheep caught in the mountains, he laid it on his shoulders and brought it to the Father. By his own free will he placed it among the heavenly hosts. Christ, who has great and abundant mercy, O Theotokos, will save the world."
 
 ocVE.Aposticha1.mode = misc_en_US_holycross.Mode4
@@ -49,32 +49,32 @@ ocVE.Aposticha1.text = he.a.m4_en_US_holycross.KyrieAnelthonEnToStavro.text
 
 ocVE.Aposticha2.mode = misc_en_US_holycross.Mode4
 ocVE.Aposticha2.melody = ""
-ocVE.Aposticha2.incipit = "Hanging upon the tree, O"
+ocVE.Aposticha2.incipit = "Hanging upon the tree, O…"
 ocVE.Aposticha2.text = "Hanging upon the tree, O only mighty One, you shook all creation, and when you were laid in the tomb, you raised up those dwelling there and bestowed life and incorruption on our kind. Therefore, we praise and glorify your resurrection on the third day."
 
 ocVE.Aposticha3.mode = misc_en_US_holycross.Mode4
 ocVE.Aposticha3.melody = ""
-ocVE.Aposticha3.incipit = "The lawless people who gave"
+ocVE.Aposticha3.incipit = "The lawless people who gave…"
 ocVE.Aposticha3.text = "The lawless people who gave you, O Christ, to Pilate condemned you to be crucified, and showed themselves thankless towards their benefactor. But you willingly suffered burial, and of your own will you arose as God on the third day, and bestowed on us everlasting life and great mercy."
 
 ocVE.Aposticha4.mode = misc_en_US_holycross.Mode4
 ocVE.Aposticha4.melody = ""
-ocVE.Aposticha4.incipit = "The women who sought you"
+ocVE.Aposticha4.incipit = "The women who sought you…"
 ocVE.Aposticha4.text = "The women who sought you came in tears to your tomb, and when they found you not, they [wept and] lamented and [crying out] exclaimed: [Alas!] Our Savior and King of all, how is it that you have been stolen away? Where is your life giving body? But an angel then stood before them and replied: Do not weep, but go and proclaim the good tidings that the Lord is risen and grants us joy for he alone is compassionate."
 
 ocVE.AposTheotokion.mode = misc_en_US_holycross.Mode4
 ocVE.AposTheotokion.melody = ""
-ocVE.AposTheotokion.incipit = "Look down, most pure Virgin,"
+ocVE.AposTheotokion.incipit = "Look down, most pure Virgin…"
 ocVE.AposTheotokion.text = "Look down, most pure Virgin, upon the supplications of your servants, and crush the assaults of our enemies, delivering us from all affliction. You are the only sure and secure anchor that we have, and you are our protection. Never permit us who call upon you, our Lady, to be put to shame. Hasten to fulfill the entreaties of those who in faith cry to you: Rejoice, O Lady, helper of all, the joy and protection, and the salvation of our souls."
 
 ocVE.Apolytikion.mode = misc_en_US_holycross.Mode4
 ocVE.Apolytikion.melody = ""
-ocVE.Apolytikion.incipit = ""
+ocVE.Apolytikion.incipit = "…"
 ocVE.Apolytikion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_US_holycross.Mode4
 ocVE.ApolTheotokionVM.melody = ""
-ocVE.ApolTheotokionVM.incipit = ""
+ocVE.ApolTheotokionVM.incipit = "…"
 ocVE.ApolTheotokionVM.text = ""
 
 ocMO.poet = poets_en_US_holycross.MitrofanousSmirnis
@@ -83,207 +83,207 @@ ocMO.acrostic = ""
 ocMO.Ode11.mode = misc_en_US_holycross.Mode4
 ocMO.Ode11.ode = misc_en_US_holycross.Ode1
 ocMO.Ode11.melody = he.h.m4_en_US_holycross.ThalassisToErythraion.notmetered
-ocMO.Ode11.incipit = ""
+ocMO.Ode11.incipit = "…"
 ocMO.Ode11.text = ""
 
 ocMO.Ode12.mode = misc_en_US_holycross.Mode4
 ocMO.Ode12.ode = misc_en_US_holycross.Ode1
 ocMO.Ode12.melody = he.h.m4_en_US_holycross.ThalassisToErythraion.notmetered
-ocMO.Ode12.incipit = ""
+ocMO.Ode12.incipit = "…"
 ocMO.Ode12.text = ""
 
 ocMO.Ode13.mode = misc_en_US_holycross.Mode4
 ocMO.Ode13.ode = misc_en_US_holycross.Ode1
 ocMO.Ode13.melody = he.h.m4_en_US_holycross.ThalassisToErythraion.notmetered
-ocMO.Ode13.incipit = ""
+ocMO.Ode13.incipit = "…"
 ocMO.Ode13.text = ""
 
 ocMO.Ode1T.mode = misc_en_US_holycross.Mode4
 ocMO.Ode1T.ode = misc_en_US_holycross.Ode1
 ocMO.Ode1T.melody = he.h.m4_en_US_holycross.ThalassisToErythraion.notmetered
-ocMO.Ode1T.incipit = ""
+ocMO.Ode1T.incipit = "…"
 ocMO.Ode1T.text = ""
 
 ocMO.Ode31.mode = misc_en_US_holycross.Mode4
 ocMO.Ode31.ode = misc_en_US_holycross.Ode3
 ocMO.Ode31.melody = he.h.m4_en_US_holycross.OukEnSofia.notmetered
-ocMO.Ode31.incipit = ""
+ocMO.Ode31.incipit = "…"
 ocMO.Ode31.text = ""
 
 ocMO.Ode32.mode = misc_en_US_holycross.Mode4
 ocMO.Ode32.ode = misc_en_US_holycross.Ode3
 ocMO.Ode32.melody = he.h.m4_en_US_holycross.OukEnSofia.notmetered
-ocMO.Ode32.incipit = ""
+ocMO.Ode32.incipit = "…"
 ocMO.Ode32.text = ""
 
 ocMO.Ode33.mode = misc_en_US_holycross.Mode4
 ocMO.Ode33.ode = misc_en_US_holycross.Ode3
 ocMO.Ode33.melody = he.h.m4_en_US_holycross.OukEnSofia.notmetered
-ocMO.Ode33.incipit = ""
+ocMO.Ode33.incipit = "…"
 ocMO.Ode33.text = ""
 
 ocMO.Ode3T.mode = misc_en_US_holycross.Mode4
 ocMO.Ode3T.ode = misc_en_US_holycross.Ode3
 ocMO.Ode3T.melody = he.h.m4_en_US_holycross.OukEnSofia.notmetered
-ocMO.Ode3T.incipit = ""
+ocMO.Ode3T.incipit = "…"
 ocMO.Ode3T.text = ""
 
 ocMO.Kathisma11.mode = misc_en_US_holycross.Mode4
 ocMO.Kathisma11.melody = he.a.m4_en_US_holycross.TachyProkatalave.notmetered
-ocMO.Kathisma11.incipit = ""
+ocMO.Kathisma11.incipit = "…"
 ocMO.Kathisma11.text = ""
 
 ocMO.Kathisma12.mode = misc_en_US_holycross.Mode4
 ocMO.Kathisma12.melody = he.a.m4_en_US_holycross.TachyProkatalave.notmetered
-ocMO.Kathisma12.incipit = ""
+ocMO.Kathisma12.incipit = "…"
 ocMO.Kathisma12.text = ""
 
 ocMO.Ode41.mode = misc_en_US_holycross.Mode4
 ocMO.Ode41.ode = misc_en_US_holycross.Ode4
 ocMO.Ode41.melody = he.h.m4_en_US_holycross.OKathimenosEnDoxi.notmetered
-ocMO.Ode41.incipit = ""
+ocMO.Ode41.incipit = "…"
 ocMO.Ode41.text = ""
 
 ocMO.Ode42.mode = misc_en_US_holycross.Mode4
 ocMO.Ode42.ode = misc_en_US_holycross.Ode4
 ocMO.Ode42.melody = he.h.m4_en_US_holycross.OKathimenosEnDoxi.notmetered
-ocMO.Ode42.incipit = ""
+ocMO.Ode42.incipit = "…"
 ocMO.Ode42.text = ""
 
 ocMO.Ode43.mode = misc_en_US_holycross.Mode4
 ocMO.Ode43.ode = misc_en_US_holycross.Ode4
 ocMO.Ode43.melody = he.h.m4_en_US_holycross.OKathimenosEnDoxi.notmetered
-ocMO.Ode43.incipit = ""
+ocMO.Ode43.incipit = "…"
 ocMO.Ode43.text = ""
 
 ocMO.Ode4T.mode = misc_en_US_holycross.Mode4
 ocMO.Ode4T.ode = misc_en_US_holycross.Ode4
 ocMO.Ode4T.melody = he.h.m4_en_US_holycross.OKathimenosEnDoxi.notmetered
-ocMO.Ode4T.incipit = ""
+ocMO.Ode4T.incipit = "…"
 ocMO.Ode4T.text = ""
 
 ocMO.Ode51.mode = misc_en_US_holycross.Mode4
 ocMO.Ode51.ode = misc_en_US_holycross.Ode5
 ocMO.Ode51.melody = he.h.m4_en_US_holycross.ExestiTaSympanta.notmetered
-ocMO.Ode51.incipit = ""
+ocMO.Ode51.incipit = "…"
 ocMO.Ode51.text = ""
 
 ocMO.Ode52.mode = misc_en_US_holycross.Mode4
 ocMO.Ode52.ode = misc_en_US_holycross.Ode5
 ocMO.Ode52.melody = he.h.m4_en_US_holycross.ExestiTaSympanta.notmetered
-ocMO.Ode52.incipit = ""
+ocMO.Ode52.incipit = "…"
 ocMO.Ode52.text = ""
 
 ocMO.Ode53.mode = misc_en_US_holycross.Mode4
 ocMO.Ode53.ode = misc_en_US_holycross.Ode5
 ocMO.Ode53.melody = he.h.m4_en_US_holycross.ExestiTaSympanta.notmetered
-ocMO.Ode53.incipit = ""
+ocMO.Ode53.incipit = "…"
 ocMO.Ode53.text = ""
 
 ocMO.Ode5T.mode = misc_en_US_holycross.Mode4
 ocMO.Ode5T.ode = misc_en_US_holycross.Ode5
 ocMO.Ode5T.melody = he.h.m4_en_US_holycross.ExestiTaSympanta.notmetered
-ocMO.Ode5T.incipit = ""
+ocMO.Ode5T.incipit = "…"
 ocMO.Ode5T.text = ""
 
 ocMO.Ode61.mode = misc_en_US_holycross.Mode4
 ocMO.Ode61.ode = misc_en_US_holycross.Ode6
 ocMO.Ode61.melody = he.h.m4_en_US_holycross.EvoiseProtypon.notmetered
-ocMO.Ode61.incipit = ""
+ocMO.Ode61.incipit = "…"
 ocMO.Ode61.text = ""
 
 ocMO.Ode62.mode = misc_en_US_holycross.Mode4
 ocMO.Ode62.ode = misc_en_US_holycross.Ode6
 ocMO.Ode62.melody = he.h.m4_en_US_holycross.EvoiseProtypon.notmetered
-ocMO.Ode62.incipit = ""
+ocMO.Ode62.incipit = "…"
 ocMO.Ode62.text = ""
 
 ocMO.Ode63.mode = misc_en_US_holycross.Mode4
 ocMO.Ode63.ode = misc_en_US_holycross.Ode6
 ocMO.Ode63.melody = he.h.m4_en_US_holycross.EvoiseProtypon.notmetered
-ocMO.Ode63.incipit = ""
+ocMO.Ode63.incipit = "…"
 ocMO.Ode63.text = ""
 
 ocMO.Ode6T.mode = misc_en_US_holycross.Mode4
 ocMO.Ode6T.ode = misc_en_US_holycross.Ode6
 ocMO.Ode6T.melody = he.h.m4_en_US_holycross.EvoiseProtypon.notmetered
-ocMO.Ode6T.incipit = ""
+ocMO.Ode6T.incipit = "…"
 ocMO.Ode6T.text = ""
 
 ocMO.Kathisma21.mode = misc_en_US_holycross.Mode4
 ocMO.Kathisma21.melody = he.a.m4_en_US_holycross.TachyProkatalave.notmetered
-ocMO.Kathisma21.incipit = ""
+ocMO.Kathisma21.incipit = "…"
 ocMO.Kathisma21.text = ""
 
 ocMO.Kathisma22.mode = misc_en_US_holycross.Mode4
 ocMO.Kathisma22.melody = he.a.m4_en_US_holycross.TachyProkatalave.notmetered
-ocMO.Kathisma22.incipit = ""
+ocMO.Kathisma22.incipit = "…"
 ocMO.Kathisma22.text = ""
 
 ocMO.Ode71.mode = misc_en_US_holycross.Mode4
 ocMO.Ode71.ode = misc_en_US_holycross.Ode7
 ocMO.Ode71.melody = he.h.m2_en_US_holycross.EnTiKamino.notmetered
-ocMO.Ode71.incipit = ""
+ocMO.Ode71.incipit = "…"
 ocMO.Ode71.text = ""
 
 ocMO.Ode72.mode = misc_en_US_holycross.Mode4
 ocMO.Ode72.ode = misc_en_US_holycross.Ode7
 ocMO.Ode72.melody = he.h.m2_en_US_holycross.EnTiKamino.notmetered
-ocMO.Ode72.incipit = ""
+ocMO.Ode72.incipit = "…"
 ocMO.Ode72.text = ""
 
 ocMO.Ode7T.mode = misc_en_US_holycross.Mode4
 ocMO.Ode7T.ode = misc_en_US_holycross.Ode7
 ocMO.Ode7T.melody = he.h.m2_en_US_holycross.EnTiKamino.notmetered
-ocMO.Ode7T.incipit = ""
+ocMO.Ode7T.incipit = "…"
 ocMO.Ode7T.text = ""
 
 ocMO.Ode81.mode = misc_en_US_holycross.Mode4
 ocMO.Ode81.ode = misc_en_US_holycross.Ode8
 ocMO.Ode81.melody = he.h.m4_en_US_holycross.CheirasEkpetasasDaniil.notmetered
-ocMO.Ode81.incipit = ""
+ocMO.Ode81.incipit = "…"
 ocMO.Ode81.text = ""
 
 ocMO.Ode82.mode = misc_en_US_holycross.Mode4
 ocMO.Ode82.ode = misc_en_US_holycross.Ode8
 ocMO.Ode82.melody = he.h.m4_en_US_holycross.CheirasEkpetasasDaniil.notmetered
-ocMO.Ode82.incipit = ""
+ocMO.Ode82.incipit = "…"
 ocMO.Ode82.text = ""
 
 ocMO.Ode8T.mode = misc_en_US_holycross.Mode4
 ocMO.Ode8T.ode = misc_en_US_holycross.Ode8
 ocMO.Ode8T.melody = he.h.m4_en_US_holycross.CheirasEkpetasasDaniil.notmetered
-ocMO.Ode8T.incipit = ""
+ocMO.Ode8T.incipit = "…"
 ocMO.Ode8T.text = ""
 
 ocMO.Ode91.mode = misc_en_US_holycross.Mode4
 ocMO.Ode91.ode = misc_en_US_holycross.Ode9
 ocMO.Ode91.melody = he.h.m4_en_US_holycross.ApasGigenis.notmetered
-ocMO.Ode91.incipit = ""
+ocMO.Ode91.incipit = "…"
 ocMO.Ode91.text = ""
 
 ocMO.Ode92.mode = misc_en_US_holycross.Mode4
 ocMO.Ode92.ode = misc_en_US_holycross.Ode9
 ocMO.Ode92.melody = he.h.m4_en_US_holycross.ApasGigenis.notmetered
-ocMO.Ode92.incipit = ""
+ocMO.Ode92.incipit = "…"
 ocMO.Ode92.text = ""
 
 ocMO.Ode9T.mode = misc_en_US_holycross.Mode4
 ocMO.Ode9T.ode = misc_en_US_holycross.Ode9
 ocMO.Ode9T.melody = he.h.m4_en_US_holycross.ApasGigenis.notmetered
-ocMO.Ode9T.incipit = ""
+ocMO.Ode9T.incipit = "…"
 ocMO.Ode9T.text = ""
 
 ocMA.MM.GodIsTheLord.text = properties_en_US_holycross.media.key
 
 ocMA.Kathisma11.mode = misc_en_US_holycross.Mode4
 ocMA.Kathisma11.melody = ""
-ocMA.Kathisma11.incipit = ""
+ocMA.Kathisma11.incipit = "…"
 ocMA.Kathisma11.text = ""
 
 ocMA.Kathisma12.mode = misc_en_US_holycross.Mode4
 ocMA.Kathisma12.melody = he.a.m4_en_US_holycross.KateplagiIosif.notmetered
-ocMA.Kathisma12.incipit = ""
+ocMA.Kathisma12.incipit = "…"
 ocMA.Kathisma12.text = ""
 
 ocMA.Kathisma13.mode = misc_en_US_holycross.Mode4
@@ -293,67 +293,67 @@ ocMA.Kathisma13.text = he.a.m4_en_US_holycross.KateplagiIosif.text
 
 ocMA.Kathisma21.mode = misc_en_US_holycross.Mode4
 ocMA.Kathisma21.melody = he.a.m4_en_US_holycross.TachyProkatalave.notmetered
-ocMA.Kathisma21.incipit = ""
+ocMA.Kathisma21.incipit = "…"
 ocMA.Kathisma21.text = ""
 
 ocMA.Kathisma22.mode = misc_en_US_holycross.Mode4
 ocMA.Kathisma22.melody = he.a.m4_en_US_holycross.KateplagiIosif.notmetered
-ocMA.Kathisma22.incipit = ""
+ocMA.Kathisma22.incipit = "…"
 ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = misc_en_US_holycross.Mode4
 ocMA.Kathisma23.melody = he.a.m4_en_US_holycross.KateplagiIosif.notmetered
-ocMA.Kathisma23.incipit = ""
+ocMA.Kathisma23.incipit = "…"
 ocMA.Kathisma23.text = ""
 
 ocMA.Hypakoe.mode = misc_en_US_holycross.Mode4
 ocMA.Hypakoe.melody = ""
-ocMA.Hypakoe.incipit = ""
+ocMA.Hypakoe.incipit = "…"
 ocMA.Hypakoe.text = ""
 
 ocMA.Antiphon11.mode = misc_en_US_holycross.Mode4
 ocMA.Antiphon11.melody = ""
-ocMA.Antiphon11.incipit = ""
+ocMA.Antiphon11.incipit = "…"
 ocMA.Antiphon11.text = ""
 
 ocMA.Antiphon12.mode = misc_en_US_holycross.Mode4
 ocMA.Antiphon12.melody = ""
-ocMA.Antiphon12.incipit = ""
+ocMA.Antiphon12.incipit = "…"
 ocMA.Antiphon12.text = ""
 
 ocMA.Antiphon13.mode = misc_en_US_holycross.Mode4
 ocMA.Antiphon13.melody = ""
-ocMA.Antiphon13.incipit = ""
+ocMA.Antiphon13.incipit = "…"
 ocMA.Antiphon13.text = ""
 
 ocMA.Antiphon21.mode = misc_en_US_holycross.Mode4
 ocMA.Antiphon21.melody = ""
-ocMA.Antiphon21.incipit = ""
+ocMA.Antiphon21.incipit = "…"
 ocMA.Antiphon21.text = ""
 
 ocMA.Antiphon22.mode = misc_en_US_holycross.Mode4
 ocMA.Antiphon22.melody = ""
-ocMA.Antiphon22.incipit = ""
+ocMA.Antiphon22.incipit = "…"
 ocMA.Antiphon22.text = ""
 
 ocMA.Antiphon23.mode = misc_en_US_holycross.Mode4
 ocMA.Antiphon23.melody = ""
-ocMA.Antiphon23.incipit = ""
+ocMA.Antiphon23.incipit = "…"
 ocMA.Antiphon23.text = ""
 
 ocMA.Antiphon31.mode = misc_en_US_holycross.Mode4
 ocMA.Antiphon31.melody = ""
-ocMA.Antiphon31.incipit = ""
+ocMA.Antiphon31.incipit = "…"
 ocMA.Antiphon31.text = ""
 
 ocMA.Antiphon32.mode = misc_en_US_holycross.Mode4
 ocMA.Antiphon32.melody = ""
-ocMA.Antiphon32.incipit = ""
+ocMA.Antiphon32.incipit = "…"
 ocMA.Antiphon32.text = ""
 
 ocMA.Antiphon33.mode = misc_en_US_holycross.Mode4
 ocMA.Antiphon33.melody = ""
-ocMA.Antiphon33.incipit = ""
+ocMA.Antiphon33.incipit = "…"
 ocMA.Antiphon33.text = ""
 
 ocMA.MM.Prokeimenon.text = properties_en_US_holycross.media.key
@@ -373,55 +373,55 @@ ocMA.OdeS1C1H.text = he.h.m4_en_US_holycross.ThalassisToErythraion.text
 ocMA.OdeS1C11.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS1C11.ode = misc_en_US_holycross.Ode1
 ocMA.OdeS1C11.melody = he.h.m4_en_US_holycross.ThalassisToErythraion.notmetered
-ocMA.OdeS1C11.incipit = ""
+ocMA.OdeS1C11.incipit = "…"
 ocMA.OdeS1C11.text = ""
 
 ocMA.OdeS1C12.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS1C12.ode = misc_en_US_holycross.Ode1
 ocMA.OdeS1C12.melody = he.h.m4_en_US_holycross.ThalassisToErythraion.notmetered
-ocMA.OdeS1C12.incipit = ""
+ocMA.OdeS1C12.incipit = "…"
 ocMA.OdeS1C12.text = ""
 
 ocMA.OdeS1C1T.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS1C1T.ode = misc_en_US_holycross.Ode1
 ocMA.OdeS1C1T.melody = he.h.m4_en_US_holycross.ThalassisToErythraion.notmetered
-ocMA.OdeS1C1T.incipit = ""
+ocMA.OdeS1C1T.incipit = "…"
 ocMA.OdeS1C1T.text = ""
 
 ocMA.OdeS1C2H.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS1C2H.ode = misc_en_US_holycross.Ode1
 ocMA.OdeS1C2H.melody = he.h.m4_en_US_holycross.AnoixoToStomaMou.notmetered
-ocMA.OdeS1C2H.incipit = ""
+ocMA.OdeS1C2H.incipit = "…"
 ocMA.OdeS1C2H.text = ""
 
 ocMA.OdeS1C21.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS1C21.ode = misc_en_US_holycross.Ode1
 ocMA.OdeS1C21.melody = he.h.m4_en_US_holycross.AnoixoToStomaMou.notmetered
-ocMA.OdeS1C21.incipit = ""
+ocMA.OdeS1C21.incipit = "…"
 ocMA.OdeS1C21.text = ""
 
 ocMA.OdeS1C22.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS1C22.ode = misc_en_US_holycross.Ode1
 ocMA.OdeS1C22.melody = he.h.m4_en_US_holycross.AnoixoToStomaMou.notmetered
-ocMA.OdeS1C22.incipit = ""
+ocMA.OdeS1C22.incipit = "…"
 ocMA.OdeS1C22.text = ""
 
 ocMA.OdeS1C2T.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS1C2T.ode = misc_en_US_holycross.Ode1
 ocMA.OdeS1C2T.melody = he.h.m4_en_US_holycross.AnoixoToStomaMou.notmetered
-ocMA.OdeS1C2T.incipit = ""
+ocMA.OdeS1C2T.incipit = "…"
 ocMA.OdeS1C2T.text = ""
 
 ocMA.OdeS1C31.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS1C31.ode = misc_en_US_holycross.Ode1
 ocMA.OdeS1C31.melody = he.h.m4_en_US_holycross.TristatasKrataious.notmetered
-ocMA.OdeS1C31.incipit = ""
+ocMA.OdeS1C31.incipit = "…"
 ocMA.OdeS1C31.text = ""
 
 ocMA.OdeS1C32.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS1C32.ode = misc_en_US_holycross.Ode1
 ocMA.OdeS1C32.melody = he.h.m4_en_US_holycross.TristatasKrataious.notmetered
-ocMA.OdeS1C32.incipit = ""
+ocMA.OdeS1C32.incipit = "…"
 ocMA.OdeS1C32.text = ""
 
 ocMA.OdeS3C1H.mode = misc_en_US_holycross.Mode4
@@ -433,55 +433,55 @@ ocMA.OdeS3C1H.text = he.h.m4_en_US_holycross.EffrainetaiEpiSoi.text
 ocMA.OdeS3C11.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS3C11.ode = misc_en_US_holycross.Ode3
 ocMA.OdeS3C11.melody = he.h.m4_en_US_holycross.EffrainetaiEpiSoi.notmetered
-ocMA.OdeS3C11.incipit = ""
+ocMA.OdeS3C11.incipit = "…"
 ocMA.OdeS3C11.text = ""
 
 ocMA.OdeS3C12.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS3C12.ode = misc_en_US_holycross.Ode3
 ocMA.OdeS3C12.melody = he.h.m4_en_US_holycross.EffrainetaiEpiSoi.notmetered
-ocMA.OdeS3C12.incipit = ""
+ocMA.OdeS3C12.incipit = "…"
 ocMA.OdeS3C12.text = ""
 
 ocMA.OdeS3C1T.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS3C1T.ode = misc_en_US_holycross.Ode3
 ocMA.OdeS3C1T.melody = he.h.m4_en_US_holycross.EffrainetaiEpiSoi.notmetered
-ocMA.OdeS3C1T.incipit = ""
+ocMA.OdeS3C1T.incipit = "…"
 ocMA.OdeS3C1T.text = ""
 
 ocMA.OdeS3C2H.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS3C2H.ode = misc_en_US_holycross.Ode3
 ocMA.OdeS3C2H.melody = he.h.m4_en_US_holycross.TousSousYmnologous.notmetered
-ocMA.OdeS3C2H.incipit = ""
+ocMA.OdeS3C2H.incipit = "…"
 ocMA.OdeS3C2H.text = ""
 
 ocMA.OdeS3C21.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS3C21.ode = misc_en_US_holycross.Ode3
 ocMA.OdeS3C21.melody = he.h.m4_en_US_holycross.TousSousYmnologous.notmetered
-ocMA.OdeS3C21.incipit = ""
+ocMA.OdeS3C21.incipit = "…"
 ocMA.OdeS3C21.text = ""
 
 ocMA.OdeS3C22.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS3C22.ode = misc_en_US_holycross.Ode3
 ocMA.OdeS3C22.melody = he.h.m4_en_US_holycross.TousSousYmnologous.notmetered
-ocMA.OdeS3C22.incipit = ""
+ocMA.OdeS3C22.incipit = "…"
 ocMA.OdeS3C22.text = ""
 
 ocMA.OdeS3C2T.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS3C2T.ode = misc_en_US_holycross.Ode3
 ocMA.OdeS3C2T.melody = he.h.m4_en_US_holycross.TousSousYmnologous.notmetered
-ocMA.OdeS3C2T.incipit = ""
+ocMA.OdeS3C2T.incipit = "…"
 ocMA.OdeS3C2T.text = ""
 
 ocMA.OdeS3C31.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS3C31.ode = misc_en_US_holycross.Ode3
 ocMA.OdeS3C31.melody = he.h.m4_en_US_holycross.AfYpsousKatilthes.notmetered
-ocMA.OdeS3C31.incipit = ""
+ocMA.OdeS3C31.incipit = "…"
 ocMA.OdeS3C31.text = ""
 
 ocMA.OdeS3C32.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS3C32.ode = misc_en_US_holycross.Ode3
 ocMA.OdeS3C32.melody = he.h.m4_en_US_holycross.AfYpsousKatilthes.notmetered
-ocMA.OdeS3C32.incipit = ""
+ocMA.OdeS3C32.incipit = "…"
 ocMA.OdeS3C32.text = ""
 
 ocMA.OdeS4C1H.mode = misc_en_US_holycross.Mode4
@@ -493,61 +493,61 @@ ocMA.OdeS4C1H.text = he.h.m4_en_US_holycross.EparthentaSeIdousa.text
 ocMA.OdeS4C11.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS4C11.ode = misc_en_US_holycross.Ode4
 ocMA.OdeS4C11.melody = he.h.m4_en_US_holycross.EparthentaSeIdousa.notmetered
-ocMA.OdeS4C11.incipit = ""
+ocMA.OdeS4C11.incipit = "…"
 ocMA.OdeS4C11.text = ""
 
 ocMA.OdeS4C12.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS4C12.ode = misc_en_US_holycross.Ode4
 ocMA.OdeS4C12.melody = he.h.m4_en_US_holycross.EparthentaSeIdousa.notmetered
-ocMA.OdeS4C12.incipit = ""
+ocMA.OdeS4C12.incipit = "…"
 ocMA.OdeS4C12.text = ""
 
 ocMA.OdeS4C1T.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS4C1T.ode = misc_en_US_holycross.Ode4
 ocMA.OdeS4C1T.melody = he.h.m4_en_US_holycross.EparthentaSeIdousa.notmetered
-ocMA.OdeS4C1T.incipit = ""
+ocMA.OdeS4C1T.incipit = "…"
 ocMA.OdeS4C1T.text = ""
 
 ocMA.OdeS4C2H.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS4C2H.ode = misc_en_US_holycross.Ode4
 ocMA.OdeS4C2H.melody = he.h.m4_en_US_holycross.TinAnexichniaston.notmetered
-ocMA.OdeS4C2H.incipit = ""
+ocMA.OdeS4C2H.incipit = "…"
 ocMA.OdeS4C2H.text = ""
 
 ocMA.OdeS4C21.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS4C21.ode = misc_en_US_holycross.Ode4
 ocMA.OdeS4C21.melody = he.h.m4_en_US_holycross.TinAnexichniaston.notmetered
-ocMA.OdeS4C21.incipit = ""
+ocMA.OdeS4C21.incipit = "…"
 ocMA.OdeS4C21.text = ""
 
 ocMA.OdeS4C22.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS4C22.ode = misc_en_US_holycross.Ode4
 ocMA.OdeS4C22.melody = he.h.m4_en_US_holycross.TinAnexichniaston.notmetered
-ocMA.OdeS4C22.incipit = ""
+ocMA.OdeS4C22.incipit = "…"
 ocMA.OdeS4C22.text = ""
 
 ocMA.OdeS4C2T.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS4C2T.ode = misc_en_US_holycross.Ode4
 ocMA.OdeS4C2T.melody = he.h.m4_en_US_holycross.TinAnexichniaston.notmetered
-ocMA.OdeS4C2T.incipit = ""
+ocMA.OdeS4C2T.incipit = "…"
 ocMA.OdeS4C2T.text = ""
 
 ocMA.OdeS4C31.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS4C31.ode = misc_en_US_holycross.Ode4
 ocMA.OdeS4C31.melody = he.h.m4_en_US_holycross.OKathimenosEnDoxi.notmetered
-ocMA.OdeS4C31.incipit = ""
+ocMA.OdeS4C31.incipit = "…"
 ocMA.OdeS4C31.text = ""
 
 ocMA.OdeS4C32.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS4C32.ode = misc_en_US_holycross.Ode4
 ocMA.OdeS4C32.melody = he.h.m4_en_US_holycross.OKathimenosEnDoxi.notmetered
-ocMA.OdeS4C32.incipit = ""
+ocMA.OdeS4C32.incipit = "…"
 ocMA.OdeS4C32.text = ""
 
 ocMA.OdeS4C33.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS4C33.ode = misc_en_US_holycross.Ode4
 ocMA.OdeS4C33.melody = he.h.m4_en_US_holycross.OKathimenosEnDoxi.notmetered
-ocMA.OdeS4C33.incipit = ""
+ocMA.OdeS4C33.incipit = "…"
 ocMA.OdeS4C33.text = ""
 
 ocMA.OdeS5C1H.mode = misc_en_US_holycross.Mode4
@@ -559,61 +559,61 @@ ocMA.OdeS5C1H.text = he.h.m4_en_US_holycross.SyKyrieMouFos.text
 ocMA.OdeS5C11.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS5C11.ode = misc_en_US_holycross.Ode5
 ocMA.OdeS5C11.melody = he.h.m4_en_US_holycross.SyKyrieMouFos.notmetered
-ocMA.OdeS5C11.incipit = ""
+ocMA.OdeS5C11.incipit = "…"
 ocMA.OdeS5C11.text = ""
 
 ocMA.OdeS5C12.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS5C12.ode = misc_en_US_holycross.Ode5
 ocMA.OdeS5C12.melody = he.h.m4_en_US_holycross.SyKyrieMouFos.notmetered
-ocMA.OdeS5C12.incipit = ""
+ocMA.OdeS5C12.incipit = "…"
 ocMA.OdeS5C12.text = ""
 
 ocMA.OdeS5C1T.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS5C1T.ode = misc_en_US_holycross.Ode5
 ocMA.OdeS5C1T.melody = he.h.m4_en_US_holycross.SyKyrieMouFos.notmetered
-ocMA.OdeS5C1T.incipit = ""
+ocMA.OdeS5C1T.incipit = "…"
 ocMA.OdeS5C1T.text = ""
 
 ocMA.OdeS5C2H.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS5C2H.ode = misc_en_US_holycross.Ode5
 ocMA.OdeS5C2H.melody = ""
-ocMA.OdeS5C2H.incipit = ""
+ocMA.OdeS5C2H.incipit = "…"
 ocMA.OdeS5C2H.text = ""
 
 ocMA.OdeS5C21.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS5C21.ode = misc_en_US_holycross.Ode5
 ocMA.OdeS5C21.melody = he.h.m4_en_US_holycross.ExestiTaSympanta.notmetered
-ocMA.OdeS5C21.incipit = ""
+ocMA.OdeS5C21.incipit = "…"
 ocMA.OdeS5C21.text = ""
 
 ocMA.OdeS5C22.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS5C22.ode = misc_en_US_holycross.Ode5
 ocMA.OdeS5C22.melody = he.h.m4_en_US_holycross.ExestiTaSympanta.notmetered
-ocMA.OdeS5C22.incipit = ""
+ocMA.OdeS5C22.incipit = "…"
 ocMA.OdeS5C22.text = ""
 
 ocMA.OdeS5C2T.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS5C2T.ode = misc_en_US_holycross.Ode5
 ocMA.OdeS5C2T.melody = he.h.m4_en_US_holycross.ExestiTaSympanta.notmetered
-ocMA.OdeS5C2T.incipit = ""
+ocMA.OdeS5C2T.incipit = "…"
 ocMA.OdeS5C2T.text = ""
 
 ocMA.OdeS5C31.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS5C31.ode = misc_en_US_holycross.Ode5
 ocMA.OdeS5C31.melody = he.h.m4_en_US_holycross.NynAnastisomai.notmetered
-ocMA.OdeS5C31.incipit = ""
+ocMA.OdeS5C31.incipit = "…"
 ocMA.OdeS5C31.text = ""
 
 ocMA.OdeS5C32.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS5C32.ode = misc_en_US_holycross.Ode5
 ocMA.OdeS5C32.melody = he.h.m4_en_US_holycross.NynAnastisomai.notmetered
-ocMA.OdeS5C32.incipit = ""
+ocMA.OdeS5C32.incipit = "…"
 ocMA.OdeS5C32.text = ""
 
 ocMA.OdeS5C33.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS5C33.ode = misc_en_US_holycross.Ode5
 ocMA.OdeS5C33.melody = he.h.m4_en_US_holycross.NynAnastisomai.notmetered
-ocMA.OdeS5C33.incipit = ""
+ocMA.OdeS5C33.incipit = "…"
 ocMA.OdeS5C33.text = ""
 
 ocMA.OdeS6C1H.mode = misc_en_US_holycross.Mode4
@@ -625,64 +625,64 @@ ocMA.OdeS6C1H.text = he.h.m4_en_US_holycross.ThysoSoiMetaFonis.text
 ocMA.OdeS6C11.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS6C11.ode = misc_en_US_holycross.Ode6
 ocMA.OdeS6C11.melody = he.h.m4_en_US_holycross.ThysoSoiMetaFonis.notmetered
-ocMA.OdeS6C11.incipit = ""
+ocMA.OdeS6C11.incipit = "…"
 ocMA.OdeS6C11.text = ""
 
 ocMA.OdeS6C12.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS6C12.ode = misc_en_US_holycross.Ode6
 ocMA.OdeS6C12.melody = he.h.m4_en_US_holycross.ThysoSoiMetaFonis.notmetered
-ocMA.OdeS6C12.incipit = ""
+ocMA.OdeS6C12.incipit = "…"
 ocMA.OdeS6C12.text = ""
 
 ocMA.OdeS6C1T.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS6C1T.ode = misc_en_US_holycross.Ode6
 ocMA.OdeS6C1T.melody = he.h.m4_en_US_holycross.ThysoSoiMetaFonis.notmetered
-ocMA.OdeS6C1T.incipit = ""
+ocMA.OdeS6C1T.incipit = "…"
 ocMA.OdeS6C1T.text = ""
 
 ocMA.OdeS6C2H.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS6C2H.ode = misc_en_US_holycross.Ode6
 ocMA.OdeS6C2H.melody = ""
-ocMA.OdeS6C2H.incipit = ""
+ocMA.OdeS6C2H.incipit = "…"
 ocMA.OdeS6C2H.text = ""
 
 ocMA.OdeS6C21.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS6C21.ode = misc_en_US_holycross.Ode6
 ocMA.OdeS6C21.melody = he.h.m4_en_US_holycross.IlthonEisTaVathi.notmetered
-ocMA.OdeS6C21.incipit = ""
+ocMA.OdeS6C21.incipit = "…"
 ocMA.OdeS6C21.text = ""
 
 ocMA.OdeS6C22.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS6C22.ode = misc_en_US_holycross.Ode6
 ocMA.OdeS6C22.melody = he.h.m4_en_US_holycross.IlthonEisTaVathi.notmetered
-ocMA.OdeS6C22.incipit = ""
+ocMA.OdeS6C22.incipit = "…"
 ocMA.OdeS6C22.text = ""
 
 ocMA.OdeS6C2T.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS6C2T.ode = misc_en_US_holycross.Ode6
 ocMA.OdeS6C2T.melody = he.h.m4_en_US_holycross.IlthonEisTaVathi.notmetered
-ocMA.OdeS6C2T.incipit = ""
+ocMA.OdeS6C2T.incipit = "…"
 ocMA.OdeS6C2T.text = ""
 
 ocMA.OdeS6C31.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS6C31.ode = misc_en_US_holycross.Ode6
 ocMA.OdeS6C31.melody = he.h.m4_en_US_holycross.IlthonEisTaVathi.notmetered
-ocMA.OdeS6C31.incipit = ""
+ocMA.OdeS6C31.incipit = "…"
 ocMA.OdeS6C31.text = ""
 
 ocMA.OdeS6C32.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS6C32.ode = misc_en_US_holycross.Ode6
 ocMA.OdeS6C32.melody = he.h.m4_en_US_holycross.IlthonEisTaVathi.notmetered
-ocMA.OdeS6C32.incipit = ""
+ocMA.OdeS6C32.incipit = "…"
 ocMA.OdeS6C32.text = ""
 
 ocMA.Kontakion.mode = misc_en_US_holycross.Mode4
 ocMA.Kontakion.melody = he.a.m4_en_US_holycross.EpefanisSimeron.notmetered
-ocMA.Kontakion.incipit = ""
+ocMA.Kontakion.incipit = "…"
 ocMA.Kontakion.text = ""
 
 ocMA.Oikos.mode = misc_en_US_holycross.Mode4
-ocMA.Oikos.incipit = ""
+ocMA.Oikos.incipit = "…"
 ocMA.Oikos.text = ""
 
 ocMA.OdeS7C1H.mode = misc_en_US_holycross.Mode4
@@ -694,61 +694,61 @@ ocMA.OdeS7C1H.text = he.h.m4_en_US_holycross.EnTiKaminoAvramiaioi.text
 ocMA.OdeS7C11.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS7C11.ode = misc_en_US_holycross.Ode7
 ocMA.OdeS7C11.melody = he.h.m4_en_US_holycross.EnTiKaminoAvramiaioi.notmetered
-ocMA.OdeS7C11.incipit = ""
+ocMA.OdeS7C11.incipit = "…"
 ocMA.OdeS7C11.text = ""
 
 ocMA.OdeS7C12.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS7C12.ode = misc_en_US_holycross.Ode7
 ocMA.OdeS7C12.melody = he.h.m4_en_US_holycross.EnTiKaminoAvramiaioi.notmetered
-ocMA.OdeS7C12.incipit = ""
+ocMA.OdeS7C12.incipit = "…"
 ocMA.OdeS7C12.text = ""
 
 ocMA.OdeS7C1T.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS7C1T.ode = misc_en_US_holycross.Ode7
 ocMA.OdeS7C1T.melody = he.h.m4_en_US_holycross.EnTiKaminoAvramiaioi.notmetered
-ocMA.OdeS7C1T.incipit = ""
+ocMA.OdeS7C1T.incipit = "…"
 ocMA.OdeS7C1T.text = ""
 
 ocMA.OdeS7C2H.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS7C2H.ode = misc_en_US_holycross.Ode7
 ocMA.OdeS7C2H.melody = he.h.m4_en_US_holycross.OukElatrefsan.notmetered
-ocMA.OdeS7C2H.incipit = ""
+ocMA.OdeS7C2H.incipit = "…"
 ocMA.OdeS7C2H.text = ""
 
 ocMA.OdeS7C21.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS7C21.ode = misc_en_US_holycross.Ode7
 ocMA.OdeS7C21.melody = he.h.m4_en_US_holycross.OukElatrefsan.notmetered
-ocMA.OdeS7C21.incipit = ""
+ocMA.OdeS7C21.incipit = "…"
 ocMA.OdeS7C21.text = ""
 
 ocMA.OdeS7C22.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS7C22.ode = misc_en_US_holycross.Ode7
 ocMA.OdeS7C22.melody = he.h.m4_en_US_holycross.OukElatrefsan.notmetered
-ocMA.OdeS7C22.incipit = ""
+ocMA.OdeS7C22.incipit = "…"
 ocMA.OdeS7C22.text = ""
 
 ocMA.OdeS7C2Tr.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS7C2Tr.ode = misc_en_US_holycross.Ode7
 ocMA.OdeS7C2Tr.melody = he.h.m4_en_US_holycross.OukElatrefsan.notmetered
-ocMA.OdeS7C2Tr.incipit = ""
+ocMA.OdeS7C2Tr.incipit = "…"
 ocMA.OdeS7C2Tr.text = ""
 
 ocMA.OdeS7C31.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS7C31.ode = misc_en_US_holycross.Ode7
 ocMA.OdeS7C31.melody = he.h.m4_en_US_holycross.NeoiTreisEnVavyloni.notmetered
-ocMA.OdeS7C31.incipit = ""
+ocMA.OdeS7C31.incipit = "…"
 ocMA.OdeS7C31.text = ""
 
 ocMA.OdeS7C32.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS7C32.ode = misc_en_US_holycross.Ode7
 ocMA.OdeS7C32.melody = he.h.m4_en_US_holycross.NeoiTreisEnVavyloni.notmetered
-ocMA.OdeS7C32.incipit = ""
+ocMA.OdeS7C32.incipit = "…"
 ocMA.OdeS7C32.text = ""
 
 ocMA.OdeS7C3Tr.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS7C3Tr.ode = misc_en_US_holycross.Ode7
 ocMA.OdeS7C3Tr.melody = he.h.m4_en_US_holycross.NeoiTreisEnVavyloni.notmetered
-ocMA.OdeS7C3Tr.incipit = ""
+ocMA.OdeS7C3Tr.incipit = "…"
 ocMA.OdeS7C3Tr.text = ""
 
 ocMA.OdeS8C1H.mode = misc_en_US_holycross.Mode4
@@ -760,61 +760,61 @@ ocMA.OdeS8C1H.text = he.h.m4_en_US_holycross.CheirasEkpetasasDaniil.text
 ocMA.OdeS8C11.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS8C11.ode = misc_en_US_holycross.Ode8
 ocMA.OdeS8C11.melody = he.h.m4_en_US_holycross.CheirasEkpetasasDaniil.notmetered
-ocMA.OdeS8C11.incipit = ""
+ocMA.OdeS8C11.incipit = "…"
 ocMA.OdeS8C11.text = ""
 
 ocMA.OdeS8C12.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS8C12.ode = misc_en_US_holycross.Ode8
 ocMA.OdeS8C12.melody = he.h.m4_en_US_holycross.CheirasEkpetasasDaniil.notmetered
-ocMA.OdeS8C12.incipit = ""
+ocMA.OdeS8C12.incipit = "…"
 ocMA.OdeS8C12.text = ""
 
 ocMA.OdeS8C1T.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS8C1T.ode = misc_en_US_holycross.Ode8
 ocMA.OdeS8C1T.melody = he.h.m4_en_US_holycross.CheirasEkpetasasDaniil.notmetered
-ocMA.OdeS8C1T.incipit = ""
+ocMA.OdeS8C1T.incipit = "…"
 ocMA.OdeS8C1T.text = ""
 
 ocMA.OdeS8C2H.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS8C2H.ode = misc_en_US_holycross.Ode8
 ocMA.OdeS8C2H.melody = he.h.m4_en_US_holycross.PaidasEvageis.notmetered
-ocMA.OdeS8C2H.incipit = ""
+ocMA.OdeS8C2H.incipit = "…"
 ocMA.OdeS8C2H.text = ""
 
 ocMA.OdeS8C21.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS8C21.ode = misc_en_US_holycross.Ode8
 ocMA.OdeS8C21.melody = he.h.m4_en_US_holycross.PaidasEvageis.notmetered
-ocMA.OdeS8C21.incipit = ""
+ocMA.OdeS8C21.incipit = "…"
 ocMA.OdeS8C21.text = ""
 
 ocMA.OdeS8C22.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS8C22.ode = misc_en_US_holycross.Ode8
 ocMA.OdeS8C22.melody = he.h.m4_en_US_holycross.PaidasEvageis.notmetered
-ocMA.OdeS8C22.incipit = ""
+ocMA.OdeS8C22.incipit = "…"
 ocMA.OdeS8C22.text = ""
 
 ocMA.OdeS8C2Tr.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS8C2Tr.ode = misc_en_US_holycross.Ode8
 ocMA.OdeS8C2Tr.melody = he.h.m4_en_US_holycross.PaidasEvageis.notmetered
-ocMA.OdeS8C2Tr.incipit = ""
+ocMA.OdeS8C2Tr.incipit = "…"
 ocMA.OdeS8C2Tr.text = ""
 
 ocMA.OdeS8C31.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS8C31.ode = misc_en_US_holycross.Ode8
 ocMA.OdeS8C31.melody = he.h.m4_en_US_holycross.LytrotaTouPantos.notmetered
-ocMA.OdeS8C31.incipit = ""
+ocMA.OdeS8C31.incipit = "…"
 ocMA.OdeS8C31.text = ""
 
 ocMA.OdeS8C32.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS8C32.ode = misc_en_US_holycross.Ode8
 ocMA.OdeS8C32.melody = he.h.m4_en_US_holycross.LytrotaTouPantos.notmetered
-ocMA.OdeS8C32.incipit = ""
+ocMA.OdeS8C32.incipit = "…"
 ocMA.OdeS8C32.text = ""
 
 ocMA.OdeS8C33.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS8C33.ode = misc_en_US_holycross.Ode8
 ocMA.OdeS8C33.melody = he.h.m4_en_US_holycross.LytrotaTouPantos.notmetered
-ocMA.OdeS8C33.incipit = ""
+ocMA.OdeS8C33.incipit = "…"
 ocMA.OdeS8C33.text = ""
 
 ocMA.OdeS9C1H.mode = misc_en_US_holycross.Mode4
@@ -826,55 +826,55 @@ ocMA.OdeS9C1H.text = he.h.m4_en_US_holycross.LithosAcheirotmitos.text
 ocMA.OdeS9C11.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS9C11.ode = misc_en_US_holycross.Ode9
 ocMA.OdeS9C11.melody = he.h.m4_en_US_holycross.LithosAcheirotmitos.notmetered
-ocMA.OdeS9C11.incipit = ""
+ocMA.OdeS9C11.incipit = "…"
 ocMA.OdeS9C11.text = ""
 
 ocMA.OdeS9C12.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS9C12.ode = misc_en_US_holycross.Ode9
 ocMA.OdeS9C12.melody = he.h.m4_en_US_holycross.LithosAcheirotmitos.notmetered
-ocMA.OdeS9C12.incipit = ""
+ocMA.OdeS9C12.incipit = "…"
 ocMA.OdeS9C12.text = ""
 
 ocMA.OdeS9C1Tr.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS9C1Tr.ode = misc_en_US_holycross.Ode9
 ocMA.OdeS9C1Tr.melody = he.h.m4_en_US_holycross.LithosAcheirotmitos.notmetered
-ocMA.OdeS9C1Tr.incipit = ""
+ocMA.OdeS9C1Tr.incipit = "…"
 ocMA.OdeS9C1Tr.text = ""
 
 ocMA.OdeS9C21.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS9C21.ode = misc_en_US_holycross.Ode9
 ocMA.OdeS9C21.melody = he.h.m4_en_US_holycross.ApasGigenis.notmetered
-ocMA.OdeS9C21.incipit = ""
+ocMA.OdeS9C21.incipit = "…"
 ocMA.OdeS9C21.text = ""
 
 ocMA.OdeS9C22.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS9C22.ode = misc_en_US_holycross.Ode9
 ocMA.OdeS9C22.melody = he.h.m4_en_US_holycross.ApasGigenis.notmetered
-ocMA.OdeS9C22.incipit = ""
+ocMA.OdeS9C22.incipit = "…"
 ocMA.OdeS9C22.text = ""
 
 ocMA.OdeS9C23.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS9C23.ode = misc_en_US_holycross.Ode9
 ocMA.OdeS9C23.melody = he.h.m4_en_US_holycross.ApasGigenis.notmetered
-ocMA.OdeS9C23.incipit = ""
+ocMA.OdeS9C23.incipit = "…"
 ocMA.OdeS9C23.text = ""
 
 ocMA.OdeS9C31.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS9C31.ode = misc_en_US_holycross.Ode9
 ocMA.OdeS9C31.melody = he.h.m4_en_US_holycross.KryptonTheionAchranton.notmetered
-ocMA.OdeS9C31.incipit = ""
+ocMA.OdeS9C31.incipit = "…"
 ocMA.OdeS9C31.text = ""
 
 ocMA.OdeS9C32.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS9C32.ode = misc_en_US_holycross.Ode9
 ocMA.OdeS9C32.melody = he.h.m4_en_US_holycross.KryptonTheionAchranton.notmetered
-ocMA.OdeS9C32.incipit = ""
+ocMA.OdeS9C32.incipit = "…"
 ocMA.OdeS9C32.text = ""
 
 ocMA.OdeS9C33.mode = misc_en_US_holycross.Mode4
 ocMA.OdeS9C33.ode = misc_en_US_holycross.Ode9
 ocMA.OdeS9C33.melody = he.h.m4_en_US_holycross.KryptonTheionAchranton.notmetered
-ocMA.OdeS9C33.incipit = ""
+ocMA.OdeS9C33.incipit = "…"
 ocMA.OdeS9C33.text = ""
 
 ocMA.Magnificat.mode = misc_en_US_holycross.Mode4
@@ -890,40 +890,40 @@ ocMA.MM.LaudsHeirmologic02.text = properties_en_US_holycross.media.key
 
 ocMA.Lauds1.mode = misc_en_US_holycross.Mode1
 ocMA.Lauds1.melody = ""
-ocMA.Lauds1.incipit = ""
+ocMA.Lauds1.incipit = "…"
 ocMA.Lauds1.text = ""
 
 ocMA.Lauds2.mode = misc_en_US_holycross.Mode1
 ocMA.Lauds2.melody = ""
-ocMA.Lauds2.incipit = ""
+ocMA.Lauds2.incipit = "…"
 ocMA.Lauds2.text = ""
 
 ocMA.Lauds3.mode = misc_en_US_holycross.Mode1
 ocMA.Lauds3.melody = ""
-ocMA.Lauds3.incipit = ""
+ocMA.Lauds3.incipit = "…"
 ocMA.Lauds3.text = ""
 
 ocMA.Lauds4.mode = misc_en_US_holycross.Mode1
 ocMA.Lauds4.melody = ""
-ocMA.Lauds4.incipit = ""
+ocMA.Lauds4.incipit = "…"
 ocMA.Lauds4.text = ""
 
 ocMA.Lauds5.mode = misc_en_US_holycross.Mode1
 ocMA.Lauds5.melody = ""
-ocMA.Lauds5.incipit = ""
+ocMA.Lauds5.incipit = "…"
 ocMA.Lauds5.text = ""
 
 ocMA.Lauds6.mode = misc_en_US_holycross.Mode1
 ocMA.Lauds6.melody = ""
-ocMA.Lauds6.incipit = ""
+ocMA.Lauds6.incipit = "…"
 ocMA.Lauds6.text = ""
 
 ocMA.Lauds7.mode = misc_en_US_holycross.Mode1
 ocMA.Lauds7.melody = ""
-ocMA.Lauds7.incipit = ""
+ocMA.Lauds7.incipit = "…"
 ocMA.Lauds7.text = ""
 
 ocMA.Lauds8.mode = misc_en_US_holycross.Mode1
 ocMA.Lauds8.melody = ""
-ocMA.Lauds8.incipit = ""
+ocMA.Lauds8.incipit = "…"
 ocMA.Lauds8.text = ""

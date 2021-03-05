@@ -112,7 +112,7 @@ hoCO.Key1015.text = prayers_en_US_holycross.OEnPantiKairo.text
 
 hoCO.Key1016.title = "Prayer of St. Ephraim the Syrian"
 hoCO.Key1016.text = "O Lord and Master of my life, do not permit the spirit of laziness and meddling, the lust for power and idle talk to come into me."
-hoCO.Key1017.text = "Instead, grant me, your servant, the spirit of prudence, humility, patience and love. "
+hoCO.Key1017.text = "Instead, grant me, your servant, the spirit of prudence, humility, patience and love."
 hoCO.Key1018.text = "Yes, Lord and King, give me the power to see my own faults and not to judge my brother."
 hoCO.Key1019.text = "For you are blessed unto the ages of ages."
 
@@ -141,19 +141,19 @@ hoCO.Key1300.rubric = "And all receive forgiveness from the Priest by kissing hi
 hoCO.Key1301.rubric = "On Monday, Wednesday and Friday evening:"
 hoCO.Key1301.mode = misc_en_US_holycross.Mode2
 hoCO.Key1301.melody = misc_en_US_holycross.NotMetered //he.a.m2_en_US_holycross.OteEkTouXylou.name
-hoCO.Key1301.incipit = "All of us, do you protect" //oc.m2.d5_en_US_holycross.ocVE.AposTheotokion.text
+hoCO.Key1301.incipit = "All of us, do you protect…" //oc.m2.d5_en_US_holycross.ocVE.AposTheotokion.text
 hoCO.Key1301.text = "All of us, do you protect, O Good One, who seek refuge in faith, in Your mighty hand; for none other have we, the sinners before God; in danger and in sorrow, forever interceding, for us who are laden by so many faults; Mother of the God the Most High, on our knees we ask You: deliver Your servants from all tribulation." //oc.m2.d5_en_US_holycross.ocVE.AposTheotokion.text
 
 hoCO.Key1302.rubric = ""
 hoCO.Key1302.mode = misc_en_US_holycross.Mode1
 hoCO.Key1302.melody = misc_en_US_holycross.NotMetered //he.a.m1_en_US_holycross.PaneffimoiMartyres.name
-hoCO.Key1302.incipit = "" //oc.m1.d3_en_US_holycross.ocMA.AposTheotokion.incipit
+hoCO.Key1302.incipit = "…" //oc.m1.d3_en_US_holycross.ocMA.AposTheotokion.incipit
 hoCO.Key1302.text = "" //oc.m1.d3_en_US_holycross.ocMA.AposTheotokion.text
 
 hoCO.Key1303.rubric = "On Tuesday and Thursday evening:"
 hoCO.Key1303.mode = misc_en_US_holycross.Mode1
 hoCO.Key1303.melody = misc_en_US_holycross.NotMetered //he.a.m1_en_US_holycross.PaneffimoiMartyres.name
-hoCO.Key1303.incipit = "Watching, O Christ" //oc.m1.d4_en_US_holycross.ocVE.SticTheotokion.text
+hoCO.Key1303.incipit = "Watching, O Christ…" //oc.m1.d4_en_US_holycross.ocVE.SticTheotokion.text
 hoCO.Key1303.text = "Watching, O Christ, Your slaughter the unjust, in torment the Virgin cried to You: O my sweetest child, how needlessly You die, and You hang upon the wood, You who on the waters suspended all the earth. Benefactor, most merciful, do not abandon alone now, Your Mother and servant, I pray to You." //oc.m1.d4_en_US_holycross.ocVE.SticTheotokion.text
 
 hoCO.Key1304.rubric = ""
