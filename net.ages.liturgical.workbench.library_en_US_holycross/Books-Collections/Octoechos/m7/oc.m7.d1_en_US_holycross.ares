@@ -4,7 +4,7 @@ ocBK.mode.title = ""
 
 ocVE.Stichera1.mode = misc_en_US_holycross.Mode7
 ocVE.Stichera1.melody = ""
-ocVE.Stichera1.incipit = "Come, let us rejoice in…"
+ocVE.Stichera1.incipit = "Come, let us rejoice…"
 ocVE.Stichera1.text = "Come, let us rejoice in the Lord who destroyed the power of death and enlightened mankind; and let us cry along with the angels: Glory to you, our Creator and our Savior."
 
 ocVE.Stichera2.mode = misc_en_US_holycross.Mode7
@@ -14,12 +14,12 @@ ocVE.Stichera2.text = "On our account, O Savior, you endured the cross and the t
 
 ocVE.Stichera3.mode = misc_en_US_holycross.Mode7
 ocVE.Stichera3.melody = ""
-ocVE.Stichera3.incipit = "On beholding the resurrection of…"
+ocVE.Stichera3.incipit = "On beholding the resurrection…"
 ocVE.Stichera3.text = "On beholding the resurrection of the Creator, the apostles, marveling, sang an angelic song of praise: This is the glory of the Church. These are the riches of the kingdom. Glory be to you, O Lord, who suffered death for us."
 
 ocVE.Stichera4.mode = misc_en_US_holycross.Mode7
 ocVE.Stichera4.melody = ""
-ocVE.Stichera4.incipit = "Though you, O Christ, have…"
+ocVE.Stichera4.incipit = "Though you, O Christ…"
 ocVE.Stichera4.text = "Though you, O Christ, have been taken captive by evil men, you are my God and I am not ashamed. I do not deny that your back was scourged, nor will I hide that you were nailed to the cross. I boast of your resurrection, for your death is my life. Almighty and loving God, glory to you."
 
 ocVE.Stichera5.mode = misc_en_US_holycross.Mode7
@@ -29,17 +29,17 @@ ocVE.Stichera5.text = "Fulfilling the prophecy of David, Christ revealed to his 
 
 ocVE.Stichera6.mode = misc_en_US_holycross.Mode7
 ocVE.Stichera6.melody = ""
-ocVE.Stichera6.incipit = "As God and Master, O…"
+ocVE.Stichera6.incipit = "As God and Master, O Christ…"
 ocVE.Stichera6.text = "As God and Master, O Christ, by your will you descended into Hades despoiling death; and on the third day you rose, raising with you Adam, held captive by the chains of hell and of corruption, who cried and said: Glory be to your resurrection, O only loving God."
 
 ocVE.Stichera7.mode = misc_en_US_holycross.Mode7
 ocVE.Stichera7.melody = ""
-ocVE.Stichera7.incipit = "You were laid in the…"
+ocVE.Stichera7.incipit = "You were laid in the tomb…"
 ocVE.Stichera7.text = "You were laid in the tomb as if asleep, O Lord, and after three days you rose in mighty strength, raising up with you, as almighty, Adam from the corruption of death."
 
 ocVE.SticTheotokion.mode = misc_en_US_holycross.Mode7
 ocVE.SticTheotokion.melody = ""
-ocVE.SticTheotokion.incipit = "You, O Theotokos, have been…"
+ocVE.SticTheotokion.incipit = "You, O Theotokos, have been acknowledged…"
 ocVE.SticTheotokion.text = "You, O Theotokos, have been acknowledged as a mother above and beyond nature, and you remain a virgin beyond words and understanding. No tongue can explain the miracle of your giving birth. For your conceiving was wondrous, pure One, and the manner of your child-bearing impossible of understanding. For when God so wills, the order of nature is overthrown. Therefore, we all acknowledge you as the mother of God, and fervently beseech you: make supplication that our souls may be saved."
 
 ocVE.Aposticha1.mode = misc_en_US_holycross.Mode7
@@ -59,12 +59,12 @@ ocVE.Aposticha3.text = "You have descended into Hades, O Christ, despoiling deat
 
 ocVE.Aposticha4.mode = misc_en_US_holycross.Mode7
 ocVE.Aposticha4.melody = ""
-ocVE.Aposticha4.incipit = "O Lord, what an awful…"
+ocVE.Aposticha4.incipit = "O Lord, what an awful sight…"
 ocVE.Aposticha4.text = "O Lord, what an awful sight it was to see you lying as if asleep in the tomb. Yet you rose on the third day in power also raising Adam who cried: Glory to your resurrection, O only loving God."
 
 ocVE.AposTheotokion.mode = misc_en_US_holycross.Mode7
 ocVE.AposTheotokion.melody = ""
-ocVE.AposTheotokion.incipit = "All of us who dwell…"
+ocVE.AposTheotokion.incipit = "All of us who dwell on earth…"
 ocVE.AposTheotokion.text = "All of us who dwell on earth, taking refuge under your protection, O Lady, cry aloud to you: O Theotokos, you are our hope. Deliver us from our countless sins and save us."
 
 ocVE.Apolytikion.mode = misc_en_US_holycross.Mode7
