@@ -48,8 +48,6 @@ DoxaSoiChriste2 = "Glory to You, O Christ God, our hope. Glory to You."
 DoxaSoiKyrie.incipit = "Glory to You, O Lord…"
 DoxaSoiKyrie = "Glory to You, O Lord. Glory to You."
 
-DoxaSoiKyrieP = "(Glory to You, O Lord. Glory to You.)"
-
 DoxaSoiOTheos1.incipit = "Glory to You, O God…"
 DoxaSoiOTheos1 = "Glory to You, O God."
 
@@ -58,8 +56,6 @@ DoxaSoiOTheosImon.text = "Glory to You, our God. Glory to You."
 
 DoxaTiMakrothymia.incipit = "Glory to Your forbearance, O…"
 DoxaTiMakrothymia.text = "Glory to Your forbearance, O Lord, glory to You."
-
-DoxaTiMakrothymiaP.text = "(Glory to Your forbearance, O Lord, glory to You.)"
 
 DoxaToPatri.incipit = "Glory to the Father and…"
 DoxaToPatri.text = "Glory to the Father and to the Son and to the Holy Spirit"
@@ -96,8 +92,6 @@ PantoteNyn.text = "Always, now and forever and to the ages of ages."
 
 Evlogison.incipit = "Father, bless!…"
 Evlogison = "Father, bless!"
-
-EvlogisonP = "(Father, bless!)"
 
 EnOnomatiKyriou.incipit = "In the name of the…"
 EnOnomatiKyriou.text = "In the name of the Lord, Father, bless!"
@@ -874,36 +868,6 @@ res15 = "Everlasting be her memory. Everlasting be her memory. Everlasting be he
 res16.incipit = "Everlasting be their memory. Everlasting…"
 res16 = "Everlasting be their memory. Everlasting be their memory. Everlasting be their memory."
 
-res01p = "(Lord, have mercy.)"
-
-res02p = "(Grant this, O Lord.)"
-
-res03p = "(To You, O Lord.)"
-
-res04p = "(Amen.)"
-
-res05p = "(And with your spirit.)"
-
-res06p = "(Lord, have mercy. Lord, have mercy. Lord, have mercy.)"
-
-res07p = "(Eis polla eti, Destpota!)"
-
-res08p = "(Master, give the blessing.)"
-
-res09p = "(Father, give the blessing.)"
-
-res10p = "(Amen. Amen. Amen.)"
-
-res12p = "(Holy Father, give the blessing.)"
-
-res13p = "(Holy Master, give the blessing.)"
-
-res14p = "(Everlasting be his memory. Everlasting be his memory. Everlasting be his memory.)"
-
-res15p = "(Everlasting be her memory. Everlasting be her memory. Everlasting be her memory.)"
-
-res16p = "(Everlasting be their memory. Everlasting be their memory. Everlasting be their memory.)"
-
 exc01.incipit = "For to You belong all…"
 exc01 = "For to You belong all glory, honor, and worship, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
@@ -1057,8 +1021,6 @@ otr01b = "" // leave blank in English
 verse_Angels.incipit = "Archangels of God, intercede for…"
 verse_Angels.text = "Archangels of God, intercede for us."
 
-verseP_Angels.text = "(Archangels of God, intercede for us.)"
-
 verse_Apostle.incipit = "Apostle of Christ, intercede for…"
 verse_Apostle.text = "Apostle of Christ, intercede for us."
 
@@ -1068,27 +1030,17 @@ verse_Apostles.text = "Apostles of Christ, intercede for us."
 verse_ApostlesMartyrs.incipit = "Apostles and Martyrs of Christ…"
 verse_ApostlesMartyrs.text = "Apostles and Martyrs of Christ, intercede for us."
 
-verseP_ApostlesMartyrs.text = "(Apostles of Christ, intercede for us.)"
-
 verse_Archangel.incipit = "Archangel of God, intercede for…"
 verse_Archangel.text = "Archangel of God, intercede for us."
-
-verseP_Archangel.text = "(Archangel of God, intercede for us.)"
 
 verse_Archangels.incipit = "Archangels of God, intercede for…"
 verse_Archangels.text = "Archangels of God, intercede for us."
 
-verseP_Archangels.text = "(Archangels of God, intercede for us.)"
-
 verse_Baptist.incipit = "Baptist of Christ, intercede for…"
 verse_Baptist.text = "Baptist of Christ, intercede for us."
 
-verseP_Baptist.text = "(Baptist of Christ, intercede for us.)"
-
 verse_Cross.incipit = "All-holy Cross of Christ, guard…"
 verse_Cross.text = "All-holy Cross of Christ, guard us by your power."
-
-verseP_Cross.text = "(All-holy Cross of Christ, guard us by your power)"
 
 verse_Crucifixion.incipit = "Glory to Your holy Crucifixion…"
 verse_Crucifixion.text = "Glory to Your holy Crucifixion, O Lord."
@@ -1108,22 +1060,14 @@ verse_God.text = "Glory to You, our God, glory to You."
 verse_GreatMartyrs.incipit = "Holy Great Martyrs of Christ…"
 verse_GreatMartyrs.text = "Holy Great Martyrs of Christ, intercede for us."
 
-verseP_GreatMartyrs.text = "(Holy Great Martyrs of Christ, intercede for us.)"
-
 verse_Hierarchs.incipit = "Holy Hierarchs and Teachers of…"
 verse_Hierarchs.text = "Holy Hierarchs and Teachers of the whole world, intercede for us."
-
-verseP_Hierarchs.text = "(Holy Hierarchs and Teachers of the whole world, intercede for us.)"
 
 verse_Nicholas.incipit = "Saint Nicholas, Hierarch of Christ…"
 verse_Nicholas.text = "Saint Nicholas, Hierarch of Christ, intercede for us."
 
-verseP_Nicholas.text = "(Saint Nicholas, Hierarch of Christ, intercede for us.)"
-
 verse_Panteleimon.incipit = "Holy and glorious Great Martyr…"
 verse_Panteleimon.text = "Holy and glorious Great Martyr of Christ and healer Panteleimon, intercede for us."
-
-verseP_Panteleimon.text = "(Holy and glorious Great Martyr of Christ and healer Panteleimon, intercede for us.)"
 
 verse_Prophet.incipit = "Prophet of God, intercede for…"
 verse_Prophet.text = "Prophet of God, intercede for us."
@@ -1133,8 +1077,6 @@ verse_Resurrection.text = "Glory to Your holy Resurrection, O Lord."
 
 verse_Righteous.incipit = "Holy Forefathers of Christ, intercede…"
 verse_Righteous.text = "Holy Forefathers of Christ, intercede for us."
-
-verseP_Righteous.text = "(Holy Forefathers of Christ, intercede for us.)"
 
 verse_SaintM.incipit = "Saint of God, intercede for…"
 verse_SaintM.text = "Saint of God, intercede for us."
@@ -1151,19 +1093,12 @@ verse_SaintsW.text = "Saints of God, intercede for us."
 verse_SoulSaturday.incipit = "By the intercessions of Your…"
 verse_SoulSaturday.text = "By the intercessions of Your Martyrs, O Lord, grant rest to the souls of Your servants."
 
-verseP_SoulSaturday.text = "(By the intercessions of Your Martyrs, O Lord, grant rest to the souls of Your servants.)"
-
 verse_Theotokos.incipit = "Most-holy Theotokos, save us…"
 verse_Theotokos.text = "Most-holy Theotokos, save us."
-
-verseP_Theotokos.text = "(Most-holy Theotokos, save us.)"
 
 verse_Trinity.incipit = "Holy Trinity, our God, have…"
 verse_Trinity.text = "Holy Trinity, our God, have mercy on us and save us."
 
-verseP_Trinity.text = "(Holy Trinity, our God, have mercy on us and save us.)"
-
 verse_Unmercenaries.incipit = "Holy Unmercenaries and miracle-workers, intercede…"
 verse_Unmercenaries.text = "Holy Unmercenaries and miracle-workers, intercede for us."
 
-verseP_Unmercenaries.text = "(Holy Unmercenaries and miracle-workers, intercede for us.)"
