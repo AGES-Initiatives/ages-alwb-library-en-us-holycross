@@ -1,6 +1,8 @@
 A_Resource_Whose_Name = ho.s03_en_US_holycross
 
 hoMA.title = "SERVICE OF MATINS"
+hoMA.MatinsOrdinary.title = ""
+hoMA.MatinsOrdinary.text = ""
 R01 = ""
 R02 = ""
 hoMA.Troparion3.text = "O awesome and unshamable Protection, O good and praiseworthy Theotokos, do not despise our petitions; make firm the community of the Orthodox; save those whom you have called to rule; grant them victory from heaven, for you gave birth to God and are truly blessed."
