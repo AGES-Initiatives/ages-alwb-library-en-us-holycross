@@ -135,7 +135,7 @@ EleftheraMenIKtisis4.text = ""
 
 EleftheraMenIKtisis5.text = ""
 
-ElilythasEkParthenou.notmetered = "N/M (You came from a Virgin.)"
+ElilythasEkParthenou.notmetered = "N/M (You came, O Lord.)"
 ElilythasEkParthenou.name = ""
 ElilythasEkParthenou.incipit = "…"
 ElilythasEkParthenou.mode = misc_en_US_holycross.Mode2
@@ -170,14 +170,14 @@ EnTiKamino.mode = misc_en_US_holycross.Mode2
 EnTiKamino.ode = misc_en_US_holycross.Ode8
 EnTiKamino.text = ""
 
-EnVythoKatestrose.notmetered = "N/M (In the deep.)"
+EnVythoKatestrose.notmetered = "N/M (Long ago the overwhelming Force.)"
 EnVythoKatestrose.name = ""
 EnVythoKatestrose.incipit = "…"
 EnVythoKatestrose.mode = misc_en_US_holycross.Mode2
 EnVythoKatestrose.ode = misc_en_US_holycross.Ode1
 EnVythoKatestrose.text = ""
 
-ExinthisenIErimos.notmetered = "N/M (The wilderness.)"
+ExinthisenIErimos.notmetered = "N/M (The gentile church.)"
 ExinthisenIErimos.name = ""
 ExinthisenIErimos.incipit = "…"
 ExinthisenIErimos.mode = misc_en_US_holycross.Mode2
