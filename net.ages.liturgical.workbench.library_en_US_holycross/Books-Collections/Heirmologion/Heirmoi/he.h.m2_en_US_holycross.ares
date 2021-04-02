@@ -21,8 +21,8 @@ AnarchouGennitoros.mode = misc_en_US_holycross.Mode2
 AnarchouGennitoros.ode = misc_en_US_holycross.Ode9
 AnarchouGennitoros.text = ""
 
-AntitheonProstagma.notmetered = "N/M ()"
-AntitheonProstagma.name = ""
+AntitheonProstagma.notmetered = "N/M (The godless decree.)"
+AntitheonProstagma.name = "The godless decree."
 AntitheonProstagma.incipit = "…"
 AntitheonProstagma.mode = misc_en_US_holycross.Mode2
 AntitheonProstagma.ode = misc_en_US_holycross.Ode7
@@ -149,7 +149,7 @@ EmegalynasChriste.mode = misc_en_US_holycross.Mode2
 EmegalynasChriste.ode = misc_en_US_holycross.Ode9
 EmegalynasChriste.text = ""
 
-EnAvyssoPtaismaton.notmetered = "N/M (In the sea now.)"
+EnAvyssoPtaismaton.notmetered = "N/M (Like a deep sea, my sins.)"
 EnAvyssoPtaismaton.name = ""
 EnAvyssoPtaismaton.incipit = "…"
 EnAvyssoPtaismaton.mode = misc_en_US_holycross.Mode2
