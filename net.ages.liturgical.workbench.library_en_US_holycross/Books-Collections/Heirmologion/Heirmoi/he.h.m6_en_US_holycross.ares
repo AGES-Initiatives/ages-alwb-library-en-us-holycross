@@ -90,6 +90,7 @@ EkstithiFrittonOurane.incipit = "…"
 EkstithiFrittonOurane.mode = misc_en_US_holycross.Mode6
 EkstithiFrittonOurane.ode = misc_en_US_holycross.Ode8
 EkstithiFrittonOurane.text = ""
+
 EkstithiFrittonOurane_Epiphany.notmetered = "N/M ()"
 EkstithiFrittonOurane_Epiphany.name = ""
 EkstithiFrittonOurane_Epiphany.incipit = "…"
@@ -145,6 +146,7 @@ KymatiThalassis.incipit = "…"
 KymatiThalassis.mode = misc_en_US_holycross.Mode6
 KymatiThalassis.ode = misc_en_US_holycross.Ode1
 KymatiThalassis.text = ""
+
 KymatiThalassis_Epiphany.notmetered = "N/M ()"
 KymatiThalassis_Epiphany.name = ""
 KymatiThalassis_Epiphany.incipit = "…"
@@ -158,12 +160,14 @@ KyriosOnPanton.incipit = "…"
 KyriosOnPanton.mode = misc_en_US_holycross.Mode6
 KyriosOnPanton.ode = misc_en_US_holycross.Ode3
 KyriosOnPanton.text = ""
+
 KyriosOnPanton_Epiphany.notmetered = "N/M ()"
 KyriosOnPanton_Epiphany.name = ""
 KyriosOnPanton_Epiphany.incipit = "…"
 KyriosOnPanton_Epiphany.mode = misc_en_US_holycross.Mode6
 KyriosOnPanton_Epiphany.ode = misc_en_US_holycross.Ode3
 KyriosOnPanton_Epiphany.text = ""
+
 MiEpodyrestheMatin.notmetered = "N/M ()"
 MiEpodyrestheMatin.name = ""
 MiEpodyrestheMatin.incipit = "…"
@@ -247,6 +251,7 @@ ProkatidonOProfitis.incipit = "…"
 ProkatidonOProfitis.mode = misc_en_US_holycross.Mode6
 ProkatidonOProfitis.ode = misc_en_US_holycross.Ode4
 ProkatidonOProfitis.text = ""
+
 ProkatidonOProfitis_Epiphany.notmetered = "N/M ()"
 ProkatidonOProfitis_Epiphany.name = ""
 ProkatidonOProfitis_Epiphany.incipit = "…"
@@ -281,6 +286,7 @@ SeTonEpiYdaton.incipit = "…"
 SeTonEpiYdaton.mode = misc_en_US_holycross.Mode6
 SeTonEpiYdaton.ode = misc_en_US_holycross.Ode3
 SeTonEpiYdaton.text = ""
+
 SeTonEpiYdaton_Epiphany.notmetered = "N/M ()"
 SeTonEpiYdaton_Epiphany.name = ""
 SeTonEpiYdaton_Epiphany.incipit = "…"
@@ -315,6 +321,7 @@ SyneschethiAllOuKateschethi.incipit = "…"
 SyneschethiAllOuKateschethi.mode = misc_en_US_holycross.Mode6
 SyneschethiAllOuKateschethi.ode = misc_en_US_holycross.Ode6
 SyneschethiAllOuKateschethi.text = ""
+
 SyneschethiAllOuKateschethi_Epiphany.notmetered = "N/M (.)"
 SyneschethiAllOuKateschethi_Epiphany.name = ""
 SyneschethiAllOuKateschethi_Epiphany.incipit = "…"
@@ -328,6 +335,7 @@ TheofaneiasSouChriste.incipit = "…"
 TheofaneiasSouChriste.mode = misc_en_US_holycross.Mode6
 TheofaneiasSouChriste.ode = misc_en_US_holycross.Ode5
 TheofaneiasSouChriste.text = ""
+
 TheofaneiasSouChriste_Epiphany.notmetered = "N/M ()"
 TheofaneiasSouChriste_Epiphany.name = ""
 TheofaneiasSouChriste_Epiphany.incipit = "…"
@@ -362,6 +370,7 @@ TinProsToBaptismaSou.incipit = "…"
 TinProsToBaptismaSou.mode = misc_en_US_holycross.Mode6
 TinProsToBaptismaSou.ode = misc_en_US_holycross.Ode4
 TinProsToBaptismaSou.text = ""
+
 TinTimioteran.notmetered = "N/M (Greater in honor.)"
 TinTimioteran.name = ""
 TinTimioteran.incipit = "…"
@@ -389,6 +398,7 @@ ToSyndesmoTisAgapis.incipit = "…"
 ToSyndesmoTisAgapis.mode = misc_en_US_holycross.Mode6
 ToSyndesmoTisAgapis.ode = misc_en_US_holycross.Ode5
 ToSyndesmoTisAgapis.text = ""
+
 ToSyndesmoTisDeilias.notmetered = "N/M ()"
 ToSyndesmoTisDeilias.name = ""
 ToSyndesmoTisDeilias.incipit = "…"
@@ -437,3 +447,4 @@ XeniasDespotikis_Epiphany.incipit = "…"
 XeniasDespotikis_Epiphany.mode = misc_en_US_holycross.Mode6
 XeniasDespotikis_Epiphany.ode = misc_en_US_holycross.Ode9
 XeniasDespotikis_Epiphany.text = ""
+

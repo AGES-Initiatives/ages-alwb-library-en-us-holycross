@@ -728,7 +728,7 @@ TaSympantaDespota.mode = misc_en_US_holycross.Mode4
 TaSympantaDespota.ode = misc_en_US_holycross.Ode8
 TaSympantaDespota.text = ""
 
-ThalassisToErythraion.notmetered = "N/M (The people of Israel.)"
+ThalassisToErythraion.notmetered = "N/M (The Red Sea was crossed.)"
 ThalassisToErythraion.name = ""
 ThalassisToErythraion.incipit = "…"
 ThalassisToErythraion.mode = misc_en_US_holycross.Mode4
@@ -754,7 +754,7 @@ TheosKyriosKaiEpefanenImin.mode = misc_en_US_holycross.Mode4
 TheosKyriosKaiEpefanenImin.ode = misc_en_US_holycross.Ode9
 TheosKyriosKaiEpefanenImin.text = ""
 
-ThysoSoiMetaFonis.notmetered = "N/M (The Church cries out.)"
+ThysoSoiMetaFonis.notmetered = "N/M (I will sacrifice to You.)"
 ThysoSoiMetaFonis.name = ""
 ThysoSoiMetaFonis.incipit = "…"
 ThysoSoiMetaFonis.mode = misc_en_US_holycross.Mode4
