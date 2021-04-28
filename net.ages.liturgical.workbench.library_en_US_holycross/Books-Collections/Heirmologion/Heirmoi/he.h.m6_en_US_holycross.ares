@@ -49,8 +49,8 @@ AvyssosEschati.mode = misc_en_US_holycross.Mode6
 AvyssosEschati.ode = misc_en_US_holycross.Ode6
 AvyssosEschati.text = ""
 
-ChristosMouDynamis.notmetered = "N/M (O Christ, my strength.)"
-ChristosMouDynamis.name = ""
+ChristosMouDynamis.notmetered = "N/M (The holy Church of God.)"
+ChristosMouDynamis.name = "The holy Church of God."
 ChristosMouDynamis.incipit = "…"
 ChristosMouDynamis.mode = misc_en_US_holycross.Mode6
 ChristosMouDynamis.ode = misc_en_US_holycross.Ode4
@@ -231,15 +231,15 @@ OnStratiaiOuranon.mode = misc_en_US_holycross.Mode6
 OnStratiaiOuranon.ode = misc_en_US_holycross.Ode8
 OnStratiaiOuranon.text = ""
 
-OsEnIpeiroPezefsas.notmetered = "N/M (The host of Israel.)"
+OsEnIpeiroPezefsas.notmetered = "N/M (When they had walked.)"
 OsEnIpeiroPezefsas.name = ""
 OsEnIpeiroPezefsas.incipit = "…"
 OsEnIpeiroPezefsas.mode = misc_en_US_holycross.Mode6
 OsEnIpeiroPezefsas.ode = misc_en_US_holycross.Ode1
 OsEnIpeiroPezefsas.text = ""
 
-OukEstinAgios.notmetered = "N/M (O Lord my God.)"
-OukEstinAgios.name = ""
+OukEstinAgios.notmetered = "N/M (No one is holy.)"
+OukEstinAgios.name = "No one is holy."
 OukEstinAgios.incipit = "…"
 OukEstinAgios.mode = misc_en_US_holycross.Mode6
 OukEstinAgios.ode = misc_en_US_holycross.Ode3
