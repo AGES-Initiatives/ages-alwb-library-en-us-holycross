@@ -56,7 +56,7 @@ ChristosMouDynamis.mode = misc_en_US_holycross.Mode6
 ChristosMouDynamis.ode = misc_en_US_holycross.Ode4
 ChristosMouDynamis.text = ""
 
-DrosovolonMenTinKaminon.notmetered = "N/M (Once the Angel.)"
+DrosovolonMenTinKaminon.notmetered = "N/M (In the furnace the Lord's Angel.)"
 DrosovolonMenTinKaminon.name = ""
 DrosovolonMenTinKaminon.incipit = "…"
 DrosovolonMenTinKaminon.mode = misc_en_US_holycross.Mode6
@@ -420,7 +420,7 @@ TonPaidonTinOdin.mode = misc_en_US_holycross.Mode6
 TonPaidonTinOdin.ode = misc_en_US_holycross.Ode8
 TonPaidonTinOdin.text = ""
 
-TouViouTinThalassan.notmetered = "N/M (Perceiving the open sea.)"
+TouViouTinThalassan.notmetered = "N/M (I see when my life becomes rough.)"
 TouViouTinThalassan.name = ""
 TouViouTinThalassan.incipit = "…"
 TouViouTinThalassan.mode = misc_en_US_holycross.Mode6
