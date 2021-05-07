@@ -197,6 +197,7 @@ hoPrayer.Key006_2.text = "of the life-giving body of the Master,"
 hoPrayer.Key006_3.text = "take care and pray with fear of God."
 
 hoPrayer.title = "The Communion Prayers"
+hoPrayer.note1 = ""
 
 hoPrayer.Key011.title = "First Prayer:"
 hoPrayer.Key011.poet = "Saint Basil"
