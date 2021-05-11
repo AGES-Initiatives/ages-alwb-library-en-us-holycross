@@ -105,7 +105,7 @@ MitirTheouKaiParthenos.mode = misc_en_US_holycross.Mode7
 MitirTheouKaiParthenos.ode = misc_en_US_holycross.Ode9
 MitirTheouKaiParthenos.text = ""
 
-NaftionToSalo.notmetered = "N/M (Nauseous from the tempest.)"
+NaftionToSalo.notmetered = "N/M (I was feeling nauseous.)"
 NaftionToSalo.name = ""
 NaftionToSalo.incipit = "…"
 NaftionToSalo.mode = misc_en_US_holycross.Mode7
@@ -119,7 +119,7 @@ NefseiSouProsGeodi.mode = misc_en_US_holycross.Mode7
 NefseiSouProsGeodi.ode = misc_en_US_holycross.Ode1
 NefseiSouProsGeodi.text = ""
 
-NyxAfengis.notmetered = "N/M ()"
+NyxAfengis.notmetered = "N/M (For unbelievers, delight.)"
 NyxAfengis.name = ""
 NyxAfengis.incipit = "…"
 NyxAfengis.mode = misc_en_US_holycross.Mode7
@@ -133,7 +133,7 @@ OIonasEkKoilias.mode = misc_en_US_holycross.Mode7
 OIonasEkKoilias.ode = misc_en_US_holycross.Ode6
 OIonasEkKoilias.text = ""
 
-OKatArchasTousOuranous.notmetered = "N/M (In the beginning.)"
+OKatArchasTousOuranous.notmetered = "N/M (First You established.)"
 OKatArchasTousOuranous.name = ""
 OKatArchasTousOuranous.incipit = "…"
 OKatArchasTousOuranous.mode = misc_en_US_holycross.Mode7
@@ -147,7 +147,7 @@ OOuranousToLogo.mode = misc_en_US_holycross.Mode7
 OOuranousToLogo.ode = misc_en_US_holycross.Ode1
 OOuranousToLogo.text = ""
 
-OPatrikousKolpous.notmetered = "N/M ()"
+OPatrikousKolpous.notmetered = "N/M (O Christ our God, You did not depart.)"
 OPatrikousKolpous.name = ""
 OPatrikousKolpous.incipit = "…"
 OPatrikousKolpous.mode = misc_en_US_holycross.Mode7
