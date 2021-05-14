@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = he.h.m7_en_US_holycross
 
-AflektosPyri.notmetered = "N/M (Sinai's bush revealed.)"
+AflektosPyri.notmetered = "N/M (Unconsumed by fire.)"
 AflektosPyri.name = ""
 AflektosPyri.incipit = "…"
 AflektosPyri.mode = misc_en_US_holycross.Mode7
@@ -70,7 +70,7 @@ KaminonKaiomenin.mode = misc_en_US_holycross.Mode7
 KaminonKaiomenin.ode = misc_en_US_holycross.Ode7
 KaminonKaiomenin.text = ""
 
-KaminonPaides.notmetered = "N/M ()"
+KaminonPaides.notmetered = "N/M (The fiery furnace.)"
 KaminonPaides.name = ""
 KaminonPaides.incipit = "…"
 KaminonPaides.mode = misc_en_US_holycross.Mode7
@@ -91,7 +91,7 @@ KyrieOTheosMou.mode = misc_en_US_holycross.Mode7
 KyrieOTheosMou.ode = misc_en_US_holycross.Ode5
 KyrieOTheosMou.text = ""
 
-MiTisFthoras.notmetered = "N/M (Without sustaining corruption.)"
+MiTisFthoras.notmetered = "N/M (When you conceived.)"
 MiTisFthoras.name = ""
 MiTisFthoras.incipit = "…"
 MiTisFthoras.mode = misc_en_US_holycross.Mode7
