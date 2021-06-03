@@ -243,6 +243,7 @@ euLI.Key1527.text = "The servant of God (Name) receives the Body and Blood of Ch
 euLI.Key1528.text = "To you is imparted the Body and the Blood our Lord, God, and Savior Jesus Christ for the forgivenss of your sins and eternal life."
 euLI.Key1529.text = "Save, O God, Your people and bless Your inheritance."
 euLI.Key1530.title = "" //Hymn after Holy Communion.
+euLI.Key1530.incipit = "We have seen the true light…" //find this hymn in Pentecost
 euLI.Key1530.text = "We have seen the true light; we have received the heavenly Spirit; we have found the true faith, worshiping the undivided Trinity, for the Trinity has saved us." //find this hymn in Pentecost
 euLI.Key1531.text = "Instead of \"We have seen.\""
 
