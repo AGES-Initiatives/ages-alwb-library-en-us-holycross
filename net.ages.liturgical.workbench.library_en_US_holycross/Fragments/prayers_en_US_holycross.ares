@@ -51,6 +51,9 @@ DoxaSoiKyrie = "Glory to You, O Lord. Glory to You."
 DoxaSoiOTheos1.incipit = "Glory to You, O God…"
 DoxaSoiOTheos1 = "Glory to You, O God."
 
+DoxaSoiOTheosIElpis.incipit = ""
+DoxaSoiOTheosIElpis.text = ""
+
 DoxaSoiOTheosImon.incipit = "Glory to You, our God…"
 DoxaSoiOTheosImon.text = "Glory to You, our God. Glory to You."
 
