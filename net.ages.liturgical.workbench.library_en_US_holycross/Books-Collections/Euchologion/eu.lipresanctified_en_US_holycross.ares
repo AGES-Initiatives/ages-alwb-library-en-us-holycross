@@ -15,22 +15,22 @@ euPL.Key0108.text = ""
 euPL.Key0200.title = "The Divine Liturgy of the Presanctified Gifts"
 euPL.Key0201.text = prayers_en_US_holycross.enarxis02
 euPL.Key0203.title = "PRAYER OF THE FIRST ANTIPHON"
-euPL.Key0203.text = "Compassionate and merciful, longsuffering and very merciful Lord, hear our prayer and attend to the voice of our supplication. Give us a favorable sign. Guide us in Your path that we may walk in Your truth. Gladden our hearts that we may fear Your holy name, for You are great and work wonders. Only You are God, O Lord, and there is none like You among the gods. You are great in mercy and gracious in strength and in aiding, exhorting, and saving all those who place their hope in Your holy name."
+euPL.Key0203.text = hi.s01_en_US_holycross.hiVE.Key1101.text
 euPL.Key0204.text = prayers_en_US_holycross.exc01
 
 euPL.Key0300.title = "First Stanza"
 euPL.Key0306.title = "PRAYER OF THE SECOND ANTIPHON"
-euPL.Key0306.text = "O Lord, do not rebuke us in Your anger, nor chastise us in Your wrath, but deal with us according to Your forebearance, physician and healer of our souls. Lead us to Your haven. Open the eyes of our hearts with the knowledge of Your truth, and grant that the remainder of this day and the remainder of our lives may be peaceful and sinless, by the intercessions of the holy Theotokos and of all the saints."
+euPL.Key0306.text = hi.s01_en_US_holycross.hiVE.Key1102.text
 euPL.Key0307.text = prayers_en_US_holycross.exc02
 
 euPL.Key0400.title = "Second Stanza"
 euPL.Key0406.title = "PRAYER OF THE THIRD ANTIPHON"
-euPL.Key0406.text = "O Lord, our God, be mindful of us Your sinful and useless servants as we call upon Your holy name. Let us not be shamed for expecting Your mercy, but grant us, O Lord, all our petitions which lead to salvation. Make us worthy to love and fear You with all our heart, and to do Your will in all things."
+euPL.Key0406.text = hi.s01_en_US_holycross.hiVE.Key1103.text
 euPL.Key0407.text = prayers_en_US_holycross.exc03
 
 euPL.Key0500.title = "Third Stanza"
 euPL.Key0506.title = "PRAYER OF THE FOURTH ANTIPHON"
-euPL.Key0506.text = "You who are praised with incessant hymns and ceaseless doxologies by the heavenly Powers, fill our mouth with Your praise, so that we may exalt Your holy name. Grant us a share and a part with all those who fear You in truth and keep Your commandments, through the intercessions of the holy Theotokos and all Your saints."
+euPL.Key0506.text = hi.s01_en_US_holycross.hiVE.Key1104.text
 euPL.Key0507.text = prayers_en_US_holycross.exc22
 
 euPL.Key0600.title = ""
