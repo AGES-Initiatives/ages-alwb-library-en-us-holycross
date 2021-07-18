@@ -120,23 +120,23 @@ EpouranieVasilef.text = "O heavenly King, uphold our rulers, strengthen the Fait
 KyrieKaiDespota1.incipit = "O Lord and Master of…"
 KyrieKaiDespota1.text = "O Lord and Master of my life, do not permit the spirit of laziness and meddling, the lust for power and idle talk to come into me."
 
-KyrieKaiDespota2.incipit = "Instead, grant me, your servant…"
-KyrieKaiDespota2.text = "Instead, grant me, your servant, the spirit of prudence, humility, patience and love."
+KyrieKaiDespota2.incipit = "Instead, grant me, Your servant…"
+KyrieKaiDespota2.text = "Instead, grant me, Your servant, the spirit of prudence, humility, patience and love."
 
 KyrieKaiDespota3.incipit = "Yes, Lord and King, give…"
 KyrieKaiDespota3.text = "Yes, Lord and King, give me the power to see my own faults and not to judge my brother."
 
-KyrieKaiDespota4.incipit = "For you are blessed unto…"
-KyrieKaiDespota4.text = "For you are blessed unto the ages of ages. Amen."
+KyrieKaiDespota4.incipit = "For You are blessed unto…"
+KyrieKaiDespota4.text = "For You are blessed unto the ages of ages. Amen."
 
 OEnPantiKairo.incipit = "O Christ our God, who…"
-OEnPantiKairo.text = "O Christ our God, who at all times and at every hour, both in heaven and on earth, are worshipped and glorified, long suffering and plenteous in mercy and compassion; who love the just and show mercy to the sinners; who call all men to salvation through the promise of the blessings to come: Do you, the same Lord, receive also our supplications at this present time, and direct our lives according to your commandments. Sanctify our souls; purify our bodies; set our minds right; clear up our thoughts, and deliver us from every sorrow, evil and distress. Surround us with your holy Angels so that being guarded and guided by their presence, we may arrive at the unity of the faith and the knowledge of your ineffable glory; for blessed are you unto the ages of ages. Amen."
+OEnPantiKairo.text = "O Christ our God, who at all times and at every hour, both in heaven and on earth, are worshipped and glorified, long suffering and plenteous in mercy and compassion; who love the just and show mercy to the sinners; who call all men to salvation through the promise of the blessings to come: Do You, the same Lord, receive also our supplications at this present time, and direct our lives according to Your commandments. Sanctify our souls; purify our bodies; set our minds right; clear up our thoughts, and deliver us from every sorrow, evil and distress. Surround us with Your holy Angels so that being guarded and guided by their presence, we may arrive at the unity of the faith and the knowledge of Your ineffable glory; for blessed are You unto the ages of ages. Amen."
 
 OOnEvlogitos.incipit = "Blessed are You, Christ our…"
 OOnEvlogitos.text = "Blessed are You, Christ our God, always now and forever and to the ages of ages."
 
 PanagiaTrias.incipit = "All-holy Trinity, have mercy on…"
-PanagiaTrias.text = "All-holy Trinity, have mercy on us. Lord, forgive our sins. Master, pardon our transgressions. Holy One, visit and heal our infirmities for your name's sake."
+PanagiaTrias.text = "All-holy Trinity, have mercy on us. Lord, forgive our sins. Master, pardon our transgressions. Holy One, visit and heal our infirmities for Your name's sake."
 
 PaschaDialog1.incipit = "Let us forgive everything for…"
 PaschaDialog1.text = "Let us forgive everything for the Resurrection, And thus let us cry aloud:"
@@ -261,7 +261,7 @@ pet11.incipit = "For our deliverance from all…"
 pet11 = "For our deliverance from all affliction, wrath, danger, and distress, let us pray to the Lord."
 
 pet12.incipit = "Help us, save us, have…"
-pet12 = "Help us, save us, have mercy upon us and protect us, O God, by your grace."
+pet12 = "Help us, save us, have mercy upon us and protect us, O God, by Your grace."
 
 pet13.incipit = "Remembering our most holy, pure…"
 pet13 = "Remembering our most holy, pure, blessed, and glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commit ourselves and one another and our whole life to Christ our God."
@@ -273,10 +273,10 @@ pet15.incipit = "Let us all say with…"
 pet15 = "Let us all say with our whole soul, and with our whole mind, let us say." // Ektenia
 
 pet16.incipit = "Lord Almighty, God of our…"
-pet16 = "Lord Almighty, God of our fathers, we pray you, hear us and have mercy."
+pet16 = "Lord Almighty, God of our fathers, we pray You, hear us and have mercy."
 
 pet17.incipit = "Have mercy on us, O…"
-pet17 = "Have mercy on us, O God, according to your great mercy; we pray you, hear us and have mercy."
+pet17 = "Have mercy on us, O God, according to Your great mercy; we pray You, hear us and have mercy."
 
 pet18.incipit = "Let us pray for pious…"
 pet18 = "Let us pray for pious and Orthodox Christians."
@@ -316,7 +316,7 @@ pet22.incipit = "Let us again pray for…"
 pet22 = "Let us again pray for the blessed and ever-memorable founders of this holy church, and for all our fathers, mothers, brothers, and sisters who are asleep here in the Lord and for the Orthodox everywhere."
 
 pet23.incipit = "Let us again pray for…"
-pet23 = "Let us again pray for those who do charitable work, for those who serve in this holy house, for those who labor, teach, and sing, and for all the people here present who await your great and rich mercy."
+pet23 = "Let us again pray for those who do charitable work, for those who serve in this holy house, for those who labor, teach, and sing, and for all the people here present who await Your great and rich mercy."
 
 pet24.incipit = "Let us complete our prayer…"
 pet24 = "Let us complete our prayer to the Lord." // Complementary
@@ -364,10 +364,10 @@ pet35.incipit = "Hear us, O God our…"
 pet35 = "Hear us, O God our Savior, the hope of all those who live everywhere on earth and those far out at sea or in the air. Be gracious toward our sins, Master, and have mercy on us."
 
 pet36.incipit = "Accept our prayer; grant us…"
-pet36 = "Accept our prayer; grant us forgiveness of our transgressions; protect us under the shelter of your wings; drive away from us every enemy and adversary; grant peace to our life; Lord have mercy on us and on your world; and save our souls as a good and loving God."
+pet36 = "Accept our prayer; grant us forgiveness of our transgressions; protect us under the shelter of Your wings; drive away from us every enemy and adversary; grant peace to our life; Lord have mercy on us and on Your world; and save our souls as a good and loving God."
 
 pet37.incipit = "May the blessing and mercy…"
-pet37 = "May the blessing and mercy of the Lord come upon you, by His divine grace and love for mankind, always, now and ever, and to the ages of ages." // Dismissal
+pet37 = "May the blessing and mercy of the Lord come upon You, by His divine grace and love for mankind, always, now and ever, and to the ages of ages." // Dismissal
 
 pet37a.incipit = "…"
 pet37a = ""
@@ -550,7 +550,7 @@ petKneel07.incipit = "Again, on bended knees, let…"
 petKneel07 = "Again, on bended knees, let us pray to the Lord."
 
 petKneel08.incipit = "Help us, save us, have…"
-petKneel08 = "Help us, save us, have mercy on us, raise us up and protect us, O God, by your grace."
+petKneel08 = "Help us, save us, have mercy on us, raise us up and protect us, O God, by Your grace."
 
 petMonasteryLity01.incipit = "…"
 petMonasteryLity01 = ""
@@ -706,8 +706,8 @@ petWed13 = "That there may be granted unto them and unto us all prayers that ten
 petWed14.incipit = "That both they and we…"
 petWed14 = "That both they and we may be delivered from tribulation, wrath, danger, and necessity; let us pray to the Lord."
 
-sup00.incipit = "O God, save your people…"
-sup00 = "O God, save your people and bless your inheritance. Look upon your world with mercy and compassion. Raise the Orthodox Christians in glory, and send down upon us your rich mercies,"
+sup00.incipit = "O God, save Your people…"
+sup00 = "O God, save Your people and bless Your inheritance. Look upon Your world with mercy and compassion. Raise the Orthodox Christians in glory, and send down upon us Your rich mercies,"
 
 sup00a.incipit = "Most merciful Master, Lord Jesus…"
 sup00a = "Most merciful Master, Lord Jesus Christ our God,"
@@ -877,32 +877,32 @@ exc01 = "For to You belong all glory, honor, and worship, to the Father and the 
 exc01a.incipit = "For to You belong all…"
 exc01a = "For to You belong all glory, honor, and worship, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
-exc02.incipit = "For yours is the dominion…"
-exc02 = "For yours is the dominion, and yours is  the kingdom, the power, and the glory of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+exc02.incipit = "For Yours is the dominion…"
+exc02 = "For Yours is the dominion, and Yours is  the kingdom, the power, and the glory of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
-exc03.incipit = "For you are a good…"
-exc03 = "For you are a good and loving God, and to you we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+exc03.incipit = "For You are a good…"
+exc03 = "For You are a good and loving God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
-exc04.incipit = "For blessed is your name…"
-exc04 = "For blessed is your name, and glorified is your kingdom, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+exc04.incipit = "For blessed is Your name…"
+exc04 = "For blessed is Your name, and glorified is Your kingdom, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
-exc04a.incipit = "For blessed is your all-holy…"
-exc04a = "For blessed is your all-holy name, and glorified is your kingdom, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+exc04a.incipit = "For blessed is Your all-holy…"
+exc04a = "For blessed is Your all-holy name, and glorified is Your kingdom, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
-exc05.incipit = "For you are holy, our…"
-exc05 = "For you are holy, our God, and to you we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+exc05.incipit = "For You are holy, our…"
+exc05 = "For You are holy, our God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
-exc05a.incipit = "For you are holy, our…"
-exc05a = "For you are holy, our God, and to you we give glory, to the Father and the Son and the Holy Spirit, now and forever…" // split exclamation for Trisagios Hymn at Liturgy
+exc05a.incipit = "For You are holy, our…"
+exc05a = "For You are holy, our God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever…" // split exclamation for Trisagios Hymn at Liturgy
 
 exc05b.incipit = "…and to the ages of…"
 exc05b = "…and to the ages of ages."
 
-exc06.incipit = "For you are holy, our…"
-exc06 = "For you are holy, our God, who rest among the Saints, and to you we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+exc06.incipit = "For You are holy, our…"
+exc06 = "For You are holy, our God, who rest among the Saints, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
 exc07.incipit = "Through the mercy, compassion, and…"
-exc07 = "Through the mercy, compassion, and love of mankind of your only-begotten Son, with whom you are blessed, together with your all-holy, good and life-giving Spirit, now and forever and to the ages of ages."
+exc07 = "Through the mercy, compassion, and love of mankind of Your only-begotten Son, with whom You are blessed, together with Your all-holy, good and life-giving Spirit, now and forever and to the ages of ages."
 
 exc07a.incipit = "By the grace, mercy, and…"
 exc07a = "By the grace, mercy, and love for us of Your only-begotten Son, with whom You are blessed, together with Your all-holy, good, and life-giving Spirit, now and forever and to the ages of ages."
@@ -913,8 +913,8 @@ exc07b = "By the mercy and love for mankind of Your only-begotten Son, with whom
 exc07c.incipit = "By the favor and grace…"
 exc07c = "By the favor and grace of Your only-begotten Son, with whom You are blessed, together with Your all-holy, good and life-giving Spirit, now and forever and to the ages of ages."
 
-exc08.incipit = "For you are our God…"
-exc08 = "For you are our God, and to you we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+exc08.incipit = "For You are our God…"
+exc08 = "For You are our God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
 exc09.incipit = "For You are the King…"
 exc09 = "For You are the King of peace and the savior of our souls, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
@@ -922,11 +922,11 @@ exc09 = "For You are the King of peace and the savior of our souls, and to You w
 exc10.incipit = "For all the powers of…"
 exc10 = "For all the powers of heaven praise You and give You glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
-exc11.incipit = "For you are a merciful…"
-exc11 = "For you are a merciful and loving God, and to you we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+exc11.incipit = "For You are a merciful…"
+exc11 = "For You are a merciful and loving God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
-exc11a.incipit = "For you are a merciful…"
-exc11a = "For you are a merciful and loving God, and to you we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+exc11a.incipit = "For You are a merciful…"
+exc11a = "For You are a merciful and loving God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
 exc12.incipit = "For You are the God…"
 exc12 = "For You are the God of mercy and compassion and love for mankind, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to ages of ages."
@@ -934,17 +934,17 @@ exc12 = "For You are the God of mercy and compassion and love for mankind, and t
 exc13.incipit = "For Yours it is to…"
 exc13 = "For Yours it is to show mercy and to save us, O our God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to ages of ages."
 
-exc14.incipit = "May the might of your…"
-exc14 = "May the might of your kingdom be blessed and glorified, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+exc14.incipit = "May the might of Your…"
+exc14 = "May the might of Your kingdom be blessed and glorified, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
 exc15.incipit = "Let us honor and magnify…"
 exc15 = "Let us honor and magnify in song the Theotokos and the Mother of the light."
 
 exc16.incipit = "For hallowed and glorified is…"
-exc16 = "For hallowed and glorified is your all-honored and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+exc16 = "For hallowed and glorified is Your all-honored and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
 exc16a.incipit = "For blessed and glorified is…"
-exc16a = "For blessed and glorified is your all-honored and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+exc16a = "For blessed and glorified is Your all-honored and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 
 exc17.incipit = "Wisdom!…"
 exc17 = "Wisdom!"
