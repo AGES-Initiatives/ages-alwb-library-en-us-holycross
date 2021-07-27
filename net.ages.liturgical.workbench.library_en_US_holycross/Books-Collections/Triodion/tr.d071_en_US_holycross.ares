@@ -67,10 +67,10 @@ trHW.SaturdayArise.text = "" //for media
 
 trHW.CherubicHymn.title = ""
 trHW.CherubicHymn.mode = misc_en_US_holycross.Mode5
-trHW.CherubicHymnPart1.incipit = "…"
-trHW.CherubicHymnPart1.text = ""
-trHW.CherubicHymnPart2.incipit = "…"
-trHW.CherubicHymnPart2.text = ""
+trHW.CherubicHymnPart1.incipit = "Let all mortal flesh keep silent…"
+trHW.CherubicHymnPart1.text = "Let all mortal flesh keep silent and with awe and trembling stand, pondering nothing earthly. For the King of kings and Lord of lords approaches to be slain, and to be given as food to the faithful. Before Him go the angelic hosts together with every principality and authority."
+trHW.CherubicHymnPart2.incipit = "The many-eyed Cherubim…"
+trHW.CherubicHymnPart2.text = "The many-eyed Cherubim and the six-winged Seraphim, covering their faces and crying out their song: Alleluia, alleluia, alleluia."
 
 trHW.TheotokosHymn.mode = misc_en_US_holycross.Mode8
 trHW.TheotokosHymn.incipit = oc.m8.d1_en_US_holycross.ocMA.Kathisma23.incipit
