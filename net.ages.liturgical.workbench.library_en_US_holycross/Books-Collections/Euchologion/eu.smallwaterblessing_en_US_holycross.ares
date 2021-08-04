@@ -228,6 +228,9 @@ euSWB.Key0404.text = "Save, O God, all Orthodox Bishops who rightly divide the w
 euSWB.R501 = "" //Another shorter prayer.
 euSWB.Key0501.text = ""
 
+euSWB.Key0502.title = ""
+euSWB.Key0502.text = ""
+
 euSWB.R601 = ""
 euSWB.Key0601.text = "Bow down Your ear and listen to us, O Lord, Who deigned to be baptized in the river Jordan, and there sanctified the water. Bless us all who by the bowing of our heads do show forth our apprehension that we are Your servants. Grant that we may be filled with Your sanctification through the partaking of this water, and let it be for us, O Lord, for the health of soul and body."
 
