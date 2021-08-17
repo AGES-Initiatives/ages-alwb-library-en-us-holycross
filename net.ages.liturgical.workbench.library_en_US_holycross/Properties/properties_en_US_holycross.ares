@@ -1,6 +1,7 @@
 A_Resource_Whose_Name = properties_en_US_holycross
 
 version.designation = "HC"
+version.name = "Holy Cross Orthodox Press."
 version.translator = ""
 
 version.notice1 = "Unless otherwise indicated:"
