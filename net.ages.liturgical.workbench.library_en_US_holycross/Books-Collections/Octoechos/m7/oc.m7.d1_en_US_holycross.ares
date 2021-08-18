@@ -2,6 +2,8 @@ A_Resource_Whose_Name = oc.m7.d1_en_US_holycross
 
 ocBK.mode.title = ""
 
+ocBK.ModeNaked = misc_en_US_holycross.Mode7.naked
+
 ocVE.Stichera1.mode = misc_en_US_holycross.Mode7
 ocVE.Stichera1.melody = ""
 ocVE.Stichera1.incipit = "Come, let us rejoice…"
