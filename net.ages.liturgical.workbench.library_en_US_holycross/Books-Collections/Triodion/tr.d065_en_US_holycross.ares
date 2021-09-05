@@ -278,7 +278,7 @@ trMA.C1.acrostic = ""
 
 trMA.Ode1C1H.ode = misc_en_US_holycross.Ode1
 trMA.Ode1C1H.mode = misc_en_US_holycross.Mode2
-trMA.Ode1C1H.melody = misc_en_US_holycross.Heirmos
+trMA.Ode1C1H.melody = he.h.m2_en_US_holycross.ToTinAvaton.melody
 trMA.Ode1C1H.incipit = he.h.m2_en_US_holycross.ToTinAvaton.incipit
 trMA.Ode1C1H.text = he.h.m2_en_US_holycross.ToTinAvaton.text
 
@@ -329,7 +329,7 @@ trSY.lastline = ""
 
 trMA.Ode8C1H.ode = misc_en_US_holycross.Ode8
 trMA.Ode8C1H.mode = misc_en_US_holycross.Mode2
-trMA.Ode8C1H.melody = misc_en_US_holycross.Heirmos
+trMA.Ode8C1H.melody = he.h.m2_en_US_holycross.EfrixePaidonEvagon.melody
 trMA.Ode8C1H.incipit = he.h.m2_en_US_holycross.EfrixePaidonEvagon.incipit
 trMA.Ode8C1H.text = he.h.m2_en_US_holycross.EfrixePaidonEvagon.text
 
@@ -353,7 +353,7 @@ trMA.Ode8K.text = he.h.m2_en_US_holycross.EfrixePaidonEvagon.text
 
 trMA.Ode9C1H.ode = misc_en_US_holycross.Ode9
 trMA.Ode9C1H.mode = misc_en_US_holycross.Mode2
-trMA.Ode9C1H.melody = misc_en_US_holycross.Heirmos
+trMA.Ode9C1H.melody = he.h.m2_en_US_holycross.EmegalynasChriste.melody
 trMA.Ode9C1H.incipit = he.h.m2_en_US_holycross.EmegalynasChriste.incipit
 trMA.Ode9C1H.text = he.h.m2_en_US_holycross.EmegalynasChriste.text
 

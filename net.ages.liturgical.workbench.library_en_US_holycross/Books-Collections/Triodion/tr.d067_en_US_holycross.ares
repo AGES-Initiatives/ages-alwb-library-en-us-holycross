@@ -276,7 +276,7 @@ trMA.C1.acrostic = ""
 
 trMA.Ode3C1H.ode = misc_en_US_holycross.Ode3
 trMA.Ode3C1H.mode = misc_en_US_holycross.Mode2
-trMA.Ode3C1H.melody = misc_en_US_holycross.Heirmos
+trMA.Ode3C1H.melody = he.h.m2_en_US_holycross.TisPisteosEnPetra.melody
 trMA.Ode3C1H.incipit = he.h.m2_en_US_holycross.TisPisteosEnPetra.incipit
 trMA.Ode3C1H.text = he.h.m2_en_US_holycross.TisPisteosEnPetra.text
 
@@ -320,7 +320,7 @@ trSY.lastline = ""
 
 trMA.Ode8C1H.ode = misc_en_US_holycross.Ode8
 trMA.Ode8C1H.mode = misc_en_US_holycross.Mode2
-trMA.Ode8C1H.melody = misc_en_US_holycross.Heirmos
+trMA.Ode8C1H.melody = he.h.m2_en_US_holycross.RimaTyrannou.melody
 trMA.Ode8C1H.incipit = he.h.m2_en_US_holycross.RimaTyrannou.incipit
 trMA.Ode8C1H.text = he.h.m2_en_US_holycross.RimaTyrannou.text
 
@@ -350,7 +350,7 @@ trMA.Ode8K.text = he.h.m2_en_US_holycross.RimaTyrannou.text
 
 trMA.Ode9C1H.ode = misc_en_US_holycross.Ode9
 trMA.Ode9C1H.mode = misc_en_US_holycross.Mode2
-trMA.Ode9C1H.melody = misc_en_US_holycross.Heirmos
+trMA.Ode9C1H.melody = he.h.m2_en_US_holycross.PsychaisKatharais.melody
 trMA.Ode9C1H.incipit = he.h.m2_en_US_holycross.PsychaisKatharais.incipit
 trMA.Ode9C1H.text = he.h.m2_en_US_holycross.PsychaisKatharais.text
 

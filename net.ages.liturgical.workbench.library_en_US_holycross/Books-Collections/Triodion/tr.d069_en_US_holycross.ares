@@ -430,7 +430,7 @@ trMA.C1.acrostic = ""
 
 trMA.Ode5C1H.ode = misc_en_US_holycross.Ode5
 trMA.Ode5C1H.mode = misc_en_US_holycross.Mode6
-trMA.Ode5C1H.melody = misc_en_US_holycross.Heirmos
+trMA.Ode5C1H.melody = he.h.m6_en_US_holycross.ProsSeOrthrizo.melody
 trMA.Ode5C1H.incipit = he.h.m6_en_US_holycross.ProsSeOrthrizo.incipit
 trMA.Ode5C1H.text = he.h.m6_en_US_holycross.ProsSeOrthrizo.text
 
@@ -477,7 +477,7 @@ trSY.lastline = ""
 
 trMA.Ode8C1H.ode = misc_en_US_holycross.Ode8
 trMA.Ode8C1H.mode = misc_en_US_holycross.Mode6
-trMA.Ode8C1H.melody = misc_en_US_holycross.Heirmos
+trMA.Ode8C1H.melody = he.h.m6_en_US_holycross.StilinKakiasAntitheou.melody
 trMA.Ode8C1H.incipit = he.h.m6_en_US_holycross.StilinKakiasAntitheou.incipit
 trMA.Ode8C1H.text = he.h.m6_en_US_holycross.StilinKakiasAntitheou.text
 
@@ -513,7 +513,7 @@ trMA.Ode8K.text = he.h.m6_en_US_holycross.StilinKakiasAntitheou.text
 
 trMA.Ode9C1H.ode = misc_en_US_holycross.Ode9
 trMA.Ode9C1H.mode = misc_en_US_holycross.Mode6
-trMA.Ode9C1H.melody = misc_en_US_holycross.Heirmos
+trMA.Ode9C1H.melody = he.h.m6_en_US_holycross.TinTimioteran.melody
 trMA.Ode9C1H.incipit = he.h.m6_en_US_holycross.TinTimioteran.incipit
 trMA.Ode9C1H.text = he.h.m6_en_US_holycross.TinTimioteran.text
 

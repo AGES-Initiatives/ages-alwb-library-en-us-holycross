@@ -111,7 +111,7 @@ ocMA.C2.acrostic = ""
 
 ocMA.OdeW1C1H.mode = misc_en_US_holycross.Mode8
 ocMA.OdeW1C1H.ode = misc_en_US_holycross.Ode1
-ocMA.OdeW1C1H.melody = misc_en_US_holycross.Heirmos
+ocMA.OdeW1C1H.melody = he.h.m8_en_US_holycross.AsomenToKyrio.melody
 ocMA.OdeW1C1H.incipit = he.h.m8_en_US_holycross.AsomenToKyrio.incipit
 ocMA.OdeW1C1H.text = he.h.m8_en_US_holycross.AsomenToKyrio.text
 
@@ -171,7 +171,7 @@ ocMA.OdeW1C2T.text = ""
 
 ocMA.OdeW3C1H.mode = misc_en_US_holycross.Mode8
 ocMA.OdeW3C1H.ode = misc_en_US_holycross.Ode3
-ocMA.OdeW3C1H.melody = misc_en_US_holycross.Heirmos
+ocMA.OdeW3C1H.melody = he.h.m8_en_US_holycross.OStereosasLogo.melody
 ocMA.OdeW3C1H.incipit = he.h.m8_en_US_holycross.OStereosasLogo.incipit
 ocMA.OdeW3C1H.text = he.h.m8_en_US_holycross.OStereosasLogo.text
 
@@ -231,7 +231,7 @@ ocMA.OdeW3C2T.text = ""
 
 ocMA.OdeW4C1H.mode = misc_en_US_holycross.Mode8
 ocMA.OdeW4C1H.ode = misc_en_US_holycross.Ode4
-ocMA.OdeW4C1H.melody = misc_en_US_holycross.Heirmos
+ocMA.OdeW4C1H.melody = he.h.m8_en_US_holycross.EisakikoaKyrie.melody
 ocMA.OdeW4C1H.incipit = he.h.m8_en_US_holycross.EisakikoaKyrie.incipit
 ocMA.OdeW4C1H.text = he.h.m8_en_US_holycross.EisakikoaKyrie.text
 
@@ -291,7 +291,7 @@ ocMA.OdeW4C2T.text = ""
 
 ocMA.OdeW5C1H.mode = misc_en_US_holycross.Mode8
 ocMA.OdeW5C1H.ode = misc_en_US_holycross.Ode5
-ocMA.OdeW5C1H.melody = misc_en_US_holycross.Heirmos
+ocMA.OdeW5C1H.melody = he.h.m8_en_US_holycross.FotisonImas.melody
 ocMA.OdeW5C1H.incipit = he.h.m8_en_US_holycross.FotisonImas.incipit
 ocMA.OdeW5C1H.text = he.h.m8_en_US_holycross.FotisonImas.text
 
@@ -351,7 +351,7 @@ ocMA.OdeW5C2T.text = ""
 
 ocMA.OdeW6C1H.mode = misc_en_US_holycross.Mode8
 ocMA.OdeW6C1H.ode = misc_en_US_holycross.Ode6
-ocMA.OdeW6C1H.melody = misc_en_US_holycross.Heirmos
+ocMA.OdeW6C1H.melody = he.h.m8_en_US_holycross.IlasthitiMoiSotir.melody
 ocMA.OdeW6C1H.incipit = he.h.m8_en_US_holycross.IlasthitiMoiSotir.incipit
 ocMA.OdeW6C1H.text = he.h.m8_en_US_holycross.IlasthitiMoiSotir.text
 
@@ -411,7 +411,7 @@ ocMA.OdeW6C2T.text = ""
 
 ocMA.OdeW7C1H.mode = misc_en_US_holycross.Mode8
 ocMA.OdeW7C1H.ode = misc_en_US_holycross.Ode7
-ocMA.OdeW7C1H.melody = misc_en_US_holycross.Heirmos
+ocMA.OdeW7C1H.melody = he.h.m8_en_US_holycross.PaidesTheoseveis.melody
 ocMA.OdeW7C1H.incipit = he.h.m8_en_US_holycross.PaidesTheoseveis.incipit
 ocMA.OdeW7C1H.text = he.h.m8_en_US_holycross.PaidesTheoseveis.text
 
@@ -471,7 +471,7 @@ ocMA.OdeW7C2T.text = ""
 
 ocMA.OdeW8C1H.mode = misc_en_US_holycross.Mode8
 ocMA.OdeW8C1H.ode = misc_en_US_holycross.Ode8
-ocMA.OdeW8C1H.melody = misc_en_US_holycross.Heirmos
+ocMA.OdeW8C1H.melody = he.h.m8_en_US_holycross.OiTheorrimonesPaides.melody
 ocMA.OdeW8C1H.incipit = he.h.m8_en_US_holycross.OiTheorrimonesPaides.incipit
 ocMA.OdeW8C1H.text = he.h.m8_en_US_holycross.OiTheorrimonesPaides.text
 
@@ -531,7 +531,7 @@ ocMA.OdeW8C2T.text = ""
 
 ocMA.OdeW9C1H.mode = misc_en_US_holycross.Mode8
 ocMA.OdeW9C1H.ode = misc_en_US_holycross.Ode9
-ocMA.OdeW9C1H.melody = misc_en_US_holycross.Heirmos
+ocMA.OdeW9C1H.melody = he.h.m8_en_US_holycross.SeTinApeirogamon.melody
 ocMA.OdeW9C1H.incipit = he.h.m8_en_US_holycross.SeTinApeirogamon.incipit
 ocMA.OdeW9C1H.text = he.h.m8_en_US_holycross.SeTinApeirogamon.text
 
