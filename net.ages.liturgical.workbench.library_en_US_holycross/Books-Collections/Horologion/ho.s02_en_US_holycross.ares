@@ -1,0 +1,48 @@
+A_Resource_Whose_Name = ho.s02_en_US_holycross
+
+hoMO.AfterCreedTheotokion.text = ""
+
+hoMO.StEphraimPrayerRubrics1.text = ""
+hoMO.StEphraimPrayerRubrics2.text = ""
+
+hoMO.StEphraimPrayerLentenRubrics1.text = ""
+hoMO.StEphraimPrayerLentenRubrics2.text = ""
+
+ho.MO.StMardariosPrayer.title = "Prayer of St. Mardarios"
+ho.MO.StMardariosPrayer.text = ho.s05_en_US_holycross.hoH3.Prayer.text
+ho.MO.StMardariosPrayer.rubric = ""
+
+ho.MO.StBasilPrayer1.rubric = ""
+ho.MO.StBasilPrayer1.title = ""
+ho.MO.StBasilPrayer1.text = ""
+
+ho.MO.StBasilPrayer2.rubric = ""
+ho.MO.StBasilPrayer2.title = "Prayer by St. Basil"
+ho.MO.StBasilPrayer2.text = "We bless you, O God, most high and Lord of mercy. You are always doing great and inscrutable things with us, glorious and wonderful, and without number. You grant us sleep for rest from our infirmities, and repose from the burdens of our much toiling flesh. We thank you, for you have not destroyed us with our sins, but have continued to love us; and though we were sunk in despair, you have raised us up to glorify your power. There­fore, we implore your incomparable good­ness. Enlighten the eyes of our understand­ing and raise up our minds from the heavy sleep of indolence. Open our mouth and fill it with your praise, that we may be able without distraction to sing and confess that you are God, glorified in all and by all, the eternal Father, with your only begotten Son, and your all holy, good, and life giving Spirit, now and forever and to the ages of ages."
+
+hoMO.PrayerForDeceased.rubric = ""
+hoMO.PrayerForDeceased.title = "Prayer"
+hoMO.PrayerForDeceased.text = "Remember, Lord, our fathers and brethren who have fallen asleep in the hope of the resurrection to eternal life, and all those who ended this life in piety and faith. Pardon their every transgression, committed voluntarily or involuntarily, in word, or deed, or thought. Place them in a place of light, a place of refreshment, a place of peace from which every ailment, sorrow, and lamen­tation are banished, and from which the light of your countenance shines and gladdens all your saints from all ages. Bestow on them and on us your kingdom. Grant to them the participation of your ineffable and ever­lasting blessings, and the enjoyment of your endless and blissful life. For you are the life, the resurrection, and the peace of your departed servants, Christ our God, and to you we give glory, together with your Father who is from everlasting and your all holy, good, and life giving Spirit, now and forever and to the ages of ages."
+
+hoMO.TriadicMegalynaria.title = ""
+hoMO.TriadicMegalynaria.mode = misc_en_US_holycross.Mode2
+hoMO.TriadicMegalynaria01.incipit = "…"
+hoMO.TriadicMegalynaria01.text = ""
+hoMO.TriadicMegalynaria02.incipit = "…"
+hoMO.TriadicMegalynaria02.text = ""
+hoMO.TriadicMegalynaria03.incipit = "…"
+hoMO.TriadicMegalynaria03.text = ""
+hoMO.TriadicMegalynaria04.incipit = "…"
+hoMO.TriadicMegalynaria04.text = ""
+
+hoMO.SaturdayTroparion1.mode = misc_en_US_holycross.Mode2
+hoMO.SaturdayTroparion1.incipit = "…"
+hoMO.SaturdayTroparion1.text = "" //oc.m2.d2_en_US_holycross.octrMA.Triadic2.text
+hoMO.SaturdayTroparion2.incipit = "…"
+hoMO.SaturdayTroparion2.text = "" //oc.m2.d2_en_US_holycross.octrMA.Triadic1.text
+hoMO.SaturdayTroparion3.incipit = "…"
+hoMO.SaturdayTroparion3.text = "" //oc.m2.d2_en_US_holycross.octrMA.Triadic3.text
+
+ho.MO.StEfstratiosPrayer.rubric = ""
+ho.MO.StEfstratiosPrayer.title = "Prayer of Saint Eustratios"
+ho.MO.StEfstratiosPrayer.text = "Most highly do I praise you, Lord, for you have taken notice of my lowliness and have not delivered me into the hands of my enemies but have relieved my soul of its needs. Now, Master, let your hand shelter me, and let your grace descend upon me, for my soul is distracted and pained at the departure from this, my miserable and sordid body, that the end design of the adversary may not overtake her and make her stumble into the darkness for the unknown and known sins amassed by me in this life. Be gracious to me, Master, and do not let my soul see the dark countenance of the evil spirits, but let her be received by your angels bright and shining. Glorify your holy name, and by your might set me before your divine judgment seat. When I am being judged, do not allow the hand of the prince of this world to take hold of me, to throw me, a sinner, into the depths of hell, but stand by me and be a savior and mediator to me. Have mercy, Lord, on my soul, defiled through the passions of this life, and receive her cleansed by penitence and confession, for you are blessed to the ages of ages."
