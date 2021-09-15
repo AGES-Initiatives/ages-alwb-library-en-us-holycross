@@ -576,7 +576,7 @@ ToTinAvaton.mode = misc_en_US_holycross.Mode2
 ToTinAvaton.ode = misc_en_US_holycross.Ode1
 ToTinAvaton.text = ""
 
-TonArritoSofia.notmetered = "N/M ()"
+TonArritoSofia.notmetered = "N/M (With ineffable wisdom.)"
 TonArritoSofia.name = ""
 TonArritoSofia.incipit = "…"
 TonArritoSofia.melody = misc_en_US_holycross.HeirmosNotMetered
