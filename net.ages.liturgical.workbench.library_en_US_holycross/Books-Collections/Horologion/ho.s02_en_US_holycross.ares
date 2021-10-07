@@ -8,17 +8,17 @@ hoMO.StEphraimPrayerRubrics2.text = ""
 hoMO.StEphraimPrayerLentenRubrics1.text = ""
 hoMO.StEphraimPrayerLentenRubrics2.text = ""
 
-ho.MO.StMardariosPrayer.title = "Prayer of St. Mardarios"
-ho.MO.StMardariosPrayer.text = ho.s05_en_US_holycross.hoH3.Prayer.text
-ho.MO.StMardariosPrayer.rubric = ""
+hoMO.StMardariosPrayer.title = "Prayer of St. Mardarios"
+hoMO.StMardariosPrayer.text = ho.s05_en_US_holycross.hoH3.Prayer.text
+hoMO.StMardariosPrayer.rubric = ""
 
-ho.MO.StBasilPrayer1.rubric = ""
-ho.MO.StBasilPrayer1.title = ""
-ho.MO.StBasilPrayer1.text = ""
+hoMO.StBasilPrayer1.rubric = ""
+hoMO.StBasilPrayer1.title = ""
+hoMO.StBasilPrayer1.text = ""
 
-ho.MO.StBasilPrayer2.rubric = ""
-ho.MO.StBasilPrayer2.title = "Prayer by St. Basil"
-ho.MO.StBasilPrayer2.text = "We bless you, O God, most high and Lord of mercy. You are always doing great and inscrutable things with us, glorious and wonderful, and without number. You grant us sleep for rest from our infirmities, and repose from the burdens of our much toiling flesh. We thank you, for you have not destroyed us with our sins, but have continued to love us; and though we were sunk in despair, you have raised us up to glorify your power. There­fore, we implore your incomparable good­ness. Enlighten the eyes of our understand­ing and raise up our minds from the heavy sleep of indolence. Open our mouth and fill it with your praise, that we may be able without distraction to sing and confess that you are God, glorified in all and by all, the eternal Father, with your only begotten Son, and your all holy, good, and life giving Spirit, now and forever and to the ages of ages."
+hoMO.StBasilPrayer2.rubric = ""
+hoMO.StBasilPrayer2.title = "Prayer by St. Basil"
+hoMO.StBasilPrayer2.text = "We bless you, O God, most high and Lord of mercy. You are always doing great and inscrutable things with us, glorious and wonderful, and without number. You grant us sleep for rest from our infirmities, and repose from the burdens of our much toiling flesh. We thank you, for you have not destroyed us with our sins, but have continued to love us; and though we were sunk in despair, you have raised us up to glorify your power. There­fore, we implore your incomparable good­ness. Enlighten the eyes of our understand­ing and raise up our minds from the heavy sleep of indolence. Open our mouth and fill it with your praise, that we may be able without distraction to sing and confess that you are God, glorified in all and by all, the eternal Father, with your only begotten Son, and your all holy, good, and life giving Spirit, now and forever and to the ages of ages."
 
 hoMO.PrayerForDeceased.rubric = ""
 hoMO.PrayerForDeceased.title = "Prayer"
@@ -43,6 +43,6 @@ hoMO.SaturdayTroparion2.text = "" //oc.m2.d2_en_US_holycross.octrMA.Triadic1.tex
 hoMO.SaturdayTroparion3.incipit = "…"
 hoMO.SaturdayTroparion3.text = "" //oc.m2.d2_en_US_holycross.octrMA.Triadic3.text
 
-ho.MO.StEfstratiosPrayer.rubric = ""
-ho.MO.StEfstratiosPrayer.title = "Prayer of Saint Eustratios"
-ho.MO.StEfstratiosPrayer.text = "Most highly do I praise you, Lord, for you have taken notice of my lowliness and have not delivered me into the hands of my enemies but have relieved my soul of its needs. Now, Master, let your hand shelter me, and let your grace descend upon me, for my soul is distracted and pained at the departure from this, my miserable and sordid body, that the end design of the adversary may not overtake her and make her stumble into the darkness for the unknown and known sins amassed by me in this life. Be gracious to me, Master, and do not let my soul see the dark countenance of the evil spirits, but let her be received by your angels bright and shining. Glorify your holy name, and by your might set me before your divine judgment seat. When I am being judged, do not allow the hand of the prince of this world to take hold of me, to throw me, a sinner, into the depths of hell, but stand by me and be a savior and mediator to me. Have mercy, Lord, on my soul, defiled through the passions of this life, and receive her cleansed by penitence and confession, for you are blessed to the ages of ages."
+hoMO.StEfstratiosPrayer.rubric = ""
+hoMO.StEfstratiosPrayer.title = "Prayer of Saint Eustratios"
+hoMO.StEfstratiosPrayer.text = "Most highly do I praise you, Lord, for you have taken notice of my lowliness and have not delivered me into the hands of my enemies but have relieved my soul of its needs. Now, Master, let your hand shelter me, and let your grace descend upon me, for my soul is distracted and pained at the departure from this, my miserable and sordid body, that the end design of the adversary may not overtake her and make her stumble into the darkness for the unknown and known sins amassed by me in this life. Be gracious to me, Master, and do not let my soul see the dark countenance of the evil spirits, but let her be received by your angels bright and shining. Glorify your holy name, and by your might set me before your divine judgment seat. When I am being judged, do not allow the hand of the prince of this world to take hold of me, to throw me, a sinner, into the depths of hell, but stand by me and be a savior and mediator to me. Have mercy, Lord, on my soul, defiled through the passions of this life, and receive her cleansed by penitence and confession, for you are blessed to the ages of ages."
