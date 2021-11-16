@@ -247,10 +247,8 @@ trHW.Encomia171.text = ""
 
 trHW.Encomia172.text = ""
 
-trHW.Encomia1TrVerse.text = prayers_en_US_holycross.DoxaPatri.text
 trHW.Encomia1Tr.text = ""
 
-trHW.Encomia1TVerse.text = prayers_en_US_holycross.KaiNynKaiAei.text
 trHW.Encomia1T.text = ""
 
 trHW.Encomia1F.text = trHW.Encomia101.text
@@ -379,10 +377,8 @@ trHW.Encomia259.text = ""
 
 trHW.Encomia260.text = ""
 
-trHW.Encomia2TrVerse.text = prayers_en_US_holycross.DoxaPatri.text
 trHW.Encomia2Tr.text = ""
 
-trHW.Encomia2TVerse.text = prayers_en_US_holycross.KaiNynKaiAei.text
 trHW.Encomia2T.text = ""
 
 trHW.Encomia2F.text = trHW.Encomia201.text
@@ -483,10 +479,8 @@ trHW.Encomia345.text = ""
 
 trHW.Encomia346.text = ""
 
-trHW.Encomia3TrVerse.text = prayers_en_US_holycross.DoxaPatri.text
 trHW.Encomia3Tr.text = ""
 
-trHW.Encomia3TVerse.text = prayers_en_US_holycross.KaiNynKaiAei.text
 trHW.Encomia3T.text = ""
 
 // Not in Triodion, but common
