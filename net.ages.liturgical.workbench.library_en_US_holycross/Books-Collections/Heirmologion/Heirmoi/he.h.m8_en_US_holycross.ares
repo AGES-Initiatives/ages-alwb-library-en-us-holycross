@@ -16,7 +16,7 @@ AllotrionTonMiteron.mode = misc_en_US_holycross.Mode8
 AllotrionTonMiteron.ode = misc_en_US_holycross.Ode9
 AllotrionTonMiteron.text = ""
 
-AngeloiKaiOuranoi.notmetered = "N/M (All you angels.)"
+AngeloiKaiOuranoi.notmetered = "N/M (Angels and you heavens.)"
 AngeloiKaiOuranoi.name = ""
 AngeloiKaiOuranoi.incipit = "…"
 AngeloiKaiOuranoi.melody = misc_en_US_holycross.HeirmosNotMetered
@@ -488,7 +488,7 @@ OsTonProfitinErryso.mode = misc_en_US_holycross.Mode8
 OsTonProfitinErryso.ode = misc_en_US_holycross.Ode6
 OsTonProfitinErryso.text = ""
 
-OsYdataThalassis.notmetered = "N/M (The waves of life.)"
+OsYdataThalassis.notmetered = "N/M (The troubles of my life.)"
 OsYdataThalassis.name = ""
 OsYdataThalassis.incipit = "…"
 OsYdataThalassis.melody = misc_en_US_holycross.HeirmosNotMetered
