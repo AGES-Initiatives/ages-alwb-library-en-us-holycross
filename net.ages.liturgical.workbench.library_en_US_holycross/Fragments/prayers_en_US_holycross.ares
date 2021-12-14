@@ -291,6 +291,9 @@ pet19a = "Let us pray for"
 pet19b.incipit = "and all our brotherhood in…"
 pet19b = "and all our brotherhood in Christ."
 
+pet19m.incipit = "Let us pray for…" //for monastery
+pet19m = "Let us pray for"
+
 pet20.incipit = "Let us pray for our…"
 pet20 = "Let us pray for our brethren, priests, hieromonks, deacons, and monastics, and all our brotherhood in Christ."
 

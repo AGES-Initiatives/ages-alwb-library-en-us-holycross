@@ -32,7 +32,7 @@ AsomenToKyrio.mode = misc_en_US_holycross.Mode5
 AsomenToKyrio.ode = misc_en_US_holycross.Ode1
 AsomenToKyrio.text = ""
 
-DynameiTouStavrouSou.notmetered = "N/M (By the power of Your Cross.)"
+DynameiTouStavrouSou.notmetered = "N/M (O Christ, I pray.)"
 DynameiTouStavrouSou.name = ""
 DynameiTouStavrouSou.incipit = "…"
 DynameiTouStavrouSou.melody = misc_en_US_holycross.HeirmosNotMetered
@@ -40,7 +40,7 @@ DynameiTouStavrouSou.mode = misc_en_US_holycross.Mode5
 DynameiTouStavrouSou.ode = misc_en_US_holycross.Ode3
 DynameiTouStavrouSou.text = ""
 
-EisakikoaTinAkoin.notmetered = "N/M (I have heard, O Lord.)"
+EisakikoaTinAkoin.notmetered = "N/M (I have heard the report.)"
 EisakikoaTinAkoin.name = ""
 EisakikoaTinAkoin.incipit = "…"
 EisakikoaTinAkoin.melody = misc_en_US_holycross.HeirmosNotMetered
