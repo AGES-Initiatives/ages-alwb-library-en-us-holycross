@@ -136,7 +136,7 @@ OAnavallomenos.mode = misc_en_US_holycross.Mode5
 OAnavallomenos.ode = misc_en_US_holycross.Ode5
 OAnavallomenos.text = ""
 
-OEnKaminoPyros.notmetered = "N/M (You who preserved.)"
+OEnKaminoPyros.notmetered = "N/M (Inside the furnace.)"
 OEnKaminoPyros.name = ""
 OEnKaminoPyros.incipit = "…"
 OEnKaminoPyros.melody = misc_en_US_holycross.HeirmosNotMetered
