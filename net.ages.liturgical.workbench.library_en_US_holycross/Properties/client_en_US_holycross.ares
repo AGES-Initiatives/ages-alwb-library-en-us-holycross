@@ -1,0 +1,18 @@
+A_Resource_Whose_Name = client_en_US_holycross
+
+//Liturgy Rubrics
+cl.eu.lichrysbasil.R001 = "(The designated verses from the Psalms are sung with the hymn:)"
+cl.eu.lichrysbasil.R002 = "(The designated verses from the Psalms are sung with the hymn:)"
+cl.eu.lichrysbasil.R003 = "(On weekdays we sing: (\"who are wondrous in the saints\"; the Feasts of the Lord have their own refrain.)"
+cl.eu.lichrysbasil.R004 = "(The designated verses of the Psalms are sung with the Apolytikion.)"
+cl.eu.lichrysbasil.R005 = "(While the Apolytikion is sung, the priest carrying the holy Gospel Book comes in procession before the Beautiful Gate of the ikonostasis offering in a low voice the following prayer:)"
+cl.eu.lichrysbasil.R006 = "(On weekdays we sing: (\"who are wondrous in the saints\"), while the Feasts of the Lord have their own Entrance Hymns.)"
+cl.eu.lichrysbasil.R007 = "(The priest enters the sanctuary. The Apolytikion is repeated and the Troparion of the church and the Kontakion of the day are sung.)"
+cl.eu.lichrysbasil.R008 = "(The Reader reads the verses from the Psalms.)"
+cl.eu.lichrysbasil.R009 = "The reading is from (the name of the book of the New Testament from which the Apostolic reading is taken)."
+cl.eu.lichrysbasil.R010 = "(The Reader reads the designated Apostolic pericope.)"
+cl.eu.lichrysbasil.R011 = "The reading is from the Holy Gospel according to (Name). Let us be attentive."
+cl.eu.lichrysbasil.R012 = "(The Deacon reads the designated pericope of the holy Gospel.)"
+cl.eu.lichrysbasil.R013 = "(Following the readings, it is customary for the priest to preach the sermon.)"
+cl.eu.lichrysbasil.R014 = "(The Communion Hymn changes according to the Feast Day.)"
+

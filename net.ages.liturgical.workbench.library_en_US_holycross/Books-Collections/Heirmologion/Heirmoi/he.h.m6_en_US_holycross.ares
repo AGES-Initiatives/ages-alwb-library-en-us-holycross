@@ -480,7 +480,7 @@ TonPaidonTinOdin.mode = misc_en_US_holycross.Mode6
 TonPaidonTinOdin.ode = misc_en_US_holycross.Ode8
 TonPaidonTinOdin.text = ""
 
-TouViouTinThalassan.notmetered = "N/M (I see when my life becomes rough.)"
+TouViouTinThalassan.notmetered = "N/M (I see when my life.)"
 TouViouTinThalassan.name = ""
 TouViouTinThalassan.incipit = "…"
 TouViouTinThalassan.melody = misc_en_US_holycross.HeirmosNotMetered
