@@ -224,7 +224,7 @@ PanymniteTonOuranonYpsilotera.mode = misc_en_US_holycross.Mode7
 PanymniteTonOuranonYpsilotera.ode = misc_en_US_holycross.Ode9
 PanymniteTonOuranonYpsilotera.text = ""
 
-PontoEkalypse.notmetered = "N/M (He who crushes wars.)"
+PontoEkalypse.notmetered = "N/M (The Lord is a warrior.)"
 PontoEkalypse.name = ""
 PontoEkalypse.incipit = "…"
 PontoEkalypse.melody = misc_en_US_holycross.HeirmosNotMetered
@@ -264,7 +264,7 @@ TinEnsarkonParousianSou.mode = misc_en_US_holycross.Mode7
 TinEnsarkonParousianSou.ode = misc_en_US_holycross.Ode4
 TinEnsarkonParousianSou.text = ""
 
-TinExYpsousDynamin.notmetered = "N/M (O my Christ, You said.)"
+TinExYpsousDynamin.notmetered = "N/M (Do not leave Jerusalem.)"
 TinExYpsousDynamin.name = ""
 TinExYpsousDynamin.incipit = "…"
 TinExYpsousDynamin.melody = misc_en_US_holycross.HeirmosNotMetered
