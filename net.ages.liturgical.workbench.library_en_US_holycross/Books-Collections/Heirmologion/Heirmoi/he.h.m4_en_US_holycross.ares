@@ -32,7 +32,7 @@ AnateilonMoiKyrie.mode = misc_en_US_holycross.Mode4
 AnateilonMoiKyrie.ode = misc_en_US_holycross.Ode5
 AnateilonMoiKyrie.text = ""
 
-AnaxAnakton.notmetered = "N/M (Monarch of monarchs.)"
+AnaxAnakton.notmetered = "N/M (Now, O King of kings.)"
 AnaxAnakton.name = ""
 AnaxAnakton.incipit = "…"
 AnaxAnakton.melody = misc_en_US_holycross.HeirmosNotMetered
@@ -141,7 +141,7 @@ AvramiaioiPote.mode = misc_en_US_holycross.Mode4
 AvramiaioiPote.ode = misc_en_US_holycross.Ode7
 AvramiaioiPote.text = ""
 
-ChairoisAnassa.notmetered = "N/M (Queen of all, rejoice.)"
+ChairoisAnassa.notmetered = "N/M (Theotokos, Queen of all.)"
 ChairoisAnassa.name = ""
 ChairoisAnassa.incipit = "…"
 ChairoisAnassa.melody = misc_en_US_holycross.HeirmosNotMetered
@@ -314,7 +314,7 @@ EpoiiseKratos.mode = misc_en_US_holycross.Mode4
 EpoiiseKratos.ode = misc_en_US_holycross.Ode9
 EpoiiseKratos.text = ""
 
-ErrixeGastros.notmetered = "N/M (By itself the prayer.)"
+ErrixeGastros.notmetered = "N/M (Unembarrassed prayer.)"
 ErrixeGastros.name = ""
 ErrixeGastros.incipit = "…"
 ErrixeGastros.melody = misc_en_US_holycross.HeirmosNotMetered
@@ -415,7 +415,7 @@ GiKaiPantaTaEnAfti.mode = misc_en_US_holycross.Mode4
 GiKaiPantaTaEnAfti.ode = misc_en_US_holycross.Ode8
 GiKaiPantaTaEnAfti.text = ""
 
-IlasmosIminChriste.notmetered = "N/M (Master Christ, as expiation.)"
+IlasmosIminChriste.notmetered = "N/M (To snatch from corruption.)"
 IlasmosIminChriste.name = ""
 IlasmosIminChriste.incipit = "…"
 IlasmosIminChriste.melody = misc_en_US_holycross.HeirmosNotMetered
@@ -460,7 +460,7 @@ LogouTheouAfraston.mode = misc_en_US_holycross.Mode4
 LogouTheouAfraston.ode = misc_en_US_holycross.Ode9
 LogouTheouAfraston.text = ""
 
-LyeiTaDesma.notmetered = "N/M (Once the triple radiant.)"
+LyeiTaDesma.notmetered = "N/M (Emblematic of the tri-luminous.)"
 LyeiTaDesma.name = ""
 LyeiTaDesma.incipit = "…"
 LyeiTaDesma.melody = misc_en_US_holycross.HeirmosNotMetered
@@ -473,7 +473,7 @@ LyeiTaDesma3.text = ""
 LyeiTaDesma4.text = ""
 LyeiTaDesma5.text = ""
 
-LytirionKatharsin.notmetered = "N/M (Receive now the fire.)"
+LytirionKatharsin.notmetered = "N/M (Experience the fire.)"
 LytirionKatharsin.name = ""
 LytirionKatharsin.incipit = "…"
 LytirionKatharsin.melody = misc_en_US_holycross.HeirmosNotMetered
@@ -806,7 +806,7 @@ SyKyrieMouFos.mode = misc_en_US_holycross.Mode4
 SyKyrieMouFos.ode = misc_en_US_holycross.Ode5
 SyKyrieMouFos.text = ""
 
-SymfononEthroisen.notmetered = "N/M (The combined sound.)"
+SymfononEthroisen.notmetered = "N/M (Instruments were played.)"
 SymfononEthroisen.name = ""
 SymfononEthroisen.incipit = "…"
 SymfononEthroisen.melody = misc_en_US_holycross.HeirmosNotMetered
@@ -835,7 +835,7 @@ ThalassisToErythraion.mode = misc_en_US_holycross.Mode4
 ThalassisToErythraion.ode = misc_en_US_holycross.Ode1
 ThalassisToErythraion.text = ""
 
-TheioKalyftheis.notmetered = "N/M (Having been concealed.)"
+TheioKalyftheis.notmetered = "N/M (Long ago, Moses.)"
 TheioKalyftheis.name = ""
 TheioKalyftheis.incipit = "…"
 TheioKalyftheis.melody = misc_en_US_holycross.HeirmosNotMetered
