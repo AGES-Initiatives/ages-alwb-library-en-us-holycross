@@ -304,8 +304,8 @@ MegalynomenSeTinPanamomon.mode = misc_en_US_holycross.Mode8
 MegalynomenSeTinPanamomon.ode = misc_en_US_holycross.Ode9
 MegalynomenSeTinPanamomon.text = ""
 
-MousikonOrganon.notmetered = "N/M ()"
-MousikonOrganon.name = ""
+MousikonOrganon.notmetered = "N/M (At the sound.)"
+MousikonOrganon.name = "At the sound."
 MousikonOrganon.incipit = "…"
 MousikonOrganon.melody = misc_en_US_holycross.HeirmosNotMetered
 MousikonOrganon.mode = misc_en_US_holycross.Mode8
@@ -503,6 +503,9 @@ OukEstinAgios.melody = misc_en_US_holycross.HeirmosNotMetered
 OukEstinAgios.mode = misc_en_US_holycross.Mode8
 OukEstinAgios.ode = misc_en_US_holycross.Ode3
 OukEstinAgios.text = ""
+
+OukEstinAgiosOsOTheos.name = ""
+
 
 OuraniasApsidos.notmetered = "N/M (O divine Master Builder.)"
 OuraniasApsidos.name = ""
