@@ -522,6 +522,9 @@ petConsecration01 = "For the work of our hands of our brethren with us, let us p
 petConsecration02.incipit = "For the sanctification of this…"
 petConsecration02 = "For the sanctification of this house and the Altar herein by the descent, power and action of the Holy Spirit, let us pray to the Lord."
 
+petConsecration13a = "Remembering our most holy, pure, blessed, and glorious Lady, the Theotokos and ever-virgin Mary, "
+petConsecration13b = "with all the saints, let us commit ourselves and one another and our whole life to Christ our God."
+
 petCross05.incipit = "Again we pray for the…"
 petCross05 = "Again we pray for the soul of every Orthodox Christian, for their health, salvation, and forgiveness of sins."
 
@@ -1015,8 +1018,11 @@ gos03b = ""
 gos04.incipit = "Peace be to you…"
 gos04 = "Peace be to you."
 
-gos05.incipit = "Peace be to you who…"
+gos05.incipit = "Peace be to you who proclaim…"
 gos05 = "Peace be to you who proclaim the Gospel."
+
+gos06.incipit = "…"
+gos06 = "Peace be to you who proclaim the Gospel and to all the people."
 
 otr01a.incipit = "The reading is from…"
 otr01a = "The reading is from"
