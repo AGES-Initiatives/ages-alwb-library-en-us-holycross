@@ -74,19 +74,24 @@ peMA.Kathisma21.melody = he.a.m5_en_US_holycross.TonSynanarchonLogon.name
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
+peMA.C1.acrostic.title = ""
+peMA.C1.acrostic.notice1 = ""
+peMA.C1.acrostic.text = ""
+peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = poets_en_US_holycross.Theofanous
-peMA.C1.acrostic = ""
+peMA.C1.title = titles_en_US_holycross.KanonATisMesopentikostis
+peMA.C1.verse = prayers_en_US_holycross.verse_God.text
 
+peMA.C2.acrostic.title = ""
 peMA.C2.poet = poets_en_US_holycross.AndreouKritis
+peMA.C2.title = titles_en_US_holycross.KanonBTisMesopentikostis
+peMA.C2.verse = prayers_en_US_holycross.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_US_holycross.Ode1
 peMA.Ode1C1H.mode = misc_en_US_holycross.Mode4
 peMA.Ode1C1H.melody = he.h.m4_en_US_holycross.ThalassisToErythraion.melody
 peMA.Ode1C1H.incipit = he.h.m4_en_US_holycross.ThalassisToErythraion.incipit
 peMA.Ode1C1H.text = he.h.m4_en_US_holycross.ThalassisToErythraion.text
-
-peMA.C1.title = titles_en_US_holycross.KanonATisMesopentikostis
-peMA.C1.verse = prayers_en_US_holycross.verse_God.text
 
 peMA.Ode1C11.ode = misc_en_US_holycross.Ode1
 peMA.Ode1C11.mode = misc_en_US_holycross.Mode4
@@ -117,9 +122,6 @@ peMA.Ode1C2H.mode = misc_en_US_holycross.Mode8
 peMA.Ode1C2H.melody = he.h.m8_en_US_holycross.ThalassanEpixas.melody
 peMA.Ode1C2H.incipit = he.h.m8_en_US_holycross.ThalassanEpixas.incipit
 peMA.Ode1C2H.text = he.h.m8_en_US_holycross.ThalassanEpixas.text
-
-peMA.C2.title = titles_en_US_holycross.KanonBTisMesopentikostis
-peMA.C2.verse = prayers_en_US_holycross.verse_God.text
 
 peMA.Ode1C21.ode = misc_en_US_holycross.Ode1
 peMA.Ode1C21.mode = misc_en_US_holycross.Mode8
