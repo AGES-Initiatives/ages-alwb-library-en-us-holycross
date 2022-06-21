@@ -426,12 +426,11 @@ trHW.BeatitudesT.text = ""
 
 trHW.Prokeimenon.text = "" //for media
 
-trMA.C1.poet = poets_en_US_holycross.KosmaMonachou
 trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
-//trMA.C1.acrostic.notice2 = ""
-trMA.C1.acrostic = ""
+trMA.C1.poet = poets_en_US_holycross.KosmaMonachou
+trMA.C1.verse = prayers_en_US_holycross.verse_God.text
 
 trMA.Ode5C1H.ode = misc_en_US_holycross.Ode5
 trMA.Ode5C1H.mode = misc_en_US_holycross.Mode6
