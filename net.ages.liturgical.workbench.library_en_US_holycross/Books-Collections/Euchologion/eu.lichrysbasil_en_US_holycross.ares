@@ -122,6 +122,10 @@ euLI.Key1122.text = "Remember me in your praeyrs, holy Master."
 euLI.Key1123.text = "Invisibly escorted by the angelic hosts. Alleluia."
 euLI.Key1124.text = "May the Lord God remember your arch-priesthood in His kingdom, always, now and ever, and to the ages of ages."
 
+//Hierarchical
+euLI.Key1140.rubric = "The Hierarch blesses the faithful with the two-stemmed candle, and the choir sings: Eis polla eti, Despota!"
+euLI.Key1141.rubric = "The Archbishop blesses the faithful with the two-stemmed candle, and the choir sings: Eis polla eti, Despota!"
+
 // Part 12 Litany and Creed
 euLI.Key1200.title = "THE PETITIONS"
 euLI.Key1200.text = "" //for media
