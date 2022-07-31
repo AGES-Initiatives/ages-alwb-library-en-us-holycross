@@ -2,6 +2,7 @@ A_Resource_Whose_Name = pe.d121_en_US_holycross
 
 peDA.commemoration.full = "" //full title of day
 peDA.commemoration.short = ""
+peDA.commemoration.name = ""
 peDA.insert1 = "" //for use in petitions and dismissal
 peDA.insert2 = "" //for use in petitions and dismissal
 peDA.note = ""
@@ -174,3 +175,4 @@ peLI.TheotokosHymn.text = pe.d120_en_US_holycross.peMA.Ode9C2H.text
 
 peLI.CommunionHymn.text = ""
 
+peMegalynarion.text = ""
