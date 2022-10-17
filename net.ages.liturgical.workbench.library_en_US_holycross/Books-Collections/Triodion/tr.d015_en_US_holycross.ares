@@ -545,6 +545,8 @@ trMA.Lauds3.melody = misc_en_US_holycross.Idiomelon
 trMA.Lauds3.incipit = "…"
 trMA.Lauds3.text = ""
 
+trMA.MM.Lauds12as45.text = properties_en_US_holycross.media.key
+
 trMA.LaudsGlory.mode = misc_en_US_holycross.Mode1
 trMA.LaudsGlory.melody = misc_en_US_holycross.Idiomelon
 trMA.LaudsGlory.incipit = "…"

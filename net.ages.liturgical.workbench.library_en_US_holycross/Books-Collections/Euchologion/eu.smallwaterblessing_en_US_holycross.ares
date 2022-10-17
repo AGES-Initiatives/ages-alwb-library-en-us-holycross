@@ -236,9 +236,6 @@ euSWB.Key0503.inicpit = ""
 euSWB.Key0503.text = ""
 euSWB.Key0504.text = ""
 
-euSWB.R601 = "Ὁ Ἱερεύς, κλινόμενος, λέγει μυστικῶς τὴν Εὐχὴν ταύτην·"
-euSWB.Key0601.text = "Κλῖνον, Κύριε, τὸ οὖς σου καὶ ἐπάκουσον ἡμῶν, ὁ ἐν Ἰορδάνῃ βαπτισθῆναι καταδεξάμενος καὶ ἁγιάσας τὰ ὕδατα· καὶ εὐλόγησον πάντας ἡμᾶς, τοὺς διὰ τῆς κλίσεως τοῦ ἑαυτῶν αὐχένος σημαίνοντας τὸ τῆς δουλείας πρόσχημα· καὶ καταξίωσαν ἡμᾶς ἐμπλησθῆναι τοῦ ἁγιασμοῦ σου, διὰ τῆς του ὕδατος τούτου μεταλήψεώς τε καὶ ῥαντισμοῦ καὶ γενέσθω ἡμῖν, Κύριε, εἰς ὑγείαν ψυχῆς τε καὶ σώματος."
-
 euSWB.R601 = ""
 euSWB.Key0601.text = "Bow down Your ear and listen to us, O Lord, Who deigned to be baptized in the river Jordan, and there sanctified the water. Bless us all who by the bowing of our heads do show forth our apprehension that we are Your servants. Grant that we may be filled with Your sanctification through the partaking of this water, and let it be for us, O Lord, for the health of soul and body."
 

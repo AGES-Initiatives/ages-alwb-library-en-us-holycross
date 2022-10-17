@@ -139,6 +139,7 @@ hoMA.FuneralEvlog9.text = prayers_en_US_holycross.Allilouia3Doxa.text
 //hoMA.Psalm50.text = "" //for media
 
 hoMA.MM.Magnificat.text = "" //for media of all modes together
+hoMA.Ode9.Meg00.incipit = "It is truly right…"
 hoMA.Ode9.Meg00.text = "It is truly right to call you blest, O Theotokos, the ever-blessed and all-blameless one and the Mother of our God."
 
 R15 = ""
