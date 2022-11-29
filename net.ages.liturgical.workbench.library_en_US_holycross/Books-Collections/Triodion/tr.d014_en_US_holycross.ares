@@ -75,7 +75,7 @@ trMA.Kathisma22.text = //oc.m5.d2_en_US_holycross.ocMA.ApolTheotokion.text
 trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
-trMA.C1.title = titles_en_US_holycross.KanonTouTriodiou
+trMA.C1.title = titles_en_US_holycross.ti.CanonTriodion
 trMA.C1.verse = prayers_en_US_holycross.verse_God.text
 
 trMA.Ode1C1H.ode = misc_en_US_holycross.Ode1
@@ -396,7 +396,7 @@ trMA.Kontakion1.text = "With the Saints give rest, O Christ, to the souls of You
 trMA.Oikos1.text = ""
 
 trSY.commemoration.text = ""
-trSY.commemoration.couplet1.title = titles_en_US_holycross.Stichoi
+trSY.commemoration.couplet1.title = titles_en_US_holycross.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""

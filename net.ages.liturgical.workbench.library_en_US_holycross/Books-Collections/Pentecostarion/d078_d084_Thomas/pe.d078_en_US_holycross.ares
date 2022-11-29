@@ -172,7 +172,7 @@ peMA.Ode1C1H.melody = he.h.m1_en_US_holycross.AsomenPantesLaoi.melody
 peMA.Ode1C1H.incipit = he.h.m1_en_US_holycross.AsomenPantesLaoi.incipit
 peMA.Ode1C1H.text = he.h.m1_en_US_holycross.AsomenPantesLaoi.text
 
-peMA.C1.title = titles_en_US_holycross.KanonTisEortis
+peMA.C1.title = titles_en_US_holycross.ti.CanonFeast
 peMA.C1.verse = prayers_en_US_holycross.verse_Resurrection.text
 
 peMA.Ode1C11.ode = misc_en_US_holycross.Ode1
@@ -308,7 +308,7 @@ peMA.Kontakion1.text = ""
 peMA.Oikos1.text = ""
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = titles_en_US_holycross.Stichoi
+peSY.commemoration.couplet1.title = titles_en_US_holycross.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.narration.p01 = "[paragraph 01]"
