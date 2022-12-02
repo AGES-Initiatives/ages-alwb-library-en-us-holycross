@@ -5,10 +5,10 @@ eo.Doxasticon.incipit = "…"
 eo.Doxasticon.text = ""
 
 eo.Exaposteilarion.mode = miscellanea_en_US_holycross.misc.Mode2
-eo.Exaposteilarion.melody = he.a.m2_en_US_holycross.ToisMathitaisSynelthomen.name
+eo.Exaposteilarion.melody = he.a.m2_en_US_holycross.heAU.ToisMathitaisSynelthomen.name
 eo.Exaposteilarion.incipit = "…"
 eo.Exaposteilarion.text = ""
 eo.Theotokion.mode = miscellanea_en_US_holycross.misc.Mode2
-eo.Theotokion.melody = he.a.m2_en_US_holycross.ToisMathitaisSynelthomen.name
+eo.Theotokion.melody = he.a.m2_en_US_holycross.heAU.ToisMathitaisSynelthomen.name
 eo.Theotokion.incipit = "…"
 eo.Theotokion.text = ""

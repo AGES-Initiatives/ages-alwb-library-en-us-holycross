@@ -66,7 +66,7 @@ peMA.Lauds1.incipit = oc.m8.d1_en_US_holycross.ocMA.Lauds1.incipit
 peMA.Lauds1.text = oc.m8.d1_en_US_holycross.ocMA.Lauds1.text
 
 peMA.Lauds2.mode = miscellanea_en_US_holycross.misc.Mode8
-peMA.Lauds2.melody = //he.a.m8_en_US_holycross.KyrieEiKaiKritirio.notmetered
+peMA.Lauds2.melody = //he.a.m8_en_US_holycross.heAU.KyrieEiKaiKritirio.notmetered
 peMA.Lauds2.incipit = oc.m8.d1_en_US_holycross.ocMA.Lauds2.incipit
 peMA.Lauds2.text = oc.m8.d1_en_US_holycross.ocMA.Lauds2.text
 

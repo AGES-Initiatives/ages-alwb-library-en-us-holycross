@@ -375,53 +375,53 @@ trHW.Antiphon15Kathisma.text = ""
 
 trHW.Beatitudes01.mode = miscellanea_en_US_holycross.misc.Mode4
 trHW.Beatutides01.melody = miscellanea_en_US_holycross.misc.Automelon
-trHW.Beatitudes01.incipit = he.a.m4_en_US_holycross.DiaXylouOAdam.incipit
-trHW.Beatitudes01.text = he.a.m4_en_US_holycross.DiaXylouOAdam.text
+trHW.Beatitudes01.incipit = he.a.m4_en_US_holycross.heAU.DiaXylouOAdam.incipit
+trHW.Beatitudes01.text = he.a.m4_en_US_holycross.heAU.DiaXylouOAdam.text
 
 trHW.Beatitudes02.mode = miscellanea_en_US_holycross.misc.Mode4
-trHW.Beatutides02.melody = he.a.m4_en_US_holycross.DiaXylouOAdam.notmetered
+trHW.Beatutides02.melody = he.a.m4_en_US_holycross.heAU.DiaXylouOAdam.notmetered
 trHW.Beatitudes02.incipit = "…"
 trHW.Beatitudes02.text = ""
 
 trHW.Beatitudes03.mode = miscellanea_en_US_holycross.misc.Mode4
-trHW.Beatutides03.melody = he.a.m4_en_US_holycross.DiaXylouOAdam.notmetered
+trHW.Beatutides03.melody = he.a.m4_en_US_holycross.heAU.DiaXylouOAdam.notmetered
 trHW.Beatitudes03.incipit = "…"
 trHW.Beatitudes03.text = ""
 
 trHW.Beatitudes04.mode = miscellanea_en_US_holycross.misc.Mode4
-trHW.Beatutides04.melody = he.a.m4_en_US_holycross.DiaXylouOAdam.notmetered
+trHW.Beatutides04.melody = he.a.m4_en_US_holycross.heAU.DiaXylouOAdam.notmetered
 trHW.Beatitudes04.incipit = "…"
 trHW.Beatitudes04.text = ""
 
 trHW.Beatitudes05.mode = miscellanea_en_US_holycross.misc.Mode4
-trHW.Beatutides05.melody = he.a.m4_en_US_holycross.DiaXylouOAdam.notmetered
+trHW.Beatutides05.melody = he.a.m4_en_US_holycross.heAU.DiaXylouOAdam.notmetered
 trHW.Beatitudes05.incipit = "…"
 trHW.Beatitudes05.text = ""
 
 trHW.Beatitudes06.mode = miscellanea_en_US_holycross.misc.Mode4
-trHW.Beatutides06.melody = he.a.m4_en_US_holycross.DiaXylouOAdam.notmetered
+trHW.Beatutides06.melody = he.a.m4_en_US_holycross.heAU.DiaXylouOAdam.notmetered
 trHW.Beatitudes06.incipit = "…"
 trHW.Beatitudes06.text = ""
 
 trHW.Beatitudes07.mode = miscellanea_en_US_holycross.misc.Mode4
-trHW.Beatutides07.melody = he.a.m4_en_US_holycross.DiaXylouOAdam.notmetered
+trHW.Beatutides07.melody = he.a.m4_en_US_holycross.heAU.DiaXylouOAdam.notmetered
 trHW.Beatitudes07.incipit = "…"
 trHW.Beatitudes07.text = ""
 
 trHW.Beatitudes08.mode = miscellanea_en_US_holycross.misc.Mode4
-trHW.Beatutides08.melody = he.a.m4_en_US_holycross.DiaXylouOAdam.notmetered
+trHW.Beatutides08.melody = he.a.m4_en_US_holycross.heAU.DiaXylouOAdam.notmetered
 trHW.Beatitudes08.incipit = "…"
 trHW.Beatitudes08.text = ""
 
 trHW.BeatitudesTr.verse = prayers_en_US_holycross.pr.GloryToTheFather.text
 trHW.BeatitudesTr.mode = miscellanea_en_US_holycross.misc.Mode4
-trHW.BeatutidesTr.melody = he.a.m4_en_US_holycross.DiaXylouOAdam.notmetered
+trHW.BeatutidesTr.melody = he.a.m4_en_US_holycross.heAU.DiaXylouOAdam.notmetered
 trHW.BeatitudesTr.incipit = "…"
 trHW.BeatitudesTr.text = ""
 
 trHW.BeatitudesT.verse = prayers_en_US_holycross.pr.BothNowAndEver.text
 trHW.BeatitudesT.mode = miscellanea_en_US_holycross.misc.Mode4
-trHW.BeatutidesT.melody = he.a.m4_en_US_holycross.DiaXylouOAdam.notmetered
+trHW.BeatutidesT.melody = he.a.m4_en_US_holycross.heAU.DiaXylouOAdam.notmetered
 trHW.BeatitudesT.incipit = "…"
 trHW.BeatitudesT.text = ""
 
@@ -435,27 +435,27 @@ trMA.C1.verse = prayers_en_US_holycross.pr.verse_God.text
 
 trMA.Ode5C1H.ode = miscellanea_en_US_holycross.misc.Ode5
 trMA.Ode5C1H.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode5C1H.melody = he.h.m6_en_US_holycross.ProsSeOrthrizo.melody
-trMA.Ode5C1H.incipit = he.h.m6_en_US_holycross.ProsSeOrthrizo.incipit
-trMA.Ode5C1H.text = he.h.m6_en_US_holycross.ProsSeOrthrizo.text
+trMA.Ode5C1H.melody = he.h.m6_en_US_holycross.heHE.ProsSeOrthrizo.melody
+trMA.Ode5C1H.incipit = he.h.m6_en_US_holycross.heHE.ProsSeOrthrizo.incipit
+trMA.Ode5C1H.text = he.h.m6_en_US_holycross.heHE.ProsSeOrthrizo.text
 
 trMA.Ode5C11.ode = miscellanea_en_US_holycross.misc.Ode5
 trMA.Ode5C11.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode5C11.melody = he.h.m6_en_US_holycross.ProsSeOrthrizo.notmetered
+trMA.Ode5C11.melody = he.h.m6_en_US_holycross.heHE.ProsSeOrthrizo.notmetered
 trMA.Ode5C11.incipit = "…"
 trMA.Ode5C11.text = ""
 
 trMA.Ode5C12.ode = miscellanea_en_US_holycross.misc.Ode5
 trMA.Ode5C12.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode5C12.melody = he.h.m6_en_US_holycross.ProsSeOrthrizo.notmetered
+trMA.Ode5C12.melody = he.h.m6_en_US_holycross.heHE.ProsSeOrthrizo.notmetered
 trMA.Ode5C12.incipit = "…"
 trMA.Ode5C12.text = ""
 
 trMA.Ode5K.ode = miscellanea_en_US_holycross.misc.Ode5
 trMA.Ode5K.mode = miscellanea_en_US_holycross.misc.Mode6
 trMA.Ode5K.melody = miscellanea_en_US_holycross.misc.Heirmos
-trMA.Ode5K.incipit = he.h.m6_en_US_holycross.ProsSeOrthrizo.incipit
-trMA.Ode5K.text = he.h.m6_en_US_holycross.ProsSeOrthrizo.text
+trMA.Ode5K.incipit = he.h.m6_en_US_holycross.heHE.ProsSeOrthrizo.incipit
+trMA.Ode5K.text = he.h.m6_en_US_holycross.heHE.ProsSeOrthrizo.text
 
 trMA.Kontakion1.mode = miscellanea_en_US_holycross.misc.Mode8
 trMA.Kontakion1.melody = ""
@@ -482,80 +482,80 @@ trSY.lastline = ""
 
 trMA.Ode8C1H.ode = miscellanea_en_US_holycross.misc.Ode8
 trMA.Ode8C1H.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode8C1H.melody = he.h.m6_en_US_holycross.StilinKakiasAntitheou.melody
-trMA.Ode8C1H.incipit = he.h.m6_en_US_holycross.StilinKakiasAntitheou.incipit
-trMA.Ode8C1H.text = he.h.m6_en_US_holycross.StilinKakiasAntitheou.text
+trMA.Ode8C1H.melody = he.h.m6_en_US_holycross.heHE.StilinKakiasAntitheou.melody
+trMA.Ode8C1H.incipit = he.h.m6_en_US_holycross.heHE.StilinKakiasAntitheou.incipit
+trMA.Ode8C1H.text = he.h.m6_en_US_holycross.heHE.StilinKakiasAntitheou.text
 
 trMA.Ode8C11.ode = miscellanea_en_US_holycross.misc.Ode8
 trMA.Ode8C11.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode8C11.melody = he.h.m6_en_US_holycross.StilinKakiasAntitheou.notmetered
+trMA.Ode8C11.melody = he.h.m6_en_US_holycross.heHE.StilinKakiasAntitheou.notmetered
 trMA.Ode8C11.incipit = "…"
 trMA.Ode8C11.text = ""
 
 trMA.Ode8C12.ode = miscellanea_en_US_holycross.misc.Ode8
 trMA.Ode8C12.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode8C12.melody = he.h.m6_en_US_holycross.StilinKakiasAntitheou.notmetered
+trMA.Ode8C12.melody = he.h.m6_en_US_holycross.heHE.StilinKakiasAntitheou.notmetered
 trMA.Ode8C12.incipit = "…"
 trMA.Ode8C12.text = ""
 
 trMA.Ode8C13.ode = miscellanea_en_US_holycross.misc.Ode8
 trMA.Ode8C13.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode8C13.melody = he.h.m6_en_US_holycross.StilinKakiasAntitheou.notmetered
+trMA.Ode8C13.melody = he.h.m6_en_US_holycross.heHE.StilinKakiasAntitheou.notmetered
 trMA.Ode8C13.incipit = "…"
 trMA.Ode8C13.text = ""
 
 trMA.Ode8C14.ode = miscellanea_en_US_holycross.misc.Ode8
 trMA.Ode8C14.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode8C14.melody = he.h.m6_en_US_holycross.StilinKakiasAntitheou.notmetered
+trMA.Ode8C14.melody = he.h.m6_en_US_holycross.heHE.StilinKakiasAntitheou.notmetered
 trMA.Ode8C14.incipit = "…"
 trMA.Ode8C14.text = ""
 
 trMA.Ode8K.ode = miscellanea_en_US_holycross.misc.Ode8
 trMA.Ode8K.mode = miscellanea_en_US_holycross.misc.Mode6
 trMA.Ode8K.melody = miscellanea_en_US_holycross.misc.Heirmos
-trMA.Ode8K.incipit = he.h.m6_en_US_holycross.StilinKakiasAntitheou.incipit
-trMA.Ode8K.text = he.h.m6_en_US_holycross.StilinKakiasAntitheou.text
+trMA.Ode8K.incipit = he.h.m6_en_US_holycross.heHE.StilinKakiasAntitheou.incipit
+trMA.Ode8K.text = he.h.m6_en_US_holycross.heHE.StilinKakiasAntitheou.text
 
 trMA.Ode9C1H.ode = miscellanea_en_US_holycross.misc.Ode9
 trMA.Ode9C1H.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode9C1H.melody = he.h.m6_en_US_holycross.TinTimioteran.melody
-trMA.Ode9C1H.incipit = he.h.m6_en_US_holycross.TinTimioteran.incipit
-trMA.Ode9C1H.text = he.h.m6_en_US_holycross.TinTimioteran.text
+trMA.Ode9C1H.melody = he.h.m6_en_US_holycross.heHE.TinTimioteran.melody
+trMA.Ode9C1H.incipit = he.h.m6_en_US_holycross.heHE.TinTimioteran.incipit
+trMA.Ode9C1H.text = he.h.m6_en_US_holycross.heHE.TinTimioteran.text
 
 trMA.Ode9C11.ode = miscellanea_en_US_holycross.misc.Ode9
 trMA.Ode9C11.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode9C11.melody = he.h.m6_en_US_holycross.TinTimioteran.notmetered
+trMA.Ode9C11.melody = he.h.m6_en_US_holycross.heHE.TinTimioteran.notmetered
 trMA.Ode9C11.incipit = "…"
 trMA.Ode9C11.text = ""
 
 trMA.Ode9C12.ode = miscellanea_en_US_holycross.misc.Ode9
 trMA.Ode9C12.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode9C12.melody = he.h.m6_en_US_holycross.TinTimioteran.notmetered
+trMA.Ode9C12.melody = he.h.m6_en_US_holycross.heHE.TinTimioteran.notmetered
 trMA.Ode9C12.incipit = "…"
 trMA.Ode9C12.text = ""
 
 trMA.Ode9C13.ode = miscellanea_en_US_holycross.misc.Ode9
 trMA.Ode9C13.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode9C13.melody = he.h.m6_en_US_holycross.TinTimioteran.notmetered
+trMA.Ode9C13.melody = he.h.m6_en_US_holycross.heHE.TinTimioteran.notmetered
 trMA.Ode9C13.incipit = "…"
 trMA.Ode9C13.text = ""
 
 trMA.Ode9C14.ode = miscellanea_en_US_holycross.misc.Ode9
 trMA.Ode9C14.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode9C14.melody = he.h.m6_en_US_holycross.TinTimioteran.notmetered
+trMA.Ode9C14.melody = he.h.m6_en_US_holycross.heHE.TinTimioteran.notmetered
 trMA.Ode9C14.incipit = "…"
 trMA.Ode9C14.text = ""
 
 trMA.Ode9K.ode = miscellanea_en_US_holycross.misc.Ode9
 trMA.Ode9K.mode = miscellanea_en_US_holycross.misc.Mode6
 trMA.Ode9K.melody = miscellanea_en_US_holycross.misc.Heirmos
-trMA.Ode9K.incipit = he.h.m6_en_US_holycross.TinTimioteran.incipit
-trMA.Ode9K.text = he.h.m6_en_US_holycross.TinTimioteran.text
+trMA.Ode9K.incipit = he.h.m6_en_US_holycross.heHE.TinTimioteran.incipit
+trMA.Ode9K.text = he.h.m6_en_US_holycross.heHE.TinTimioteran.text
 
 trMA.Exaposteilarion1.mode = miscellanea_en_US_holycross.misc.Mode3
 trMA.Exaposteilarion1.melody = miscellanea_en_US_holycross.misc.Automelon
-trMA.Exaposteilarion1.incipit = he.a.m3_en_US_holycross.TonListinAfthimeron.incipit
-trMA.Exaposteilarion1.text = he.a.m3_en_US_holycross.TonListinAfthimeron.text
+trMA.Exaposteilarion1.incipit = he.a.m3_en_US_holycross.heAU.TonListinAfthimeron.incipit
+trMA.Exaposteilarion1.text = he.a.m3_en_US_holycross.heAU.TonListinAfthimeron.text
 
 trHW.Lauds01.text = ""//for media
 

@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = ho.s05_en_US_holycross
 
 hoH3.mhTroparion2.mode = miscellanea_en_US_holycross.misc.Mode4
-hoH3.mhTroparion2.melody = he.a.m4_en_US_holycross.TachyProkatalave.name
+hoH3.mhTroparion2.melody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.name
 hoH3.mhTroparion2.incipit = "…"
-hoH3.mhTroparion2.text = //he.ga_en_US_holycross.OiMartyresSouKyrie.text
+hoH3.mhTroparion2.text = //he.ga_en_US_holycross.heGA.OiMartyresSouKyrie.text
 
 hoH3.title = ""
 

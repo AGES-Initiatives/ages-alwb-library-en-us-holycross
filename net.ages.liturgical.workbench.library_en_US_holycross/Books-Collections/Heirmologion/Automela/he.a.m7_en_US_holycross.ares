@@ -1,51 +1,51 @@
 A_Resource_Whose_Name = he.a.m7_en_US_holycross
 
-he.title = ""
+heAU.title = ""
 
-KatafronisantesPanton.mode = miscellanea_en_US_holycross.misc.Mode7
-KatafronisantesPanton.notmetered = "N/M (When you had wisely.)"
-KatafronisantesPanton.name = "N/M (When you had wisely.)"
-KatafronisantesPanton.incipit = "…"
-KatafronisantesPanton.text = ""
+heAU.KatafronisantesPanton.mode = miscellanea_en_US_holycross.misc.Mode7
+heAU.KatafronisantesPanton.notmetered = "N/M (When you had wisely.)"
+heAU.KatafronisantesPanton.name = "N/M (When you had wisely.)"
+heAU.KatafronisantesPanton.incipit = "…"
+heAU.KatafronisantesPanton.text = ""
 
-ODiEmeAnaschomenos.mode = miscellanea_en_US_holycross.misc.Mode7
-ODiEmeAnaschomenos.notmetered = "N/M ()"
-ODiEmeAnaschomenos.name = ""
-ODiEmeAnaschomenos.incipit = "…"
-ODiEmeAnaschomenos.text = ""
+heAU.ODiEmeAnaschomenos.mode = miscellanea_en_US_holycross.misc.Mode7
+heAU.ODiEmeAnaschomenos.notmetered = "N/M ()"
+heAU.ODiEmeAnaschomenos.name = ""
+heAU.ODiEmeAnaschomenos.incipit = "…"
+heAU.ODiEmeAnaschomenos.text = ""
 
-OsEchousaToSympathes.mode = miscellanea_en_US_holycross.misc.Mode7
-OsEchousaToSympathes.notmetered = "N/M ()"
-OsEchousaToSympathes.name = ""
-OsEchousaToSympathes.incipit = "…"
-OsEchousaToSympathes.text = ""
+heAU.OsEchousaToSympathes.mode = miscellanea_en_US_holycross.misc.Mode7
+heAU.OsEchousaToSympathes.notmetered = "N/M ()"
+heAU.OsEchousaToSympathes.name = ""
+heAU.OsEchousaToSympathes.incipit = "…"
+heAU.OsEchousaToSympathes.text = ""
 
-OuketiFloginiRomfaia.mode = miscellanea_en_US_holycross.misc.Mode7
-OuketiFloginiRomfaia.notmetered = "N/M (The fiery sword.)"
-OuketiFloginiRomfaia.name = "N/M (The fiery sword.)"
-OuketiFloginiRomfaia.incipit = "…"
-OuketiFloginiRomfaia.text = ""
+heAU.OuketiFloginiRomfaia.mode = miscellanea_en_US_holycross.misc.Mode7
+heAU.OuketiFloginiRomfaia.notmetered = "N/M (The fiery sword.)"
+heAU.OuketiFloginiRomfaia.name = "N/M (The fiery sword.)"
+heAU.OuketiFloginiRomfaia.incipit = "…"
+heAU.OuketiFloginiRomfaia.text = ""
 
-OukEtiKolyometha.mode = miscellanea_en_US_holycross.misc.Mode7
-OukEtiKolyometha.notmetered = "N/M (No longer are we barred.)"
-OukEtiKolyometha.name = "N/M (No longer are we barred.)"
-OukEtiKolyometha.incipit = "…"
-OukEtiKolyometha.text = ""
+heAU.OukEtiKolyometha.mode = miscellanea_en_US_holycross.misc.Mode7
+heAU.OukEtiKolyometha.notmetered = "N/M (No longer are we barred.)"
+heAU.OukEtiKolyometha.name = "N/M (No longer are we barred.)"
+heAU.OukEtiKolyometha.incipit = "…"
+heAU.OukEtiKolyometha.text = ""
 
-PyrosFoteinoteron.mode = miscellanea_en_US_holycross.misc.Mode7
-PyrosFoteinoteron.notmetered = "N/M (More dazzling than flame.)"
-PyrosFoteinoteron.name = "More dazzling than flame."
-PyrosFoteinoteron.incipit = "…"
-PyrosFoteinoteron.text = ""
+heAU.PyrosFoteinoteron.mode = miscellanea_en_US_holycross.misc.Mode7
+heAU.PyrosFoteinoteron.notmetered = "N/M (More dazzling than flame.)"
+heAU.PyrosFoteinoteron.name = "More dazzling than flame."
+heAU.PyrosFoteinoteron.incipit = "…"
+heAU.PyrosFoteinoteron.text = ""
 
-SimeronGrigoreiOIoudas.mode = miscellanea_en_US_holycross.misc.Mode7
-SimeronGrigoreiOIoudas.notmetered = "N/M (Judas today is vigilant.)"
-SimeronGrigoreiOIoudas.name = "N/M (Judas today is vigilant.)"
-SimeronGrigoreiOIoudas.incipit = "…"
-SimeronGrigoreiOIoudas.text = ""
+heAU.SimeronGrigoreiOIoudas.mode = miscellanea_en_US_holycross.misc.Mode7
+heAU.SimeronGrigoreiOIoudas.notmetered = "N/M (Judas today is vigilant.)"
+heAU.SimeronGrigoreiOIoudas.name = "N/M (Judas today is vigilant.)"
+heAU.SimeronGrigoreiOIoudas.incipit = "…"
+heAU.SimeronGrigoreiOIoudas.text = ""
 
-XylonZois.mode = miscellanea_en_US_holycross.misc.Mode7
-XylonZois.notmetered = "N/M (The tree of life.)"
-XylonZois.name = "N/M (The tree of life.)"
-XylonZois.incipit = "…"
-XylonZois.text = ""
+heAU.XylonZois.mode = miscellanea_en_US_holycross.misc.Mode7
+heAU.XylonZois.notmetered = "N/M (The tree of life.)"
+heAU.XylonZois.name = "N/M (The tree of life.)"
+heAU.XylonZois.incipit = "…"
+heAU.XylonZois.text = ""
