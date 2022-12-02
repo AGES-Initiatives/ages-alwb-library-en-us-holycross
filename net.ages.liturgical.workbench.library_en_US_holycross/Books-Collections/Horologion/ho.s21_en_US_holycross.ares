@@ -10,157 +10,157 @@ hoCA.media.text = "" //for complete music
 
 R01 = ""
 
-hoCA.Ode11.ode = misc_en_US_holycross.Ode1
-hoCA.Ode11.mode = misc_en_US_holycross.Mode2
+hoCA.Ode11.ode = miscellanea_en_US_holycross.misc.Ode1
+hoCA.Ode11.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode11.melody = he.h.m2_en_US_holycross.DefteLaoi.name
 hoCA.Ode11.incipit = "May your sacred body and…"
 hoCA.Ode11.text = "May your sacred body and your precious blood, compassionate Lord, become for me the bread of eternal life and the guardian from manifold afflictions."
 
-hoCA.Ode12.ode = misc_en_US_holycross.Ode1
-hoCA.Ode12.mode = misc_en_US_holycross.Mode2
+hoCA.Ode12.ode = miscellanea_en_US_holycross.misc.Ode1
+hoCA.Ode12.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode12.melody = he.h.m2_en_US_holycross.DefteLaoi.name
 hoCA.Ode12.incipit = "Defiled as I am by…"
 hoCA.Ode12.text = "Defiled as I am by disgusting deeds, O Christ, I am unworthy to receive your pure body and your divine blood. But make me worthy of this communion."
 
-hoCA.Ode1T.ode = misc_en_US_holycross.Ode1
-hoCA.Ode1T.mode = misc_en_US_holycross.Mode2
+hoCA.Ode1T.ode = miscellanea_en_US_holycross.misc.Ode1
+hoCA.Ode1T.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode1T.melody = he.h.m2_en_US_holycross.DefteLaoi.name
 hoCA.Ode1T.incipit = "Blessed Theotokos, the good earth…"
 hoCA.Ode1T.text = "Blessed Theotokos, the good earth that grew the unsown wheat that saved the world, make me worthy to eat of it and be saved."
 
-hoCA.Ode31.ode = misc_en_US_holycross.Ode3
-hoCA.Ode31.mode = misc_en_US_holycross.Mode2
+hoCA.Ode31.ode = miscellanea_en_US_holycross.misc.Ode3
+hoCA.Ode31.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode31.melody = he.h.m2_en_US_holycross.EnPetraMeTisPisteos.name
 hoCA.Ode31.incipit = "Grant me, O Christ, the…"
 hoCA.Ode31.text = "Grant me, O Christ, the tears to cleanse the uncleanliness of my heart, that I may in good conscience, faith, and fear approach, O Master, the communion of your divine gifts."
 
-hoCA.Ode32.ode = misc_en_US_holycross.Ode3
-hoCA.Ode32.mode = misc_en_US_holycross.Mode2
+hoCA.Ode32.ode = miscellanea_en_US_holycross.misc.Ode3
+hoCA.Ode32.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode32.melody = he.h.m2_en_US_holycross.EnPetraMeTisPisteos.name
 hoCA.Ode32.incipit = "May your pure body and…"
 hoCA.Ode32.text = "May your pure body and sacred blood become for me, loving God, forgiveness of sins, communion with the Holy Spirit, eternal life, and estrangement from passion and affliction."
 
-hoCA.Ode3T.ode = misc_en_US_holycross.Ode3
-hoCA.Ode3T.mode = misc_en_US_holycross.Mode2
+hoCA.Ode3T.ode = miscellanea_en_US_holycross.misc.Ode3
+hoCA.Ode3T.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode3T.melody = he.h.m2_en_US_holycross.EnPetraMeTisPisteos.name
 hoCA.Ode3T.incipit = "All holy one, you are…"
 hoCA.Ode3T.text = "All holy one, you are the table of the bread of life, who out of mercy came down from above giving new life to the world. Make me also worthy, who am now unworthy, to eat from it with fear and live."
 
-hoCA.Ode41.ode = misc_en_US_holycross.Ode4
-hoCA.Ode41.mode = misc_en_US_holycross.Mode2
+hoCA.Ode41.ode = miscellanea_en_US_holycross.misc.Ode4
+hoCA.Ode41.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode41.melody = he.h.m2_en_US_holycross.ElilythasEkParthenou.name
 hoCA.Ode41.incipit = "Most merciful One, you put…"
 hoCA.Ode41.text = "Most merciful One, you put on flesh for our sake and as a lamb you were willing to be slain for our sins. Therefore, I beseech you: also wipe out my sins."
 
-hoCA.Ode42.ode = misc_en_US_holycross.Ode4
-hoCA.Ode42.mode = misc_en_US_holycross.Mode2
+hoCA.Ode42.ode = miscellanea_en_US_holycross.misc.Ode4
+hoCA.Ode42.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode42.melody = he.h.m2_en_US_holycross.ElilythasEkParthenou.name
 hoCA.Ode42.incipit = "Heal the wounds of my…"
 hoCA.Ode42.text = "Heal the wounds of my soul, O Lord, wretched as I am; and Master, make me worthy, totally, to receive your mystical Supper."
 
-hoCA.Ode4T.ode = misc_en_US_holycross.Ode4
-hoCA.Ode4T.mode = misc_en_US_holycross.Mode2
+hoCA.Ode4T.ode = miscellanea_en_US_holycross.misc.Ode4
+hoCA.Ode4T.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode4T.melody = he.h.m2_en_US_holycross.ElilythasEkParthenou.name
 hoCA.Ode4T.incipit = "Lady, propitiate on my behalf…"
 hoCA.Ode4T.text = "Lady, propitiate on my behalf him who was born of you, and preserve me; your supplicant, pure and undefiled, so that by receiving the intelligible pearl I may be sanctified."
 
-hoCA.Ode51.ode = misc_en_US_holycross.Ode5
-hoCA.Ode51.mode = misc_en_US_holycross.Mode2
+hoCA.Ode51.ode = miscellanea_en_US_holycross.misc.Ode5
+hoCA.Ode51.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode51.melody = he.h.m2_en_US_holycross.OTouFotosChorigos.name
 hoCA.Ode51.incipit = "As you foretold, O Christ…"
 hoCA.Ode51.text = "As you foretold, O Christ, let it be to your unworthy servant as you promised, and abide in me. For behold, I eat your divine body and drink your blood."
 
-hoCA.Ode52.ode = misc_en_US_holycross.Ode5
-hoCA.Ode52.mode = misc_en_US_holycross.Mode2
+hoCA.Ode52.ode = miscellanea_en_US_holycross.misc.Ode5
+hoCA.Ode52.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode52.melody = he.h.m2_en_US_holycross.OTouFotosChorigos.name
 hoCA.Ode52.incipit = "God and Word of God…"
 hoCA.Ode52.text = "God and Word of God, may the ember of your body light up my darkness, and may your blood cleanse my defiled soul."
 
-hoCA.Ode5T.ode = misc_en_US_holycross.Ode5
-hoCA.Ode5T.mode = misc_en_US_holycross.Mode2
+hoCA.Ode5T.ode = miscellanea_en_US_holycross.misc.Ode5
+hoCA.Ode5T.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode5T.melody = he.h.m2_en_US_holycross.OTouFotosChorigos.name
 hoCA.Ode5T.incipit = "Mary, Mother of God, honorable…"
 hoCA.Ode5T.text = "Mary, Mother of God, honorable tabernacle of sweet ointments, make me through your prayers a chosen vessel that I may receive the sanctification of your son."
 
-hoCA.Ode61.ode = misc_en_US_holycross.Ode6
-hoCA.Ode61.mode = misc_en_US_holycross.Mode2
+hoCA.Ode61.ode = miscellanea_en_US_holycross.misc.Ode6
+hoCA.Ode61.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode61.melody = he.h.m2_en_US_holycross.EnAvyssoPtaismaton.name
 hoCA.Ode61.incipit = "Savior, sanctify my mind, soul…"
 hoCA.Ode61.text = "Savior, sanctify my mind, soul, heart, and body, and deem me worthy, Master, to approach your fearful Mysteries without condemnation."
 
-hoCA.Ode62.ode = misc_en_US_holycross.Ode6
-hoCA.Ode62.mode = misc_en_US_holycross.Mode2
+hoCA.Ode62.ode = miscellanea_en_US_holycross.misc.Ode6
+hoCA.Ode62.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode62.melody = he.h.m2_en_US_holycross.EnAvyssoPtaismaton.name
 hoCA.Ode62.incipit = "O Christ, grant, that I…"
 hoCA.Ode62.text = "O Christ, grant, that I may be rid of my passions, increase in your grace, and be confirmed in my life by the communion of your holy Mysteries."
 
-hoCA.Ode6T.ode = misc_en_US_holycross.Ode6
-hoCA.Ode6T.mode = misc_en_US_holycross.Mode2
+hoCA.Ode6T.ode = miscellanea_en_US_holycross.misc.Ode6
+hoCA.Ode6T.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode6T.melody = he.h.m2_en_US_holycross.EnAvyssoPtaismaton.name
 hoCA.Ode6T.incipit = "Holy, divine Word of God…"
 hoCA.Ode6T.text = "Holy, divine Word of God, sanctify me wholly as I now approach your holy Mysteries through the prayers of your holy Mother."
 
-hoCA.Kontakion.mode = misc_en_US_holycross.Mode2
+hoCA.Kontakion.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Kontakion.melody = he.a.m2_en_US_holycross.TaAnoZiton.name
 hoCA.Kontakion.incipit = "As I now receive your…"
 hoCA.Kontakion.text = "As I now receive your awesome Mysteries, your pure body and your precious blood, O Christ, do not turn away from me, wretched as I am. Let my communion not be a judgment upon me but lead to everlasting and immortal life."
 
-hoCA.Ode71.ode = misc_en_US_holycross.Ode7
-hoCA.Ode71.mode = misc_en_US_holycross.Mode2
+hoCA.Ode71.ode = miscellanea_en_US_holycross.misc.Ode7
+hoCA.Ode71.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode71.melody = he.h.m2_en_US_holycross.EikonosChrysis.name
 hoCA.Ode71.incipit = "May the communion of your…"
 hoCA.Ode71.text = "May the communion of your immortal Mysteries be for me light and life, freedom from passion, progress, and an increase in more spiritual virtues that I may glorify you, O Christ, for you alone are good."
 
-hoCA.Ode72.ode = misc_en_US_holycross.Ode7
-hoCA.Ode72.mode = misc_en_US_holycross.Mode2
+hoCA.Ode72.ode = miscellanea_en_US_holycross.misc.Ode7
+hoCA.Ode72.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode72.melody = he.h.m2_en_US_holycross.EikonosChrysis.name
 hoCA.Ode72.incipit = "Approaching now your immortal and…"
 hoCA.Ode72.text = "Approaching now your immortal and divine mysteries, trembling and longing for piety, grant, loving God, that I may be delivered from passions and enemies and every affliction. Grant that I may sing to you: Blessed are you, O God of our fathers."
 
-hoCA.Ode7T.ode = misc_en_US_holycross.Ode7
-hoCA.Ode7T.mode = misc_en_US_holycross.Mode2
+hoCA.Ode7T.ode = miscellanea_en_US_holycross.misc.Ode7
+hoCA.Ode7T.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode7T.melody = he.h.m2_en_US_holycross.EikonosChrysis.name
 hoCA.Ode7T.incipit = "I pray that you, the…"
 hoCA.Ode7T.text = "I pray that you, the pure one, who are favored by God and who incomprehensively gave birth to Christ the Savior, cleanse me, your impure servant, from all defilement of flesh and spirit as I desire now to approach the most pure Mysteries."
 
-hoCA.Ode81.ode = misc_en_US_holycross.Ode8
-hoCA.Ode81.mode = misc_en_US_holycross.Mode2
+hoCA.Ode81.ode = miscellanea_en_US_holycross.misc.Ode8
+hoCA.Ode81.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode81.melody = he.h.m2_en_US_holycross.TonEnKaminoTouPyros.name
 hoCA.Ode81.incipit = "O God my Savior, grant…"
 hoCA.Ode81.text = "O God my Savior, grant that I, your despairing servant, may now become a partaker of your heavenly, awesome and holy Mysteries, and of your divine and mystical Supper."
 
-hoCA.Ode82.ode = misc_en_US_holycross.Ode8
-hoCA.Ode82.mode = misc_en_US_holycross.Mode2
+hoCA.Ode82.ode = miscellanea_en_US_holycross.misc.Ode8
+hoCA.Ode82.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode82.melody = he.h.m2_en_US_holycross.TonEnKaminoTouPyros.name
 hoCA.Ode82.incipit = "Seeking refuge in your loving…"
 hoCA.Ode82.text = "Seeking refuge in your loving kindness, good Savior, I cry to you with fear; abide in me and, as you promised, let me also abide in you. For behold, trusting in your mercy, I eat your body and drink your blood."
 
-hoCA.Ode8T.ode = misc_en_US_holycross.Ode8
-hoCA.Ode8T.mode = misc_en_US_holycross.Mode2
+hoCA.Ode8T.ode = miscellanea_en_US_holycross.misc.Ode8
+hoCA.Ode8T.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode8T.melody = he.h.m2_en_US_holycross.TonEnKaminoTouPyros.name
 hoCA.Ode8T.incipit = "I tremble as I take…"
 hoCA.Ode8T.text = "I tremble as I take this fire lest I be consumed as wax and grass. O fearful mystery! O divine love! How is it that I, an earthly creature, partake of the divine body and blood and am made incorruptible?"
 
-hoCA.Ode91.ode = misc_en_US_holycross.Ode9
-hoCA.Ode91.mode = misc_en_US_holycross.Mode2
+hoCA.Ode91.ode = miscellanea_en_US_holycross.misc.Ode9
+hoCA.Ode91.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode91.melody = he.h.m2_en_US_holycross.AnarchouGennitoros.name
 hoCA.Ode91.incipit = "Taste and see that the…"
 hoCA.Ode91.text = "Taste and see that the Lord is good. For our sake he became like us and offered himself once for all to his Father to be forever slain, sanctifying those who partake."
 
-hoCA.Ode92.ode = misc_en_US_holycross.Ode9
-hoCA.Ode92.mode = misc_en_US_holycross.Mode2
+hoCA.Ode92.ode = miscellanea_en_US_holycross.misc.Ode9
+hoCA.Ode92.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode92.melody = he.h.m2_en_US_holycross.AnarchouGennitoros.name
 hoCA.Ode92.incipit = "Master, let me be sanctified…"
 hoCA.Ode92.text = "Master, let me be sanctified in body and soul. Let me be enlightened and saved, and let me become your dwelling place through the communion of your holy Mysteries by having you, most merciful Benefactor, live in me with the Father and the Spirit."
 
-hoCA.Ode93.ode = misc_en_US_holycross.Ode9
-hoCA.Ode93.mode = misc_en_US_holycross.Mode2
+hoCA.Ode93.ode = miscellanea_en_US_holycross.misc.Ode9
+hoCA.Ode93.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode93.melody = he.h.m2_en_US_holycross.AnarchouGennitoros.name
 hoCA.Ode93.incipit = "May your body and your…"
 hoCA.Ode93.text = "May your body and your precious blood, Savior, be like fire and light to me, consuming the substance of sins, burning the tares of my passions, and wholly enlightening me to worship your divinity."
 
-hoCA.Ode9T.ode = misc_en_US_holycross.Ode9
-hoCA.Ode9T.mode = misc_en_US_holycross.Mode2
+hoCA.Ode9T.ode = miscellanea_en_US_holycross.misc.Ode9
+hoCA.Ode9T.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode9T.melody = he.h.m2_en_US_holycross.AnarchouGennitoros.name
 hoCA.Ode9T.incipit = "God took flesh from your…"
 hoCA.Ode9T.text = "God took flesh from your pure blood. Therefore, all generations praise you, Lady, while the hosts of incorporal powers glorify you. For they clearly behold him who rules all things to be endowed with human nature through you."

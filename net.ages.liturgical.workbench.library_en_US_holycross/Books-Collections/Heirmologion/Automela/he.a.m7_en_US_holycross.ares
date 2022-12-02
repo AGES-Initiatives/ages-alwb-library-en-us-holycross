@@ -2,49 +2,49 @@ A_Resource_Whose_Name = he.a.m7_en_US_holycross
 
 he.title = ""
 
-KatafronisantesPanton.mode = misc_en_US_holycross.Mode7
+KatafronisantesPanton.mode = miscellanea_en_US_holycross.misc.Mode7
 KatafronisantesPanton.notmetered = "N/M (When you had wisely.)"
 KatafronisantesPanton.name = "N/M (When you had wisely.)"
 KatafronisantesPanton.incipit = "…"
 KatafronisantesPanton.text = ""
 
-ODiEmeAnaschomenos.mode = misc_en_US_holycross.Mode7
+ODiEmeAnaschomenos.mode = miscellanea_en_US_holycross.misc.Mode7
 ODiEmeAnaschomenos.notmetered = "N/M ()"
 ODiEmeAnaschomenos.name = ""
 ODiEmeAnaschomenos.incipit = "…"
 ODiEmeAnaschomenos.text = ""
 
-OsEchousaToSympathes.mode = misc_en_US_holycross.Mode7
+OsEchousaToSympathes.mode = miscellanea_en_US_holycross.misc.Mode7
 OsEchousaToSympathes.notmetered = "N/M ()"
 OsEchousaToSympathes.name = ""
 OsEchousaToSympathes.incipit = "…"
 OsEchousaToSympathes.text = ""
 
-OuketiFloginiRomfaia.mode = misc_en_US_holycross.Mode7
+OuketiFloginiRomfaia.mode = miscellanea_en_US_holycross.misc.Mode7
 OuketiFloginiRomfaia.notmetered = "N/M (The fiery sword.)"
 OuketiFloginiRomfaia.name = "N/M (The fiery sword.)"
 OuketiFloginiRomfaia.incipit = "…"
 OuketiFloginiRomfaia.text = ""
 
-OukEtiKolyometha.mode = misc_en_US_holycross.Mode7
+OukEtiKolyometha.mode = miscellanea_en_US_holycross.misc.Mode7
 OukEtiKolyometha.notmetered = "N/M (No longer are we barred.)"
 OukEtiKolyometha.name = "N/M (No longer are we barred.)"
 OukEtiKolyometha.incipit = "…"
 OukEtiKolyometha.text = ""
 
-PyrosFoteinoteron.mode = misc_en_US_holycross.Mode7
+PyrosFoteinoteron.mode = miscellanea_en_US_holycross.misc.Mode7
 PyrosFoteinoteron.notmetered = "N/M (More dazzling than flame.)"
 PyrosFoteinoteron.name = "More dazzling than flame."
 PyrosFoteinoteron.incipit = "…"
 PyrosFoteinoteron.text = ""
 
-SimeronGrigoreiOIoudas.mode = misc_en_US_holycross.Mode7
+SimeronGrigoreiOIoudas.mode = miscellanea_en_US_holycross.misc.Mode7
 SimeronGrigoreiOIoudas.notmetered = "N/M (Judas today is vigilant.)"
 SimeronGrigoreiOIoudas.name = "N/M (Judas today is vigilant.)"
 SimeronGrigoreiOIoudas.incipit = "…"
 SimeronGrigoreiOIoudas.text = ""
 
-XylonZois.mode = misc_en_US_holycross.Mode7
+XylonZois.mode = miscellanea_en_US_holycross.misc.Mode7
 XylonZois.notmetered = "N/M (The tree of life.)"
 XylonZois.name = "N/M (The tree of life.)"
 XylonZois.incipit = "…"

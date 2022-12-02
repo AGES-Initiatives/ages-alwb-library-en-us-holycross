@@ -6,7 +6,7 @@ euFUN.translator = ""
 
 euFUN.Key0100.title = "The Trisagion"
 
-euFUN.Key0101.mode = misc_en_US_holycross.Mode4
+euFUN.Key0101.mode = miscellanea_en_US_holycross.misc.Mode4
 euFUN.Key0101.incipit = "Among the spirits of the…"
 euFUN.Key0101.text = "Among the spirits of the righteous perfected in faith give rest, O Savior to the souls of Your servants. Bestow upon them the blessed life, which is from You, O loving Lord."
 euFUN.Key0102.incipit = "Within Your peace, O Lord…"
@@ -40,7 +40,7 @@ euFUN.Key0500.mode = ""
 euFUN.MM.Key0500.text = properties_en_US_holycross.media.key
 
 euFUN.Key0600.title = ""
-euFUN.Key0600.mode = misc_en_US_holycross.Mode5
+euFUN.Key0600.mode = miscellanea_en_US_holycross.misc.Mode5
 euFUN.Key0600.text = ho.s03_en_US_holycross.hoMA.FuneralEvlogVerse.text
 euFUN.Key0601.incipit = ho.s03_en_US_holycross.hoMA.FuneralEvlog1.incipit
 euFUN.Key0601.text = ho.s03_en_US_holycross.hoMA.FuneralEvlog1.text
@@ -57,7 +57,7 @@ euFUN.Key0606.text = ho.s03_en_US_holycross.hoMA.FuneralEvlog8.text
 euFUN.Key0607.text = ho.s03_en_US_holycross.hoMA.FuneralEvlog9.text
 
 euFUN.Key0700.title = ""
-euFUN.Key0700.mode = misc_en_US_holycross.Mode8
+euFUN.Key0700.mode = miscellanea_en_US_holycross.misc.Mode8
 euFUN.Key0700.incipit = "With the Saints give rest…"
 euFUN.Key0700.text = "With the Saints give rest, O Christ, to the souls of Your servants where there is no pain, nor sorrow, nor suffering, but life everlasting."
 
@@ -200,11 +200,11 @@ euFUN.Key2106.text = "On the way to the church the Holy God (3) is sung slowly."
 euFUN.Key2200.title = "In Church"
 euFUN.Key2201.text = "For older children"
 euFUN.Key2202.text = "At the farewell the following are sung:"
-euFUN.Key2203.mode = misc_en_US_holycross.Mode8
+euFUN.Key2203.mode = miscellanea_en_US_holycross.misc.Mode8
 euFUN.Key2203.melody = ""
 euFUN.Key2203.incipit = "Who would not lament for…"
 euFUN.Key2203.text = "Who would not lament for you, my child, as your end journey begins from this world to another home? For while still a little child, all too soon from your mother's arms, as might a birdling on speeding wing upborne, are you departed to Him that made all things. O child, who from lament could refrain when he beholds your lovely face, which was like a gladsome rose, now fading fast away?"
-euFUN.Key2204.mode = misc_en_US_holycross.Mode8
+euFUN.Key2204.mode = miscellanea_en_US_holycross.misc.Mode8
 euFUN.Key2204.melody = ""
 euFUN.Key2204.incipit = "Who would not with groaning…"
 euFUN.Key2204.text = "Who would not with groaning sighs, my child, and floods of clamorous tears mourn the wealth of your comeliness and the beauty shining forth from the innocence of your heart? For like a caravel which leaves no wake behind, so are you vanished, and from my eyes are sped. Come, my beloved friends, kinsfolk, neighbors, now draw nigh to join with me in the kiss of last farewell, and bear him (her) to his (her) grave."
