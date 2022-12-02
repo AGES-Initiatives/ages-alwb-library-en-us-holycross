@@ -173,7 +173,7 @@ peMA.Ode1C1H.incipit = he.h.m1_en_US_holycross.AsomenPantesLaoi.incipit
 peMA.Ode1C1H.text = he.h.m1_en_US_holycross.AsomenPantesLaoi.text
 
 peMA.C1.title = titles_en_US_holycross.ti.CanonFeast
-peMA.C1.verse = prayers_en_US_holycross.verse_Resurrection.text
+peMA.C1.verse = prayers_en_US_holycross.pr.verse_Resurrection.text
 
 peMA.Ode1C11.ode = misc_en_US_holycross.Ode1
 peMA.Ode1C11.mode = misc_en_US_holycross.Mode1

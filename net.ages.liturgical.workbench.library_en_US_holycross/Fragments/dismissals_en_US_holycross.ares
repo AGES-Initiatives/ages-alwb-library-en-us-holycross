@@ -45,5 +45,5 @@ dis92 = ""
 dis93 = ""
 dis94 = ""
 
-dis100 = prayers_en_US_holycross.DiEfchonPateron.text
-dis101 = prayers_en_US_holycross.DiEfchonDespotou.text
+dis100 = prayers_en_US_holycross.pr.ThroughThePrayers_fathers.text
+dis101 = prayers_en_US_holycross.pr.ThroughThePrayers_bishop.text

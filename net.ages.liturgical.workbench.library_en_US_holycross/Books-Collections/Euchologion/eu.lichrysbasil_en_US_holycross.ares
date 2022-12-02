@@ -8,15 +8,15 @@ euLI.basil.title = "The Divine Liturgy of Saint Basil the Great"
 
 // Part 01 Enarxis
 euLI.Key0101.text = ""
-euLI.Key0102.text = prayers_en_US_holycross.enarxis01
+euLI.Key0102.text = prayers_en_US_holycross.pr.enarxis01.text
 euLI.Key0103.text = ""
 euLI.Key0104.text = ""
 euLI.Key0105.text = ""
 euLI.Key0106.text = ""
 euLI.Key0107.text = ""
-euLI.Key0108.text = prayers_en_US_holycross.res08
-euLI.Key0109.text = prayers_en_US_holycross.enarxis02
-euLI.Key0110.text = prayers_en_US_holycross.res04
+euLI.Key0108.text = prayers_en_US_holycross.pr.res08.text
+euLI.Key0109.text = prayers_en_US_holycross.pr.enarxis02.text
+euLI.Key0110.text = prayers_en_US_holycross.pr.res04.text
 
 // Part 02 Great Litany - Antiphon 1
 euLI.Key0200.text = "The Great Litany" //.text and not .title for the sake of media
@@ -40,7 +40,7 @@ euLI.Key0503.text = "Blessed is the entrance of Your saints always, now and fore
 euLI.MM.Key0600.text = 
 euLI.Key0601.text = "Holy God, You dwell among Your saints. You are praised by the Seraphim with the thrice holy hymn and glorified by the Cherubim and worshiped by all the heavenly powers. You have brought all things out of nothing into being. You have created man and woman in Your image and likeness and adorned them with all the gifts of Your grace. You give wisdom and understanding to the supplicant and do not overlook the sinner but have established repentance as the way of salvation. You have enabled us, Your lowly and unworthy servants, to stand at this hour before the glory of Your holy altar and to offer to You due worship and praise. Master, accept the thrice holy hymn also from the lips of us sinners and visit us in Your goodness. Forgive our voluntary and involuntary transgressions, sanctify our souls and bodies, and grant that we may worship and serve You in holiness all the days of our lives, by the intercessions of the holy Theotokos and of all the saints who have pleased You throughout the ages."
 euLI.Key0602.text = "Dynamis."
-euLI.Key0603.text = prayers_en_US_holycross.KelefsonDespota
+euLI.Key0603.text = prayers_en_US_holycross.pr.Command_bishop.text
 euLI.Key0604.text = "Blessed is He who comes in the name of the Lord."
 euLI.Key0605.text = "Master, bless the throne on high."
 euLI.Key0606.text = "Blessed are You on the throne of glory of Your kingdom, seated upon the Cherubim always, now and forever and to the ages of ages. Amen."
@@ -54,7 +54,7 @@ euLI.Key0702.text = "May God, through the intercessions of the holy and glorious
 euLI.Key0703.text = "Amen, amen, amen. Be it unto me according to your word."
 euLI.Key0704.title = ""
 euLI.Key0704.text = "Shine within our hearts, loving Master, the pure light of Your divine knowledge and open the eyes of our minds that we may comprehend the message of Your Gospel. Instill in us also reverence for Your blessed commandments, so that having conquered all sinful desires, we may pursue a spiritual life, thinking and doing all those things that are pleasing to You. For You, Christ our God, are the light of our souls and bodies, and to You we give glory together with Your Father who is without beginning and Your all holy, good, and life giving Spirit, now and forever and to the ages of ages. Amen."
-euLI.Key0705.text = prayers_en_US_holycross.gos04
+euLI.Key0705.text = prayers_en_US_holycross.pr.gos04.text
 euLI.Key0706.title = "THE HOMILY"
 euLI.Key0706.rubric = "(Following the readings, it is customary for the priest to proclaim the Gospel.)"
 euLI.Key0707.rubric = ""
@@ -212,7 +212,7 @@ euLI.Key1405.basil.text = "Our God, the God who saves, You teach us justly to th
 euLI.Key1406.text = "And make us worthy, Master, with confidence and without fear of condemnation, to dare call You, the heavenly God, FATHER, and to say:"
 euLI.Key1407.text = "We give thanks to You, invisible King. By Your infinite power You created all things and by Your great mercy You brought everything from nothing into being. Master, look down from heaven upon those who have bowed their heads before You; they have bowed not before flesh and blood but before You the awesome God. Therefore, Master, guide the course of our life for our benefit according to the need of each of us. Sail with those who sail; travel with those who travel; and heal the sick, Physician of our souls and bodies."
 euLI.Key1407.basil.text = "Lord Master, the Father of mercies and God of every consolation, bless sanctify, guard, fortify, and strengthen those who have bowed their heads to You. Distance them from every evil deed. Lead them to every good work and make them worthy to partake without condemnation of these, Your most pure and life-giving Mysteries, for the forgiveness of sins and for the communion of the Holy Spirit."
-euLI.Key1408.text = prayers_en_US_holycross.exc07a
+euLI.Key1408.text = prayers_en_US_holycross.pr.exc07a.text
 euLI.Key1409.title = ""
 euLI.Key1409.text = "Lord Jesus Christ, our God, hear us from Your holy dwelling place and from the glorious throne of Your kingdom. You are enthroned on high with the Father and are also invisibly present among us. Come and sanctify us, and let Your pure Body and precious Blood be given to us by Your mighty hand and through us to all Your people."
 euLI.Key1410.text = "The holy Gifts for the holy people of God."
@@ -268,7 +268,7 @@ euLI.Key1605.text = "Having prayed for a perfect, holy, peaceful, and sinless da
 euLI.Key1606.title = "PRAYER OF THANKSGIVING"
 euLI.Key1606.text = "We thank You, loving Master, benefactor of our souls, that on this day You have made us worthy once again of Your heavenly and immortal Mysteries. Direct our ways in the right path, establish us firmly in Your fear, guard our lives, and make our endeavors safe, through the prayers and supplications of the glorious Theotokos and ever virgin Mary and of all Your saints."
 euLI.Key1606.basil.text = "We thank You, Lord, our God, for the communion of Your holy, most pure, immortal, and heavenly Mysteries which You have granted us for the benefit, sanctification, and healing of our souls and bodies. Grant, Master of all, that the communion of the holy Body and Blood of Your Christ may become for us faith unashamed, love unfeigned, fulness of wisdom, healing of soul and body, repelling of every hostile adversary, observance of Your commandments, and an acceptable defense at the dread judgment seat of Your Christ."
-euLI.Key1607.text = prayers_en_US_holycross.exc24
+euLI.Key1607.text = prayers_en_US_holycross.pr.exc24.text
 
 // Part 17 Dismissal
 euLI.Key1700.title = "THE DISMISSAL"
@@ -280,7 +280,7 @@ euLI.Key1703.text = "Blessed is the name of the Lord, both now and to the ages."
 euLI.Key1703_pascha.text = ""
 euLI.Key1704.text = "Christ our God, You are the fulfillment of the Law and the Prophets. You have fulfilled all the dispensation of the Father. Fill our hearts with joy and gladness always, now and forever and to the ages of ages. Amen."
 euLI.Key1704.basil.text = "The mystery of Your dispensation, O Christ our God, has been accomplished and perfected as far as it is in our power. We have had the memorial of Your death. We have seen the typos of Your resurrection. We have been filled with Your unending life. We have enjoyed Your inexhaustible delight which in the world to come be well pleased to give to us all, through the grace of Your holy and good and life-giving Spirit, now and forever and to the ages of ages."
-euLI.Key1705.text = prayers_en_US_holycross.pet37
+euLI.Key1705.text = prayers_en_US_holycross.pr.pet37.text
 euLI.Key1706.text = "Lord, grant long life to him who blessed and sanctifies us."
 euLI.Key1707.text = "May the holy Trinity protect all of you."
 euLI.Key1708.text = "May the blessing and the mercy of the Lord be with you."

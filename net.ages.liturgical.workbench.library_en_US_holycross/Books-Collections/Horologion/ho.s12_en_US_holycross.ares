@@ -37,7 +37,7 @@ hoCO.Key0508.text = ""
 hoCO.Key0509.text = ""
 hoCO.Key0510.text = ""
 hoCO.Key0511.title = "The Creed"
-hoCO.Key0511.text = prayers_en_US_holycross.Pistevo.text
+hoCO.Key0511.text = prayers_en_US_holycross.pr.Creed.text
 
 hoCO.Key0601.mode = misc_en_US_holycross.Mode6
 hoCO.Key0601.text = ""
@@ -108,7 +108,7 @@ hoCO.Key1013.mode = misc_en_US_holycross.Mode2
 hoCO.Key1013.text = "All Holy Theotokos, in the time of my life, never do forsake me, to any human protection; never trust me blindly, but personally take charge, and have mercy on me."
 hoCO.Key1014.text = "My one and my every hope, now I entrust in you, O Mother of God, under your shelter, cover me." //ho.s23_en_US_holycross.hoCA.Troparion7.text
 
-hoCO.Key1015.text = prayers_en_US_holycross.OEnPantiKairo.text
+hoCO.Key1015.text = prayers_en_US_holycross.pr.PrayerOfHours.text
 
 hoCO.Key1016.title = "Prayer of St. Ephraim the Syrian"
 hoCO.Key1016.text = "O Lord and Master of my life, do not permit the spirit of laziness and meddling, the lust for power and idle talk to come into me."

@@ -70,7 +70,7 @@ trVE.Apolytikion1.text = ""
 
 trCO.C1.poet = poets_en_US_holycross.AndreouKritis
 trCO.C1.title = "Canon for Lazarus"
-trCO.C1.verse = prayers_en_US_holycross.verse_God.text
+trCO.C1.verse = prayers_en_US_holycross.pr.verse_God.text
 
 trCO.Ode1C1H.ode = misc_en_US_holycross.Ode1
 trCO.Ode1C1H.mode = misc_en_US_holycross.Mode1

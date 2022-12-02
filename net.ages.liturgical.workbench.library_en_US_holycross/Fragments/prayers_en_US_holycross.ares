@@ -1,1140 +1,631 @@
-A_Resource_Whose_Name = prayers_en_US_holycross
-
-Doxa.incipit = "Glory…"
-Doxa = "Glory."
-
-DoxaKaiNyn.incipit = "Glory. Both now…"
-DoxaKaiNyn = "Glory. Both now."
-
-KaiNyn.incipit = "Both now…"
-KaiNyn = "Both now."
-
-Allilouia1.incipit = "Alleluia…"
-Allilouia1 = "Alleluia."
-
-Allilouia3.incipit = "Alleluia. Alleluia. Alleluia…"
-Allilouia3.text = "Alleluia. Alleluia. Alleluia."
-
-Allilouia3Doxa.incipit = "Alleluia. Alleluia. Alleluia. Glory to…"
-Allilouia3Doxa.text = "Alleluia. Alleluia. Alleluia. Glory to You, O God."
-
-Axios.incipit = "…"
-Axios = ""
-
-DefteProskinisomen1.incipit = "Come, let us worship…"
-DefteProskinisomen1 = "Come, let us worship and bow down before God our King."
-
-DefteProskinisomen2.incipit = "Come, let us worship…"
-DefteProskinisomen2 = "Come, let us worship and bow down before Christ God our King."
-
-DefteProskinisomen3.incipit = "Come, let us worship…"
-DefteProskinisomen3 = "Come, let us worship and bow down before Him, Christ our King and God."
-
-DiEfchonDespotou.incipit = "Through the prayers of our…"
-DiEfchonDespotou.text = "Through the prayers of our holy master, Lord Jesus Christ, our God, have mercy on us and save us."
-
-DiEfchonPateron.incipit = "Through the prayers of our…"
-DiEfchonPateron.text = "Through the prayers of our holy fathers, Lord Jesus Christ, our God, have mercy on us and save us."
-
-DoxaPatri.incipit = "Glory to the Father and…"
-DoxaPatri.text = "Glory to the Father and the Son and the Holy Spirit."
-
-DoxaSoiChriste1.incipit = "Glory to You, O Christ…"
-DoxaSoiChriste1 = "Glory to You, O Christ our God. Glory to You."
-
-DoxaSoiChriste2.incipit = "Glory to You, O Christ…"
-DoxaSoiChriste2 = "Glory to You, O Christ God, our hope. Glory to You."
-
-DoxaSoiKyrie.incipit = "Glory to You, O Lord…"
-DoxaSoiKyrie = "Glory to You, O Lord. Glory to You."
-
-DoxaSoiOTheos1.incipit = "Glory to You, O God…"
-DoxaSoiOTheos1 = "Glory to You, O God."
-
-DoxaSoiOTheosIElpis.incipit = ""
-DoxaSoiOTheosIElpis.text = ""
-
-DoxaSoiOTheosImon.incipit = "Glory to You, our God…"
-DoxaSoiOTheosImon.text = "Glory to You, our God. Glory to You."
-
-DoxaTiMakrothymia.incipit = "Glory to Your forbearance, O…"
-DoxaTiMakrothymia.text = "Glory to Your forbearance, O Lord, glory to You."
-
-DoxaToPatri.incipit = "Glory to the Father and…"
-DoxaToPatri.text = "Glory to the Father and to the Son and to the Holy Spirit"
-
-EisToOnoma.incipit = "In the name of the…"
-EisToOnoma = "In the name of the Father and the Son and the Holy Spirit."
-
-EvlogitosOTheosImon.incipit = "Blessed is our God…"
-EvlogitosOTheosImon.text = "Blessed is our God."
-
-EvlogoumenPatera.incipit = "We bless Father, Son, and…"
-EvlogoumenPatera.text = "We bless Father, Son, and Holy Spirit."
-
-IElpisImonKyrie.incipit = "Our hope, O Lord, glory…"
-IElpisImonKyrie = "Our hope, O Lord, glory to You."
-
-KaiNynKaiAei.incipit = "Both now and ever and…"
-KaiNynKaiAei.text = "Both now and ever and to the ages of ages. Amen."
-
-Kelefson.incipit = "Command!…"
-Kelefson = "Command!"
-
-KelefsonDespota.incipit = "With your blessing, Master…"
-KelefsonDespota = "With your blessing, Master."
-
-KelefsonDespotaAgie.incipit = "With your blessing, holy Master…"
-KelefsonDespotaAgie = "With your blessing, holy Master."
-
-OTheosOiktirisai.incipit = "May God have compassion on…"
-OTheosOiktirisai.text = "May God have compassion on us and bless us; may his face shine upon us and have mercy on us."
-
-PantoteNyn.incipit = "Always, now and forever and…"
-PantoteNyn.text = "Always, now and forever and to the ages of ages."
-
-Evlogison.incipit = "Father, bless!…"
-Evlogison = "Father, bless!"
-
-EnOnomatiKyriou.incipit = "In the name of the…"
-EnOnomatiKyriou.text = "In the name of the Lord, Father, bless!"
-
-EvlogisonThymiama.incipit = "Master, bless the incense…"
-EvlogisonThymiama.text = "Master, bless the incense."
-
-EleisonMeOTheos.incipit = "Have mercy on me, O…"
-EleisonMeOTheos.text = "Have mercy on me, O God. Have mercy on me."
-
-AxionEstinPart1.incipit = "It is truly right to…"
-AxionEstinPart1.text = "It is truly right to call you blessed, O Theotokos, the ever-blessed and all-blameless one, and the Mother of our God."
-
-AxionEstinComplete.incipit = "It is truly right to…"
-AxionEstinComplete.text = "It is truly right to call you blessed, O Theotokos, the ever-blessed and all-blameless one, and the Mother of our God. More honorable than the Cherubim, and beyond compare more glorious than the Seraphim, without corruption you gave birth to God the Word. We magnify you, the true Theotokos."
-
-AgiosOTheos.incipit = "Holy God, Holy Mighty, Holy…"
-AgiosOTheos.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
-
-EpouranieVasilef.incipit = "O heavenly King, uphold our…"
-EpouranieVasilef.text = "O heavenly King, uphold our rulers, strengthen the Faith, calm the nations, give peace to the world. Protect this holy Church (or, Monastery); grant our departed fathers and brethren that they may dwell with the righteous, and accept us in repentance and confession; for You are good and love mankind."
-
-KyrieKaiDespota1.incipit = "O Lord and Master of…"
-KyrieKaiDespota1.text = "O Lord and Master of my life, do not permit the spirit of laziness and meddling, the lust for power and idle talk to come into me."
-
-KyrieKaiDespota2.incipit = "Instead, grant me, Your servant…"
-KyrieKaiDespota2.text = "Instead, grant me, Your servant, the spirit of prudence, humility, patience and love."
-
-KyrieKaiDespota3.incipit = "Yes, Lord and King, give…"
-KyrieKaiDespota3.text = "Yes, Lord and King, give me the power to see my own faults and not to judge my brother."
-
-KyrieKaiDespota4.incipit = "For You are blessed unto…"
-KyrieKaiDespota4.text = "For You are blessed unto the ages of ages. Amen."
-
-OEnPantiKairo.incipit = "O Christ our God, who…"
-OEnPantiKairo.text = "O Christ our God, who at all times and at every hour, both in heaven and on earth, are worshipped and glorified, long suffering and plenteous in mercy and compassion; who love the just and show mercy to the sinners; who call all men to salvation through the promise of the blessings to come: Do You, the same Lord, receive also our supplications at this present time, and direct our lives according to Your commandments. Sanctify our souls; purify our bodies; set our minds right; clear up our thoughts, and deliver us from every sorrow, evil and distress. Surround us with Your holy Angels so that being guarded and guided by their presence, we may arrive at the unity of the faith and the knowledge of Your ineffable glory; for blessed are You unto the ages of ages. Amen."
-
-OOnEvlogitos.incipit = "Blessed are You, Christ our…"
-OOnEvlogitos.text = "Blessed are You, Christ our God, always now and forever and to the ages of ages."
-
-PanagiaTrias.incipit = "All-holy Trinity, have mercy on…"
-PanagiaTrias.text = "All-holy Trinity, have mercy on us. Lord, forgive our sins. Master, pardon our transgressions. Holy One, visit and heal our infirmities for Your name's sake."
-
-PaschaDialog1.incipit = "Let us forgive everything for…"
-PaschaDialog1.text = "Let us forgive everything for the Resurrection, And thus let us cry aloud:"
-PaschaDialog2.incipit = "Christ is risen!…"
-PaschaDialog2.text = "Christ is risen!"
-PaschaDialog3.incipit = "Truly He is risen!…"
-PaschaDialog3.text = "Truly He is risen!"
-PaschaDialog4.incipit = "Glory to His holy Resurrection…"
-PaschaDialog4.text = "Glory to His holy Resurrection on the third day!"
-PaschaDialog5.incipit = "We worship His Resurrection on…"
-PaschaDialog5.text = "We worship His Resurrection on the third day!"
-PaschaDialog6.incipit = "Truly the Lord is risen!…"
-PaschaDialog6.text = "Truly the Lord is risen!"
-
-PaterImon.incipit = "Our Father, who art in…"
-PaterImon.text = "Our Father, who art in heaven, hallowed be Thy name. Thy kingdom come, Thy will be done, on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil."
-
-Pistevo.incipit = "I believe in one God…"
-Pistevo.text = "I believe in one God, Father Almighty, Creator of heaven and earth and of all things visible and invisible. And in one Lord Jesus Christ, the only-begotten Son of God, begotten of the Father before all ages. Light of Light, true God of true God, begotten not created, of one essence with the Father through Whom all things were made. Who for us men and for our salvation came down from heaven and was incarnate of the Holy Spirit and the Virgin Mary and became man. He was crucified for us under Pontius Pilate. He suffered and was buried. And He rose on the third day, according to the Scriptures. He ascended into heaven and is seated at the right hand of the Father. And He will come again with glory to judge the living and dead. His kingdom shall have no end. And in the Holy Spirit, the Lord, the Creator of life, Who proceeds from the Father, Who together with the Father and the Son is worshipped and glorified, Who spoke through the prophets. In one, holy, catholic, and apostolic Church. I confess one baptism for the forgiveness of sins. I look for the resurrection of the dead and the life of the age to come."
-
-StereosaiKyrios.incipit = "Make firm, Lord our God…"
-StereosaiKyrios.text = "Make firm, Lord our God, the holy and pure faith of the pious Orthodox Christians, together with the Holy Church and this city forever."
-
-SoulSaturday.incipit = "O God of spirits and…"
-SoulSaturday.text = "O God of spirits and of all flesh, You have trampled down death and have abolished the power of the devil, giving life to Your world. Give rest to the souls of Your departed servants, emperors, patriarchs, bishops, priests, deacons, hieromonks, deacon-monks, monks, and nuns, all pious Orthodox Christians who have fallen asleep in the hope of the resurrection unto life everlasting, from all the ends of the world, fathers, forebears, grandparents, great-grandparents, parents, spouses, children, siblings, and all our relatives. Give them rest in a place of light, in a place of repose, in a place of refreshment, where there is no pain, sorrow, and suffering. As a good and loving God, forgive every sin they have committed in thought, word or deed, for there is no one who lives and is sinless. You alone are without sin. Your righteousness is an everlasting righteousness, and Your word is truth."
-
-TheotokeParthene.incipit = "…"
-TheotokeParthene.text = ""
-
-Thymiama.incipit = "We offer You incense, Christ…"
-Thymiama.text = "We offer You incense, Christ our God, as a spiritual sweet fragrance. We pray You accept it at Your altar which is above the heavens, and in return send down to us the grace of Your all-holy Spirit. Amen."
-
-TinTimioteranPrayer.incipit = "…"
-TinTimioteranPrayer.text = "" //he.h.m6_en_US_holycross.TinTimioteranPrayer.text
-
-VasilefOuranie.incipit = "Heavenly King…"
-VasilefOuranie.text = "Heavenly King, Comforter, Spirit of Truth, present in all places and filling all things, treasury of good things and giver of life: come; take Your abode in us; cleanse us of every stain, and save our souls, O Good one."
-
-trDiaTisTheotokou.incipit = "Through the Theotokos have mercy…"
-trDiaTisTheotokou = "Through the Theotokos have mercy on us."
-
-fePresveiaisTisTheotokou.incipit = "by the intercessions of the…"
-fePresveiaisTisTheotokou = "by the intercessions of the Theotokos, and save me."
-
-fbPresveiaisKyrieTisTheotokou.incipit = "By the intercessions of the…"
-fbPresveiaisKyrieTisTheotokou = "By the intercessions of the Theotokos, O Lord,"
-
-trPresveiaisTonAgion.incipit = "By the intercessions of the…"
-trPresveiaisTonAgion = "By the intercessions of the Saints save us."
-
-fePresveiaisTonAgionKaiSosonMe.incipit = "by the intercessions of the…"
-fePresveiaisTonAgionKaiSosonMe = "by the intercessions of the Saints, and save me."
-
-fbPresveiaisKyrieTonAgion.incipit = "By the intercessions of the…"
-fbPresveiaisKyrieTonAgion = "By the intercessions of the Saints, O Lord,"
-
-enarxis01.incipit = "Blessed is our God…"
-enarxis01 = "Blessed is our God always, now and ever, and to the ages of ages."
-
-enarxis02.incipit = "Blessed is the kingdom…"
-enarxis02 = "Blessed is the kingdom of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-enarxis03.incipit = "Glory to the holy and consubstantial…"
-enarxis03 = "Glory to the holy and consubstantial, and life giving, and undivided Trinity, always, now and forever and to the ages of ages."
-
-pet00.incipit = "Let us pray to the…"
-pet00 = "Let us pray to the Lord."
-
-pet01.incipit = "In peace, let us pray…"
-pet01 = "In peace, let us pray to the Lord." // Great Litany
-
-pet02.incipit = "For the peace from above…"
-pet02 = "For the peace from above and the salvation of our souls, let us pray to the Lord."
-
-pet03.incipit = "For peace in the whole…"
-pet03 = "For peace in the whole world, for the stability of the holy churches of God, and for the unity of all, let us pray to the Lord."
-
-pet04.incipit = "For this holy house and…"
-pet04 = "For this holy house and for those who enter it with faith, reverence, and the fear of God, let us pray to the Lord."
-
-pet04alt1.title.incipit = "In a house…"
-pet04alt1.title = "In a house."
-pet04alt1.incipit = "For this house and those…"
-pet04alt1 = "For this house and those who dwell in it, let us pray to the Lord."
-
-pet04alt2.title.incipit = "On a ship…"
-pet04alt2.title = "On a ship."
-pet04alt2.incipit = "For this ship and all…"
-pet04alt2 = "For this ship and all those aboard it, let us pray to the Lord."
-
-pet05.incipit = "For pious and Orthodox Christians…"
-pet05 = "For pious and Orthodox Christians, let us pray to the Lord."
-
-pet06.incipit = "For our Archbishop (Name), the…"
-pet06 = "For our Archbishop (Name), the honorable presbyters, the deacons in the service of Christ, and all the clergy and laity, let us pray to the Lord."
-
-pet06a.incipit = "For…"
-pet06a = "For" // supplement with client specific rank and name
-
-pet06b.incipit = "the honorable presbyters, the deacons…"
-pet06b = "the honorable presbyters, the deacons in the service of Christ, and all the clergy and laity, let us pray to the Lord."
-
-pet07L.incipit = "For our country, the president…"
-pet07L = "For our country, the president, and all those in public service, let us pray to the Lord."
-
-pet07S.incipit = "For our country, the president…"
-pet07S = "For our country, the president, and all those in public service, let us pray to the Lord."
-
-pet07Sa.incipit = "Again let us pray for…"
-pet07Sa = "Again let us pray for our country, the president, and all those in public service."
-
-pet08.incipit = "For this parish and city…"
-pet08 = "For this parish and city, for every city and town, and for the faithful who live in them, let us pray to the Lord."
-
-pet09.incipit = "For favorable weather, an abundance…"
-pet09 = "For favorable weather, an abundance of the fruits of the earth, and temperate seasons, let us pray to the Lord."
-
-pet10.incipit = "For travelers by land, sea…"
-pet10 = "For travelers by land, sea and air, for the sick, the suffering, for captives, and for their salvation, let us pray to the Lord."
-
-pet11.incipit = "For our deliverance from all…"
-pet11 = "For our deliverance from all affliction, wrath, danger, and distress, let us pray to the Lord."
-
-pet12.incipit = "Help us, save us, have…"
-pet12 = "Help us, save us, have mercy upon us and protect us, O God, by Your grace."
-
-pet13.incipit = "Remembering our most holy, pure…"
-pet13 = "Remembering our most holy, pure, blessed, and glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commit ourselves and one another and our whole life to Christ our God."
-
-pet14.incipit = "Again and again in peace…"
-pet14 = "Again and again in peace let us pray to the Lord." // Short Litany
-
-pet15.incipit = "Let us all say with…"
-pet15 = "Let us all say with our whole soul, and with our whole mind, let us say." // Ektenia
-
-pet16.incipit = "Lord Almighty, God of our…"
-pet16 = "Lord Almighty, God of our fathers, we pray You, hear us and have mercy."
-
-pet17.incipit = "Have mercy on us, O…"
-pet17 = "Have mercy on us, O God, according to Your great mercy; we pray You, hear us and have mercy."
-
-pet18.incipit = "Let us pray for pious…"
-pet18 = "Let us pray for pious and Orthodox Christians."
-
-pet19S.incipit = "Let us pray for our…"
-pet19S = "Let us pray for our Archbishop (name)."
-pet19Sa.incipit = "Let us pray for…"
-pet19Sa = "Let us pray for"
-
-pet19a.incipit = "Let us pray for…"
-pet19a = "Let us pray for"
-pet19b.incipit = "and all our brotherhood in…"
-pet19b = "and all our brotherhood in Christ."
-
-pet19m.incipit = "Let us pray for…" //for monastery
-pet19m = "Let us pray for"
-
-pet20.incipit = "Let us pray for our…"
-pet20 = "Let us pray for our brethren, priests, hieromonks, deacons, and monastics, and all our brotherhood in Christ."
-
-pet21.incipit = "Again we pray for mercy…"
-pet21 = "Again we pray for mercy, life, peace, health, salvation, visitation, forgiveness and remission of the sins of all pious and Orthodox Christians living and visiting in this city, the parishioners, the members of the Parish Council and every Ministry of this Parish, and the donors and benefactors of this holy church."
-
-pet21a.incipit = "Again we pray for mercy…"
-pet21a = "Again we pray for mercy, life, peace, health, salvation, visitation, forgiveness and remission of the sins of all pious and Orthodox Christians living and visiting in this city, the parishioners, the members of the Parish Council and every Ministry of this Parish, and the donors and benefactors of this holy church, and the servants of God [names] who celebrate this holy feast."
-
-pet21b.incipit = "Again let us pray for…"
-pet21b = "Again let us pray for mercy, life, peace, health, and salvation for the servants of God, the newly illumined (Name), the Godparents, and all those who have come here together for this holy Sacrament." // for baptism
-
-pet21c.incipit = "Again let us pray for…"
-pet21c = "Again let us pray for the servants of God, (Name) and (Name), that they may have mercy, life, health, peace, safety, salvation, pardon and remission of their sins." // for wedding
-
-pet21d.incipit = "Again we pray for mercy…"
-pet21d = "Again we pray for mercy, life, peace, health, salvation, protection, and forgiveness of the sins of the servants of God, those present for this holy sacrament, and for the remission of all their sins, both voluntary and involuntary." // for unction
-
-pet21p.incipit = "Again we pray for the…"
-pet21p = "Again we pray for the servants of God… (At this time the Priest commemorates those for whom the Paraklesis is sung.)"
-
-pet22.incipit = "Let us again pray for…"
-pet22 = "Let us again pray for the blessed and ever-memorable founders of this holy church, and for all our fathers, mothers, brothers, and sisters who are asleep here in the Lord and for the Orthodox everywhere."
-
-pet23.incipit = "Let us again pray for…"
-pet23 = "Let us again pray for those who do charitable work, for those who serve in this holy house, for those who labor, teach, and sing, and for all the people here present who await Your great and rich mercy."
-
-pet24.incipit = "Let us complete our prayer…"
-pet24 = "Let us complete our prayer to the Lord." // Complementary
-
-pet24v.incipit = "Let us complete our evening…"
-pet24v = "Let us complete our evening prayer to the Lord."
-
-pet24m.incipit = "Let us complete our morning…"
-pet24m = "Let us complete our morning prayer to the Lord."
-
-pet25v.incipit = "For a perfect, holy, peaceful…"
-pet25v = "For a perfect, holy, peaceful, and sinless evening, let us ask the Lord."
-
-pet25m.incipit = "For a perfect, holy, peaceful…"
-pet25m = "For a perfect, holy, peaceful, and sinless day, let us ask the Lord."
-
-pet26.incipit = "For an angel of peace…"
-pet26 = "For an angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask the Lord."
-
-pet27.incipit = "For forgiveness and remission of…"
-pet27 = "For forgiveness and remission of our sins and transgressions, let us ask the Lord."
-
-pet28.incipit = "For all that is good…"
-pet28 = "For all that is good and beneficial to our souls, and for peace in the world, let us ask the Lord."
-
-pet29.incipit = "For the completion of our…"
-pet29 = "For the completion of our life in peace and repentance, let us ask the Lord."
-
-pet30.incipit = "For a Christian end to…"
-pet30 = "For a Christian end to our life, peaceful, without shame and suffering, and for a good account before the awesome judgment seat of Christ, let us ask."
-
-pet31.incipit = "Peace be with all…"
-pet31 = "Peace be with all."
-
-pet32.incipit = "Let us bow our heads…"
-pet32 = "Let us bow our heads to the Lord."
-
-pet33.incipit = "Again we pray for the…"
-pet33 = "Again we pray for the protection of this holy church, this city and every city and land, from wrath, famine, pestilence, earthquake, flood, fire, sword, foreign invasions, civil strife, and accidental death. That our good and loving God may be merciful, gracious and favorable to us by turning and keeping from us all wrath and sickness, and deliver us from His just rebuke, and have mercy on us." // Lity
-
-pet34.incipit = "Again we pray that the…"
-pet34 = "Again we pray that the Lord our God may hear the prayer of us sinners, and have mercy on us."
-
-pet35.incipit = "Hear us, O God our…"
-pet35 = "Hear us, O God our Savior, the hope of all those who live everywhere on earth and those far out at sea or in the air. Be gracious toward our sins, Master, and have mercy on us."
-
-pet36.incipit = "Accept our prayer; grant us…"
-pet36 = "Accept our prayer; grant us forgiveness of our transgressions; protect us under the shelter of Your wings; drive away from us every enemy and adversary; grant peace to our life; Lord have mercy on us and on Your world; and save our souls as a good and loving God."
-
-pet37.incipit = "May the blessing and mercy…"
-pet37 = "May the blessing and mercy of the Lord come upon You, by His divine grace and love for mankind, always, now and ever, and to the ages of ages." // Dismissal
-
-pet37a.incipit = "…"
-pet37a = ""
-
-pet37b.incipit = "…"
-pet37b = ""
-
-petBap01.incipit = "That he (she) that is…"
-petBap01 = "That he (she) that is about to be baptized herein may become worthy of the incorruptible Kingdom; let us pray to the Lord."
-
-petBap02.incipit = "That he (she) that now…"
-petBap02 = "That he (she) that now comes to holy Illumination, and for his (her) salvation; let us pray to the Lord."
-
-petBap03.incipit = "That he (she) may prove…"
-petBap03 = "That he (she) may prove to be a child of Light, and an inheritor of eternal blessings; let us pray to the Lord."
-
-petBap04.incipit = "That he (she) may grow…"
-petBap04 = "That he (she) may grow in, and become a partaker of the Death and Resurrection of Christ our God; let us pray to the Lord."
-
-petBap05.incipit = "That he (she) may preserve…"
-petBap05 = "That he (she) may preserve the garment of Baptism, and the earnest of the Spirit undefiled and blameless in the terrible Day of Christ our God; let us pray to the Lord."
-
-petBap06.incipit = "That this water may be…"
-petBap06 = "That this water may be for him (her) a laver of Regeneration unto the remission of sins, and a garment of incorruption; let us pray to the Lord."
-
-petBap07.incipit = "That He may deliver him…"
-petBap07 = "That He may deliver him (her) and us from tribulation, wrath, danger, and necessity; let us pray to the Lord."
-
-petCatechumens01.incipit = "Catechumens, pray to the Lord…"
-petCatechumens01 = "Catechumens, pray to the Lord."
-
-petCatechumens02.incipit = "Let us, the faithful, pray…"
-petCatechumens02 = "Let us, the faithful, pray for the catechumens."
-
-petCatechumens03.incipit = "That the Lord have mercy…"
-petCatechumens03 = "That the Lord have mercy on them."
-
-petCatechumens04.incipit = "That He may teach them…"
-petCatechumens04 = "That He may teach them the word of truth."
-
-petCatechumens05.incipit = "That He may reveal to…"
-petCatechumens05 = "That He may reveal to them the Gospel of righteousness."
-
-petCatechumens06.incipit = "That He may unite them…"
-petCatechumens06 = "That He may unite them to His holy, catholic, and apostolic Church."
-
-petCatechumens07.incipit = "Save, have mercy, help and…"
-petCatechumens07 = "Save, have mercy, help and protect them, O God, by Your grace."
-
-petCatechumens08.incipit = "Catechumens, bow Your heads to…"
-petCatechumens08 = "Catechumens, bow Your heads to the Lord."
-
-petCatechumens09.incipit = "So that they, together with…"
-petCatechumens09 = "So that they, together with us, may glorify Your honorable and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-petCatechumens10.incipit = "All catechumens depart. Catechumens depart…"
-petCatechumens10 = "All catechumens depart. Catechumens depart."
-
-petCatechumens11.incipit = "All catechumens depart. Let no…"
-petCatechumens11 = "All catechumens depart. Let no catechumen remain."
-
-petCatechumens12.incipit = "All faithful, let us again…"
-petCatechumens12 = "All faithful, let us again in peace pray to the Lord."
-
-petCatechumens13.incipit = "All who are ready for…"
-petCatechumens13 = "All who are ready for illumination come forward."
-
-petCatechumens14.incipit = "Pray all of you who…"
-petCatechumens14 = "Pray all of you who are preparing for illumination. Let us pray to the Lord."
-
-petCatechumens15.incipit = "Let us the faithful pray…"
-petCatechumens15 = "Let us the faithful pray to the Lord for our brethren who are preparing for holy illumination and for their salvation."
-
-petCatechumens16.incipit = "That the Lord our God…"
-petCatechumens16 = "That the Lord our God establish and strengthen them, let us pray to the Lord."
-
-petCatechumens17.incipit = "That He illumine them with…"
-petCatechumens17 = "That He illumine them with the light of knowledge and piety, let us pray to the Lord."
-
-petCatechumens18.incipit = "That He may make them…"
-petCatechumens18 = "That He may make them worthy in due time of the baptism of regeneration, the remissions of sins, and the robe of incorruption, let us pray to the Lord."
-
-petCatechumens19.incipit = "That He may regenerate them…"
-petCatechumens19 = "That He may regenerate them with water and the Spirit, let us pray to the Lord."
-
-petCatechumens20.incipit = "That He may grant them…"
-petCatechumens20 = "That He may grant them the perfection of faith, let us pray to the Lord."
-
-petCatechumens21.incipit = "That He may number them…"
-petCatechumens21 = "That He may number them among His holy and chosen flock, let us pray to the Lord."
-
-petCatechumens22.incipit = "Those who are preparing for…"
-petCatechumens22 = "Those who are preparing for illumination, bow Your heads to the Lord."
-
-petCatechumens23.incipit = "All who are ready for…"
-petCatechumens23 = "All who are ready for illumination depart. You who are ready for illumination, depart."
-
-petCatechumens24.incipit = "For You are our illumination…"
-petCatechumens24 = "For You are our illumination and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-petCompline01.incipit = "Let us pray for the…"
-petCompline01 = "Let us pray for the peace of the world."
-
-petCompline02.incipit = "For all pious and Orthodox…"
-petCompline02 = "For all pious and Orthodox Christians."
-
-petCompline03.incipit = "For our…"
-petCompline03 = "For our"
-
-petCompline04.incipit = "For our nation…"
-petCompline04 = "For our nation."
-
-petCompline05.incipit = "For the armed forces…"
-petCompline05 = "For the armed forces."
-
-petCompline06.incipit = "For our departed fathers and…"
-petCompline06 = "For our departed fathers and mothers, sisters and brothers."
-
-petCompline07.incipit = "For those who have mercy…"
-petCompline07 = "For those who have mercy on us and serve us."
-
-petCompline08.incipit = "For those who hate us…"
-petCompline08 = "For those who hate us and those who love us."
-
-petCompline09.incipit = "For those who have asked…"
-petCompline09 = "For those who have asked us the unworthy to pray for them."
-
-petCompline10.incipit = "For the release of captives…"
-petCompline10 = "For the release of captives."
-
-petCompline11.incipit = "For those who are traveling…"
-petCompline11 = "For those who are traveling."
-
-petCompline12.incipit = "For those who are ill…"
-petCompline12 = "For those who are ill."
-
-petCompline13.incipit = "Let us pray also for…"
-petCompline13 = "Let us pray also for the abundance of the fruits of the earth."
-
-petCompline14.incipit = "And for all our family…"
-petCompline14 = "And for all our family and friends who have fallen asleep before us, the Orthodox here and everywhere piously laid to sleep."
-
-petCompline15.incipit = "Let us also say for…"
-petCompline15 = "Let us also say for ourselves: Lord, have mercy. Lord, have mercy. Lord, have mercy."
-
-petConsecration01.incipit = "For the work of our…"
-petConsecration01 = "For the work of our hands of our brethren with us, let us pray to the Lord."
-
-petConsecration02.incipit = "For the sanctification of this…"
-petConsecration02 = "For the sanctification of this house and the Altar herein by the descent, power and action of the Holy Spirit, let us pray to the Lord."
-
-petConsecration13a = "Remembering our most holy, pure, blessed, and glorious Lady, the Theotokos and ever-virgin Mary, "
-petConsecration13b = "with all the saints, let us commit ourselves and one another and our whole life to Christ our God."
-
-petCross05.incipit = "Again we pray for the…"
-petCross05 = "Again we pray for the soul of every Orthodox Christian, for their health, salvation, and forgiveness of sins."
-
-petFuneral01.incipit = "Again we pray for the…"
-petFuneral01 = "Again we pray for the repose of the soul of the departed servant of God (Name), who has fallen asleep, and for the forgiveness of all his (her) sins, voluntary and involuntary."
-
-petFuneral02.incipit = "May the Lord God place…"
-petFuneral02 = "May the Lord God place his (her) soul where the righteous repose. Let us ask for the mercies of God, the kingdom of Heaven, and the forgiveness of his (her) sins from Christ our immortal king and our God."
-
-petKneel01.incipit = "For the people here present…"
-petKneel01 = "For the people here present, awaiting the grace of the Holy Spirit, let us pray to the Lord."
-
-petKneel02.incipit = "For those who incline their…"
-petKneel02 = "For those who incline their hearts as well as the knee before the Lord, let us pray to the Lord."
-
-petKneel03.incipit = "That we may be strengthened…"
-petKneel03 = "That we may be strengthened to complete works well-pleasing to the Lord, let us pray to the Lord."
-
-petKneel04.incipit = "That His mercies may be…"
-petKneel04 = "That His mercies may be lavished upon us, let us pray to the Lord."
-
-petKneel05.incipit = "That He will accept our…"
-petKneel05 = "That He will accept our act of kneeling as incense before Him, let us pray to the Lord."
-
-petKneel06.incipit = "For all who stand in…"
-petKneel06 = "For all who stand in need of His help, let us pray to the Lord."
-
-petKneel07.incipit = "Again, on bended knees, let…"
-petKneel07 = "Again, on bended knees, let us pray to the Lord."
-
-petKneel08.incipit = "Help us, save us, have…"
-petKneel08 = "Help us, save us, have mercy on us, raise us up and protect us, O God, by Your grace."
-
-petMonasteryLity01.incipit = "…"
-petMonasteryLity01 = ""
-petMonasteryLity02.incipit = "…"
-petMonasteryLity02 = ""
-petMonasteryLity03.incipit = "…"
-petMonasteryLity03 = ""
-
-petMonastery01a.incipit = "For…"
-petMonastery01a = "For"
-petMonastery01b.incipit = "let us pray to the…"
-petMonastery01b = "let us pray to the Lord."
-petMonastery02a.incipit = "For…"
-petMonastery02a = "For"
-petMonastery02b.incipit = "let us pray to the…"
-petMonastery02b = "let us pray to the Lord."
-
-petMonastery22.incipit = "…"
-petMonastery22 = ""
-petMonastery23.incipit = "…"
-petMonastery23 = ""
-
-petOrdination01a.incipit = "For our…"
-petOrdination01a = "For our" // supplement with client specific rank and name
-petOrdination01b.incipit = "or his priesthood, sustenance, sojourn…"
-petOrdination01b = "or his priesthood, sustenance, sojourn, peace, health, salvation, and for the works of his hands, let us pray to the Lord."
-
-petOrdination02_deacon.incipit = "For the servant of God…"
-petOrdination02_deacon = "For the servant of God (Name of the new deacon), who has now been ordained a deacon, and for his salvation, let us pray to the Lord."
-petOrdination02_priest.incipit = "For the servant of God…"
-petOrdination02_priest = "For the servant of God (Name of the new presbyter), who has now been ordained a presbyter, and for his salvation, let us pray to the Lord."
-petOrdination02_bishop.incipit = "…"
-petOrdination02_bishop = ""
-
-petOrdination03_deacon.incipit = "That God who loves mankind…"
-petOrdination03_deacon = "That God who loves mankind will grant to him a pure and blameless diaconate, let us pray to the Lord."
-petOrdination03_priest.incipit = "That God who loves mankind…"
-petOrdination03_priest = "That God who loves mankind will grant to him a pure and blameless priesthood, let us pray to the Lord."
-petOrdination03_bishop.incipit = "…"
-petOrdination03_bishop = ""
-
-petOrdination04.incipit = "…"
-petOrdination04 = ""
-
-petSouls01.incipit = "Again we pray for the…"
-petSouls01 = "Again we pray for the blessed memory and eternal repose of all pious Orthodox Christians who have fallen asleep in the hope of the resurrection unto life everlasting, emperors, patriarchs, bishops, priests, deacons, hieromonks, deacon-monks, monks, nuns, fathers, forebears, grandparents, great-grandparents, parents, spouses, children, siblings, and all our relatives, from the beginning until the end of time; and for the forgiveness of all their sins, both voluntary and involuntary."
-
-petSouls02.incipit = "May the Lord God place…"
-petSouls02 = "May the Lord God place their souls where the righteous repose. Let us ask for the mercies of God, the kingdom of Heaven, and the forgiveness of their sins from Christ our immortal king and God."
-
-petUnction01.incipit = "For the people in attendance…"
-petUnction01 = "For the people in attendance who anticipate the grace of the Holy Spirit, let us pray to the Lord."
-
-petUnction02.incipit = "That this oil will be…"
-petUnction02 = "That this oil will be blessed by the descent, power, and operation of the Holy Spirit, let us pray to the Lord."
-
-petUnction03.incipit = "For the servants of God…"
-petUnction03 = "For the servants of God who have come for this holy sacrament, and that God will visit them, and that the grace of the Holy Spirit will come upon them, let us pray to the Lord."
-
-petWater01.incipit = "That this water might be…"
-petWater01 = "That this water might be hallowed by the might, and operation, and descent of the Holy Spirit, let us pray to the Lord."
-
-petWater02.incipit = "That there may descend upon…"
-petWater02 = "That there may descend upon these waters the cleansing operation of the super substantial Trinity; let us pray to the Lord."
-
-petWater03.incipit = "That there may be sent…"
-petWater03 = "That there may be sent down upon it the Grace of Redemption, the blessing of the Jordan; let us pray to the Lord."
-
-petWater03alt.incipit = "That there may be sent…"
-petWater03alt = "That there may be sent down upon it the Grace of Redemption, the blessing of the Jordan; let us pray to the Lord."
-
-petWater04.incipit = "That we may be illumined…"
-petWater04 = "That we may be illumined with the Light of Knowledge and Piety through the descent of the Holy Spirit; let us pray to the Lord."
-
-petWater05.incipit = "That this water may become…"
-petWater05 = "That this water may become the gift of sanctification, redemption from sins, for the healing of soul and body, and for every suitable purpose, let us pray to the Lord."
-
-petWater06.incipit = "That it may become water…"
-petWater06 = "That it may become water welling up to eternal life; let us pray to the Lord."
-
-petWater07.incipit = "That this water may prove…"
-petWater07 = "That this water may prove effectual for the averting of every plot of visible and invisible enemies; let us pray to the Lord."
-
-petWater07alt.incipit = "That this water may prove…"
-petWater07alt = "That this water may prove effectual for the averting of every plot of visible and invisible enemies; let us pray to the Lord."
-
-petWater08.incipit = "For those who are sprinkled…"
-petWater08 = "For those who are sprinkled with it and take it for the blessing of homes; let us pray to the Lord."
-
-petWater09.incipit = "That it may be for…"
-petWater09 = "That it may be for the purification of soul and body to all who with faith take and drink of it; let us pray to the Lord."
-
-petWater10.incipit = "That we may be granted…"
-petWater10 = "That we may be granted to be filled with sanctification through drinking this water, by the invisible manifestation of the Holy Spirit; let us pray to the Lord."
-
-petWater11.incipit = "That the Lord God may…"
-petWater11 = "That the Lord God may listen to the voice of the prayer of us sinners and have mercy on us; let us pray to the Lord."
-
-petWater12.incipit = "That there may descend upon…"
-petWater12 = "That there may descend upon these waters the cleansing operation of the super substantial Trinity; let us pray to the Lord."
-
-petWater13.incipit = "That this water may be…"
-petWater13 = "That this water may be to the healing of souls and bodies, and to the banishment of every hostile power, let us pray to the Lord."
-
-petWater14.incipit = "For all of them who…"
-petWater14 = "For all of them who need God to help and give protection, let us pray to the Lord."
-
-petWater15.incipit = "That He will illuminate us…"
-petWater15 = "That He will illuminate us with the Light of understanding of the Consubstantial Trinity; let us pray to the Lord."
-
-petWater16.incipit = "That the Lord our God…"
-petWater16 = "That the Lord our God will show us forth as sons and daughters and heirs of His Kingdom through the partaking and sprinkling of these waters; let us pray to the Lord."
-
-petWed01.incipit = "For the servant of God…"
-petWed01 = "For the servant of God (Name) and the servant of God (Name) who now pledge themselves to one another, and for their salvation; let us pray to the Lord."
-
-petWed02.incipit = "That there may be promised…"
-petWed02 = "That there may be promised unto them children for the continuation of their race, granting unto them all their prayers unto salvation; let us pray to the Lord."
-
-petWed03.incipit = "That He send down upon…"
-petWed03 = "That He send down upon them love perfect and peaceful, and give them His protection; let us pray to the Lord."
-
-petWed04.incipit = "That He may keep them…"
-petWed04 = "That He may keep them in oneness of mind, and in steadfastness of the Faith; let us pray to the Lord."
-
-petWed05.incipit = "That He may bless them…"
-petWed05 = "That He may bless them in harmony and perfect trust; let us pray to the Lord."
-
-petWed06.incipit = "That He may keep the…"
-petWed06 = "That He may keep the course and manner of their life blameless; let us pray to the Lord.."
-
-petWed07.incipit = "That the Lord God may…"
-petWed07 = "That the Lord God may grant unto them an honorable marriage and a bed undefiled; let us pray to the Lord."
-
-petWed08.incipit = "For the servants of God…"
-petWed08 = "For the servants of God (Name) and (Name), who are now being joined to one another in the community of Marriage, and for their salvation; let us pray to the Lord."
-
-petWed09.incipit = "That this marriage may be…"
-petWed09 = "That this marriage may be blessed as was that of Cana of Galilee; let us pray to the Lord."
-
-petWed10.incipit = "That there may be given…"
-petWed10 = "That there may be given unto them soberness of life, and fruit of the womb as may be most expedient for them; let us pray to the Lord."
-
-petWed11.incipit = "That they may rejoice in…"
-petWed11 = "That they may rejoice in the beholding of sons and daughters; let us pray to the Lord."
-
-petWed12.incipit = "That there may be granted…"
-petWed12 = "That there may be granted unto them the happiness of abundant fertility, and a course of life blameless and unashamed; let us pray to the Lord."
-
-petWed13.incipit = "That there may be granted…"
-petWed13 = "That there may be granted unto them and unto us all prayers that tend unto salvation; let us pray to the Lord"
-
-petWed14.incipit = "That both they and we…"
-petWed14 = "That both they and we may be delivered from tribulation, wrath, danger, and necessity; let us pray to the Lord."
-
-sup00.incipit = "O God, save Your people…"
-sup00 = "O God, save Your people and bless Your inheritance. Look upon Your world with mercy and compassion. Raise the Orthodox Christians in glory, and send down upon us Your rich mercies,"
-
-sup00a.incipit = "Most merciful Master, Lord Jesus…"
-sup00a = "Most merciful Master, Lord Jesus Christ our God,"
-
-sup01.incipit = "through the intercessions of our…"
-sup01 = "through the intercessions of our most pure Lady the Theotokos and ever-Virgin Mary,"
-
-sup02.incipit = "the power of the precious…"
-sup02 = "the power of the precious and life giving Cross,"
-
-sup03.incipit = "the protection of the honorable…"
-sup03 = "the protection of the honorable, bodiless Powers of heaven,"
-
-sup04.incipit = "the supplications of the honorable…"
-sup04 = "the supplications of the honorable and glorious prophet, and forerunner John the Baptist,"
-
-sup05.incipit = "the holy, glorious, and praiseworthy…"
-sup05 = "the holy, glorious, and praiseworthy Apostles,"
-
-sup06.incipit = "our Fathers among the Saints…"
-sup06 = "our Fathers among the Saints, the great hierarchs and ecumenical teachers, Basil the Great, Gregory the Theologian and John Chrysostom,"
-
-sup06a.incipit = "our Fathers among the Saints…"
-sup06a = "our Fathers among the Saints,"
-
-sup06b.incipit = "the great hierarchs and ecumenical…"
-sup06b = "the great hierarchs and ecumenical teachers,"
-
-sup06_basil.incipit = "Gregory the Theologian and John…"
-sup06_basil = "Gregory the Theologian and John Chrysostom,"
-sup06_gregory.incipit = "Basil the Great and John…"
-sup06_gregory = "Basil the Great and John Chrysostom,"
-sup06_john.incipit = "Basil the Great and Gregory…"
-sup06_john = "Basil the Great and Gregory the Theologian,"
-sup07.incipit = "Athanasios, Cyril, and John the…"
-sup07 = "Athanasios, Cyril, and John the Merciful, patriarchs of Alexandria;"
-sup07_athanasios_cyril.incipit = "John the Merciful, patriarch of…"
-sup07_athanasios_cyril = "John the Merciful, patriarch of Alexandria;"
-sup07_athanasios.incipit = "Cyril and John the Merciful…"
-sup07_athanasios = "Cyril and John the Merciful, patriarchs of Alexandria;"
-sup07_cyril.incipit = "Athanasios and John the Merciful…"
-sup07_cyril = "Athanasios and John the Merciful, patriarchs of Alexandria;"
-sup07_john.incipit = "Athanasios and Cyril, patriarchs of…"
-sup07_john = "Athanasios and Cyril, patriarchs of Alexandria;"
-sup08.incipit = "Nicholas, bishop of Myra, Spyridon…"
-sup08 = "Nicholas, bishop of Myra, Spyridon, bishop of Trimythous, Nektarios of Pentapolis, the wonder-workers;"
-sup08_nicholas.incipit = "Spyridon, bishop of Trimythous, Nektarios…"
-sup08_nicholas = "Spyridon, bishop of Trimythous, Nektarios of Pentapolis, the wonder-workers;"
-sup08_spyridon.incipit = "Nicholas, bishop of Myra, Nektarios…"
-sup08_spyridon = "Nicholas, bishop of Myra, Nektarios of Pentapolis, the wonder-workers;"
-sup08_nektarios.incipit = "Nicholas, bishop of Myra, Spyridon…"
-sup08_nektarios = "Nicholas, bishop of Myra, Spyridon, bishop of Trimythous, the wonder-workers;"
-
-sup09.incipit = "the holy, glorious great Martyrs…"
-sup09 = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the Teron, and Theodore the General, Menas the Wonderworker,"
-sup09_demetrios.incipit = "the holy, glorious great Martyrs…"
-sup09_demetrios = "the holy, glorious great Martyrs George the Victorious, Theodore the Teron, and Theodore the General, Menas the Wonderworker,"
-sup09_george.incipit = "the holy, glorious great Martyrs…"
-sup09_george = "the holy, glorious great Martyrs Demetrios the Myrobletes, Theodore the Teron, and Theodore the General, Menas the Wonderworker,"
-sup09_tyro.incipit = "the holy, glorious great Martyrs…"
-sup09_tyro = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the General, and Menas the Wonderworker,"
-sup09_general.incipit = "the holy, glorious great Martyrs…"
-sup09_general = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the Teron, and Menas the Wonderworker,"
-sup09_minas.incipit = "the holy, glorious great Martyrs…"
-sup09_minas = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the Teron, and Theodore the General,"
-sup10.incipit = "the Hieromartyrs Haralambos and Eleftherios…"
-sup10 = "the Hieromartyrs Haralambos and Eleftherios;"
-sup10_haralambos.incipit = "the Hieromartyr Eleftherios…"
-sup10_haralambos = "the Hieromartyr Eleftherios;"
-sup10_eleutherios.incipit = "the Hieromartyr Haralambos…"
-sup10_eleutherios = "the Hieromartyr Haralambos;"
-sup11.incipit = "the holy, glorious, and victorious…"
-sup11 = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
-
-sup11_eufimia.incipit = "the holy, glorious, and victorious…"
-sup11_eufimia = "the holy, glorious, and victorious martyrs; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
-sup11_thekla.incipit = "the holy, glorious, and victorious…"
-sup11_thekla = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
-sup11_barbara.incipit = "the holy, glorious, and victorious…"
-sup11_barbara = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
-sup11_anastasia.incipit = "the holy, glorious, and victorious…"
-sup11_anastasia = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
-sup11_catherine.incipit = "the holy, glorious, and victorious…"
-sup11_catherine = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Kyriake, Fotene, Marina, Paraskeve and Irene;"
-sup11_kyriaki.incipit = "the holy, glorious, and victorious…"
-sup11_kyriaki = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine,Fotene, Marina, Paraskeve and Irene;"
-sup11_photeini.incipit = "the holy, glorious, and victorious…"
-sup11_photeini = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Marina, Paraskeve and Irene;"
-sup11_marina.incipit = "the holy, glorious, and victorious…"
-sup11_marina = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Paraskeve and Irene;"
-sup11_paraskevi.incipit = "the holy, glorious, and victorious…"
-sup11_paraskevi = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, and Irene;"
-sup11_irene.incipit = "the holy, glorious, and victorious…"
-sup11_irene = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, and Paraskeve;"
-
-sup12.incipit = "of our holy God-bearing Fathers…"
-sup12 = "of our holy God-bearing Fathers;"
-
-sup13 = "(the patron saint of the church);"
-
-sup14.incipit = "the holy and righteous ancestors…"
-sup14 = "the holy and righteous ancestors of God Joachim and Anna,"
-
-sup15.incipit = "and of all your Saints…"
-sup15 = "and of all your Saints."
-
-sup16a = "(the saint of the day),"
-sup16b.incipit = "whose memory we commemorate today…"
-sup16b = "whose memory we commemorate today;"
-
-sup99.incipit = "We beseech you, only merciful…"
-sup99 = "We beseech you, only merciful Lord, hear us sinners who pray to you and have mercy on us."
-
-res01.incipit = "Lord, have mercy…"
-res01 = "Lord, have mercy."
-
-res02.incipit = "Grant this, O Lord…"
-res02 = "Grant this, O Lord."
-
-res03.incipit = "To You, O Lord…"
-res03 = "To You, O Lord."
-
-res04.incipit = "Amen…"
-res04 = "Amen."
-
-res05.incipit = "And with your spirit…"
-res05 = "And with your spirit."
-
-res06.incipit = "Lord, have mercy. Lord, have…"
-res06 = "Lord, have mercy. Lord, have mercy. Lord, have mercy."
-res06.MM.long.sos.incipit = "properties_en_US_holycross.media.key…"
-res06.MM.long.sos.text = properties_en_US_holycross.media.key
-
-res07.incipit = "Eis polla eti, Despota!…"
-res07 = "Eis polla eti, Despota!"
-
-res08.incipit = "Master, bless!…"
-res08 = "Master, bless!"
-
-res09.incipit = "Father, bless!…"
-res09 = "Father, bless!"
-
-res10.incipit = "Amen. Amen. Amen…"
-res10 = "Amen. Amen. Amen."
-
-res11.incipit = "…"
-res11 = ""
-
-res12.incipit = "Holy Father, bless…"
-res12 = "Holy Father, bless."
-
-res13.incipit = "Holy Master, bless…"
-res13 = "Holy Master, bless."
-
-res14.incipit = "Everlasting be his memory. Everlasting…"
-res14 = "Everlasting be his memory. Everlasting be his memory. Everlasting be his memory."
-
-res15.incipit = "Everlasting be her memory. Everlasting…"
-res15 = "Everlasting be her memory. Everlasting be her memory. Everlasting be her memory."
-
-res16.incipit = "Everlasting be their memory. Everlasting…"
-res16 = "Everlasting be their memory. Everlasting be their memory. Everlasting be their memory."
-
-exc01.incipit = "For to You belong all…"
-exc01 = "For to You belong all glory, honor, and worship, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc01a.incipit = "For to You belong all…"
-exc01a = "For to You belong all glory, honor, and worship, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc02.incipit = "For Yours is the dominion…"
-exc02 = "For Yours is the dominion, and Yours is  the kingdom, the power, and the glory of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc03.incipit = "For You are a good…"
-exc03 = "For You are a good and loving God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc04.incipit = "For blessed is Your name…"
-exc04 = "For blessed is Your name, and glorified is Your kingdom, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc04a.incipit = "For blessed is Your all-holy…"
-exc04a = "For blessed is Your all-holy name, and glorified is Your kingdom, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc05.incipit = "For You are holy, our…"
-exc05 = "For You are holy, our God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc05a.incipit = "For You are holy, our…"
-exc05a = "For You are holy, our God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever…" // split exclamation for Trisagios Hymn at Liturgy
-
-exc05b.incipit = "…and to the ages of…"
-exc05b = "…and to the ages of ages."
-
-exc06.incipit = "For You are holy, our…"
-exc06 = "For You are holy, our God, who rest among the Saints, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc07.incipit = "Through the mercy, compassion, and…"
-exc07 = "Through the mercy, compassion, and love of mankind of Your only-begotten Son, with whom You are blessed, together with Your all-holy, good and life-giving Spirit, now and forever and to the ages of ages."
-
-exc07a.incipit = "By the grace, mercy, and…"
-exc07a = "By the grace, mercy, and love for us of Your only-begotten Son, with whom You are blessed, together with Your all-holy, good, and life-giving Spirit, now and forever and to the ages of ages."
-
-exc07b.incipit = "By the mercy and love…"
-exc07b = "By the mercy and love for mankind of Your only-begotten Son, with whom You are blessed, together with Your all-holy, good and life-giving Spirit, now and forever and to the ages of ages."
-
-exc07c.incipit = "By the favor and grace…"
-exc07c = "By the favor and grace of Your only-begotten Son, with whom You are blessed, together with Your all-holy, good and life-giving Spirit, now and forever and to the ages of ages."
-
-exc08.incipit = "For You are our God…"
-exc08 = "For You are our God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc09.incipit = "For You are the King…"
-exc09 = "For You are the King of peace and the savior of our souls, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc10.incipit = "For all the powers of heaven…"
-exc10 = "For all the powers of heaven praise You and give You glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc11.incipit = "For You are a merciful…"
-exc11 = "For You are a merciful and loving God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc11a.incipit = "For You are a merciful…"
-exc11a = "For You are a merciful and loving God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc12.incipit = "For You are the God…"
-exc12 = "For You are the God of mercy and compassion and love for mankind, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to ages of ages."
-
-exc13.incipit = "For Yours it is to…"
-exc13 = "For Yours it is to show mercy and to save us, O our God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to ages of ages."
-
-exc14.incipit = "May the might of Your…"
-exc14 = "May the might of Your kingdom be blessed and glorified, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc15.incipit = "Let us honor and magnify…"
-exc15 = "Let us honor and magnify in song the Theotokos and the Mother of the light."
-
-exc16.incipit = "For hallowed and glorified is…"
-exc16 = "For hallowed and glorified is Your all-honored and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc16a.incipit = "For blessed and glorified is…"
-exc16a = "For blessed and glorified is Your all-honored and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc17.incipit = "Wisdom!…"
-exc17 = "Wisdom!"
-
-exc18.incipit = "Arise!…"
-exc18 = "Arise!"
-
-exc19.incipit = "Let us be attentive!…"
-exc19 = "Let us be attentive!"
-
-exc20.incipit = "For thine is the Kingdom…"
-exc20 = "For thine is the Kingdom and the power and the glory of the Father, and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc22.incipit = "For You are our God…"
-exc22 = "For You are our God, the God of mercy and salvation, and to You do we send up glory, to the Father, and to the Son, and to the Holy Spirit, both now and ever, and to the ages of ages."
-
-exc23.incipit = "For You are the resurrection…"
-exc23 = "For You are the resurrection, the life and the repose of all the departed faithful Orthodox Christians, Christ our God, and to You we give glory, with Your eternal Father and Your all-holy, good and life giving Spirit, now and forever and to the ages of ages."
-
-exc24.incipit = "For You are our sanctification…"
-exc24 = "For You are our sanctification and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-
-exc25.incipit = "For holy are You, our…"
-exc25 = "For holy are You, our God, resting on the glorious throne of the cherubim, and to You we send up glory, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
-
-exc26.incipit = "For You are the King…"
-exc26 = "For You are the King of peace and the Savior of our souls, O Christ our God, and to You we send up glory, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
-
-exc27.incipit = "For You are the repose…"
-exc27 = "For You are the repose of our souls and bodies, and to You do we send up glory, to the Father, and to the Son, and to the Holy Spirit, both now and ever, and to the ages of ages."
-
-exc28.incipit = "For You are the One…"
-exc28 = "For You are the One who sanctifies all things, O Christ our God, and to You we send up glory, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
-
-exc28a.incipit = "For You are the One…"
-exc28a = "For You are the One who blesses and sanctifies all things, O Christ our God, and to You we send up glory, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
-
-exc29.incipit = "For You are the sanctification…"
-exc29 = "For You are the sanctification of our souls and bodies, and to You we give glory, thanksgiving, and worship, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
-
-epi01a.incipit = "The reading is from…"
-epi01a = "The reading is from"
-
-epi01b.incipit = "…"
-epi01b = "" // leave blank in English
-
-epi02.incipit = "Peace be to you…"
-epi02 = "Peace be to you."
-
-epi03.incipit = "Peace be to you the…"
-epi03 = "Peace be to you the reader."
-
-gos01.incipit = "Let us pray to the…"
-gos01 = "Let us pray to the Lord our God that we may be made worthy to hear the holy Gospel."
-
-gos02.incipit = "Let us hear the holy…"
-gos02 = "Let us hear the holy Gospel."
-
-gos03a.incipit = "The reading is from the…"
-gos03a = "The reading is from the holy Gospel according to"
-
-gos03b.incipit = "…"
-gos03b = ""
-
-gos04.incipit = "Peace be to you…"
-gos04 = "Peace be to you."
-
-gos05.incipit = "Peace be to you who proclaim…"
-gos05 = "Peace be to you who proclaim the Gospel."
-
-gos06.incipit = "…"
-gos06 = "Peace be to you who proclaim the Gospel and to all the people."
-
-otr01a.incipit = "The reading is from…"
-otr01a = "The reading is from"
-
-otr01b.incipit = "…"
-otr01b = "" // leave blank in English
-
-verse_Angels.incipit = "Archangels of God, intercede for…"
-verse_Angels.text = "Archangels of God, intercede for us."
-
-verse_Apostle.incipit = "Apostle of Christ, intercede for…"
-verse_Apostle.text = "Apostle of Christ, intercede for us."
-
-verse_Apostles.incipit = "Apostles of Christ, intercede for…"
-verse_Apostles.text = "Apostles of Christ, intercede for us."
-
-verse_ApostlesMartyrs.incipit = "Apostles and Martyrs of Christ…"
-verse_ApostlesMartyrs.text = "Apostles and Martyrs of Christ, intercede for us."
-
-verse_Archangel.incipit = "Archangel of God, intercede for…"
-verse_Archangel.text = "Archangel of God, intercede for us."
-
-verse_Archangels.incipit = "Archangels of God, intercede for…"
-verse_Archangels.text = "Archangels of God, intercede for us."
-
-verse_Baptist.incipit = "Baptist of Christ, intercede for…"
-verse_Baptist.text = "Baptist of Christ, intercede for us."
-
-verse_Cross.incipit = "All-holy Cross of Christ, guard…"
-verse_Cross.text = "All-holy Cross of Christ, guard us by your power."
-
-verse_Crucifixion.incipit = "Glory to Your holy Crucifixion…"
-verse_Crucifixion.text = "Glory to Your holy Crucifixion, O Lord."
-
-verse_DevoutMan.incipit = "Devout Saint of God, intercede…"
-verse_DevoutMan.text = "Devout Saint of God, intercede for us."
-
-verse_DevoutMen.incipit = "Devout Saints of God, intercede…"
-verse_DevoutMen.text = "Devout Saints of God, intercede for us"
-
-verse_DevoutWoman.incipit = "Devout Saint of God, intercede…"
-verse_DevoutWoman.text = "Devout Saint of God, intercede for us"
-
-verse_God.incipit = "Glory to You, our God…"
-verse_God.text = "Glory to You, our God, glory to You."
-
-verse_GreatMartyrs.incipit = "Holy Great Martyrs of Christ…"
-verse_GreatMartyrs.text = "Holy Great Martyrs of Christ, intercede for us."
-
-verse_Hierarchs.incipit = "Holy Hierarchs and Teachers of…"
-verse_Hierarchs.text = "Holy Hierarchs and Teachers of the whole world, intercede for us."
-
-verse_Nicholas.incipit = "Saint Nicholas, Hierarch of Christ…"
-verse_Nicholas.text = "Saint Nicholas, Hierarch of Christ, intercede for us."
-
-verse_Panteleimon.incipit = "Holy and glorious Great Martyr…"
-verse_Panteleimon.text = "Holy and glorious Great Martyr of Christ and healer Panteleimon, intercede for us."
-
-verse_Prophet.incipit = "Prophet of God, intercede for…"
-verse_Prophet.text = "Prophet of God, intercede for us."
-
-verse_Resurrection.incipit = "Glory to Your holy Resurrection…"
-verse_Resurrection.text = "Glory to Your holy Resurrection, O Lord."
-
-verse_Righteous.incipit = "Holy Forefathers of Christ, intercede…"
-verse_Righteous.text = "Holy Forefathers of Christ, intercede for us."
-
-verse_SaintM.incipit = "Saint of God, intercede for…"
-verse_SaintM.text = "Saint of God, intercede for us."
-
-verse_SaintW.incipit = "Saint of God, intercede for…"
-verse_SaintW.text = "Saint of God, intercede for us."
-
-verse_SaintsM.incipit = "Saints of God, intercede for…"
-verse_SaintsM.text = "Saints of God, intercede for us."
-
-verse_SaintsW.incipit = "Saints of God, intercede for…"
-verse_SaintsW.text = "Saints of God, intercede for us."
-
-verse_SoulSaturday.incipit = "By the intercessions of Your…"
-verse_SoulSaturday.text = "By the intercessions of Your Martyrs, O Lord, grant rest to the souls of Your servants."
-
-verse_Theotokos.incipit = "Most-holy Theotokos, save us…"
-verse_Theotokos.text = "Most-holy Theotokos, save us."
-
-verse_Trinity.incipit = "Holy Trinity, our God, have…"
-verse_Trinity.text = "Holy Trinity, our God, have mercy on us and save us."
-
-verse_Unmercenaries.incipit = "Holy Unmercenaries and miracle-workers, intercede…"
-verse_Unmercenaries.text = "Holy Unmercenaries and miracle-workers, intercede for us."
-
-antiphon2.annunciation.incipit = ""
-antiphon2.annunciation.text = ""
-antiphon2.ascension.incipit = ""
-antiphon2.ascension.text = ""
-antiphon2.christmas.incipit = ""
-antiphon2.christmas.text = ""
-antiphon2.circumcision.incipit = ""
-antiphon2.circumcision.text = ""
-antiphon2.cross.incipit = ""
-antiphon2.cross.text = ""
-antiphon2.epiphany.incipit = ""
-antiphon2.epiphany.text = ""
-antiphon2.meeting.incipit = ""
-antiphon2.meeting.text = ""
-antiphon2.palm.incipit = ""
-antiphon2.palm.text = ""
-antiphon2.pentecost.incipit = ""
-antiphon2.pentecost.text = ""
-antiphon2.resurrection.incipit = ""
-antiphon2.resurrection.text = ""
-antiphon2.saints.incipit = ""
-antiphon2.saints.text = ""
-antiphon2.transfiguration.incipit = ""
-antiphon2.transfiguration.text = ""
+A_Resource_Whose_Name = prayers_en_US_holycross 
+
+pr.Alleluia1.text = "Alleluia."
+pr.Alleluia3.text = "Alleluia. Alleluia. Alleluia."
+pr.Alleluia3Glory.text = "Alleluia. Alleluia. Alleluia. Glory to You, O God."
+pr.AllHolyTrinity.incipit = "All-holy Trinity, have mercy on…"
+pr.AllHolyTrinity.text = "All-holy Trinity, have mercy on us. Lord, forgive our sins. Master, pardon our transgressions. Holy One, visit and heal our infirmities for Your name's sake."
+pr.AlwaysNow.incipit = "Always, now and forever and…"
+pr.AlwaysNow.text = "Always, now and forever and to the ages of ages."
+pr.antiphon2.annunciation.incipit = ""
+pr.antiphon2.annunciation.text = ""
+pr.antiphon2.ascension.incipit = ""
+pr.antiphon2.ascension.text = ""
+pr.antiphon2.christmas.incipit = ""
+pr.antiphon2.christmas.text = ""
+pr.antiphon2.circumcision.incipit = ""
+pr.antiphon2.circumcision.text = ""
+pr.antiphon2.cross.incipit = ""
+pr.antiphon2.cross.text = ""
+pr.antiphon2.epiphany.incipit = ""
+pr.antiphon2.epiphany.text = ""
+pr.antiphon2.meeting.incipit = ""
+pr.antiphon2.meeting.text = ""
+pr.antiphon2.palm.incipit = ""
+pr.antiphon2.palm.text = ""
+pr.antiphon2.pentecost.incipit = ""
+pr.antiphon2.pentecost.text = ""
+pr.antiphon2.resurrection.incipit = ""
+pr.antiphon2.resurrection.text = ""
+pr.antiphon2.saints.incipit = ""
+pr.antiphon2.saints.text = ""
+pr.antiphon2.transfiguration.incipit = ""
+pr.antiphon2.transfiguration.text = ""
+pr.Axios.text = ""
+pr.Bless_father.text = "Father, bless!"
+pr.BlessedIsOurGod.text = "Blessed is our God."
+pr.BlessIncense_bishop.text = "Master, bless the incense."
+pr.BothNowAndEver.incipit = "Both now and ever and…"
+pr.BothNowAndEver.text = "Both now and ever and to the ages of ages. Amen."
+pr.ComeLetUsWorship1.incipit = "Come, let us worship…"
+pr.ComeLetUsWorship1.text = "Come, let us worship and bow down before God our King."
+pr.ComeLetUsWorship2.text = "Come, let us worship and bow down before Christ God our King."
+pr.ComeLetUsWorship3.text = "Come, let us worship and bow down before Him, Christ our King and God."
+pr.Command_bishop.text = "With your blessing, Master."
+pr.Command_holybishop.text = "With your blessing, holy Master."
+pr.Command.text = "Command!"
+pr.Creed.incipit = "I believe in one God…"
+pr.Creed.text = "I believe in one God, Father Almighty, Creator of heaven and earth and of all things visible and invisible. And in one Lord Jesus Christ, the only-begotten Son of God, begotten of the Father before all ages. Light of Light, true God of true God, begotten not created, of one essence with the Father through Whom all things were made. Who for us men and for our salvation came down from heaven and was incarnate of the Holy Spirit and the Virgin Mary and became man. He was crucified for us under Pontius Pilate. He suffered and was buried. And He rose on the third day, according to the Scriptures. He ascended into heaven and is seated at the right hand of the Father. And He will come again with glory to judge the living and dead. His kingdom shall have no end. And in the Holy Spirit, the Lord, the Creator of life, Who proceeds from the Father, Who together with the Father and the Son is worshipped and glorified, Who spoke through the prophets. In one, holy, catholic, and apostolic Church. I confess one baptism for the forgiveness of sins. I look for the resurrection of the dead and the life of the age to come."
+pr.DismissalPrayer1.incipit = "Blessed are You, Christ our…"
+pr.DismissalPrayer1.text = "Blessed are You, Christ our God, always now and forever and to the ages of ages."
+pr.DismissalPrayer2_lent.incipit = "O heavenly King, uphold our…"
+pr.DismissalPrayer2_lent.text = "O heavenly King, uphold our rulers, strengthen the Faith, calm the nations, give peace to the world. Protect this holy Church (or, Monastery); grant our departed fathers and brethren that they may dwell with the righteous, and accept us in repentance and confession; for You are good and love mankind."
+pr.DismissalPrayer2.incipit = "Make firm, Lord our God…"
+pr.DismissalPrayer2.text = "Make firm, Lord our God, the holy and pure faith of the pious Orthodox Christians, together with the Holy Church and this city forever."
+pr.enarxis01.text = "Blessed is our God always, now and ever, and to the ages of ages."
+pr.enarxis01.text = "Blessed is our God…"
+pr.enarxis02.text = "Blessed is the kingdom of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.enarxis02.text = "Blessed is the kingdom…"
+pr.enarxis03.text = "Glory to the holy and consubstantial, and life giving, and undivided Trinity, always, now and forever and to the ages of ages."
+pr.enarxis03.text = "Glory to the holy and consubstantial…"
+pr.epi01a.text = "The reading is from"
+pr.epi01b.text = "" // leave blank in English
+pr.epi02.text = "Peace be to you."
+pr.epi03.text = "Peace be to you the reader."
+pr.exc01.incipit = "For to You belong all…"
+pr.exc01.text = "For to You belong all glory, honor, and worship, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc01a.incipit = "For to You belong all…"
+pr.exc01a.text = "For to You belong all glory, honor, and worship, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc02.incipit = "For Yours is the dominion…"
+pr.exc02.text = "For Yours is the dominion, and Yours is  the kingdom, the power, and the glory of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc03.incipit = "For You are a good…"
+pr.exc03.text = "For You are a good and loving God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc04.incipit = "For blessed is Your name…"
+pr.exc04.text = "For blessed is Your name, and glorified is Your kingdom, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc04a.incipit = "For blessed is Your all-holy…"
+pr.exc04a.text = "For blessed is Your all-holy name, and glorified is Your kingdom, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc05.incipit = "For You are holy, our…"
+pr.exc05.text = "For You are holy, our God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc05a.text = "For You are holy, our God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever…" // split exclamation for Trisagios Hymn at Liturgy
+pr.exc05b.text = "…and to the ages of ages."
+pr.exc06.incipit = "For You are holy, our…"
+pr.exc06.text = "For You are holy, our God, who rest among the Saints, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc07.incipit = "Through the mercy, compassion, and…"
+pr.exc07.text = "Through the mercy, compassion, and love of mankind of Your only-begotten Son, with whom You are blessed, together with Your all-holy, good and life-giving Spirit, now and forever and to the ages of ages."
+pr.exc07a.incipit = "By the grace, mercy, and…"
+pr.exc07a.text = "By the grace, mercy, and love for us of Your only-begotten Son, with whom You are blessed, together with Your all-holy, good, and life-giving Spirit, now and forever and to the ages of ages."
+pr.exc07b.incipit = "By the mercy and love…"
+pr.exc07b.text = "By the mercy and love for mankind of Your only-begotten Son, with whom You are blessed, together with Your all-holy, good and life-giving Spirit, now and forever and to the ages of ages."
+pr.exc07c.incipit = "By the favor and grace…"
+pr.exc07c.text = "By the favor and grace of Your only-begotten Son, with whom You are blessed, together with Your all-holy, good and life-giving Spirit, now and forever and to the ages of ages."
+pr.exc08.incipit = "For You are our God…"
+pr.exc08.text = "For You are our God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc09.incipit = "For You are the King…"
+pr.exc09.text = "For You are the King of peace and the savior of our souls, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc10.incipit = "For all the powers of heaven…"
+pr.exc10.text = "For all the powers of heaven praise You and give You glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc11.incipit = "For You are a merciful…"
+pr.exc11.text = "For You are a merciful and loving God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc11a.incipit = "For You are a merciful…"
+pr.exc11a.text = "For You are a merciful and loving God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc12.incipit = "For You are the God…"
+pr.exc12.text = "For You are the God of mercy and compassion and love for mankind, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to ages of ages."
+pr.exc13.incipit = "For Yours it is to…"
+pr.exc13.text = "For Yours it is to show mercy and to save us, O our God, and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to ages of ages."
+pr.exc14.incipit = "May the might of Your…"
+pr.exc14.text = "May the might of Your kingdom be blessed and glorified, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc15.incipit = "Let us honor and magnify…"
+pr.exc15.text = "Let us honor and magnify in song the Theotokos and the Mother of the light."
+pr.exc16.incipit = "For hallowed and glorified is…"
+pr.exc16.text = "For hallowed and glorified is Your all-honored and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc16a.incipit = "For blessed and glorified is…"
+pr.exc16a.text = "For blessed and glorified is Your all-honored and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc17.text = "Wisdom!"
+pr.exc18.text = "Arise!"
+pr.exc19.text = "Let us be attentive!"
+pr.exc20.incipit = "For thine is the Kingdom…"
+pr.exc20.text = "For thine is the Kingdom and the power and the glory of the Father, and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc22.incipit = "For You are our God…"
+pr.exc22.text = "For You are our God, the God of mercy and salvation, and to You do we send up glory, to the Father, and to the Son, and to the Holy Spirit, both now and ever, and to the ages of ages."
+pr.exc23.incipit = "For You are the resurrection…"
+pr.exc23.text = "For You are the resurrection, the life and the repose of all the departed faithful Orthodox Christians, Christ our God, and to You we give glory, with Your eternal Father and Your all-holy, good and life giving Spirit, now and forever and to the ages of ages."
+pr.exc24.incipit = "For You are our sanctification…"
+pr.exc24.text = "For You are our sanctification and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.exc25.incipit = "For holy are You, our…"
+pr.exc25.text = "For holy are You, our God, resting on the glorious throne of the cherubim, and to You we send up glory, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
+pr.exc26.incipit = "For You are the King…"
+pr.exc26.text = "For You are the King of peace and the Savior of our souls, O Christ our God, and to You we send up glory, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
+pr.exc27.incipit = "For You are the repose…"
+pr.exc27.text = "For You are the repose of our souls and bodies, and to You do we send up glory, to the Father, and to the Son, and to the Holy Spirit, both now and ever, and to the ages of ages."
+pr.exc28.incipit = "For You are the One…"
+pr.exc28.text = "For You are the One who sanctifies all things, O Christ our God, and to You we send up glory, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
+pr.exc28a.incipit = "For You are the One…"
+pr.exc28a.text = "For You are the One who blesses and sanctifies all things, O Christ our God, and to You we send up glory, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
+pr.exc29.incipit = "For You are the sanctification…"
+pr.exc29.text = "For You are the sanctification of our souls and bodies, and to You we give glory, thanksgiving, and worship, together with Your eternal Father and Your all-holy, good, and life-giving Spirit, now and ever and to the ages of ages."
+pr.GloryToTheFather.incipit = "Glory to the Father and…"
+pr.GloryToTheFather.text = "Glory to the Father and the Son and the Holy Spirit."
+pr.GloryToTheFather2.incipit = "Glory to the Father and…"
+pr.GloryToTheFather2.text = "Glory to the Father and to the Son and to the Holy Spirit"
+pr.GloryToYouChrist.incipit = "Glory to You, O Christ…"
+pr.GloryToYouChrist.text = "Glory to You, O Christ our God. Glory to You."
+pr.GloryToYouChristHope.incipit = "Glory to You, O Christ…"
+pr.GloryToYouChristHope.text = "Glory to You, O Christ God, our hope. Glory to You."
+pr.GloryToYouGod.text = "Glory to You, O God."
+pr.GloryToYouGodHope.incipit = ""
+pr.GloryToYouGodHope.text = ""
+pr.GloryToYouLord.text = "Glory to You, O Lord. Glory to You."
+pr.GloryToYouOurGod.incipit = "Glory to You, our God…"
+pr.GloryToYouOurGod.text = "Glory to You, our God. Glory to You."
+pr.GloryToYourForbearance.incipit = "Glory to Your forbearance, O…"
+pr.GloryToYourForbearance.text = "Glory to Your forbearance, O Lord, glory to You."
+pr.gos01.incipit = "Let us pray to the…"
+pr.gos01.text = "Let us pray to the Lord our God that we may be made worthy to hear the holy Gospel."
+pr.gos02.text = "Let us hear the holy Gospel."
+pr.gos03a.text = "The reading is from the holy Gospel according to"
+pr.gos03b.text = ""
+pr.gos04.text = "Peace be to you."
+pr.gos05.text = "Peace be to you who proclaim the Gospel."
+pr.gos06.text = "Peace be to you who proclaim the Gospel and to all the people."
+pr.gos07.text = pr.GloryToYouLord.text
+pr.GreaterInHonor.incipit = "…"
+pr.GreaterInHonor.text = "" //he.h.m6_en_US_holycross.pr.GreaterInHonor.text
+pr.HeavenlyKing.incipit = "Heavenly King…"
+pr.HeavenlyKing.text = "Heavenly King, Comforter, Spirit of Truth, present in all places and filling all things, treasury of good things and giver of life: come; take Your abode in us; cleanse us of every stain, and save our souls, O Good one."
+pr.HolyGod.incipit = "Holy God, Holy Mighty, Holy…"
+pr.HolyGod.text = "Holy God, Holy Mighty, Holy Immortal, have mercy on us."
+pr.InTheNameOfFather.incipit = "In the name of the…"
+pr.InTheNameOfFather.text = "In the name of the Father and the Son and the Holy Spirit."
+pr.InTheNameOfLordBless_father.incipit = "In the name of the…"
+pr.InTheNameOfLordBless_father.text = "In the name of the Lord, Father, bless!"
+pr.ItIsTrulyRight_complete.incipit = "It is truly right to…"
+pr.ItIsTrulyRight_complete.text = "It is truly right to call you blessed, O Theotokos, the ever-blessed and all-blameless one, and the Mother of our God. More honorable than the Cherubim, and beyond compare more glorious than the Seraphim, without corruption you gave birth to God the Word. We magnify you, the true Theotokos."
+pr.ItIsTrulyRight_part1.incipit = "It is truly right to…"
+pr.ItIsTrulyRight_part1.text = "It is truly right to call you blessed, O Theotokos, the ever-blessed and all-blameless one, and the Mother of our God."
+pr.MayGodHaveCompassion.incipit = "May God have compassion on…"
+pr.MayGodHaveCompassion.text = "May God have compassion on us and bless us; may his face shine upon us and have mercy on us."
+pr.otr01a.text = "The reading is from"
+pr.otr01b.text = "" // leave blank in English
+pr.OurFather.incipit = "Our Father, who art in…"
+pr.OurFather.text = "Our Father, who art in heaven, hallowed be Thy name. Thy kingdom come, Thy will be done, on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil."
+pr.OurHopeLord.text = "Our hope, O Lord, glory to You."
+pr.PaschaDialog1.incipit = "Let us forgive everything for…"
+pr.PaschaDialog1.text = "Let us forgive everything for the Resurrection, And thus let us cry aloud:"
+pr.PaschaDialog2.text = "Christ is risen!"
+pr.PaschaDialog3.text = "Truly He is risen!"
+pr.PaschaDialog4.text = "Glory to His holy Resurrection on the third day!"
+pr.PaschaDialog5.text = "We worship His Resurrection on the third day!"
+pr.PaschaDialog6.text = "Truly the Lord is risen!"
+pr.pet00.text = "Let us pray to the Lord."
+pr.pet01.text = "In peace, let us pray to the Lord." // Great Litany
+pr.pet02.incipit = "For the peace from above…"
+pr.pet02.text = "For the peace from above and the salvation of our souls, let us pray to the Lord."
+pr.pet03.incipit = "For peace in the whole…"
+pr.pet03.text = "For peace in the whole world, for the stability of the holy churches of God, and for the unity of all, let us pray to the Lord."
+pr.pet04.incipit = "For this holy house and…"
+pr.pet04.text = "For this holy house and for those who enter it with faith, reverence, and the fear of God, let us pray to the Lord."
+pr.pet04alt1.incipit = "For this house and those…"
+pr.pet04alt1.text = "For this house and those who dwell in it, let us pray to the Lord."
+pr.pet04alt1.title = "In a house."
+pr.pet04alt2.incipit = "For this ship and all…"
+pr.pet04alt2.text = "For this ship and all those aboard it, let us pray to the Lord."
+pr.pet04alt2.title = "On a ship."
+pr.pet05.incipit = "For pious and Orthodox Christians…"
+pr.pet05.text = "For pious and Orthodox Christians, let us pray to the Lord."
+pr.pet06.incipit = "For our Archbishop (Name), the…"
+pr.pet06.text = "For our Archbishop (Name), the honorable presbyters, the deacons in the service of Christ, and all the clergy and laity, let us pray to the Lord."
+pr.pet06a.text = "For" // supplement with client specific rank and name
+pr.pet06b.incipit = "the honorable presbyters, the deacons…"
+pr.pet06b.text = "the honorable presbyters, the deacons in the service of Christ, and all the clergy and laity, let us pray to the Lord."
+pr.pet07L.incipit = "For our country, the president…"
+pr.pet07L.text = "For our country, the president, and all those in public service, let us pray to the Lord."
+pr.pet07S.incipit = "For our country, the president…"
+pr.pet07S.text = "For our country, the president, and all those in public service, let us pray to the Lord."
+pr.pet07Sa.incipit = "Again let us pray for…"
+pr.pet07Sa.text = "Again let us pray for our country, the president, and all those in public service."
+pr.pet08.incipit = "For this parish and city…"
+pr.pet08.text = "For this parish and city, for every city and town, and for the faithful who live in them, let us pray to the Lord."
+pr.pet09.incipit = "For favorable weather, an abundance…"
+pr.pet09.text = "For favorable weather, an abundance of the fruits of the earth, and temperate seasons, let us pray to the Lord."
+pr.pet10.incipit = "For travelers by land, sea…"
+pr.pet10.text = "For travelers by land, sea and air, for the sick, the suffering, for captives, and for their salvation, let us pray to the Lord."
+pr.pet11.text = "For our deliverance from all affliction, wrath, danger, and distress, let us pray to the Lord."
+pr.pet12.incipit = "Help us, save us, have…"
+pr.pet12.text = "Help us, save us, have mercy upon us and protect us, O God, by Your grace."
+pr.pet13.incipit = "Remembering our most holy, pure…"
+pr.pet13.text = "Remembering our most holy, pure, blessed, and glorious Lady, the Theotokos and ever-virgin Mary, with all the saints, let us commit ourselves and one another and our whole life to Christ our God."
+pr.pet14.incipit = "Again and again in peace…"
+pr.pet14.text = "Again and again in peace let us pray to the Lord." // Short Litany
+pr.pet15.incipit = "Let us all say with…"
+pr.pet15.text = "Let us all say with our whole soul, and with our whole mind, let us say." // Ektenia
+pr.pet16.incipit = "Lord Almighty, God of our…"
+pr.pet16.text = "Lord Almighty, God of our fathers, we pray You, hear us and have mercy."
+pr.pet17.incipit = "Have mercy on us, O…"
+pr.pet17.text = "Have mercy on us, O God, according to Your great mercy; we pray You, hear us and have mercy."
+pr.pet18.incipit = "Let us pray for pious…"
+pr.pet18.text = "Let us pray for pious and Orthodox Christians."
+pr.pet19a.text = "Let us pray for"
+pr.pet19b.text = "and all our brotherhood in Christ."
+pr.pet19m.text = "Let us pray for"
+pr.pet19S.text = "Let us pray for our Archbishop (name)."
+pr.pet19Sa.text = "Let us pray for"
+pr.pet20.incipit = "Let us pray for our…"
+pr.pet20.text = "Let us pray for our brethren, priests, hieromonks, deacons, and monastics, and all our brotherhood in Christ."
+pr.pet21.incipit = "Again we pray for mercy…"
+pr.pet21.text = "Again we pray for mercy, life, peace, health, salvation, visitation, forgiveness and remission of the sins of all pious and Orthodox Christians living and visiting in this city, the parishioners, the members of the Parish Council and every Ministry of this Parish, and the donors and benefactors of this holy church."
+pr.pet21a.incipit = "Again we pray for mercy…"
+pr.pet21a.text = "Again we pray for mercy, life, peace, health, salvation, visitation, forgiveness and remission of the sins of all pious and Orthodox Christians living and visiting in this city, the parishioners, the members of the Parish Council and every Ministry of this Parish, and the donors and benefactors of this holy church, and the servants of God [names] who celebrate this holy feast."
+pr.pet21b.incipit = "Again let us pray for…"
+pr.pet21b.text = "Again let us pray for mercy, life, peace, health, and salvation for the servants of God, the newly illumined (Name), the Godparents, and all those who have come here together for this holy Sacrament." // for baptism
+pr.pet21c.incipit = "Again let us pray for…"
+pr.pet21c.text = "Again let us pray for the servants of God, (Name) and (Name), that they may have mercy, life, health, peace, safety, salvation, pardon and remission of their sins." // for wedding
+pr.pet21d.incipit = "Again we pray for mercy…"
+pr.pet21d.text = "Again we pray for mercy, life, peace, health, salvation, protection, and forgiveness of the sins of the servants of God, those present for this holy sacrament, and for the remission of all their sins, both voluntary and involuntary." // for unction
+pr.pet21p.incipit = "Again we pray for the…"
+pr.pet21p.text = "Again we pray for the servants of God… (At this time the Priest commemorates those for whom the Paraklesis is sung.)"
+pr.pet22.incipit = "Let us again pray for…"
+pr.pet22.text = "Let us again pray for the blessed and ever-memorable founders of this holy church, and for all our fathers, mothers, brothers, and sisters who are asleep here in the Lord and for the Orthodox everywhere."
+pr.pet23.incipit = "Let us again pray for…"
+pr.pet23.text = "Let us again pray for those who do charitable work, for those who serve in this holy house, for those who labor, teach, and sing, and for all the people here present who await Your great and rich mercy."
+pr.pet24.incipit = "Let us complete our prayer…"
+pr.pet24.text = "Let us complete our prayer to the Lord." // Complementary
+pr.pet24m.incipit = "Let us complete our morning…"
+pr.pet24m.text = "Let us complete our morning prayer to the Lord."
+pr.pet24v.incipit = "Let us complete our evening…"
+pr.pet24v.text = "Let us complete our evening prayer to the Lord."
+pr.pet25m.incipit = "For a perfect, holy, peaceful…"
+pr.pet25m.text = "For a perfect, holy, peaceful, and sinless day, let us ask the Lord."
+pr.pet25v.incipit = "For a perfect, holy, peaceful…"
+pr.pet25v.text = "For a perfect, holy, peaceful, and sinless evening, let us ask the Lord."
+pr.pet26.incipit = "For an angel of peace…"
+pr.pet26.text = "For an angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask the Lord."
+pr.pet27.incipit = "For forgiveness and remission of…"
+pr.pet27.text = "For forgiveness and remission of our sins and transgressions, let us ask the Lord."
+pr.pet28.incipit = "For all that is good…"
+pr.pet28.text = "For all that is good and beneficial to our souls, and for peace in the world, let us ask the Lord."
+pr.pet29.incipit = "For the completion of our…"
+pr.pet29.text = "For the completion of our life in peace and repentance, let us ask the Lord."
+pr.pet30.incipit = "For a Christian end to…"
+pr.pet30.text = "For a Christian end to our life, peaceful, without shame and suffering, and for a good account before the awesome judgment seat of Christ, let us ask."
+pr.pet31.text = "Peace be with all."
+pr.pet32.incipit = "Let us bow our heads…"
+pr.pet32.text = "Let us bow our heads to the Lord."
+pr.pet33.incipit = "Again we pray for the…"
+pr.pet33.text = "Again we pray for the protection of this holy church, this city and every city and land, from wrath, famine, pestilence, earthquake, flood, fire, sword, foreign invasions, civil strife, and accidental death. That our good and loving God may be merciful, gracious and favorable to us by turning and keeping from us all wrath and sickness, and deliver us from His just rebuke, and have mercy on us." // Lity
+pr.pet34.incipit = "Again we pray that the…"
+pr.pet34.text = "Again we pray that the Lord our God may hear the prayer of us sinners, and have mercy on us."
+pr.pet35.incipit = "Hear us, O God our…"
+pr.pet35.text = "Hear us, O God our Savior, the hope of all those who live everywhere on earth and those far out at sea or in the air. Be gracious toward our sins, Master, and have mercy on us."
+pr.pet36.incipit = "Accept our prayer; grant us…"
+pr.pet36.text = "Accept our prayer; grant us forgiveness of our transgressions; protect us under the shelter of Your wings; drive away from us every enemy and adversary; grant peace to our life; Lord have mercy on us and on Your world; and save our souls as a good and loving God."
+pr.pet37.incipit = "May the blessing and mercy…"
+pr.pet37.text = "May the blessing and mercy of the Lord come upon You, by His divine grace and love for mankind, always, now and ever, and to the ages of ages." // Dismissal
+pr.pet37a.incipit = "…"
+pr.pet37a.text = ""
+pr.pet37b.incipit = "…"
+pr.pet37b.text = ""
+pr.petBap01.incipit = "That he (she) that is…"
+pr.petBap01.text = "That he (she) that is about to be baptized herein may become worthy of the incorruptible Kingdom; let us pray to the Lord."
+pr.petBap02.incipit = "That he (she) that now…"
+pr.petBap02.text = "That he (she) that now comes to holy Illumination, and for his (her) salvation; let us pray to the Lord."
+pr.petBap03.incipit = "That he (she) may prove…"
+pr.petBap03.text = "That he (she) may prove to be a child of Light, and an inheritor of eternal blessings; let us pray to the Lord."
+pr.petBap04.incipit = "That he (she) may grow…"
+pr.petBap04.text = "That he (she) may grow in, and become a partaker of the Death and Resurrection of Christ our God; let us pray to the Lord."
+pr.petBap05.incipit = "That he (she) may preserve…"
+pr.petBap05.text = "That he (she) may preserve the garment of Baptism, and the earnest of the Spirit undefiled and blameless in the terrible Day of Christ our God; let us pray to the Lord."
+pr.petBap06.incipit = "That this water may be…"
+pr.petBap06.text = "That this water may be for him (her) a laver of Regeneration unto the remission of sins, and a garment of incorruption; let us pray to the Lord."
+pr.petBap07.incipit = "That He may deliver him…"
+pr.petBap07.text = "That He may deliver him (her) and us from tribulation, wrath, danger, and necessity; let us pray to the Lord."
+pr.petCatechumens01.text = "Catechumens, pray to the Lord."
+pr.petCatechumens02.text = "Let us, the faithful, pray for the catechumens."
+pr.petCatechumens03.text = "That the Lord have mercy on them."
+pr.petCatechumens04.text = "That He may teach them the word of truth."
+pr.petCatechumens05.text = "That He may reveal to them the Gospel of righteousness."
+pr.petCatechumens06.text = "That He may unite them to His holy, catholic, and apostolic Church."
+pr.petCatechumens07.text = "Save, have mercy, help and protect them, O God, by Your grace."
+pr.petCatechumens08.text = "Catechumens, bow Your heads to the Lord."
+pr.petCatechumens09.text = "So that they, together with us, may glorify Your honorable and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.petCatechumens10.text = "All catechumens depart. Catechumens depart."
+pr.petCatechumens11.text = "All catechumens depart. Let no catechumen remain."
+pr.petCatechumens12.text = "All faithful, let us again in peace pray to the Lord."
+pr.petCatechumens13.text = "All who are ready for illumination come forward."
+pr.petCatechumens14.text = "Pray all of you who are preparing for illumination. Let us pray to the Lord."
+pr.petCatechumens15.text = "Let us the faithful pray to the Lord for our brethren who are preparing for holy illumination and for their salvation."
+pr.petCatechumens16.text = "That the Lord our God establish and strengthen them, let us pray to the Lord."
+pr.petCatechumens17.text = "That He illumine them with the light of knowledge and piety, let us pray to the Lord."
+pr.petCatechumens18.text = "That He may make them worthy in due time of the baptism of regeneration, the remissions of sins, and the robe of incorruption, let us pray to the Lord."
+pr.petCatechumens19.text = "That He may regenerate them with water and the Spirit, let us pray to the Lord."
+pr.petCatechumens20.text = "That He may grant them the perfection of faith, let us pray to the Lord."
+pr.petCatechumens21.text = "That He may number them among His holy and chosen flock, let us pray to the Lord."
+pr.petCatechumens22.text = "Those who are preparing for illumination, bow Your heads to the Lord."
+pr.petCatechumens23.text = "All who are ready for illumination depart. You who are ready for illumination, depart."
+pr.petCatechumens24.text = "For You are our illumination and to You we give glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+pr.petCompline01.text = "Let us pray for the peace of the world."
+pr.petCompline02.text = "For all pious and Orthodox Christians."
+pr.petCompline03.text = "For our"
+pr.petCompline04.text = "For our nation."
+pr.petCompline05.text = "For the armed forces."
+pr.petCompline06.text = "For our departed fathers and mothers, sisters and brothers."
+pr.petCompline07.text = "For those who have mercy on us and serve us."
+pr.petCompline08.text = "For those who hate us and those who love us."
+pr.petCompline09.text = "For those who have asked us the unworthy to pray for them."
+pr.petCompline10.text = "For the release of captives."
+pr.petCompline11.text = "For those who are traveling."
+pr.petCompline12.text = "For those who are ill."
+pr.petCompline13.text = "Let us pray also for the abundance of the fruits of the earth."
+pr.petCompline14.text = "And for all our family and friends who have fallen asleep before us, the Orthodox here and everywhere piously laid to sleep."
+pr.petCompline15.text = "Let us also say for ourselves: Lord, have mercy. Lord, have mercy. Lord, have mercy."
+pr.petConsecration01.incipit = "For the work of our…"
+pr.petConsecration01.text = "For the work of our hands of our brethren with us, let us pray to the Lord."
+pr.petConsecration02.incipit = "For the sanctification of this…"
+pr.petConsecration02.text = "For the sanctification of this house and the Altar herein by the descent, power and action of the Holy Spirit, let us pray to the Lord."
+pr.petConsecration13a.text = "Remembering our most holy, pure, blessed, and glorious Lady, the Theotokos and ever-virgin Mary, "
+pr.petConsecration13b.text = "with all the saints, let us commit ourselves and one another and our whole life to Christ our God."
+pr.petCross05.incipit = "Again we pray for the…"
+pr.petCross05.text = "Again we pray for the soul of every Orthodox Christian, for their health, salvation, and forgiveness of sins."
+pr.petFuneral01.incipit = "Again we pray for the…"
+pr.petFuneral01.text = "Again we pray for the repose of the soul of the departed servant of God (Name), who has fallen asleep, and for the forgiveness of all his (her) sins, voluntary and involuntary."
+pr.petFuneral02.incipit = "May the Lord God place…"
+pr.petFuneral02.text = "May the Lord God place his (her) soul where the righteous repose. Let us ask for the mercies of God, the kingdom of Heaven, and the forgiveness of his (her) sins from Christ our immortal king and our God."
+pr.petKneel01.incipit = "For the people here present…"
+pr.petKneel01.text = "For the people here present, awaiting the grace of the Holy Spirit, let us pray to the Lord."
+pr.petKneel02.incipit = "For those who incline their…"
+pr.petKneel02.text = "For those who incline their hearts as well as the knee before the Lord, let us pray to the Lord."
+pr.petKneel03.incipit = "That we may be strengthened…"
+pr.petKneel03.text = "That we may be strengthened to complete works well-pleasing to the Lord, let us pray to the Lord."
+pr.petKneel04.incipit = "That His mercies may be…"
+pr.petKneel04.text = "That His mercies may be lavished upon us, let us pray to the Lord."
+pr.petKneel05.incipit = "That He will accept our…"
+pr.petKneel05.text = "That He will accept our act of kneeling as incense before Him, let us pray to the Lord."
+pr.petKneel06.incipit = "For all who stand in…"
+pr.petKneel06.text = "For all who stand in need of His help, let us pray to the Lord."
+pr.petKneel07.incipit = "Again, on bended knees, let…"
+pr.petKneel07.text = "Again, on bended knees, let us pray to the Lord."
+pr.petKneel08.incipit = "Help us, save us, have…"
+pr.petKneel08.text = "Help us, save us, have mercy on us, raise us up and protect us, O God, by Your grace."
+pr.petMonastery01a.text = "For"
+pr.petMonastery01b.text = "let us pray to the Lord."
+pr.petMonastery02a.text = "For"
+pr.petMonastery02b.text = "let us pray to the Lord."
+pr.petMonastery22.text = ""
+pr.petMonastery23.text = ""
+pr.petMonasteryLity01.text = ""
+pr.petMonasteryLity02.text = ""
+pr.petMonasteryLity03.text = ""
+pr.petOrdination01a.text = "For our" // supplement with client specific rank and name
+pr.petOrdination01b.text = "or his priesthood, sustenance, sojourn, peace, health, salvation, and for the works of his hands, let us pray to the Lord."
+pr.petOrdination02_bishop.text = ""
+pr.petOrdination02_deacon.text = "For the servant of God (Name of the new deacon), who has now been ordained a deacon, and for his salvation, let us pray to the Lord."
+pr.petOrdination02_priest.text = "For the servant of God (Name of the new presbyter), who has now been ordained a presbyter, and for his salvation, let us pray to the Lord."
+pr.petOrdination03_bishop.text = ""
+pr.petOrdination03_deacon.text = "That God who loves mankind will grant to him a pure and blameless diaconate, let us pray to the Lord."
+pr.petOrdination03_priest.text = "That God who loves mankind will grant to him a pure and blameless priesthood, let us pray to the Lord."
+pr.petOrdination04.text = ""
+pr.petSouls01.incipit = "Again we pray for the…"
+pr.petSouls01.text = "Again we pray for the blessed memory and eternal repose of all pious Orthodox Christians who have fallen asleep in the hope of the resurrection unto life everlasting, emperors, patriarchs, bishops, priests, deacons, hieromonks, deacon-monks, monks, nuns, fathers, forebears, grandparents, great-grandparents, parents, spouses, children, siblings, and all our relatives, from the beginning until the end of time; and for the forgiveness of all their sins, both voluntary and involuntary."
+pr.petSouls02.incipit = "May the Lord God place…"
+pr.petSouls02.text = "May the Lord God place their souls where the righteous repose. Let us ask for the mercies of God, the kingdom of Heaven, and the forgiveness of their sins from Christ our immortal king and God."
+pr.petUnction01.incipit = "For the people in attendance…"
+pr.petUnction01.text = "For the people in attendance who anticipate the grace of the Holy Spirit, let us pray to the Lord."
+pr.petUnction02.incipit = "That this oil will be…"
+pr.petUnction02.text = "That this oil will be blessed by the descent, power, and operation of the Holy Spirit, let us pray to the Lord."
+pr.petUnction03.incipit = "For the servants of God…"
+pr.petUnction03.text = "For the servants of God who have come for this holy sacrament, and that God will visit them, and that the grace of the Holy Spirit will come upon them, let us pray to the Lord."
+pr.petWater01.incipit = "That this water might be…"
+pr.petWater01.text = "That this water might be hallowed by the might, and operation, and descent of the Holy Spirit, let us pray to the Lord."
+pr.petWater02.incipit = "That there may descend upon…"
+pr.petWater02.text = "That there may descend upon these waters the cleansing operation of the super substantial Trinity; let us pray to the Lord."
+pr.petWater03.incipit = "That there may be sent…"
+pr.petWater03.text = "That there may be sent down upon it the Grace of Redemption, the blessing of the Jordan; let us pray to the Lord."
+pr.petWater03alt.incipit = "That there may be sent…"
+pr.petWater03alt.text = "That there may be sent down upon it the Grace of Redemption, the blessing of the Jordan; let us pray to the Lord."
+pr.petWater04.incipit = "That we may be illumined…"
+pr.petWater04.text = "That we may be illumined with the Light of Knowledge and Piety through the descent of the Holy Spirit; let us pray to the Lord."
+pr.petWater05.incipit = "That this water may become…"
+pr.petWater05.text = "That this water may become the gift of sanctification, redemption from sins, for the healing of soul and body, and for every suitable purpose, let us pray to the Lord."
+pr.petWater06.incipit = "That it may become water…"
+pr.petWater06.text = "That it may become water welling up to eternal life; let us pray to the Lord."
+pr.petWater07.incipit = "That this water may prove…"
+pr.petWater07.text = "That this water may prove effectual for the averting of every plot of visible and invisible enemies; let us pray to the Lord."
+pr.petWater07alt.incipit = "That this water may prove…"
+pr.petWater07alt.text = "That this water may prove effectual for the averting of every plot of visible and invisible enemies; let us pray to the Lord."
+pr.petWater08.incipit = "For those who are sprinkled…"
+pr.petWater08.text = "For those who are sprinkled with it and take it for the blessing of homes; let us pray to the Lord."
+pr.petWater09.incipit = "That it may be for…"
+pr.petWater09.text = "That it may be for the purification of soul and body to all who with faith take and drink of it; let us pray to the Lord."
+pr.petWater10.incipit = "That we may be granted…"
+pr.petWater10.text = "That we may be granted to be filled with sanctification through drinking this water, by the invisible manifestation of the Holy Spirit; let us pray to the Lord."
+pr.petWater11.incipit = "That the Lord God may…"
+pr.petWater11.text = "That the Lord God may listen to the voice of the prayer of us sinners and have mercy on us; let us pray to the Lord."
+pr.petWater12.incipit = "That there may descend upon…"
+pr.petWater12.text = "That there may descend upon these waters the cleansing operation of the super substantial Trinity; let us pray to the Lord."
+pr.petWater13.incipit = "That this water may be…"
+pr.petWater13.text = "That this water may be to the healing of souls and bodies, and to the banishment of every hostile power, let us pray to the Lord."
+pr.petWater14.incipit = "For all of them who…"
+pr.petWater14.text = "For all of them who need God to help and give protection, let us pray to the Lord."
+pr.petWater15.incipit = "That He will illuminate us…"
+pr.petWater15.text = "That He will illuminate us with the Light of understanding of the Consubstantial Trinity; let us pray to the Lord."
+pr.petWater16.incipit = "That the Lord our God…"
+pr.petWater16.text = "That the Lord our God will show us forth as sons and daughters and heirs of His Kingdom through the partaking and sprinkling of these waters; let us pray to the Lord."
+pr.petWed01.incipit = "For the servant of God…"
+pr.petWed01.text = "For the servant of God (Name) and the servant of God (Name) who now pledge themselves to one another, and for their salvation; let us pray to the Lord."
+pr.petWed02.incipit = "That there may be promised…"
+pr.petWed02.text = "That there may be promised unto them children for the continuation of their race, granting unto them all their prayers unto salvation; let us pray to the Lord."
+pr.petWed03.incipit = "That He send down upon…"
+pr.petWed03.text = "That He send down upon them love perfect and peaceful, and give them His protection; let us pray to the Lord."
+pr.petWed04.incipit = "That He may keep them…"
+pr.petWed04.text = "That He may keep them in oneness of mind, and in steadfastness of the Faith; let us pray to the Lord."
+pr.petWed05.incipit = "That He may bless them…"
+pr.petWed05.text = "That He may bless them in harmony and perfect trust; let us pray to the Lord."
+pr.petWed06.incipit = "That He may keep the…"
+pr.petWed06.text = "That He may keep the course and manner of their life blameless; let us pray to the Lord.."
+pr.petWed07.incipit = "That the Lord God may…"
+pr.petWed07.text = "That the Lord God may grant unto them an honorable marriage and a bed undefiled; let us pray to the Lord."
+pr.petWed08.incipit = "For the servants of God…"
+pr.petWed08.text = "For the servants of God (Name) and (Name), who are now being joined to one another in the community of Marriage, and for their salvation; let us pray to the Lord."
+pr.petWed09.incipit = "That this marriage may be…"
+pr.petWed09.text = "That this marriage may be blessed as was that of Cana of Galilee; let us pray to the Lord."
+pr.petWed10.incipit = "That there may be given…"
+pr.petWed10.text = "That there may be given unto them soberness of life, and fruit of the womb as may be most expedient for them; let us pray to the Lord."
+pr.petWed11.incipit = "That they may rejoice in…"
+pr.petWed11.text = "That they may rejoice in the beholding of sons and daughters; let us pray to the Lord."
+pr.petWed12.incipit = "That there may be granted…"
+pr.petWed12.text = "That there may be granted unto them the happiness of abundant fertility, and a course of life blameless and unashamed; let us pray to the Lord."
+pr.petWed13.incipit = "That there may be granted…"
+pr.petWed13.text = "That there may be granted unto them and unto us all prayers that tend unto salvation; let us pray to the Lord"
+pr.petWed14.incipit = "That both they and we…"
+pr.petWed14.text = "That both they and we may be delivered from tribulation, wrath, danger, and necessity; let us pray to the Lord."
+pr.photagogic_begin_Saints.incipit = "By the intercessions of the…"
+pr.photagogic_begin_Saints.text = "By the intercessions of the Saints, O Lord,"
+pr.photagogic_begin_Theotokos.incipit = "By the intercessions of the…"
+pr.photagogic_begin_Theotokos.text = "By the intercessions of the Theotokos, O Lord,"
+pr.photagogic_end_Saints.incipit = "by the intercessions of the…"
+pr.photagogic_end_Saints.text = "by the intercessions of the Saints, and save me."
+pr.photagogic_end_Theotokos.incipit = "by the intercessions of the…"
+pr.photagogic_end_Theotokos.text = "by the intercessions of the Theotokos, and save me."
+pr.PrayerForDeceased.incipit = "O God of spirits and…"
+pr.PrayerForDeceased.text = "O God of spirits and of all flesh, You have trampled down death and have abolished the power of the devil, giving life to Your world. Give rest to the souls of Your departed servants, emperors, patriarchs, bishops, priests, deacons, hieromonks, deacon-monks, monks, and nuns, all pious Orthodox Christians who have fallen asleep in the hope of the resurrection unto life everlasting, from all the ends of the world, fathers, forebears, grandparents, great-grandparents, parents, spouses, children, siblings, and all our relatives. Give them rest in a place of light, in a place of repose, in a place of refreshment, where there is no pain, sorrow, and suffering. As a good and loving God, forgive every sin they have committed in thought, word or deed, for there is no one who lives and is sinless. You alone are without sin. Your righteousness is an everlasting righteousness, and Your word is truth."
+pr.PrayerOfHours.incipit = "O Christ our God, who…"
+pr.PrayerOfHours.text = "O Christ our God, who at all times and at every hour, both in heaven and on earth, are worshipped and glorified, long suffering and plenteous in mercy and compassion; who love the just and show mercy to the sinners; who call all men to salvation through the promise of the blessings to come: Do You, the same Lord, receive also our supplications at this present time, and direct our lives according to Your commandments. Sanctify our souls; purify our bodies; set our minds right; clear up our thoughts, and deliver us from every sorrow, evil and distress. Surround us with Your holy Angels so that being guarded and guided by their presence, we may arrive at the unity of the faith and the knowledge of Your ineffable glory; for blessed are You unto the ages of ages. Amen."
+pr.PrayerOfIncense.incipit = "We offer You incense, Christ…"
+pr.PrayerOfIncense.text = "We offer You incense, Christ our God, as a spiritual sweet fragrance. We pray You accept it at Your altar which is above the heavens, and in return send down to us the grace of Your all-holy Spirit. Amen."
+pr.PrayerOfStEphrem1.incipit = "O Lord and Master of…"
+pr.PrayerOfStEphrem1.text = "O Lord and Master of my life, do not permit the spirit of laziness and meddling, the lust for power and idle talk to come into me."
+pr.PrayerOfStEphrem2.incipit = "Instead, grant me, Your servant…"
+pr.PrayerOfStEphrem2.text = "Instead, grant me, Your servant, the spirit of prudence, humility, patience and love."
+pr.PrayerOfStEphrem3.incipit = "Yes, Lord and King, give…"
+pr.PrayerOfStEphrem3.text = "Yes, Lord and King, give me the power to see my own faults and not to judge my brother."
+pr.PrayerOfStEphrem4.incipit = "For You are blessed unto…"
+pr.PrayerOfStEphrem4.text = "For You are blessed unto the ages of ages. Amen."
+pr.res01.text = "Lord, have mercy."
+pr.res02.text = "Grant this, O Lord."
+pr.res03.text = "To You, O Lord."
+pr.res04.text = "Amen."
+pr.res05.text = "And with your spirit."
+pr.res06.MM.long.sos.text = properties_en_US_holycross.media.key
+pr.res06.text = "Lord, have mercy. Lord, have mercy. Lord, have mercy."
+pr.res07.text = "Eis polla eti, Despota!"
+pr.res08.text = "Master, bless!"
+pr.res09.text = "Father, bless!"
+pr.res10.text = "Amen. Amen. Amen."
+pr.res11.text = ""
+pr.res12.text = "Holy Father, bless."
+pr.res13.text = "Holy Master, bless."
+pr.res14.incipit = "Everlasting be his memory. Everlasting…"
+pr.res14.text = "Everlasting be his memory. Everlasting be his memory. Everlasting be his memory."
+pr.res15.incipit = "Everlasting be her memory. Everlasting…"
+pr.res15.text = "Everlasting be her memory. Everlasting be her memory. Everlasting be her memory."
+pr.res16.incipit = "Everlasting be their memory. Everlasting…"
+pr.res16.text = "Everlasting be their memory. Everlasting be their memory. Everlasting be their memory."
+pr.sup00.incipit = "O God, save Your people…"
+pr.sup00.text = "O God, save Your people and bless Your inheritance. Look upon Your world with mercy and compassion. Raise the Orthodox Christians in glory, and send down upon us Your rich mercies,"
+pr.sup00a.incipit = "Most merciful Master, Lord Jesus…"
+pr.sup00a.text = "Most merciful Master, Lord Jesus Christ our God,"
+pr.sup01.text = "through the intercessions of our most pure Lady the Theotokos and ever-Virgin Mary,"
+pr.sup02.text = "the power of the precious and life giving Cross,"
+pr.sup03.text = "the protection of the honorable, bodiless Powers of heaven,"
+pr.sup04.text = "the supplications of the honorable and glorious prophet, and forerunner John the Baptist,"
+pr.sup05.text = "the holy, glorious, and praiseworthy Apostles,"
+pr.sup06_basil.text = "Gregory the Theologian and John Chrysostom,"
+pr.sup06_gregory.text = "Basil the Great and John Chrysostom,"
+pr.sup06_john.text = "Basil the Great and Gregory the Theologian,"
+pr.sup06.text = "our Fathers among the Saints, the great hierarchs and ecumenical teachers, Basil the Great, Gregory the Theologian and John Chrysostom,"
+pr.sup06a.text = "our Fathers among the Saints,"
+pr.sup06b.text = "the great hierarchs and ecumenical teachers,"
+pr.sup07_athanasios_cyril.text = "John the Merciful, patriarch of Alexandria;"
+pr.sup07_athanasios.text = "Cyril and John the Merciful, patriarchs of Alexandria;"
+pr.sup07_cyril.text = "Athanasios and John the Merciful, patriarchs of Alexandria;"
+pr.sup07_john.text = "Athanasios and Cyril, patriarchs of Alexandria;"
+pr.sup07.text = "Athanasios, Cyril, and John the Merciful, patriarchs of Alexandria;"
+pr.sup08_nektarios.text = "Nicholas, bishop of Myra, Spyridon, bishop of Trimythous, the wonder-workers;"
+pr.sup08_nicholas.text = "Spyridon, bishop of Trimythous, Nektarios of Pentapolis, the wonder-workers;"
+pr.sup08_spyridon.text = "Nicholas, bishop of Myra, Nektarios of Pentapolis, the wonder-workers;"
+pr.sup08.text = "Nicholas, bishop of Myra, Spyridon, bishop of Trimythous, Nektarios of Pentapolis, the wonder-workers;"
+pr.sup09_demetrios.text = "the holy, glorious great Martyrs George the Victorious, Theodore the Teron, and Theodore the General, Menas the Wonderworker,"
+pr.sup09_general.text = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the Teron, and Menas the Wonderworker,"
+pr.sup09_george.text = "the holy, glorious great Martyrs Demetrios the Myrobletes, Theodore the Teron, and Theodore the General, Menas the Wonderworker,"
+pr.sup09_minas.text = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the Teron, and Theodore the General,"
+pr.sup09_tyro.text = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the General, and Menas the Wonderworker,"
+pr.sup09.text = "the holy, glorious great Martyrs George the Victorious, Demetrios the Myrobletes, Theodore the Teron, and Theodore the General, Menas the Wonderworker,"
+pr.sup10_eleutherios.text = "the Hieromartyr Haralambos;"
+pr.sup10_haralambos.text = "the Hieromartyr Eleftherios;"
+pr.sup10.text = "the Hieromartyrs Haralambos and Eleftherios;"
+pr.sup11_anastasia.text = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
+pr.sup11_barbara.text = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
+pr.sup11_catherine.text = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Kyriake, Fotene, Marina, Paraskeve and Irene;"
+pr.sup11_eufimia.text = "the holy, glorious, and victorious martyrs; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
+pr.sup11_irene.text = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, and Paraskeve;"
+pr.sup11_kyriaki.text = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine,Fotene, Marina, Paraskeve and Irene;"
+pr.sup11_marina.text = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Paraskeve and Irene;"
+pr.sup11_paraskevi.text = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, and Irene;"
+pr.sup11_photeini.text = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Marina, Paraskeve and Irene;"
+pr.sup11_thekla.text = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
+pr.sup11.text = "the holy, glorious, and victorious martyrs; the glorious great Martyr and all-laudable Euphemia; the holy and glorious Martyrs Thecla, Barbara, Anastasia, Katherine, Kyriake, Fotene, Marina, Paraskeve and Irene;"
+pr.sup12.text = "of our holy God-bearing Fathers;"
+pr.sup13.text = "(the patron saint of the church);"
+pr.sup14.text = "the holy and righteous ancestors of God Joachim and Anna,"
+pr.sup15.text = "and of all your Saints."
+pr.sup16a.text = "(the saint of the day),"
+pr.sup16b.text = "whose memory we commemorate today;"
+pr.sup99.incipit = "We beseech you, only merciful…"
+pr.sup99.text = "We beseech you, only merciful Lord, hear us sinners who pray to you and have mercy on us."
+pr.ThroughThePrayers_bishop.incipit = "Through the prayers of our…"
+pr.ThroughThePrayers_bishop.text = "Through the prayers of our holy master, Lord Jesus Christ, our God, have mercy on us and save us."
+pr.ThroughThePrayers_fathers.incipit = "Through the prayers of our…"
+pr.ThroughThePrayers_fathers.text = "Through the prayers of our holy fathers, Lord Jesus Christ, our God, have mercy on us and save us."
+pr.triadic_end_Saints.incipit = "By the intercessions of the…"
+pr.triadic_end_Saints.text = "By the intercessions of the Saints save us."
+pr.triadic_end_Theotokos.incipit = "Through the Theotokos have mercy…"
+pr.triadic_end_Theotokos.text = "Through the Theotokos have mercy on us."
+pr.verse_Angels.incipit = "Archangels of God, intercede for…"
+pr.verse_Angels.text = "Archangels of God, intercede for us."
+pr.verse_Apostle.incipit = "Apostle of Christ, intercede for…"
+pr.verse_Apostle.text = "Apostle of Christ, intercede for us."
+pr.verse_Apostles.incipit = "Apostles of Christ, intercede for…"
+pr.verse_Apostles.text = "Apostles of Christ, intercede for us."
+pr.verse_ApostlesMartyrs.incipit = "Apostles and Martyrs of Christ…"
+pr.verse_ApostlesMartyrs.text = "Apostles and Martyrs of Christ, intercede for us."
+pr.verse_Archangel.incipit = "Archangel of God, intercede for…"
+pr.verse_Archangel.text = "Archangel of God, intercede for us."
+pr.verse_Archangels.incipit = "Archangels of God, intercede for…"
+pr.verse_Archangels.text = "Archangels of God, intercede for us."
+pr.verse_Baptist.incipit = "Baptist of Christ, intercede for…"
+pr.verse_Baptist.text = "Baptist of Christ, intercede for us."
+pr.verse_Cross.incipit = "All-holy Cross of Christ, guard…"
+pr.verse_Cross.text = "All-holy Cross of Christ, guard us by your power."
+pr.verse_Crucifixion.incipit = "Glory to Your holy Crucifixion…"
+pr.verse_Crucifixion.text = "Glory to Your holy Crucifixion, O Lord."
+pr.verse_DevoutMan.incipit = "Devout Saint of God, intercede…"
+pr.verse_DevoutMan.text = "Devout Saint of God, intercede for us."
+pr.verse_DevoutMen.incipit = "Devout Saints of God, intercede…"
+pr.verse_DevoutMen.text = "Devout Saints of God, intercede for us"
+pr.verse_DevoutWoman.incipit = "Devout Saint of God, intercede…"
+pr.verse_DevoutWoman.text = "Devout Saint of God, intercede for us"
+pr.verse_God.incipit = "Glory to You, our God…"
+pr.verse_God.text = "Glory to You, our God, glory to You."
+pr.verse_GreatMartyrs.incipit = "Holy Great Martyrs of Christ…"
+pr.verse_GreatMartyrs.text = "Holy Great Martyrs of Christ, intercede for us."
+pr.verse_Hierarchs.incipit = "Holy Hierarchs and Teachers of…"
+pr.verse_Hierarchs.text = "Holy Hierarchs and Teachers of the whole world, intercede for us."
+pr.verse_Mercy.incipit = "Have mercy on me, O…"
+pr.verse_Mercy.text = "Have mercy on me, O God. Have mercy on me."
+pr.verse_Nicholas.incipit = "Saint Nicholas, Hierarch of Christ…"
+pr.verse_Nicholas.text = "Saint Nicholas, Hierarch of Christ, intercede for us."
+pr.verse_Panteleimon.incipit = "Holy and glorious Great Martyr…"
+pr.verse_Panteleimon.text = "Holy and glorious Great Martyr of Christ and healer Panteleimon, intercede for us."
+pr.verse_Prophet.incipit = "Prophet of God, intercede for…"
+pr.verse_Prophet.text = "Prophet of God, intercede for us."
+pr.verse_Resurrection.incipit = "Glory to Your holy Resurrection…"
+pr.verse_Resurrection.text = "Glory to Your holy Resurrection, O Lord."
+pr.verse_Righteous.incipit = "Holy Forefathers of Christ, intercede…"
+pr.verse_Righteous.text = "Holy Forefathers of Christ, intercede for us."
+pr.verse_SaintM.incipit = "Saint of God, intercede for…"
+pr.verse_SaintM.text = "Saint of God, intercede for us."
+pr.verse_SaintsM.incipit = "Saints of God, intercede for…"
+pr.verse_SaintsM.text = "Saints of God, intercede for us."
+pr.verse_SaintsW.incipit = "Saints of God, intercede for…"
+pr.verse_SaintsW.text = "Saints of God, intercede for us."
+pr.verse_SaintW.incipit = "Saint of God, intercede for…"
+pr.verse_SaintW.text = "Saint of God, intercede for us."
+pr.verse_SoulSaturday.incipit = "By the intercessions of Your…"
+pr.verse_SoulSaturday.text = "By the intercessions of Your Martyrs, O Lord, grant rest to the souls of Your servants."
+pr.verse_Theotokos.incipit = "Most-holy Theotokos, save us…"
+pr.verse_Theotokos.text = "Most-holy Theotokos, save us."
+pr.verse_Trinity.incipit = "Holy Trinity, our God, have…"
+pr.verse_Trinity.text = "Holy Trinity, our God, have mercy on us and save us."
+pr.verse_Unmercenaries.incipit = "Holy Unmercenaries and miracle-workers, intercede…"
+pr.verse_Unmercenaries.text = "Holy Unmercenaries and miracle-workers, intercede for us."
+pr.WeBlessFather.incipit = "We bless Father, Son, and…"
+pr.WeBlessFather.text = "We bless Father, Son, and Holy Spirit."

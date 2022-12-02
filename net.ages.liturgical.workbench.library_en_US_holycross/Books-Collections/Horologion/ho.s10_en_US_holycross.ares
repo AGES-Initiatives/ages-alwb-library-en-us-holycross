@@ -72,8 +72,8 @@ hoVE.FridayAlleluia.text = "" //for possible media
 R15 = ""
 R16 = ""
 //This Prayer is also in the Small Doxology, at Matins, Compline etc. with "day" and"night"
-hoVE.Prayer_Kataxioson.incipit = "O Lord, keep us this evening…"
-hoVE.Prayer_Kataxioson.text = "O Lord, keep us this evening without sin. Blessed are you, O Lord, God of our fathers, and praised and glorified is your name to the ages. Amen. O Lord, let your mercy be upon us for we have set our hope in you. Blessed are you, O Lord, teach me your commandments. Blessed are you, Master, grant me understanding of your commandments. Blessed are you, Holy One, enlighten me with your commandments. Lord, your mercy is forever. Do not despise the works of your hands. To you is due praise, to you is due song, to you is due glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
+hoVE.Prayer_Katpr.Axios.texton.incipit = "O Lord, keep us this evening…"
+hoVE.Prayer_Katpr.Axios.texton.text = "O Lord, keep us this evening without sin. Blessed are you, O Lord, God of our fathers, and praised and glorified is your name to the ages. Amen. O Lord, let your mercy be upon us for we have set our hope in you. Blessed are you, O Lord, teach me your commandments. Blessed are you, Master, grant me understanding of your commandments. Blessed are you, Holy One, enlighten me with your commandments. Lord, your mercy is forever. Do not despise the works of your hands. To you is due praise, to you is due song, to you is due glory, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 R17 = ""
 R18 = ""
 R19 = ""
@@ -81,7 +81,7 @@ R20 = ""
 R21 = ""
 hoVE.LentApolytikion1.mode = misc_en_US_holycross.Mode5
 hoVE.LentApolytikion1.incipit = "…"
-hoVE.LentApolytikion1.text = prayers_en_US_holycross.TheotokeParthene.text
+hoVE.LentApolytikion1.text = "" //prayers_en_US_holycross.TheotokeParthene.text
 hoVE.LentApolytikion2.mode = misc_en_US_holycross.Mode5
 hoVE.LentApolytikion2.incipit = "…"
 hoVE.LentApolytikion2.text = ""
@@ -96,17 +96,12 @@ R22 = ""
 R23 = ""
 R24 = ""
 R25 = ""
-hoVE.Prayer_PanagiaTrias.incipit = "…"
-hoVE.Prayer_PanagiaTrias.text = //All-holy Trinity, the consubstantial dominion…
-hoVE.Prayer_EiiToOnomaKyriou.incipit = "…"
-hoVE.Prayer_EiiToOnomaKyriou.text = //Blessed be the name of the Lord…
 R26 = ""
 
-// Not in Orologion
 //Lity
-hoVE.MM.LityKyrieEleison.text.text = properties_en_US_holycross.media.key
+hoVE.MM.LityKyrieEleison.text = properties_en_US_holycross.media.key
 
-// Artoclasia
-hoVE.MM.ArtoklasiaTheotokeParthene.text = properties_en_US_holycross.media.key
-hoVE.MM.ArtoklasiaHymn.text = properties_en_US_holycross.media.key
+// Blessing of Loaves
+hoVE.MM.LoavesHymn1_Theotokos.text = properties_en_US_holycross.media.key
+hoVE.MM.LoavesHymn2_ps33v11.text = properties_en_US_holycross.media.key
 

@@ -133,7 +133,7 @@ hoMA.FuneralEvlog8.mode = misc_en_US_holycross.Mode5
 hoMA.FuneralEvlog8.incipit = "Rejoice, gracious Lady, who for…"
 hoMA.FuneralEvlog8.text = "Rejoice, gracious Lady, who for the salvation of all gave birth to God in the flesh, and through whom the human race has found salvation. Through you, pure and blessed Theotokos, may we find Paradise."
 hoMA.FuneralEvlog9.mode = misc_en_US_holycross.Mode5
-hoMA.FuneralEvlog9.text = prayers_en_US_holycross.Allilouia3Doxa.text
+hoMA.FuneralEvlog9.text = prayers_en_US_holycross.pr.Alleluia3Glory.text
 
 //Psalm 50
 //hoMA.Psalm50.text = "" //for media
