@@ -2,24 +2,28 @@ A_Resource_Whose_Name = he.a.m5_en_US_holycross
 
 heAU.title = ""
 
+heAU.ChairoisAskitikon.greekname = ""
 heAU.ChairoisAskitikon.mode = miscellanea_en_US_holycross.misc.Mode5
 heAU.ChairoisAskitikon.notmetered = "N/M (Rejoice.)"
 heAU.ChairoisAskitikon.name = "N/M (Rejoice.)"
 heAU.ChairoisAskitikon.incipit = "…"
 heAU.ChairoisAskitikon.text = ""
 
+heAU.LampeiSimeron.greekname = ""
 heAU.LampeiSimeron.mode = miscellanea_en_US_holycross.misc.Mode5
 heAU.LampeiSimeron.notmetered = "N/M ()"
 heAU.LampeiSimeron.name = ""
 heAU.LampeiSimeron.incipit = "…"
 heAU.LampeiSimeron.text = ""
 
+heAU.OsiePater.greekname = ""
 heAU.OsiePater.mode = miscellanea_en_US_holycross.misc.Mode5
 heAU.OsiePater.notmetered = "N/M (God-bearing Father.)"
 heAU.OsiePater.name = "N/M (God-bearing Father.)"
 heAU.OsiePater.incipit = "…"
 heAU.OsiePater.text = ""
 
+heAU.TonSynanarchonLogon.greekname = ""
 heAU.TonSynanarchonLogon.mode = miscellanea_en_US_holycross.misc.Mode5
 heAU.TonSynanarchonLogon.notmetered = "N/M (Let us worship the Word.)"
 heAU.TonSynanarchonLogon.name = "N/M (Let us worship the Word.)"
