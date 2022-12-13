@@ -291,7 +291,7 @@ ocMA.Kathisma12.incipit = "…"
 ocMA.Kathisma12.text = ""
 
 ocMA.Kathisma13.mode = miscellanea_en_US_holycross.misc.Mode4
-ocMA.Kathisma13.melody = miscellanea_en_US_holycross.misc.Automelon
+ocMA.Kathisma13.melody = he.a.m4_en_US_holycross.heAU.KateplagiIosif.melody
 ocMA.Kathisma13.incipit = he.a.m4_en_US_holycross.heAU.KateplagiIosif.incipit
 ocMA.Kathisma13.text = he.a.m4_en_US_holycross.heAU.KateplagiIosif.text
 

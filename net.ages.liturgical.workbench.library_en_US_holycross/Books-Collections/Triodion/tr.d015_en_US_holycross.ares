@@ -198,7 +198,7 @@ trMA.Ode3Kathisma4.incipit = "…"
 trMA.Ode3Kathisma4.text = ""
 
 trMA.Ode3Kathisma5.mode = miscellanea_en_US_holycross.misc.Mode6
-trMA.Ode3Kathisma5.melody = miscellanea_en_US_holycross.misc.Automelon
+trMA.Ode3Kathisma5.melody = he.a.m6_en_US_holycross.heAU.ElpisTouKosmouAgathi.melody
 trMA.Ode3Kathisma5.incipit = he.a.m6_en_US_holycross.heAU.ElpisTouKosmouAgathi.incipit
 trMA.Ode3Kathisma5.text = he.a.m6_en_US_holycross.heAU.ElpisTouKosmouAgathi.text
 
