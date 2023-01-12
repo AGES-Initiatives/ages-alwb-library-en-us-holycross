@@ -54,6 +54,7 @@ peVE.AposGlory.incipit = pe.d096_en_US_holycross.peVE.AposGlory.incipit
 peVE.AposGlory.text = pe.d096_en_US_holycross.peVE.AposGlory.text
 
 peMA.Kathisma11.mode = miscellanea_en_US_holycross.misc.Mode4
+peMA.Kathisma11.greekmelody = pe.d099_en_US_holycross.peMA.Kathisma22.greekmelody
 peMA.Kathisma11.melody = pe.d099_en_US_holycross.peMA.Kathisma22.melody
 peMA.Kathisma11.incipit = pe.d099_en_US_holycross.peMA.Kathisma22.incipit
 peMA.Kathisma11.text = pe.d099_en_US_holycross.peMA.Kathisma22.text
@@ -74,6 +75,7 @@ peMA.Kathisma1T.incipit = "…"
 peMA.Kathisma1T.text = //oc.m4.d2_en_US_holycross.ocMA.Kathisma13.text
 
 peMA.Kathisma21.mode = miscellanea_en_US_holycross.misc.Mode8
+peMA.Kathisma21.greekmelody = pe.d095_en_US_holycross.peMA.Ode3Kathisma2.greekmelody
 peMA.Kathisma21.melody = pe.d095_en_US_holycross.peMA.Ode3Kathisma2.melody
 peMA.Kathisma21.incipit = pe.d095_en_US_holycross.peMA.Ode3Kathisma2.incipit
 peMA.Kathisma21.text = pe.d095_en_US_holycross.peMA.Ode3Kathisma2.text

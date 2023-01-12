@@ -14,6 +14,7 @@ peHO.note2 = ""
 peDA.dismissal = dismissals_en_US_holycross.dis00.resurrection
 
 peVE.Stichera01.mode = miscellanea_en_US_holycross.misc.Mode5
+peVE.Stichera01.greekmelody = he.a.m5_en_US_holycross.heAU.ChairoisAskitikon.greekname
 peVE.Stichera01.melody = he.a.m5_en_US_holycross.heAU.ChairoisAskitikon.name
 peVE.Stichera01.incipit = "…"
 peVE.Stichera01.text = ""
@@ -54,6 +55,7 @@ peVE.AposGlory.incipit = "…"
 peVE.AposGlory.text = //pe.d106_en_US_holycross.peVE.Stichera10.text
 
 peMA.Kathisma11.mode = //oc.m5.d1_en_US_holycross.ocMA.Kathisma11.mode
+peMA.Kathisma11.greekmelody = //oc.m5.d1_en_US_holycross.ocMA.Kathisma11.greekmelody
 peMA.Kathisma11.melody = //oc.m5.d1_en_US_holycross.ocMA.Kathisma11.melody
 peMA.Kathisma11.incipit = "…"
 peMA.Kathisma11.text = //oc.m5.d1_en_US_holycross.ocMA.Kathisma11.text
@@ -64,6 +66,7 @@ peMA.Kathisma12.incipit = "…"
 peMA.Kathisma12.text = //oc.m5.d2_en_US_holycross.ocMA.Kathisma21.text
 
 peMA.Kathisma13.mode = //oc.m5.d5_en_US_holycross.ocMA.Kathisma32.mode
+peMA.Kathisma13.greekmelody = //oc.m5.d5_en_US_holycross.ocMA.Kathisma32.greekmelody
 peMA.Kathisma13.melody = //oc.m5.d5_en_US_holycross.ocMA.Kathisma32.melody
 peMA.Kathisma13.incipit = "…"
 peMA.Kathisma13.text = //oc.m5.d5_en_US_holycross.ocMA.Kathisma32.text
@@ -74,6 +77,7 @@ peMA.Kathisma1T.incipit = "…"
 peMA.Kathisma1T.text = //oc.m5.d2_en_US_holycross.ocVE.ApolTheotokionVM.text
 
 peMA.Kathisma21.mode = miscellanea_en_US_holycross.misc.Mode5
+peMA.Kathisma21.greekmelody = he.a.m5_en_US_holycross.heAU.TonSynanarchonLogon.greekname
 peMA.Kathisma21.melody = he.a.m5_en_US_holycross.heAU.TonSynanarchonLogon.name
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
@@ -99,6 +103,7 @@ peMA.LaudsGlory.incipit = "…"
 peMA.LaudsGlory.text = //pe.d106_en_US_holycross.peVE.Stichera10.text
 
 peMA.Aposticha1.mode = miscellanea_en_US_holycross.misc.Mode5
+peMA.Aposticha1.greekmelody = he.a.m5_en_US_holycross.heAU.OsiePater.greekname
 peMA.Aposticha1.melody = he.a.m5_en_US_holycross.heAU.OsiePater.name
 peMA.Aposticha1.incipit = "…"
 peMA.Aposticha1.text = ""

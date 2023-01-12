@@ -74,6 +74,7 @@ peMA.Kathisma1T.incipit = "…"
 peMA.Kathisma1T.text = ""
 
 peMA.Kathisma21.mode = miscellanea_en_US_holycross.misc.Mode8
+peMA.Kathisma21.greekmelody = he.a.m8_en_US_holycross.heAU.TinSofianKaiLogon.greekname
 peMA.Kathisma21.melody = he.a.m8_en_US_holycross.heAU.TinSofianKaiLogon.notmetered
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""

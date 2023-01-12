@@ -109,6 +109,7 @@ peMA.C1.verse = prayers_en_US_holycross.pr.verse_Theotokos.text
 
 peMA.Ode1C11.ode = miscellanea_en_US_holycross.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_US_holycross.misc.Mode1
+peMA.Ode1C11.greekmelody = //he.h.m1_en_US_holycross.heHE.AnastaseosImera.greekmelody
 peMA.Ode1C11.melody = //he.h.m1_en_US_holycross.heHE.AnastaseosImera.notmetered
 peMA.Ode1C11.incipit = "…"
 peMA.Ode1C11.text = ""
@@ -133,6 +134,7 @@ peMA.Ode1C14.text = ""
 
 peMA.Ode3C11.ode = miscellanea_en_US_holycross.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_US_holycross.misc.Mode1
+peMA.Ode3C11.greekmelody = //he.h.m1_en_US_holycross.heHE.DeftePomaPiomen.greekmelody
 peMA.Ode3C11.melody = //he.h.m1_en_US_holycross.heHE.DeftePomaPiomen.notmetered
 peMA.Ode3C11.incipit = "…"
 peMA.Ode3C11.text = ""
@@ -156,12 +158,14 @@ peMA.Ode3C14.incipit = "…"
 peMA.Ode3C14.text = ""
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_US_holycross.misc.Mode8
+peMA.Ode3Kathisma1.greekmelody = //he.a.m8_en_US_holycross.heAU.TinSofianKaiLogon.greekname
 peMA.Ode3Kathisma1.melody = //he.a.m8_en_US_holycross.heAU.TinSofianKaiLogon.notmetered
 peMA.Ode3Kathisma1.incipit = "…"
 peMA.Ode3Kathisma1.text = ""
 
 peMA.Ode4C11.ode = miscellanea_en_US_holycross.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_US_holycross.misc.Mode1
+peMA.Ode4C11.greekmelody = //he.h.m1_en_US_holycross.heHE.EpiTisTheiasFylakis.greekmelody
 peMA.Ode4C11.melody = //he.h.m1_en_US_holycross.heHE.EpiTisTheiasFylakis.notmetered
 peMA.Ode4C11.incipit = "…"
 peMA.Ode4C11.text = ""
@@ -186,6 +190,7 @@ peMA.Ode4C14.text = ""
 
 peMA.Ode5C11.ode = miscellanea_en_US_holycross.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_US_holycross.misc.Mode1
+peMA.Ode5C11.greekmelody = //he.h.m1_en_US_holycross.heHE.OrthrisomenOrthrouVatheos.greekmelody
 peMA.Ode5C11.melody = //he.h.m1_en_US_holycross.heHE.OrthrisomenOrthrouVatheos.notmetered
 peMA.Ode5C11.incipit = "…"
 peMA.Ode5C11.text = ""
@@ -210,6 +215,7 @@ peMA.Ode5C14.text = ""
 
 peMA.Ode6C11.ode = miscellanea_en_US_holycross.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_US_holycross.misc.Mode1
+peMA.Ode6C11.greekmelody = //he.h.m1_en_US_holycross.heHE.KatilthesEnToisKatotatois.greekmelody
 peMA.Ode6C11.melody = //he.h.m1_en_US_holycross.heHE.KatilthesEnToisKatotatois.notmetered
 peMA.Ode6C11.incipit = "…"
 peMA.Ode6C11.text = ""
@@ -254,6 +260,7 @@ peMA.Synaxarion.LastLine = ""
 
 peMA.Ode7C11.ode = miscellanea_en_US_holycross.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_US_holycross.misc.Mode1
+peMA.Ode7C11.greekmelody = //he.h.m1_en_US_holycross.heHE.OPaidasEkKaminou.greekmelody
 peMA.Ode7C11.melody = //he.h.m1_en_US_holycross.heHE.OPaidasEkKaminou.notmetered
 peMA.Ode7C11.incipit = "…"
 peMA.Ode7C11.text = ""
@@ -278,6 +285,7 @@ peMA.Ode7C14.text = ""
 
 peMA.Ode8C11.ode = miscellanea_en_US_holycross.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_US_holycross.misc.Mode1
+peMA.Ode8C11.greekmelody = //he.h.m1_en_US_holycross.heHE.AftiIKliti.greekmelody
 peMA.Ode8C11.melody = //he.h.m1_en_US_holycross.heHE.AftiIKliti.notmetered
 peMA.Ode8C11.incipit = "…"
 peMA.Ode8C11.text = ""
@@ -302,6 +310,7 @@ peMA.Ode8C14.text = ""
 
 peMA.Ode9C11.ode = miscellanea_en_US_holycross.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_US_holycross.misc.Mode1
+peMA.Ode9C11.greekmelody = //he.h.m1_en_US_holycross.heHE.FotizouFotizou.greekmelody
 peMA.Ode9C11.melody = //he.h.m1_en_US_holycross.heHE.FotizouFotizou.notmetered
 peMA.Ode9C11.incipit = "…"
 peMA.Ode9C11.text = ""

@@ -3,6 +3,7 @@ A_Resource_Whose_Name = oc.m4.d7_en_US_holycross
 ocBK.ModeNaked = miscellanea_en_US_holycross.misc.Mode4.naked
 
 ocVE.Stichera1.mode = miscellanea_en_US_holycross.misc.Mode4
+ocVE.Stichera1.greekmelody = he.a.m4_en_US_holycross.heAU.IthelonDakrysinExaleipsai.greekname
 ocVE.Stichera1.melody = he.a.m4_en_US_holycross.heAU.IthelonDakrysinExaleipsai.notmetered
 ocVE.Stichera1.incipit = "…"
 ocVE.Stichera1.text = ""
@@ -18,6 +19,7 @@ ocVE.Stichera3.incipit = "…"
 ocVE.Stichera3.text = ""
 
 ocVE.Stichera4.mode = miscellanea_en_US_holycross.misc.Mode4
+ocVE.Stichera4.greekmelody = he.a.m4_en_US_holycross.heAU.IthelonDakrysinExaleipsai.greekname
 ocVE.Stichera4.melody = he.a.m4_en_US_holycross.heAU.IthelonDakrysinExaleipsai.notmetered
 ocVE.Stichera4.incipit = "…"
 ocVE.Stichera4.text = ""
@@ -70,6 +72,7 @@ ocVE.ApolTheotokionVM.text = oc.m4.d1_en_US_holycross.ocVE.ApolTheotokionVM.text
 ocMA.MM.Alleluia.text = properties_en_US_holycross.media.key
 
 ocMA.Kathisma11.mode = miscellanea_en_US_holycross.misc.Mode4
+ocMA.Kathisma11.greekmelody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.greekname
 ocMA.Kathisma11.melody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.notmetered
 ocMA.Kathisma11.incipit = "…" //oc.m4.d3_en_US_holycross.ocMA.Kathisma32.incipit
 ocMA.Kathisma11.text = "" //oc.m4.d3_en_US_holycross.ocMA.Kathisma32.text
@@ -80,6 +83,7 @@ ocMA.Kathisma12.incipit = "…" //oc.m4.d4_en_US_holycross.ocMA.Kathisma32.incip
 ocMA.Kathisma12.text = "" //oc.m4.d4_en_US_holycross.ocMA.Kathisma32.text
 
 ocMA.Kathisma13.mode = miscellanea_en_US_holycross.misc.Mode4
+ocMA.Kathisma13.greekmelody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.greekname
 ocMA.Kathisma13.melody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.notmetered
 ocMA.Kathisma13.incipit = oc.m4.d5_en_US_holycross.ocMA.Kathisma32.incipit
 ocMA.Kathisma13.text = oc.m4.d5_en_US_holycross.ocMA.Kathisma32.text
@@ -94,16 +98,19 @@ ocMA.Kathisma21.melody = ""
 ocMA.Kathisma21.text = "" //oc.m4.d6_en_US_holycross.ocMA.Kathisma32.text
 
 ocMA.Kathisma22.mode = miscellanea_en_US_holycross.misc.Mode4
+ocMA.Kathisma22.greekmelody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.greekname
 ocMA.Kathisma22.melody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.notmetered
 ocMA.Kathisma22.incipit = "…"
 ocMA.Kathisma22.text = ""
 
 ocMA.Kathisma23.mode = miscellanea_en_US_holycross.misc.Mode4
+ocMA.Kathisma23.greekmelody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.greekname
 ocMA.Kathisma23.melody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.notmetered
 ocMA.Kathisma23.incipit = "…"
 ocMA.Kathisma23.text = ""
 
 ocMA.Kathisma24.mode = miscellanea_en_US_holycross.misc.Mode4
+ocMA.Kathisma24.greekmelody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.greekname
 ocMA.Kathisma24.melody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.notmetered
 ocMA.Kathisma24.incipit = "…"
 ocMA.Kathisma24.text = ""
@@ -118,6 +125,7 @@ ocMA.C2.acrostic.text = ""
 
 ocMA.OdeW1C1H.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW1C1H.ode = miscellanea_en_US_holycross.misc.Ode1
+ocMA.OdeW1C1H.greekmelody = he.h.m4_en_US_holycross.heHE.TristatasKrataious.greekname
 ocMA.OdeW1C1H.melody = he.h.m4_en_US_holycross.heHE.TristatasKrataious.melody
 ocMA.OdeW1C1H.incipit = he.h.m4_en_US_holycross.heHE.TristatasKrataious.incipit
 ocMA.OdeW1C1H.text = he.h.m4_en_US_holycross.heHE.TristatasKrataious.text
@@ -154,6 +162,7 @@ ocMA.OdeW1C1T.text = ""
 
 ocMA.OdeW1C21.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW1C21.ode = miscellanea_en_US_holycross.misc.Ode1
+ocMA.OdeW1C21.greekmelody = he.h.m4_en_US_holycross.heHE.ThalassisToErythraion.greekname
 ocMA.OdeW1C21.melody = he.h.m4_en_US_holycross.heHE.ThalassisToErythraion.notmetered
 ocMA.OdeW1C21.incipit = "…"
 ocMA.OdeW1C21.text = ""
@@ -178,6 +187,7 @@ ocMA.OdeW1C2T.text = ""
 
 ocMA.OdeW3C1H.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW3C1H.ode = miscellanea_en_US_holycross.misc.Ode3
+ocMA.OdeW3C1H.greekmelody = he.h.m4_en_US_holycross.heHE.ToxonDynatonIsthenise.greekname
 ocMA.OdeW3C1H.melody = he.h.m4_en_US_holycross.heHE.ToxonDynatonIsthenise.melody
 ocMA.OdeW3C1H.incipit = he.h.m4_en_US_holycross.heHE.ToxonDynatonIsthenise.incipit
 ocMA.OdeW3C1H.text = he.h.m4_en_US_holycross.heHE.ToxonDynatonIsthenise.text
@@ -214,6 +224,7 @@ ocMA.OdeW3C1T.text = ""
 
 ocMA.OdeW3C21.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW3C21.ode = miscellanea_en_US_holycross.misc.Ode3
+ocMA.OdeW3C21.greekmelody = he.h.m4_en_US_holycross.heHE.OukEnSofia.greekname
 ocMA.OdeW3C21.melody = he.h.m4_en_US_holycross.heHE.OukEnSofia.notmetered
 ocMA.OdeW3C21.incipit = "…"
 ocMA.OdeW3C21.text = ""
@@ -238,6 +249,7 @@ ocMA.OdeW3C2T.text = ""
 
 ocMA.OdeW4C1H.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW4C1H.ode = miscellanea_en_US_holycross.misc.Ode4
+ocMA.OdeW4C1H.greekmelody = he.h.m4_en_US_holycross.heHE.OKathimenosEnDoxi.greekname
 ocMA.OdeW4C1H.melody = he.h.m4_en_US_holycross.heHE.OKathimenosEnDoxi.melody
 ocMA.OdeW4C1H.incipit = he.h.m4_en_US_holycross.heHE.OKathimenosEnDoxi.incipit
 ocMA.OdeW4C1H.text = he.h.m4_en_US_holycross.heHE.OKathimenosEnDoxi.text
@@ -274,6 +286,7 @@ ocMA.OdeW4C1T.text = ""
 
 ocMA.OdeW4C21.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW4C21.ode = miscellanea_en_US_holycross.misc.Ode4
+ocMA.OdeW4C21.greekmelody = he.h.m4_en_US_holycross.heHE.EparthentaSeIdousa.greekname
 ocMA.OdeW4C21.melody = he.h.m4_en_US_holycross.heHE.EparthentaSeIdousa.notmetered
 ocMA.OdeW4C21.incipit = "…"
 ocMA.OdeW4C21.text = ""
@@ -298,6 +311,7 @@ ocMA.OdeW4C2T.text = ""
 
 ocMA.OdeW5C1H.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW5C1H.ode = miscellanea_en_US_holycross.misc.Ode5
+ocMA.OdeW5C1H.greekmelody = he.h.m4_en_US_holycross.heHE.SyKyrieMouFos.greekname
 ocMA.OdeW5C1H.melody = he.h.m4_en_US_holycross.heHE.SyKyrieMouFos.melody
 ocMA.OdeW5C1H.incipit = he.h.m4_en_US_holycross.heHE.SyKyrieMouFos.incipit
 ocMA.OdeW5C1H.text = he.h.m4_en_US_holycross.heHE.SyKyrieMouFos.text
@@ -334,6 +348,7 @@ ocMA.OdeW5C1T.text = ""
 
 ocMA.OdeW5C21.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW5C21.ode = miscellanea_en_US_holycross.misc.Ode5
+ocMA.OdeW5C21.greekmelody = he.h.m4_en_US_holycross.heHE.SyKyrieMouFos.greekname
 ocMA.OdeW5C21.melody = he.h.m4_en_US_holycross.heHE.SyKyrieMouFos.notmetered
 ocMA.OdeW5C21.incipit = "…"
 ocMA.OdeW5C21.text = ""
@@ -358,6 +373,7 @@ ocMA.OdeW5C2T.text = ""
 
 ocMA.OdeW6C1H.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW6C1H.ode = miscellanea_en_US_holycross.misc.Ode6
+ocMA.OdeW6C1H.greekmelody = he.h.m4_en_US_holycross.heHE.IlthonEisTaVathi.greekname
 ocMA.OdeW6C1H.melody = he.h.m4_en_US_holycross.heHE.IlthonEisTaVathi.melody
 ocMA.OdeW6C1H.incipit = he.h.m4_en_US_holycross.heHE.IlthonEisTaVathi.incipit
 ocMA.OdeW6C1H.text = he.h.m4_en_US_holycross.heHE.IlthonEisTaVathi.text
@@ -394,6 +410,7 @@ ocMA.OdeW6C1T.text = ""
 
 ocMA.OdeW6C21.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW6C21.ode = miscellanea_en_US_holycross.misc.Ode6
+ocMA.OdeW6C21.greekmelody = he.h.m4_en_US_holycross.heHE.ThysoSoiMetaFonis.greekname
 ocMA.OdeW6C21.melody = he.h.m4_en_US_holycross.heHE.ThysoSoiMetaFonis.notmetered
 ocMA.OdeW6C21.incipit = "…"
 ocMA.OdeW6C21.text = ""
@@ -418,6 +435,7 @@ ocMA.OdeW6C2T.text = ""
 
 ocMA.OdeW7C1H.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW7C1H.ode = miscellanea_en_US_holycross.misc.Ode7
+ocMA.OdeW7C1H.greekmelody = he.h.m4_en_US_holycross.heHE.AvramiaioiPote.greekname
 ocMA.OdeW7C1H.melody = he.h.m4_en_US_holycross.heHE.AvramiaioiPote.melody
 ocMA.OdeW7C1H.incipit = he.h.m4_en_US_holycross.heHE.AvramiaioiPote.incipit
 ocMA.OdeW7C1H.text = he.h.m4_en_US_holycross.heHE.AvramiaioiPote.text
@@ -454,6 +472,7 @@ ocMA.OdeW7C1T.text = ""
 
 ocMA.OdeW7C21.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW7C21.ode = miscellanea_en_US_holycross.misc.Ode7
+ocMA.OdeW7C21.greekmelody = he.h.m4_en_US_holycross.heHE.EnTiKaminoAvramiaioi.greekname
 ocMA.OdeW7C21.melody = he.h.m4_en_US_holycross.heHE.EnTiKaminoAvramiaioi.notmetered
 ocMA.OdeW7C21.incipit = "…"
 ocMA.OdeW7C21.text = ""
@@ -478,6 +497,7 @@ ocMA.OdeW7C2T.text = ""
 
 ocMA.OdeW8C1H.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW8C1H.ode = miscellanea_en_US_holycross.misc.Ode8
+ocMA.OdeW8C1H.greekmelody = he.h.m4_en_US_holycross.heHE.LytrotaTouPantos.greekname
 ocMA.OdeW8C1H.melody = he.h.m4_en_US_holycross.heHE.LytrotaTouPantos.melody
 ocMA.OdeW8C1H.incipit = he.h.m4_en_US_holycross.heHE.LytrotaTouPantos.incipit
 ocMA.OdeW8C1H.text = he.h.m4_en_US_holycross.heHE.LytrotaTouPantos.text
@@ -514,6 +534,7 @@ ocMA.OdeW8C1T.text = ""
 
 ocMA.OdeW8C21.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW8C21.ode = miscellanea_en_US_holycross.misc.Ode8
+ocMA.OdeW8C21.greekmelody = he.h.m4_en_US_holycross.heHE.CheirasEkpetasasDaniil.greekname
 ocMA.OdeW8C21.melody = he.h.m4_en_US_holycross.heHE.CheirasEkpetasasDaniil.notmetered
 ocMA.OdeW8C21.incipit = "…"
 ocMA.OdeW8C21.text = ""
@@ -538,6 +559,7 @@ ocMA.OdeW8C2T.text = ""
 
 ocMA.OdeW9C1H.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW9C1H.ode = miscellanea_en_US_holycross.misc.Ode9
+ocMA.OdeW9C1H.greekmelody = he.h.m4_en_US_holycross.heHE.EvaMenToTisParakois.greekname
 ocMA.OdeW9C1H.melody = he.h.m4_en_US_holycross.heHE.EvaMenToTisParakois.melody
 ocMA.OdeW9C1H.incipit = he.h.m4_en_US_holycross.heHE.EvaMenToTisParakois.incipit
 ocMA.OdeW9C1H.text = he.h.m4_en_US_holycross.heHE.EvaMenToTisParakois.text
@@ -574,6 +596,7 @@ ocMA.OdeW9C1T.text = ""
 
 ocMA.OdeW9C21.mode = miscellanea_en_US_holycross.misc.Mode4
 ocMA.OdeW9C21.ode = miscellanea_en_US_holycross.misc.Ode9
+ocMA.OdeW9C21.greekmelody = he.h.m4_en_US_holycross.heHE.EvaMenToTisParakois.greekname
 ocMA.OdeW9C21.melody = he.h.m4_en_US_holycross.heHE.EvaMenToTisParakois.notmetered
 ocMA.OdeW9C21.incipit = "…"
 ocMA.OdeW9C21.text = ""
@@ -629,26 +652,31 @@ ocMA.LaudsTheotokion.incipit = oc.m4.d5_en_US_holycross.ocMA.AposTheotokion.inci
 ocMA.LaudsTheotokion.text = oc.m4.d5_en_US_holycross.ocMA.AposTheotokion.text
 
 ocMA.Aposticha1.mode = miscellanea_en_US_holycross.misc.Mode4
+ocMA.Aposticha1.greekmelody = he.a.m4_en_US_holycross.heAU.EdokasSimeiosin.greekname
 ocMA.Aposticha1.melody = he.a.m4_en_US_holycross.heAU.EdokasSimeiosin.notmetered
 ocMA.Aposticha1.incipit = "…"
 ocMA.Aposticha1.text = ""
 
 ocMA.Aposticha2.mode = miscellanea_en_US_holycross.misc.Mode4
+ocMA.Aposticha2.greekmelody = he.a.m4_en_US_holycross.heAU.EdokasSimeiosin.greekname
 ocMA.Aposticha2.melody = he.a.m4_en_US_holycross.heAU.EdokasSimeiosin.notmetered
 ocMA.Aposticha2.incipit = "…"
 ocMA.Aposticha2.text = ""
 
 ocMA.Aposticha3.mode = miscellanea_en_US_holycross.misc.Mode4
+ocMA.Aposticha3.greekmelody = he.a.m4_en_US_holycross.heAU.EdokasSimeiosin.greekname
 ocMA.Aposticha3.melody = he.a.m4_en_US_holycross.heAU.EdokasSimeiosin.notmetered
 ocMA.Aposticha3.incipit = "…"
 ocMA.Aposticha3.text = ""
 
 ocMA.Aposticha4.mode = miscellanea_en_US_holycross.misc.Mode4
+ocMA.Aposticha4.greekmelody = he.a.m4_en_US_holycross.heAU.EdokasSimeiosin.greekname
 ocMA.Aposticha4.melody = he.a.m4_en_US_holycross.heAU.EdokasSimeiosin.notmetered
 ocMA.Aposticha4.incipit = "…"
 ocMA.Aposticha4.text = ""
 
 ocMA.AposTheotokion.mode = miscellanea_en_US_holycross.misc.Mode4
+ocMA.AposTheotokion.greekmelody = he.a.m4_en_US_holycross.heAU.EdokasSimeiosin.greekname
 ocMA.AposTheotokion.melody = he.a.m4_en_US_holycross.heAU.EdokasSimeiosin.notmetered
 ocMA.AposTheotokion.incipit = "…"
 ocMA.AposTheotokion.text = ""
@@ -726,6 +754,7 @@ octrVE.SticBoth.incipit = ocVE.SticTheotokion.incipit
 octrVE.SticBoth.text = ocVE.SticTheotokion.text
 
 octrMA.Kathisma11.mode = miscellanea_en_US_holycross.misc.Mode4
+octrMA.Kathisma11.greekmelody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.greekname
 octrMA.Kathisma11.melody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.notmetered
 octrMA.Kathisma11.incipit = ocMA.Kathisma13.incipit
 octrMA.Kathisma11.text = ocMA.Kathisma13.text
@@ -736,11 +765,13 @@ octrMA.Kathisma12.incipit = ocMA.Kathisma12.incipit
 octrMA.Kathisma12.text = ocMA.Kathisma12.text
 
 octrMA.Kathisma13.mode = miscellanea_en_US_holycross.misc.Mode4
+octrMA.Kathisma13.greekmelody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.greekname
 octrMA.Kathisma13.melody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.notmetered
 octrMA.Kathisma13.incipit = ocMA.Kathisma11.incipit
 octrMA.Kathisma13.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma14.mode = miscellanea_en_US_holycross.misc.Mode4
+octrMA.Kathisma14.greekmelody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.greekname
 octrMA.Kathisma14.melody = he.a.m4_en_US_holycross.heAU.TachyProkatalave.notmetered
 octrMA.Kathisma14.incipit = ocMA.Kathisma22.incipit
 octrMA.Kathisma14.text = ocMA.Kathisma22.text
@@ -783,6 +814,7 @@ octrMA.LaudsTheotokion.incipit = ocVE.AposTheotokion.incipit
 octrMA.LaudsTheotokion.text = ocVE.AposTheotokion.text
 
 octrMA.Aposticha1.mode = miscellanea_en_US_holycross.misc.Mode4
+octrMA.Aposticha1.greekmelody = he.a.m4_en_US_holycross.heAU.EdokasSimeiosin.greekname
 octrMA.Aposticha1.melody = he.a.m4_en_US_holycross.heAU.EdokasSimeiosin.notmetered
 octrMA.Aposticha1.incipit = ocMA.Aposticha1.incipit
 octrMA.Aposticha1.text = ocMA.Aposticha1.text
