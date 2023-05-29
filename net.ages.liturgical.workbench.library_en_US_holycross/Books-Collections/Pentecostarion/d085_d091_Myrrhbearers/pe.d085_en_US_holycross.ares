@@ -728,6 +728,7 @@ peMA.Lauds4.incipit = oc.m2.d1_en_US_holycross.ocMA.Lauds4.incipit
 peMA.Lauds4.text = oc.m2.d1_en_US_holycross.ocMA.Lauds4.text
 
 peMA.Exaposteilarion1.mode = miscellanea_en_US_holycross.misc.Mode2
+peMA.Exaposteilarion1.greekmelody = he.a.m2_en_US_holycross.heAU.GynaikesAkoutisthite.greekname
 peMA.Exaposteilarion1.melody = he.a.m2_en_US_holycross.heAU.GynaikesAkoutisthite.melody
 peMA.Exaposteilarion1.incipit = he.a.m2_en_US_holycross.heAU.GynaikesAkoutisthite.incipit
 peMA.Exaposteilarion1.text = he.a.m2_en_US_holycross.heAU.GynaikesAkoutisthite.text
