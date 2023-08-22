@@ -15,22 +15,22 @@ euPL.Key0108.text = ""
 euPL.Key0200.title = "The Divine Liturgy of the Presanctified Gifts"
 euPL.Key0201.text = prayers_en_US_holycross.pr.enarxis02.text
 euPL.Key0203.title = "PRAYER OF THE FIRST ANTIPHON"
-euPL.Key0203.text = hi.s01_en_US_holycross.hiVE.Key1101.text
+euPL.Key0203.text = hi.hi01_en_US_holycross.hiVE.Key1101.text
 euPL.Key0204.text = prayers_en_US_holycross.pr.exc01.text
 
 euPL.Key0300.title = "First Stanza"
 euPL.Key0306.title = "PRAYER OF THE SECOND ANTIPHON"
-euPL.Key0306.text = hi.s01_en_US_holycross.hiVE.Key1102.text
+euPL.Key0306.text = hi.hi01_en_US_holycross.hiVE.Key1102.text
 euPL.Key0307.text = prayers_en_US_holycross.pr.exc02.text
 
 euPL.Key0400.title = "Second Stanza"
 euPL.Key0406.title = "PRAYER OF THE THIRD ANTIPHON"
-euPL.Key0406.text = hi.s01_en_US_holycross.hiVE.Key1103.text
+euPL.Key0406.text = hi.hi01_en_US_holycross.hiVE.Key1103.text
 euPL.Key0407.text = prayers_en_US_holycross.pr.exc03.text
 
 euPL.Key0500.title = "Third Stanza"
 euPL.Key0506.title = "PRAYER OF THE FOURTH ANTIPHON"
-euPL.Key0506.text = hi.s01_en_US_holycross.hiVE.Key1104.text
+euPL.Key0506.text = hi.hi01_en_US_holycross.hiVE.Key1104.text
 euPL.Key0507.text = prayers_en_US_holycross.pr.exc22.text
 
 euPL.Key0600.title = ""

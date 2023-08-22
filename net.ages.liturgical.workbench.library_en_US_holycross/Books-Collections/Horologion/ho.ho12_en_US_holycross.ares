@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = ho.s12_en_US_holycross
+A_Resource_Whose_Name = ho.ho12_en_US_holycross
 
 hoCO.title = ""
 hoCO.Key0100.title = ""
@@ -79,18 +79,18 @@ hoCO.Key0804.mode = miscellanea_en_US_holycross.misc.Mode6
 //hoCO.Key0806.text = oc.m6.d5_en_US_holycross.ocMA.Kathisma13.text
 
 hoCO.Key0807.title = ""
-hoCO.Key0807.text = ho.s05_en_US_holycross.hoH3.Prayer.text
+hoCO.Key0807.text = ho.ho05_en_US_holycross.hoH3.Prayer.text
 
 hoCO.Key0901.title = ""
 
 hoCO.Key0902.title = ""
 
-hoCO.Key0903.title = ho.s03_en_US_holycross.hoMA.SmallDoxology.title
-hoCO.Key0903.text = ho.s03_en_US_holycross.hoMA.SmallDoxology1.text
-hoCO.Key0904.text = ho.s03_en_US_holycross.hoMA.SmallDoxology1e
-hoCO.Key0905.text = ho.s03_en_US_holycross.hoMA.SmallDoxology2.text
-hoCO.Key0906.text = ho.s03_en_US_holycross.hoMA.SmallDoxology2n
-hoCO.Key0907.text = ho.s03_en_US_holycross.hoMA.SmallDoxology3.text
+hoCO.Key0903.title = ho.ho03_en_US_holycross.hoMA.SmallDoxology.title
+hoCO.Key0903.text = ho.ho03_en_US_holycross.hoMA.SmallDoxology1.text
+hoCO.Key0904.text = ho.ho03_en_US_holycross.hoMA.SmallDoxology1e
+hoCO.Key0905.text = ho.ho03_en_US_holycross.hoMA.SmallDoxology2.text
+hoCO.Key0906.text = ho.ho03_en_US_holycross.hoMA.SmallDoxology2n
+hoCO.Key0907.text = ho.ho03_en_US_holycross.hoMA.SmallDoxology3.text
 hoCO.Key0908.rubric = ""
 hoCO.Key0909.rubric = ""
 hoCO.Key0910.rubric = ""
@@ -106,7 +106,7 @@ hoCO.Key1011.text = "Lord, if we did not have your Saints as intercessors, and y
 hoCO.Key1012.text = "Great is the multitude of my errors, O Mother of God; to you have I fled, O Pure one, seeking salvation; visit my ailing soul, and intercede with your Son and our God, to grant me forgiveness for all the evils I have done, O only blessed one." //hoCO.Key1012.text = oc.m6.d3_en_US_holycross.ocMA.Kathisma33.text
 hoCO.Key1013.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCO.Key1013.text = "All Holy Theotokos, in the time of my life, never do forsake me, to any human protection; never trust me blindly, but personally take charge, and have mercy on me."
-hoCO.Key1014.text = "My one and my every hope, now I entrust in you, O Mother of God, under your shelter, cover me." //ho.s23_en_US_holycross.hoCA.Troparion7.text
+hoCO.Key1014.text = "My one and my every hope, now I entrust in you, O Mother of God, under your shelter, cover me." //ho.ho23_en_US_holycross.hoCA.Troparion7.text
 
 hoCO.Key1015.text = prayers_en_US_holycross.pr.PrayerOfHours.text
 
@@ -127,7 +127,7 @@ hoCO.Key1102.text = "And grant to us, Master, as we depart for sleep, rest of bo
 hoCO.Key1103.text = "Most glorious, ever virgin, blessed Theotokos, bring our prayer before your Son and our God, and entreat him, through you, to save our souls."
 hoCO.Key1104.title = "Prayer of St. loannikios"
 hoCO.Key1104.text = "The Father is my hope, the Son is my refuge, the Holy Spirit is my shelter, Holy Trinity, glory to you."
-hoCO.Key1105.text = "My one and my every hope, now I entrust in you, O Mother of God, under your shelter cover me." //ho.s23_en_US_holycross.hoCA.Troparion7.text
+hoCO.Key1105.text = "My one and my every hope, now I entrust in you, O Mother of God, under your shelter cover me." //ho.ho23_en_US_holycross.hoCA.Troparion7.text
 
 hoCO.Key1201.rubric = ""
 hoCO.Key1202.rubric = ""
