@@ -466,6 +466,7 @@ peMA.Ode6C2T.incipit = "…"
 peMA.Ode6C2T.text = ""
 
 peMA.Kontakion1.mode = miscellanea_en_US_holycross.misc.Mode4
+peMA.Kontakion1.greekmelody = he.a.m4_en_US_holycross.heAU.OYpsotheisEnToStavro.greekname
 peMA.Kontakion1.melody = he.a.m4_en_US_holycross.heAU.OYpsotheisEnToStavro.name
 peMA.Kontakion1.incipit = "…"
 peMA.Kontakion1.text = ""
@@ -793,6 +794,7 @@ peMA.LaudsGlory.incipit = "…"
 peMA.LaudsGlory.text = ""
 
 peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.greekmelody = peMA.Kontakion1.greekmelody
 peLI.Kontakion1.melody = peMA.Kontakion1.melody
 peLI.Kontakion1.incipit = peMA.Kontakion1.incipit
 peLI.Kontakion1.text = peMA.Kontakion1.text
