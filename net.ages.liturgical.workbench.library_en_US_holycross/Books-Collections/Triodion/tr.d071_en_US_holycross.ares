@@ -60,27 +60,26 @@ trVE.SticTheotokion.melody = ""
 trVE.SticTheotokion.incipit = oc.m1.d1_en_US_holycross.ocVE.SticTheotokion.incipit
 trVE.SticTheotokion.text = oc.m1.d1_en_US_holycross.ocVE.SticTheotokion.text
 
-// Hymn of the Three Servants
-trHW.SaturdayHymn.title = ""
-trHW.SaturdayHymn.mode = miscellanea_en_US_holycross.misc.Mode1
-trHW.SaturdayHymn.text = "" //for media
+trLI.SaturdayHymn.title = ""
+trLI.SaturdayHymn.mode = miscellanea_en_US_holycross.misc.Mode1
+trLI.SaturdayHymn.text = "" //for media
 
-trHW.SaturdayArise.text = "" //for media
+trLI.SaturdayArise.text = "" //for media
 
-trHW.CherubicHymn.title = ""
-trHW.CherubicHymn.mode = miscellanea_en_US_holycross.misc.Mode5
-trHW.CherubicHymnPart1.incipit = "Let all mortal flesh keep silent…"
-trHW.CherubicHymnPart1.text = "Let all mortal flesh keep silent and with awe and trembling stand, pondering nothing earthly. For the King of kings and Lord of lords approaches to be slain, and to be given as food to the faithful. Before Him go the angelic hosts together with every principality and authority."
-trHW.CherubicHymnPart2.incipit = "The many-eyed Cherubim…"
-trHW.CherubicHymnPart2.text = "The many-eyed Cherubim and the six-winged Seraphim, covering their faces and crying out their song: Alleluia, alleluia, alleluia."
+trLI.CherubicHymn.title = ""
+trLI.CherubicHymn.mode = miscellanea_en_US_holycross.misc.Mode5
+trLI.CherubicHymnPart1.incipit = "Let all mortal flesh keep silent…"
+trLI.CherubicHymnPart1.text = "Let all mortal flesh keep silent and with awe and trembling stand, pondering nothing earthly. For the King of kings and Lord of lords approaches to be slain, and to be given as food to the faithful. Before Him go the angelic hosts together with every principality and authority."
+trLI.CherubicHymnPart2.incipit = "The many-eyed Cherubim…"
+trLI.CherubicHymnPart2.text = "The many-eyed Cherubim and the six-winged Seraphim, covering their faces and crying out their song: Alleluia, alleluia, alleluia."
 
-trHW.TheotokosHymn.mode = miscellanea_en_US_holycross.misc.Mode8
-trHW.TheotokosHymn.incipit = oc.m8.d1_en_US_holycross.ocMA.Kathisma23.incipit
-trHW.TheotokosHymn.text = oc.m8.d1_en_US_holycross.ocMA.Kathisma23.text
+trLI.TheotokosHymn.mode = miscellanea_en_US_holycross.misc.Mode8
+trLI.TheotokosHymn.incipit = oc.m8.d1_en_US_holycross.ocMA.Kathisma23.incipit
+trLI.TheotokosHymn.text = oc.m8.d1_en_US_holycross.ocMA.Kathisma23.text
 
-trHW.CommunionHymn.text = "" //for media
+trLI.CommunionHymn.text = "" //for media
 
-trHW.AfterCommunion.mode = miscellanea_en_US_holycross.misc.Mode2
-trHW.AfterCommunion.incipit = "…"
-trHW.AfterCommunion.text = ""
+trLI.AfterCommunion.mode = miscellanea_en_US_holycross.misc.Mode2
+trLI.AfterCommunion.incipit = "…"
+trLI.AfterCommunion.text = ""
 
