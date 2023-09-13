@@ -185,8 +185,8 @@ hoPrayer.Key002.text = "How shall I, the unworthy, be not ashamed of your holy t
 hoPrayer.Key003.incipit = "Because of the multitude…" //oc.m6.d3_en_US_holycross.ocMA.Kathisma33.text
 hoPrayer.Key003.text = "Because of the multitude of my transgressions, I come to you, pure Theotokos, asking for salvation. Visit my ailing soul, only blessed one, and beseech your Son, our God, to grant me remission of the evil I have done." //oc.m6.d3_en_US_holycross.ocMA.Kathisma33.text
 hoPrayer.Key004.title = "On Holy And Great Thursday"
-hoPrayer.Key004.incipit = tr.d068_en_US_holycross.trHW.Troparion.incipit
-hoPrayer.Key004.text = tr.d068_en_US_holycross.trHW.Troparion.text
+hoPrayer.Key004.incipit = tr.d068_en_US_holycross.trMA.Troparion.incipit
+hoPrayer.Key004.text = tr.d068_en_US_holycross.trMA.Troparion.text
 
 hoPrayer.Key005.title = "Instructive Verses"
 hoPrayer.Key005.title2 = "(How one should approach the immaculate Mysteries)."

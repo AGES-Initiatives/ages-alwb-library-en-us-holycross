@@ -259,12 +259,12 @@ trCO.Ode9C1T.melody = he.h.m6_en_US_holycross.heHE.AsporouSyllipseos.notmetered
 trCO.Ode9C1T.incipit = "…"
 trCO.Ode9C1T.text = ""
 
-trHW.Alleluia.text = "" // for media
+trMA.MM.Alleluia.text = "" // for media
 
-trHW.Troparion.mode = miscellanea_en_US_holycross.misc.Mode8
-trHW.Troparion.melody = ""
-trHW.Troparion.incipit = "The glorious disciples were illumined…"
-trHW.Troparion.text = "The glorious disciples were illumined at the Supper during the washing of the feet. But ungodly Judas was darkened by the disease of avarice, and he delivered you, the righteous judge, to lawless judges. Behold, lover of money, how for the sake of money he hanged himself. Flee from greed which made him dare to do such things against his Master. Glory to you, Lord, who are good towards all people."
+trMA.Troparion.mode = miscellanea_en_US_holycross.misc.Mode8
+trMA.Troparion.melody = ""
+trMA.Troparion.incipit = "The glorious disciples were illumined…"
+trMA.Troparion.text = "The glorious disciples were illumined at the Supper during the washing of the feet. But ungodly Judas was darkened by the disease of avarice, and he delivered you, the righteous judge, to lawless judges. Behold, lover of money, how for the sake of money he hanged himself. Flee from greed which made him dare to do such things against his Master. Glory to you, Lord, who are good towards all people."
 
 trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
@@ -564,7 +564,6 @@ trMA.Exaposteilarion1.melody = he.a.m3_en_US_holycross.heAU.TonNymfonaSouVlepo.m
 trMA.Exaposteilarion1.incipit = he.a.m3_en_US_holycross.heAU.TonNymfonaSouVlepo.incipit
 trMA.Exaposteilarion1.text = he.a.m3_en_US_holycross.heAU.TonNymfonaSouVlepo.text
 
-trHW.Lauds01.text = "" // for media
 
 trMA.Lauds1.mode = miscellanea_en_US_holycross.misc.Mode2
 trMA.Lauds1.melody = miscellanea_en_US_holycross.misc.Idiomelon

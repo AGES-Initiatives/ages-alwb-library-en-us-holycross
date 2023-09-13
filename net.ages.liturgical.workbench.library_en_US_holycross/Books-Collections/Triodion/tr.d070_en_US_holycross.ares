@@ -17,7 +17,6 @@ trVE.header = ""
 trEM.header = "" //for pdf evening Matins
 trDA.dismissal = dismissals_en_US_holycross.dis00.holyfriday
 
-trHW.LIHC.text = "" // for media
 
 trVE.Stichera01.mode = miscellanea_en_US_holycross.misc.Mode1
 trVE.Stichera01.melody = miscellanea_en_US_holycross.misc.Idiomelon
@@ -95,411 +94,404 @@ trVE.Apolytikion3.melody = ""
 trVE.Apolytikion3.incipit = "…"
 trVE.Apolytikion3.text = ""
 
-trHW.GITL.text = "" // for media
 
 // First Stanza
-trHW.Encomia.title = ""
+trMA.Encomia.title = ""
 
-trHW.Encomia100.title = ""
-trHW.Encomia100.mode = miscellanea_en_US_holycross.misc.Mode5
+trMA.Encomia100.title = ""
+trMA.Encomia100.mode = miscellanea_en_US_holycross.misc.Mode5
 
-trHW.Encomia101.text = ""
+trMA.Encomia101.text = ""
 
-trHW.Encomia102.text = ""
+trMA.Encomia102.text = ""
 
-trHW.Encomia103.text = ""
+trMA.Encomia103.text = ""
 
-trHW.Encomia104.text = ""
+trMA.Encomia104.text = ""
 
-trHW.Encomia105.text = ""
+trMA.Encomia105.text = ""
 
-trHW.Encomia106.text = ""
+trMA.Encomia106.text = ""
 
-trHW.Encomia107.text = ""
+trMA.Encomia107.text = ""
 
-trHW.Encomia108.text = ""
+trMA.Encomia108.text = ""
 
-trHW.Encomia109.text = ""
+trMA.Encomia109.text = ""
 
-trHW.Encomia110.text = ""
+trMA.Encomia110.text = ""
 
-trHW.Encomia111.text = ""
+trMA.Encomia111.text = ""
 
-trHW.Encomia112.text = ""
+trMA.Encomia112.text = ""
 
-trHW.Encomia113.text = ""
+trMA.Encomia113.text = ""
 
-trHW.Encomia114.text = ""
+trMA.Encomia114.text = ""
 
-trHW.Encomia115.text = ""
+trMA.Encomia115.text = ""
 
-trHW.Encomia116.text = ""
+trMA.Encomia116.text = ""
 
-trHW.Encomia117.text = ""
+trMA.Encomia117.text = ""
 
-trHW.Encomia118.text = ""
+trMA.Encomia118.text = ""
 
-trHW.Encomia119.text = ""
+trMA.Encomia119.text = ""
 
-trHW.Encomia120.text = ""
+trMA.Encomia120.text = ""
 
-trHW.Encomia121.text = ""
+trMA.Encomia121.text = ""
 
-trHW.Encomia122.text = ""
+trMA.Encomia122.text = ""
 
-trHW.Encomia123.text = ""
+trMA.Encomia123.text = ""
 
-trHW.Encomia124.text = ""
+trMA.Encomia124.text = ""
 
-trHW.Encomia125.text = ""
+trMA.Encomia125.text = ""
 
-trHW.Encomia126.text = ""
+trMA.Encomia126.text = ""
 
-trHW.Encomia127.text = ""
+trMA.Encomia127.text = ""
 
-trHW.Encomia128.text = ""
+trMA.Encomia128.text = ""
 
-trHW.Encomia129.text = ""
+trMA.Encomia129.text = ""
 
-trHW.Encomia130.text = ""
+trMA.Encomia130.text = ""
 
-trHW.Encomia131.text = ""
+trMA.Encomia131.text = ""
 
-trHW.Encomia132.text = ""
+trMA.Encomia132.text = ""
 
-trHW.Encomia133.text = ""
+trMA.Encomia133.text = ""
 
-trHW.Encomia134.text = ""
+trMA.Encomia134.text = ""
 
-trHW.Encomia135.text = ""
+trMA.Encomia135.text = ""
 
-trHW.Encomia136.text = ""
+trMA.Encomia136.text = ""
 
-trHW.Encomia137.text = ""
+trMA.Encomia137.text = ""
 
-trHW.Encomia138.text = ""
+trMA.Encomia138.text = ""
 
-trHW.Encomia139.text = ""
+trMA.Encomia139.text = ""
 
-trHW.Encomia140.text = ""
+trMA.Encomia140.text = ""
 
-trHW.Encomia141.text = ""
+trMA.Encomia141.text = ""
 
-trHW.Encomia142.text = ""
+trMA.Encomia142.text = ""
 
-trHW.Encomia143.text = ""
+trMA.Encomia143.text = ""
 
-trHW.Encomia144.text = ""
+trMA.Encomia144.text = ""
 
-trHW.Encomia145.text = ""
+trMA.Encomia145.text = ""
 
-trHW.Encomia146.text = ""
+trMA.Encomia146.text = ""
 
-trHW.Encomia147.text = ""
+trMA.Encomia147.text = ""
 
-trHW.Encomia148.text = ""
+trMA.Encomia148.text = ""
 
-trHW.Encomia149.text = ""
+trMA.Encomia149.text = ""
 
-trHW.Encomia150.text = ""
+trMA.Encomia150.text = ""
 
-trHW.Encomia151.text = ""
+trMA.Encomia151.text = ""
 
-trHW.Encomia152.text = ""
+trMA.Encomia152.text = ""
 
-trHW.Encomia153.text = ""
+trMA.Encomia153.text = ""
 
-trHW.Encomia154.text = ""
+trMA.Encomia154.text = ""
 
-trHW.Encomia155.text = ""
+trMA.Encomia155.text = ""
 
-trHW.Encomia156.text = ""
+trMA.Encomia156.text = ""
 
-trHW.Encomia157.text = ""
+trMA.Encomia157.text = ""
 
-trHW.Encomia158.text = ""
+trMA.Encomia158.text = ""
 
-trHW.Encomia159.text = ""
+trMA.Encomia159.text = ""
 
-trHW.Encomia160.text = ""
+trMA.Encomia160.text = ""
 
-trHW.Encomia161.text = ""
+trMA.Encomia161.text = ""
 
-trHW.Encomia162.text = ""
+trMA.Encomia162.text = ""
 
-trHW.Encomia163.text = ""
+trMA.Encomia163.text = ""
 
-trHW.Encomia164.text = ""
+trMA.Encomia164.text = ""
 
-trHW.Encomia165.text = ""
+trMA.Encomia165.text = ""
 
-trHW.Encomia166.text = ""
+trMA.Encomia166.text = ""
 
-trHW.Encomia167.text = ""
+trMA.Encomia167.text = ""
 
-trHW.Encomia168.text = ""
+trMA.Encomia168.text = ""
 
-trHW.Encomia169.text = ""
+trMA.Encomia169.text = ""
 
-trHW.Encomia170.text = ""
+trMA.Encomia170.text = ""
 
-trHW.Encomia171.text = ""
+trMA.Encomia171.text = ""
 
-trHW.Encomia172.text = ""
+trMA.Encomia172.text = ""
 
-trHW.Encomia1Tr.text = ""
+trMA.Encomia1Tr.text = ""
 
-trHW.Encomia1T.text = ""
+trMA.Encomia1T.text = ""
 
-trHW.Encomia1F.text = trHW.Encomia101.text
+trMA.Encomia1F.text = trMA.Encomia101.text
 
 // Second Stanza
-trHW.Encomia200.title = ""
-trHW.Encomia200.mode = miscellanea_en_US_holycross.misc.Mode5
+trMA.Encomia200.title = ""
+trMA.Encomia200.mode = miscellanea_en_US_holycross.misc.Mode5
 
-trHW.Encomia201.text = ""
+trMA.Encomia201.text = ""
 
-trHW.Encomia202.text = ""
+trMA.Encomia202.text = ""
 
-trHW.Encomia203.text = ""
+trMA.Encomia203.text = ""
 
-trHW.Encomia204.text = ""
+trMA.Encomia204.text = ""
 
-trHW.Encomia205.text = ""
+trMA.Encomia205.text = ""
 
-trHW.Encomia206.text = ""
+trMA.Encomia206.text = ""
 
-trHW.Encomia207.text = ""
+trMA.Encomia207.text = ""
 
-trHW.Encomia208.text = ""
+trMA.Encomia208.text = ""
 
-trHW.Encomia209.text = ""
+trMA.Encomia209.text = ""
 
-trHW.Encomia210.text = ""
+trMA.Encomia210.text = ""
 
-trHW.Encomia211.text = ""
+trMA.Encomia211.text = ""
 
-trHW.Encomia212.text = ""
+trMA.Encomia212.text = ""
 
-trHW.Encomia213.text = ""
+trMA.Encomia213.text = ""
 
-trHW.Encomia214.text = ""
+trMA.Encomia214.text = ""
 
-trHW.Encomia215.text = ""
+trMA.Encomia215.text = ""
 
-trHW.Encomia216.text = ""
+trMA.Encomia216.text = ""
 
-trHW.Encomia217.text = ""
+trMA.Encomia217.text = ""
 
-trHW.Encomia218.text = ""
+trMA.Encomia218.text = ""
 
-trHW.Encomia219.text = ""
+trMA.Encomia219.text = ""
 
-trHW.Encomia220.text = ""
+trMA.Encomia220.text = ""
 
-trHW.Encomia221.text = ""
+trMA.Encomia221.text = ""
 
-trHW.Encomia222.text = ""
+trMA.Encomia222.text = ""
 
-trHW.Encomia223.text = ""
+trMA.Encomia223.text = ""
 
-trHW.Encomia224.text = ""
+trMA.Encomia224.text = ""
 
-trHW.Encomia225.text = ""
+trMA.Encomia225.text = ""
 
-trHW.Encomia226.text = ""
+trMA.Encomia226.text = ""
 
-trHW.Encomia227.text = ""
+trMA.Encomia227.text = ""
 
-trHW.Encomia228.text = ""
+trMA.Encomia228.text = ""
 
-trHW.Encomia229.text = ""
+trMA.Encomia229.text = ""
 
-trHW.Encomia230.text = ""
+trMA.Encomia230.text = ""
 
-trHW.Encomia231.text = ""
+trMA.Encomia231.text = ""
 
-trHW.Encomia232.text = ""
+trMA.Encomia232.text = ""
 
-trHW.Encomia233.text = ""
+trMA.Encomia233.text = ""
 
-trHW.Encomia234.text = ""
+trMA.Encomia234.text = ""
 
-trHW.Encomia235.text = ""
+trMA.Encomia235.text = ""
 
-trHW.Encomia236.text = ""
+trMA.Encomia236.text = ""
 
-trHW.Encomia237.text = ""
+trMA.Encomia237.text = ""
 
-trHW.Encomia238.text = ""
+trMA.Encomia238.text = ""
 
-trHW.Encomia239.text = ""
+trMA.Encomia239.text = ""
 
-trHW.Encomia240.text = ""
+trMA.Encomia240.text = ""
 
-trHW.Encomia241.text = ""
+trMA.Encomia241.text = ""
 
-trHW.Encomia242.text = ""
+trMA.Encomia242.text = ""
 
-trHW.Encomia243.text = ""
+trMA.Encomia243.text = ""
 
-trHW.Encomia244.text = ""
+trMA.Encomia244.text = ""
 
-trHW.Encomia245.text = ""
+trMA.Encomia245.text = ""
 
-trHW.Encomia246.text = ""
+trMA.Encomia246.text = ""
 
-trHW.Encomia247.text = ""
+trMA.Encomia247.text = ""
 
-trHW.Encomia248.text = ""
+trMA.Encomia248.text = ""
 
-trHW.Encomia249.text = ""
+trMA.Encomia249.text = ""
 
-trHW.Encomia250.text = ""
+trMA.Encomia250.text = ""
 
-trHW.Encomia251.text = ""
+trMA.Encomia251.text = ""
 
-trHW.Encomia252.text = ""
+trMA.Encomia252.text = ""
 
-trHW.Encomia253.text = ""
+trMA.Encomia253.text = ""
 
-trHW.Encomia254.text = ""
+trMA.Encomia254.text = ""
 
-trHW.Encomia255.text = ""
+trMA.Encomia255.text = ""
 
-trHW.Encomia256.text = ""
+trMA.Encomia256.text = ""
 
-trHW.Encomia257.text = ""
+trMA.Encomia257.text = ""
 
-trHW.Encomia258.text = ""
+trMA.Encomia258.text = ""
 
-trHW.Encomia259.text = ""
+trMA.Encomia259.text = ""
 
-trHW.Encomia260.text = ""
+trMA.Encomia260.text = ""
 
-trHW.Encomia2Tr.text = ""
+trMA.Encomia2Tr.text = ""
 
-trHW.Encomia2T.text = ""
+trMA.Encomia2T.text = ""
 
-trHW.Encomia2F.text = trHW.Encomia201.text
+trMA.Encomia2F.text = trMA.Encomia201.text
 
 // Stanza Three
-trHW.Encomia300.title = ""
-trHW.Encomia300.mode = miscellanea_en_US_holycross.misc.Mode3
+trMA.Encomia300.title = ""
+trMA.Encomia300.mode = miscellanea_en_US_holycross.misc.Mode3
 
-trHW.Encomia301.text = ""
+trMA.Encomia301.text = ""
 
-trHW.Encomia302.text = ""
+trMA.Encomia302.text = ""
 
-trHW.Encomia303.text = ""
+trMA.Encomia303.text = ""
 
-trHW.Encomia304.text = ""
+trMA.Encomia304.text = ""
 
-trHW.Encomia305.text = ""
+trMA.Encomia305.text = ""
 
-trHW.Encomia306.text = ""
+trMA.Encomia306.text = ""
 
-trHW.Encomia307.text = ""
+trMA.Encomia307.text = ""
 
-trHW.Encomia308.text = ""
+trMA.Encomia308.text = ""
 
-trHW.Encomia309.text = ""
+trMA.Encomia309.text = ""
 
-trHW.Encomia310.text = ""
+trMA.Encomia310.text = ""
 
-trHW.Encomia311.text = ""
+trMA.Encomia311.text = ""
 
-trHW.Encomia312.text = ""
+trMA.Encomia312.text = ""
 
-trHW.Encomia313.text = ""
+trMA.Encomia313.text = ""
 
-trHW.Encomia314.text = ""
+trMA.Encomia314.text = ""
 
-trHW.Encomia315.text = ""
+trMA.Encomia315.text = ""
 
-trHW.Encomia316.text = ""
+trMA.Encomia316.text = ""
 
-trHW.Encomia317.text = ""
+trMA.Encomia317.text = ""
 
-trHW.Encomia318.text = ""
+trMA.Encomia318.text = ""
 
-trHW.Encomia319.text = ""
+trMA.Encomia319.text = ""
 
-trHW.Encomia320.text = ""
+trMA.Encomia320.text = ""
 
-trHW.Encomia321.text = ""
+trMA.Encomia321.text = ""
 
-trHW.Encomia322.text = ""
+trMA.Encomia322.text = ""
 
-trHW.Encomia323.text = ""
+trMA.Encomia323.text = ""
 
-trHW.Encomia324.text = ""
+trMA.Encomia324.text = ""
 
-trHW.Encomia325.text = ""
+trMA.Encomia325.text = ""
 
-trHW.Encomia326.text = ""
+trMA.Encomia326.text = ""
 
-trHW.Encomia327.text = ""
+trMA.Encomia327.text = ""
 
-trHW.Encomia328.text = ""
+trMA.Encomia328.text = ""
 
-trHW.Encomia329.text = ""
+trMA.Encomia329.text = ""
 
-trHW.Encomia330.text = ""
+trMA.Encomia330.text = ""
 
-trHW.Encomia331.text = ""
+trMA.Encomia331.text = ""
 
-trHW.Encomia332.text = ""
+trMA.Encomia332.text = ""
 
-trHW.Encomia333.text = ""
+trMA.Encomia333.text = ""
 
-trHW.Encomia334.text = ""
+trMA.Encomia334.text = ""
 
-trHW.Encomia335.text = ""
+trMA.Encomia335.text = ""
 
-trHW.Encomia336.text = ""
+trMA.Encomia336.text = ""
 
-trHW.Encomia337.text = ""
+trMA.Encomia337.text = ""
 
-trHW.Encomia338.text = ""
+trMA.Encomia338.text = ""
 
-trHW.Encomia339.text = ""
+trMA.Encomia339.text = ""
 
-trHW.Encomia340.text = ""
+trMA.Encomia340.text = ""
 
-trHW.Encomia341.text = ""
+trMA.Encomia341.text = ""
 
-trHW.Encomia342.text = ""
+trMA.Encomia342.text = ""
 
-trHW.Encomia343.text = ""
+trMA.Encomia343.text = ""
 
-trHW.Encomia344.text = ""
+trMA.Encomia344.text = ""
 
-trHW.Encomia345.text = ""
+trMA.Encomia345.text = ""
 
-trHW.Encomia346.text = ""
+trMA.Encomia346.text = ""
 
-trHW.Encomia3Tr.text = ""
+trMA.Encomia3Tr.text = ""
 
-trHW.Encomia3T.text = ""
+trMA.Encomia3T.text = ""
 
 // Not in Triodion, but common
-trHW.Encomia3F.text = trHW.Encomia301.text
+trMA.Encomia3F.text = trMA.Encomia301.text
 
 // Resurrectional Evlogetaria keys for media
-trHW.Evlogetaria1.incipit = ho.ho03_en_US_holycross.hoMA.ResEvlog1.incipit
-trHW.Evlogetaria1.text = ho.ho03_en_US_holycross.hoMA.ResEvlog1.text
-trHW.Evlogetaria2.incipit = ho.ho03_en_US_holycross.hoMA.ResEvlog2.incipit
-trHW.Evlogetaria2.text = ho.ho03_en_US_holycross.hoMA.ResEvlog2.text
-trHW.Evlogetaria3.incipit = ho.ho03_en_US_holycross.hoMA.ResEvlog3.incipit
-trHW.Evlogetaria3.text = ho.ho03_en_US_holycross.hoMA.ResEvlog3.text
-trHW.Evlogetaria4.incipit = ho.ho03_en_US_holycross.hoMA.ResEvlog4.incipit
-trHW.Evlogetaria4.text = ho.ho03_en_US_holycross.hoMA.ResEvlog4.text
-trHW.Evlogetaria5.incipit = ho.ho03_en_US_holycross.hoMA.ResEvlog5.incipit
-trHW.Evlogetaria5.text = ho.ho03_en_US_holycross.hoMA.ResEvlog5.text
-trHW.Evlogetaria6.incipit = ho.ho03_en_US_holycross.hoMA.ResEvlog6.incipit
-trHW.Evlogetaria6.text = ho.ho03_en_US_holycross.hoMA.ResEvlog6.text
-trHW.Evlogetaria7.text = ho.ho03_en_US_holycross.hoMA.ResEvlog7.text
+trMA.MM.Evlogetaria1.text = properties_en_US_holycross.media.key
+trMA.MM.Evlogetaria2.text = properties_en_US_holycross.media.key
+trMA.MM.Evlogetaria3.text = properties_en_US_holycross.media.key
+trMA.MM.Evlogetaria4.text = properties_en_US_holycross.media.key
+trMA.MM.Evlogetaria5.text = properties_en_US_holycross.media.key
+trMA.MM.Evlogetaria6.text = properties_en_US_holycross.media.key
+trMA.MM.Evlogetaria7.text = properties_en_US_holycross.media.key
 
 trMA.Kathisma11.mode = miscellanea_en_US_holycross.misc.Mode1
 trMA.Kathisma11.greekmelody = he.a.m1_en_US_holycross.heAU.TonTafonSouSotir.greekname
@@ -819,7 +811,6 @@ trMA.Exaposteilarion1.mode = miscellanea_en_US_holycross.misc.Mode2
 trMA.Exaposteilarion1.melody = ""
 trMA.Exaposteilarion1.text = ho.ho03_en_US_holycross.hoMA.SunExapVerse1.text
 
-trHW.Lauds01.text = "" // for media
 
 trMA.Lauds1.mode = miscellanea_en_US_holycross.misc.Mode2
 trMA.Lauds1.melody = miscellanea_en_US_holycross.misc.Idiomelon
