@@ -4,6 +4,11 @@ psEU.baptism.hymn1.title = "Psalm 31."
 psEU.baptism.hymn1.info = ps_en_US_holycross.psa31.v1.number
 psEU.baptism.hymn1.text = "Blessed are they whose iniquities are forgiven, and whose sins are covered."
 
+psEU.childbirth.fortydays.v1.info = ps_en_US_holycross.psa5.v8.number
+psEU.childbirth.fortydays.v1.text = ""
+psEU.childbirth.fortydays.v2.info = ps_en_US_holycross.psa21.v23.number
+psEU.childbirth.fortydays.v2.text = ""
+
 psMA.magnificat.title = ""
 psMA.magnificat.v1.info = //ps_en_US_holycross.bode9_mag.v1.number
 psMA.magnificat.v1.text = ""
