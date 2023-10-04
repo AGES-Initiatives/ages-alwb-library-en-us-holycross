@@ -805,5 +805,5 @@ peLI.TheotokosHymn.text = peMA.Ode9C2H.text
 
 peLI.MM.CommunionHymn.text = properties_en_US_holycross.media.key
 
-peMegalynarion.text = ""
-peMegalynarion2.text = ""
+peLI.Megalynarion.text = ""
+peLI.Megalynarion2.text = ""

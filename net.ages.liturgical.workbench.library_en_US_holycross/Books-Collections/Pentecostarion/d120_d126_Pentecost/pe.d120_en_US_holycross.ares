@@ -699,4 +699,4 @@ peLI.AfterCommunion.mode = peVE.Apolytikion1.mode
 peLI.AfterCommunion.incipit = peVE.Apolytikion1.incipit
 peLI.AfterCommunion.text = peVE.Apolytikion1.text
 
-peMegalynarion.text = ""
+peLI.Megalynarion.text = ""
