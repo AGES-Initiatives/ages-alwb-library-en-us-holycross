@@ -1,54 +1,8 @@
 A_Resource_Whose_Name = ho.ho12_en_US_holycross
 
-hoCO.title = ""
-hoCO.Key0100.title = ""
-hoCO.Key0100.rubric = ""
-hoCO.Key0101a.rubric = ""
-hoCO.Key0101b.rubric = ""
-
-hoCO.Key0101.title = ""
-
-hoCO.Key0102.title = ""
-
-hoCO.Key0103.title = ""
-
-hoCO.Key0201.title = ""
-
-hoCO.Key0202.title = ""
-
-hoCO.Key0203.title = ""
-
-hoCO.Key0300.mode = miscellanea_en_US_holycross.misc.Mode6
-hoCO.Key0301.text = "" //for media
-
 hoCO.Key0401.text = "Having passed the day, I give thanks to you, Lord; and I ask of you to grant me the evening and the night without sin, O my Savior, and save me."
 hoCO.Key0402.text = "Now that the day has gone by, I glorify you, Master; I ask of you to grant me the evening and the night without sin, O my Savior, and save me."
 hoCO.Key0403.text = "Having traversed the day, I sing hymns to you, O Holy One; I ask of you to grant me the evening and the night free of plots, * O my Savior, and save me."
-
-hoCO.Key0501.mode = miscellanea_en_US_holycross.misc.Mode6
-hoCO.Key0501.text = ""
-hoCO.Key0502.text = ""
-hoCO.Key0503.text = ""
-hoCO.Key0504.text = ""
-hoCO.Key0505.text = ""
-hoCO.Key0506.text = ""
-hoCO.Key0507.text = ""
-hoCO.Key0508.text = ""
-hoCO.Key0509.text = ""
-hoCO.Key0510.text = ""
-hoCO.Key0511.title = "The Creed"
-hoCO.Key0511.text = prayers_en_US_holycross.pr.Creed.text
-
-hoCO.Key0601.mode = miscellanea_en_US_holycross.misc.Mode6
-hoCO.Key0601.text = ""
-hoCO.Key0602.text = ""
-hoCO.Key0603.text = ""
-hoCO.Key0604.text = ""
-hoCO.Key0605.text = ""
-hoCO.Key0606.text = ""
-hoCO.Key0607.text = ""
-hoCO.Key0608.text = ""
-hoCO.Key0609.text = ""
 
 hoCO.Key0701.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCO.Key0701.text = "Illumine my eyes, O Christ, my God, lest I sleep to death; lest my enemy say: \"I prevailed over him.\""
@@ -65,25 +19,11 @@ hoCO.Key0708.text = "Trusting in your unashamable hope, O Theotokos, I shall be 
 hoCO.Key0709.title = "Prayer of St. Basil"
 hoCO.Key0709.text = "Lord, Lord, who have delivered us from every arrow that flies by day, deliver us from anything that lurks about in darkness. Accept the lifting of our hands as an evening sacrifice. Make us worthy to traverse the time of night blamelessly, untouched by evil, and redeem us from every disturbance and fear caused by the devil. Grant contrition to our souls and concern to our minds about the accounting at your awesome and just judgment. Nail down our bodies with your fear, and deaden our earthly members, so that even in the quiet of our slumber we may be enlightened by the contemplation of your ordinances. Keep away from us every indecent fantasy and harmful desire. Awaken us in the time of prayer rooted in the faith, and thriving in your instructions; through the good will and goodness of your only-begotten Son with whom you are blessed, together with your all holy, good, and life giving Spirit, now and ever and to the ages of ages."
 
-hoCO.Key0801.title = ""
-
-hoCO.Key0802.title = ""
-
 hoCO.Key0803.title = "Prayer of Manasses, King of Judah"
 hoCO.Key0803.text = "O Lord, Almighty, the God of our Fathers, of Abraham and Isaac and Jacob and of their righteous seed; who created the heaven and the earth with all their adornment; who bound the sea by the word of your command; who shut up the abyss and sealed it with your awesome and glorious name; whom all things dread and before whose power they tremble, because the majesty of your glory is unbearable and the threat of your anger against the sinners unendurable; yet the mercy of your promise is both, immeasurable and unfathomable, for you are the Lord most high, compassionate, long-suffering and all merciful, and relent on the wickedness of man. You, Lord, in the multitude of your goodness promised repentance and forgiveness to those who have sinned against you, and in your infinite compassion appointed repentance for sinners that they may be saved. Therefore, Lord, the God of the powers, you have not appointed repentance for the righteous, Abraham, Isaac and Jacob, who have not sinned against you, but you appointed repentance for me the sinner, for I have committed more sins than the grains of the sand of the sea. My transgressions have multiplied, Lord; my transgressions have multiplied, and I am not worthy to look up and see the height of the sky from the multitude of my iniquities, being weighted down by many iron chains, so that I cannot raise my head; there is no respite left for me because I provoked your anger and committed evil before you not having done your will and not having kept your commandments. And now I bend the knee of my heart, beseeching your goodness. I have sinned, Lord, I have sinned and I acknowledge my transgressions; but I beg and ask of you: Forgive me, Lord, forgive me and do not destroy me with my transgressions; do not be angry with me forever and keep my evils in me, and do not condemn me to the depths of the earth; for you are God, the God of those who repent, and in me you shall show all your goodness; for even though I am unworthy, you shall save me according to the multitude of your mercy, and I shall praise you without ceasing all the days of my life. For every heavenly power sings your praises, and yours is the glory unto the ages of ages."
 
-hoCO.Key0804.rubric = ""
-hoCO.Key0804.mode = miscellanea_en_US_holycross.misc.Mode6
-//hoCO.Key0804.text = oc.m6.d2_en_US_holycross.ocMA.Kathisma21.text
-//hoCO.Key0805.text = oc.m6.d2_en_US_holycross.ocMA.Kathisma22.text
-//hoCO.Key0806.text = oc.m6.d5_en_US_holycross.ocMA.Kathisma13.text
-
 hoCO.Key0807.title = ""
 hoCO.Key0807.text = ho.ho05_en_US_holycross.hoH3.Prayer.text
-
-hoCO.Key0901.title = ""
-
-hoCO.Key0902.title = ""
 
 hoCO.Key0903.title = ho.ho03_en_US_holycross.hoMA.SmallDoxology.title
 hoCO.Key0903.text = ho.ho03_en_US_holycross.hoMA.SmallDoxology1.text
@@ -91,14 +31,6 @@ hoCO.Key0904.text = ho.ho03_en_US_holycross.hoMA.SmallDoxology1e
 hoCO.Key0905.text = ho.ho03_en_US_holycross.hoMA.SmallDoxology2.text
 hoCO.Key0906.text = ho.ho03_en_US_holycross.hoMA.SmallDoxology2n
 hoCO.Key0907.text = ho.ho03_en_US_holycross.hoMA.SmallDoxology3.text
-hoCO.Key0908.rubric = ""
-hoCO.Key0909.rubric = ""
-hoCO.Key0910.rubric = ""
-
-hoCO.Key1001.mode = miscellanea_en_US_holycross.misc.Mode6
-hoCO.Key1001.text = ""
-hoCO.Key1009.text = ""
-hoCO.Key1010.text = ""
 
 hoCO.Key1011.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCO.Key1011.text = "Lord, if we did not have your Saints as intercessors, and your goodness feeling compassion for us, how would we dare, O Savior, to sing hymns to you, whom the Angels unceasingly bless? O you who know our hearts, spare our souls."  //hoCO.Key1011.text = oc.m6.d3_en_US_holycross.ocMA.Aposticha3.text
@@ -129,14 +61,6 @@ hoCO.Key1104.title = "Prayer of St. loannikios"
 hoCO.Key1104.text = "The Father is my hope, the Son is my refuge, the Holy Spirit is my shelter, Holy Trinity, glory to you."
 hoCO.Key1105.text = "My one and my every hope, now I entrust in you, O Mother of God, under your shelter cover me." //ho.ho23_en_US_holycross.hoCA.Troparion7.text
 
-hoCO.Key1201.rubric = ""
-hoCO.Key1202.rubric = ""
-hoCO.Key1203.rubric = ""
-hoCO.Key1204.text = ""
-hoCO.Key1205.rubric = ""
-hoCO.Key1206.text = ""
-hoCO.Key1207.rubric = ""
-
 hoCO.Key1300.rubric = "And all receive forgiveness from the Priest by kissing his right hand while the people chant the following:"
 hoCO.Key1301.rubric = "On Monday, Wednesday and Friday evening:"
 hoCO.Key1301.mode = miscellanea_en_US_holycross.misc.Mode2
@@ -144,27 +68,11 @@ hoCO.Key1301.melody = miscellanea_en_US_holycross.misc.NotMetered //he.a.m2_en_U
 hoCO.Key1301.incipit = "All of us, do you protect…" //oc.m2.d5_en_US_holycross.ocVE.AposTheotokion.text
 hoCO.Key1301.text = "All of us, do you protect, O Good One, who seek refuge in faith, in Your mighty hand; for none other have we, the sinners before God; in danger and in sorrow, forever interceding, for us who are laden by so many faults; Mother of the God the Most High, on our knees we ask You: deliver Your servants from all tribulation." //oc.m2.d5_en_US_holycross.ocVE.AposTheotokion.text
 
-hoCO.Key1302.rubric = ""
-hoCO.Key1302.mode = miscellanea_en_US_holycross.misc.Mode1
-hoCO.Key1302.melody = miscellanea_en_US_holycross.misc.NotMetered //he.a.m1_en_US_holycross.heAU.PaneffimoiMartyres.name
-hoCO.Key1302.incipit = "…" //oc.m1.d3_en_US_holycross.ocMA.AposTheotokion.incipit
-hoCO.Key1302.text = "" //oc.m1.d3_en_US_holycross.ocMA.AposTheotokion.text
-
 hoCO.Key1303.rubric = "On Tuesday and Thursday evening:"
 hoCO.Key1303.mode = miscellanea_en_US_holycross.misc.Mode1
 hoCO.Key1303.melody = miscellanea_en_US_holycross.misc.NotMetered //he.a.m1_en_US_holycross.heAU.PaneffimoiMartyres.name
 hoCO.Key1303.incipit = "Watching, O Christ…" //oc.m1.d4_en_US_holycross.ocVE.SticTheotokion.text
 hoCO.Key1303.text = "Watching, O Christ, Your slaughter the unjust, in torment the Virgin cried to You: O my sweetest child, how needlessly You die, and You hang upon the wood, You who on the waters suspended all the earth. Benefactor, most merciful, do not abandon alone now, Your Mother and servant, I pray to You." //oc.m1.d4_en_US_holycross.ocVE.SticTheotokion.text
 
-hoCO.Key1304.rubric = ""
-
 hoCO.Key1401.rubric = "Those living in the Monasteries and the Hermitages, having asked forgiveness from the Elder, retire to their cells where they recite the following prayer:"
 hoCO.Key1401.text = "Lord, forgive those who hate us and those who wrong us; do good to those who do good; to our brethren and relatives, grant their requests for salvation and eternal life; visit the sick and grant them healing; govern those at sea; accompany the travelers; to those who serve us and those who help us grant remission of sins; forgive those who have asked us to pray for them and have mercy on them according to Your great mercy. Remember, Lord, all our fathers and brethren departed this life and rest them where the light of Your face shines.  Remember, Lord, our brethren, the captives, and spare them from every tribulation. Remember, Lord those who labor and bring forth fruit in Your holy Churches, and grant to them all requests for salvation and eternal life. Remember us, as well, Lord, Your humble and sinful servants and illumine our mind with the light of your knowledge and guide us in the way of Your commandments; through the intercessions of Your most sacred Mother, our Lady Theotokos and ever virgin Mary, and all Your Saints; for You are blessed unto the ages of ages. Amen."
-
-hoCO.Bookmark1.text = ""
-hoCO.Bookmark20.text = ""
-hoCO.Bookmark21.text = ""
-hoCO.Bookmark3.text = ""
-hoCO.BookmarkPage01.text = ""
-hoCO.BookmarkPage07.text = ""
-hoCO.BookmarkPage15.text = ""

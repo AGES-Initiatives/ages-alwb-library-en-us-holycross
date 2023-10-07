@@ -1,14 +1,6 @@
 A_Resource_Whose_Name = ho.ho21_en_US_holycross
 
 ho.title = "Service of Preparation for Holy Communion"
-ho.title2 = ""
-
-hoCA.title = ""
-hoCA.poet = ""
-
-hoCA.media.text = "" //for complete music
-
-R01 = ""
 
 hoCA.Ode11.ode = miscellanea_en_US_holycross.misc.Ode1
 hoCA.Ode11.mode = miscellanea_en_US_holycross.misc.Mode2
@@ -172,8 +164,6 @@ hoCA.Ode9T.mode = miscellanea_en_US_holycross.misc.Mode2
 hoCA.Ode9T.melody = he.h.m2_en_US_holycross.heHE.AnarchouGennitoros.name
 hoCA.Ode9T.incipit = "God took flesh from your…"
 hoCA.Ode9T.text = "God took flesh from your pure blood. Therefore, all generations praise you, Lady, while the hosts of incorporal powers glorify you. For they clearly behold him who rules all things to be endowed with human nature through you."
-
-R02 = ""
 
 hoPrayer.Key000.title = "On The Next Day"
 R03 = "After the usual morning prayers say:"
@@ -466,7 +456,3 @@ hoPrayer.Key205.text = "Let your sacred body, Lord Jesus Christ our God, lead me
 hoPrayer.Key206.title = "Anonymous"
 hoPrayer.Key206.title2 = "To the Most Holy Theotokos"
 hoPrayer.Key206.text = "All holy Lady, Theotokos, light of my darkened soul, my hope, shelter, refuge, comfort, and joy, I thank you, for you have deemed me, the unworthy one, worthy to partake of the most pure body and of the precious blood of your Son. But you who gave birth to the true Light, enlighten the spiritual eyes of my heart. You conceived the source of immortality. Now give life to me who am dead in sin. You, the compassionate Mother of the merciful God, have mercy on me and give me penitence and contrition of heart and meekness in my thoughts and an awakening of my thoughts from captivity. And grant me, until my last breath, to re­ceive without condemnation the sanctifica­tion of your sacred Mysteries for the heal­ing of soul and body. Grant me tears of repentance and confession that I may praise ad glorify you all the days of my life. For you are blessed and glorified to the ages. Amen."
-
-hoPrayer.Key300.title = ""
-hoPrayer.Key400.title = ""
-hoPrayer.Key500.title = ""

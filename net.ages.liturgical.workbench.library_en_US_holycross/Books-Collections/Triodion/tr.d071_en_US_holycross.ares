@@ -1,85 +1,8 @@
 A_Resource_Whose_Name = tr.d071_en_US_holycross
 
-trDA.commemoration.full = "" //full title of day
-trDA.commemoration.short = ""
-trDA.title = ""
-trDA.insert1 = "" //for use in petitions and dismissal
-trDA.insert2 = "" //for use in petitions and dismissal
-trDA.note = ""
-trHO.daytitle = ""
-trHO.commemorations = ""
-trHO.description1 = ""
-trHO.description2 = ""
-trHO.note1 = ""
-trHO.note2 = ""
-trCO.header = ""
-trVL.header = "" //for pdf headers of presanctified and vesperal liturgies
-
-trVE.Stichera01.mode = miscellanea_en_US_holycross.misc.Mode1
-trVE.Stichera01.melody = ""
-trVE.Stichera01.incipit = oc.m1.d1_en_US_holycross.ocVE.Stichera1.incipit
-trVE.Stichera01.text = oc.m1.d1_en_US_holycross.ocVE.Stichera1.text
-
-trVE.Stichera02.mode = miscellanea_en_US_holycross.misc.Mode1
-trVE.Stichera02.melody = ""
-trVE.Stichera02.incipit = oc.m1.d1_en_US_holycross.ocVE.Stichera2.incipit
-trVE.Stichera02.text = oc.m1.d1_en_US_holycross.ocVE.Stichera2.text
-
-trVE.Stichera03.mode = miscellanea_en_US_holycross.misc.Mode1
-trVE.Stichera03.melody = ""
-trVE.Stichera03.incipit = oc.m1.d1_en_US_holycross.ocVE.Stichera3.incipit
-trVE.Stichera03.text = oc.m1.d1_en_US_holycross.ocVE.Stichera3.text
-
-trVE.Stichera04.mode = miscellanea_en_US_holycross.misc.Mode1
-trVE.Stichera04.melody = ""
-trVE.Stichera04.incipit = oc.m1.d1_en_US_holycross.ocVE.Aposticha1.incipit
-trVE.Stichera04.text = oc.m1.d1_en_US_holycross.ocVE.Aposticha1.text
-
-trVE.Stichera05.mode = miscellanea_en_US_holycross.misc.Mode8
-trVE.Stichera05.melody = miscellanea_en_US_holycross.misc.Idiomelon
-trVE.Stichera05.incipit = "…"
-trVE.Stichera05.text = ""
-
-trVE.Stichera06.mode = miscellanea_en_US_holycross.misc.Mode8
-trVE.Stichera06.melody = miscellanea_en_US_holycross.misc.Idiomelon
-trVE.Stichera06.incipit = "…"
-trVE.Stichera06.text = ""
-
-trVE.Stichera07.mode = miscellanea_en_US_holycross.misc.Mode8
-trVE.Stichera07.melody = miscellanea_en_US_holycross.misc.Idiomelon
-trVE.Stichera07.incipit = "…"
-trVE.Stichera07.text = ""
-
-trVE.SticGlory.mode = miscellanea_en_US_holycross.misc.Mode6
-trVE.SticGlory.melody = miscellanea_en_US_holycross.misc.Idiomelon
-trVE.SticGlory.incipit = tr.d070_en_US_holycross.trMA.LaudsGlory.incipit
-trVE.SticGlory.text = tr.d070_en_US_holycross.trMA.LaudsGlory.text
-
-trVE.SticTheotokion.mode = miscellanea_en_US_holycross.misc.Mode1
-trVE.SticTheotokion.melody = ""
-trVE.SticTheotokion.incipit = oc.m1.d1_en_US_holycross.ocVE.SticTheotokion.incipit
-trVE.SticTheotokion.text = oc.m1.d1_en_US_holycross.ocVE.SticTheotokion.text
-
-trLI.SaturdayHymn.title = ""
-trLI.SaturdayHymn.mode = miscellanea_en_US_holycross.misc.Mode1
-trLI.SaturdayHymn.text = "" //for media
-
-trLI.SaturdayArise.text = "" //for media
-
 trLI.CherubicHymn.title = ""
 trLI.CherubicHymn.mode = miscellanea_en_US_holycross.misc.Mode5
 trLI.CherubicHymnPart1.incipit = "Let all mortal flesh keep silent…"
 trLI.CherubicHymnPart1.text = "Let all mortal flesh keep silent and with awe and trembling stand, pondering nothing earthly. For the King of kings and Lord of lords approaches to be slain, and to be given as food to the faithful. Before Him go the angelic hosts together with every principality and authority."
 trLI.CherubicHymnPart2.incipit = "The many-eyed Cherubim…"
 trLI.CherubicHymnPart2.text = "The many-eyed Cherubim and the six-winged Seraphim, covering their faces and crying out their song: Alleluia, alleluia, alleluia."
-
-trLI.TheotokosHymn.mode = miscellanea_en_US_holycross.misc.Mode8
-trLI.TheotokosHymn.incipit = oc.m8.d1_en_US_holycross.ocMA.Kathisma23.incipit
-trLI.TheotokosHymn.text = oc.m8.d1_en_US_holycross.ocMA.Kathisma23.text
-
-trLI.CommunionHymn.text = "" //for media
-
-trLI.AfterCommunion.mode = miscellanea_en_US_holycross.misc.Mode2
-trLI.AfterCommunion.incipit = "…"
-trLI.AfterCommunion.text = ""
-
