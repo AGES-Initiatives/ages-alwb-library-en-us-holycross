@@ -656,8 +656,8 @@ octrMA.Kathisma12.text = ocMA.Kathisma11.text
 
 octrMA.Kathisma1T.mode = miscellanea_en_US_holycross.misc.Mode8
 octrMA.Kathisma1T.melody = ""
-octrMA.Kathisma1T.incipit = "…"
-octrMA.Kathisma1T.text = ""
+octrMA.Kathisma1T.incipit = oc.m8.d2_en_US_holycross.ocVE.ApolTheotokionVM.incipit
+octrMA.Kathisma1T.text = oc.m8.d2_en_US_holycross.ocVE.ApolTheotokionVM.text
 
 octrMA.Ode7Martyricon.mode = miscellanea_en_US_holycross.misc.Mode8
 octrMA.Ode7Martyricon.melody = ""
