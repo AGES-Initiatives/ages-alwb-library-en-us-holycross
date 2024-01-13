@@ -77,7 +77,7 @@ ocVE.Stichera6.text = "As we the unworthy stand before your life-giving sepulche
 ocVE.Stichera7.mode = miscellanea_en_US_holycross.misc.Mode1
 ocVE.Stichera7.melody = ""
 ocVE.Stichera7.incipit = "Let us praise the Word…"
-ocVE.Stichera7.text = "Let us praise the Word who is without beginning and is co-eternal with the Father. He came forth ineffably from the Virgin's womb and for our sake he willingly accepted the cross and death and rose in glory. Let us say: Glory to you, O Lord, Giver of life and Savior of our souls."
+ocVE.Stichera7.text = "Let us praise the Word who is without beginning and is co-eternal with the Father. He came forth ineffably from the Virgin’s womb and for our sake he willingly accepted the cross and death and rose in glory. Let us say: Glory to you, O Lord, Giver of life and Savior of our souls."
 
 ocVE.SticTheotokion.mode = miscellanea_en_US_holycross.misc.Mode1
 ocVE.SticTheotokion.melody = ""
@@ -107,7 +107,7 @@ ocVE.Aposticha4.text = "The myrrh-bearing women brought spices, and hastened in 
 ocVE.AposTheotokion.mode = miscellanea_en_US_holycross.misc.Mode1
 ocVE.AposTheotokion.melody = ""
 ocVE.AposTheotokion.incipit = "Behold, the prophecy of Isaiah…"
-ocVE.AposTheotokion.text = "Behold, the prophecy of Isaiah is fulfilled. As a virgin you gave birth, and after giving birth you remained as before. For it was God who was born, and the nature of mankind was thereby restored. O Mother of God, do not overlook your servants' entreaties, offered to you in your temple; but have compassion for us your servants, you who bear in your arms the compassionate One. Entreat him, that our souls may be saved."
+ocVE.AposTheotokion.text = "Behold, the prophecy of Isaiah is fulfilled. As a virgin you gave birth, and after giving birth you remained as before. For it was God who was born, and the nature of mankind was thereby restored. O Mother of God, do not overlook your servants’ entreaties, offered to you in your temple; but have compassion for us your servants, you who bear in your arms the compassionate One. Entreat him, that our souls may be saved."
 
 ocVE.Apolytikion.mode = miscellanea_en_US_holycross.misc.Mode1
 ocVE.Apolytikion.greekmelody = he.a.m1_en_US_holycross.heAU.TouLithouSfragisthentos.greekname

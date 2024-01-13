@@ -4,7 +4,7 @@ peVE.SticGlory.poet = poets_en_US_holycross.po.LeontosDespotou
 peVE.SticGlory.mode = miscellanea_en_US_holycross.misc.Mode8
 peVE.SticGlory.melody = miscellanea_en_US_holycross.misc.Idiomelon
 peVE.SticGlory.incipit = "Come, all peoples, let us…"
-peVE.SticGlory.text = "Come, all peoples, let us worship the Godhead in three persons: the Son in the Father, with the Holy Spirit. For the Father begat the Son before all ages, co-eternal and equal in majesty, and the Holy Spirit was in the Father, glorified with the Son: a single power, a singe essence, one Godhead, which we all worship saying, \"Holy is God, Who created all things with the Son, with the cooperation of the Holy Spirit. Holy and mighty, through Whom we have known the Father and the Holy Spirit came into the world. Holy immortal, the Paraclete Spirit, which proceeds from the Father and abides in the Son: Holy Trinity, glory to You.\""
+peVE.SticGlory.text = "Come, all peoples, let us worship the Godhead in three persons: the Son in the Father, with the Holy Spirit. For the Father begat the Son before all ages, co-eternal and equal in majesty, and the Holy Spirit was in the Father, glorified with the Son: a single power, a singe essence, one Godhead, which we all worship saying, “Holy is God, Who created all things with the Son, with the cooperation of the Holy Spirit. Holy and mighty, through Whom we have known the Father and the Holy Spirit came into the world. Holy immortal, the Paraclete Spirit, which proceeds from the Father and abides in the Son: Holy Trinity, glory to You.”"
 
 peVE.Aposticha3.mode = miscellanea_en_US_holycross.misc.Mode6
 peVE.Aposticha3.melody = miscellanea_en_US_holycross.misc.Idiomelon
@@ -19,7 +19,7 @@ peVE.Apolytikion1.text = "Blessed are You, O Christ our God, who made fishermen 
 peMA.Lauds1.mode = miscellanea_en_US_holycross.misc.Mode4
 peMA.Lauds1.melody = ""
 peMA.Lauds1.incipit = "The many nations saw strange…"
-peMA.Lauds1.text = "The many nations saw strange things in the city of David when the Holy Spirit descended in fiery tongues as the inspired Luke recounted. For he says: \"They were all together in one place. And suddenly a sound came like the rush of a mighty wind, and it filled all the house where they were sitting. And all began to speak in other tongues, other doctrines, other teachings, of the Holy Spirit.\""
+peMA.Lauds1.text = "The many nations saw strange things in the city of David when the Holy Spirit descended in fiery tongues as the inspired Luke recounted. For he says: “They were all together in one place. And suddenly a sound came like the rush of a mighty wind, and it filled all the house where they were sitting. And all began to speak in other tongues, other doctrines, other teachings, of the Holy Spirit.”"
 
 peMA.Lauds2.mode = miscellanea_en_US_holycross.misc.Mode4
 peMA.Lauds2.melody = ""
@@ -29,4 +29,4 @@ peMA.Lauds2.text = "The Holy Spirit has always been, is now and ever shall be, h
 peMA.Lauds3.mode = miscellanea_en_US_holycross.misc.Mode4
 peMA.Lauds3.melody = ""
 peMA.Lauds3.incipit = "The Holy Spirit, light and…"
-peMA.Lauds3.text = "The Holy Spirit, light and life, and living fountain of reason. Spirit of wisdom, Spirit of understanding, of goodness and honesty, intelligence and sovereignty, expiating sins. God who deifies; fire deriving from fire, speaking, acting, meting out gifts; through Whom the prophets all and God's apostles together with the martyrs were crowned. Different sounds, a different sight: fire divided into gifts of grace."
+peMA.Lauds3.text = "The Holy Spirit, light and life, and living fountain of reason. Spirit of wisdom, Spirit of understanding, of goodness and honesty, intelligence and sovereignty, expiating sins. God who deifies; fire deriving from fire, speaking, acting, meting out gifts; through Whom the prophets all and God’s apostles together with the martyrs were crowned. Different sounds, a different sight: fire divided into gifts of grace."
