@@ -13,25 +13,36 @@ euPL.Key0107.text = ""
 euPL.Key0108.text = ""
 
 euPL.Key0200.title = "The Divine Liturgy of the Presanctified Gifts"
-euPL.Key0201.text = prayers_en_US_holycross.pr.enarxis02.text
-euPL.Key0203.title = "PRAYER OF THE FIRST ANTIPHON"
-euPL.Key0203.text = hi.hi01_en_US_holycross.hiVE.Key1101.text
-euPL.Key0204.text = prayers_en_US_holycross.pr.exc01.text
+euPL.Key0201.text = ""
+euPL.Key0202.text = ""
+euPL.Key0203.text = ""
+
+euPL.Key0204.title = ""
+euPL.Key0205.text = ""
+euPL.Key0206.title = ""
+euPL.Key0207.title = ""
+euPL.Key0208.title = ""
+euPL.Key0209.title = ""
+euPL.Key0210.text = ""
+euPL.Key0210a.text = ""
+
+euPL.Key0211.title = "PRAYER OF THE FIRST ANTIPHON"
+euPL.Key0212.text = ""
 
 euPL.Key0300.title = "First Stanza"
 euPL.Key0306.title = "PRAYER OF THE SECOND ANTIPHON"
-euPL.Key0306.text = hi.hi01_en_US_holycross.hiVE.Key1102.text
-euPL.Key0307.text = prayers_en_US_holycross.pr.exc02.text
+euPL.Key0306.text = ""
+euPL.Key0307.text = ""
 
 euPL.Key0400.title = "Second Stanza"
 euPL.Key0406.title = "PRAYER OF THE THIRD ANTIPHON"
-euPL.Key0406.text = hi.hi01_en_US_holycross.hiVE.Key1103.text
-euPL.Key0407.text = prayers_en_US_holycross.pr.exc03.text
+euPL.Key0406.text = ""
+euPL.Key0407.text = ""
 
 euPL.Key0500.title = "Third Stanza"
 euPL.Key0506.title = "PRAYER OF THE FOURTH ANTIPHON"
-euPL.Key0506.text = hi.hi01_en_US_holycross.hiVE.Key1104.text
-euPL.Key0507.text = prayers_en_US_holycross.pr.exc22.text
+euPL.Key0506.text = ""
+euPL.Key0507.text = ""
 
 euPL.Key0600.title = ""
 //Vespers with entrance
@@ -40,19 +51,20 @@ euPL.Key0700.title = ""
 euPL.Key0701.text = "The light of Christ"
 euPL.Key0702.text = "shines upon all."
 
-euPL.Key0800.title = ""
-euPL.Key0800.text = "" //for media
+euPL.MM.Key0800.text = "" //for media
 
-//euPL.Key0900
+euPL.Key0900.title = ""
+euPL.Key0900.text = ""
+euPL.Key0900a.text = ""
 euPL.Key0901.title = "PRAYER OF THE CATECHUMENS"
 euPL.Key0901.text = "O God, our God, creator and maker of all, You wish all to be saved and to come to the knowledge of the truth. Look upon your servants, the catechumens, and free them from the old error and the devices of the adversary, and call them to life eternal, illumining their souls and bodies, and numbering them among Your rational flock over whom Your holy name is invoked."
-euPL.Key0902.text = prayers_en_US_holycross.pr.petCatechumens09.text
+euPL.Key0902.text = properties_en_US_holycross.deprecated.key
 euPL.Key0903.title = "PRAYER FOR THOSE PREPARING FOR ILLUMINATION"
 euPL.Key0903.text = "Master, shine Your face on those who are preparing for holy illumination, who strongly desire to shake off the defilement of sin. Clear their mind. Confirm them in faith. Strengthen them in hope. Perfect them in love. Make them precious members of Your Christ who gave himself as ransom for our souls."
-euPL.Key0904.text = prayers_en_US_holycross.pr.petCatechumens24.text
+euPL.Key0904.text = properties_en_US_holycross.deprecated.key
 euPL.Key0905.title = "FIRST PRAYER OF THE FAITHFUL"
 euPL.Key0905.text = "O God, great and praiseworthy, who through the life-giving death of Your Christ brought us from corruption to incorruption. Set free all our senses from deadly passions, setting over them as a good guide the understanding that is within us. Let our eyes abstain from evil sights; our hearing from idle talk; and our tongue cleansed from unsuitable speech. Purify our lips that sing Your praises, O Lord. Let our hands abstain from evil acts and produce only works that are pleasing to You, safeguarding by Your grace all our limbs and mind."
-euPL.Key0906.text = prayers_en_US_holycross.pr.exc01.text
+euPL.Key0906.text = properties_en_US_holycross.deprecated.key
 euPL.Key0907.title = "SECOND PRAYER OF THE FAITHFUL"
 euPL.Key0907.text = "Holy and exceedingly good Master, we beseech You who are rich in mercy: be gracious with us sinners, and make us worthy of receiving Your only-begotten Son and our God, the King of glory. For behold, His most-pure body and life-giving blood, entering at this hour, are to be placed on this mystical Table, invisibly escorted by a multitude of unseen heavenly hosts. Grant that we may blamelessly partake of them, so that having been illumined by them, we may become children of the light and of the day."
 euPL.Key0908.text = "Through the gift of Your Christ, with whom You are blessed, together with Your all-holy, good, and life-giving Spirit, now and forever and to the ages of ages."
@@ -68,17 +80,17 @@ euPL.Key1103.title = "PRAYER"
 euPL.Key1103.text = "O God, who only are good and compassionate, who dwell on high and who look upon the lowly, look with a compassionate eye upon all Your people, and watch over them. Make us all worthy to partake of these Your life giving mysteries without blame, for it is before You that we have bowed our heads in the hope of your abundant mercy."
 euPL.Key1104.text = "The holy presanctified gifts for the holy people of God."
 
-euPL.Key1201.title = "COMMUNION HYMN"
-euPL.Key1201.text = "" //for media
+euPL.MM.Key1201.text = "" //for media
 euPL.Key1202.title = "After Communion"
 euPL.Key1202.text = "I will bless the Lord at all times; His praise shall continually be in my mouth. Taste the Bread of heaven and the Cup of Life, and see that the Lord is good. Alleluia, Alleluia, Alleluia."
+euPL.Key1203.title = ""
 euPL.Key1203.text = "Having prayed for a perfect, holy, peaceful, and sinless evening, let us commit ourselves, and one another, and our whole life to Christ our God."
 euPL.Key1204.title = "PRAYER AFTER HOLY COMMUNION"
 euPL.Key1204.text = "We thank You, O God, Savior of us all, for all the good things you have given us, and for the communion of Your holy Body and Blood of Your Christ. And we pray to You, loving Master: Protect us under the covering of Your wings and grant that we may worthily partake of your blessings to the end of our days, for the illumination of our soul and body to inherit the kingdom of heaven."
-euPL.Key1205.text = prayers_en_US_holycross.pr.exc24.text
+euPL.Key1205.text = properties_en_US_holycross.deprecated.key
 euPL.Key1206.title = ""
-euPL.Key1206.text = "Almighty Master, You created the universe in wisdom. By Your ineffable forethought and great goodness, You led us to these sacred days for cleansing of souls and bodies, for subduing passions, and for hope of resurrection. For forty days, You shaped the tablets written with godlike characters for Your servant Moses. Grant also to us, good Lord, to fight the good fight, to finish the course of the fast, to keep the faith whole, to shatter the heads of unseen dragons, and to show ourselves victorious over sin, and to arrive blamelessly, without condemnation, to worship also Your holy resurrection. For blessed and glorified is Your honored and magnificent name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
-euPL.Key1207.text = "" //for media
+euPL.Key1206.text = "Almighty Master, You created the universe in wisdom. By Your ineffable forethought and great goodness, You led us to these sacred days for cleansing of souls and bodies, for subduing passions, and for hope of resurrection. For forty days, You shaped the tablets written with godlike characters for Your servant Moses. Grant also to us, good Lord, to fight the good fight, to finish the course of the fast, to keep the faith whole, to shatter the heads of unseen dragons, and to show ourselves victorious over sin, and to arrive blamelessly, without condemnation, to worship also Your holy resurrection."
+euPL.MM.Key1207.text = "" //for media
 euPL.Key1208.title = ""
 euPL.Key1208.text = "O Lord our God, You have led us to these sacred days and made us partakers of Your awesome mysteries. Unite us with Your reasonable flock, and make us inheritors of Your kingdom, now and forever and to the ages of ages. Amen."
 
