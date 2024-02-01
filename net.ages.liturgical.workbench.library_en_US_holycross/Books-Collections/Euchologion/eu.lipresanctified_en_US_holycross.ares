@@ -29,23 +29,19 @@ euPL.Key0210a.text = ""
 euPL.Key0211.title = "PRAYER OF THE FIRST ANTIPHON"
 euPL.Key0212.text = ""
 
-euPL.Key0300.title = "First Stanza"
 euPL.Key0306.title = "PRAYER OF THE SECOND ANTIPHON"
 euPL.Key0306.text = ""
 euPL.Key0307.text = ""
 
-euPL.Key0400.title = "Second Stanza"
 euPL.Key0406.title = "PRAYER OF THE THIRD ANTIPHON"
 euPL.Key0406.text = ""
 euPL.Key0407.text = ""
 
-euPL.Key0500.title = "Third Stanza"
 euPL.Key0506.title = "PRAYER OF THE FOURTH ANTIPHON"
 euPL.Key0506.text = ""
 euPL.Key0507.text = ""
 
 euPL.Key0600.title = ""
-//Vespers with entrance
 
 euPL.Key0700.title = ""
 euPL.Key0701.text = "The light of Christ"
@@ -75,7 +71,7 @@ euPL.Key1002.text = "Behold, a mystical and perfect sacrifice is coming forth. L
 
 euPL.Key1101.text = "For the precious and presanctified gifts here presented, let us pray to the Lord."
 euPL.Key1102.title = "PRAYER"
-euPL.Key1102.text = "O God of ineffable and unseeen mysteries with whom are the hidden treasures of wisdom and knowledge, You have revealed to us the service of this liturgy and by Your great compassion have ordained that we sinners should offer to You gifts and sacrifices for our sins and for the transgressions of the people. You, O invisible King, whose works are great and wondrous, glorious, marvelous, and without number, look upon us who draw near to Your holy Altar as the throne of the Cherubim upon which rests Your only-begotten Son and our God through the awesome mysteries offered here. And when you have freed us and Your faithful people from all impurities, sanctify our souls and bodies with a sanctification not to be taken away, so that with clear conscience, a presence without shame, and enlightened heart, we may participate in these divine sacraments. Through them we are given life that we may be united to Your Christ, our true God, who said: Whoever eats my flesh and drinks my blood abides in me and I in him, so that with Your Word, O Lord, abiding in us and walking among us, we may become temples of Your all holy and worshipful Spirit, having been freed from every diabolical device working by deeds or words or thoughts. Thus, shall we obtain the blessing You have promised us, together with all Your saints, who from all ages have pleased You."
+euPL.Key1102.text = "O God of ineffable and unseen mysteries with whom are the hidden treasures of wisdom and knowledge, You have revealed to us the service of this liturgy and by Your great compassion have ordained that we sinners should offer to You gifts and sacrifices for our sins and for the transgressions of the people. You, O invisible King, whose works are great and wondrous, glorious, marvelous, and without number, look upon us who draw near to Your holy Altar as the throne of the Cherubim upon which rests Your only-begotten Son and our God through the awesome mysteries offered here. And when you have freed us and Your faithful people from all impurities, sanctify our souls and bodies with a sanctification not to be taken away, so that with clear conscience, a presence without shame, and enlightened heart, we may participate in these divine sacraments. Through them we are given life that we may be united to Your Christ, our true God, who said: Whoever eats my flesh and drinks my blood abides in me and I in him, so that with Your Word, O Lord, abiding in us and walking among us, we may become temples of Your all holy and worshipful Spirit, having been freed from every diabolical device working by deeds or words or thoughts. Thus, shall we obtain the blessing You have promised us, together with all Your saints, who from all ages have pleased You."
 euPL.Key1103.title = "PRAYER"
 euPL.Key1103.text = "O God, who only are good and compassionate, who dwell on high and who look upon the lowly, look with a compassionate eye upon all Your people, and watch over them. Make us all worthy to partake of these Your life giving mysteries without blame, for it is before You that we have bowed our heads in the hope of your abundant mercy."
 euPL.Key1104.text = "The holy presanctified gifts for the holy people of God."
@@ -86,11 +82,10 @@ euPL.Key1202.text = "I will bless the Lord at all times; His praise shall contin
 euPL.Key1203.title = ""
 euPL.Key1203.text = "Having prayed for a perfect, holy, peaceful, and sinless evening, let us commit ourselves, and one another, and our whole life to Christ our God."
 euPL.Key1204.title = "PRAYER AFTER HOLY COMMUNION"
-euPL.Key1204.text = "We thank You, O God, Savior of us all, for all the good things you have given us, and for the communion of Your holy Body and Blood of Your Christ. And we pray to You, loving Master: Protect us under the covering of Your wings and grant that we may worthily partake of your blessings to the end of our days, for the illumination of our soul and body to inherit the kingdom of heaven."
+euPL.Key1204.text = "We thank You, O God, Savior of us all, for all the good things you have given us, and for the communion of the holy Body and Blood of Your Christ. And we pray to You, loving Master: Protect us under the covering of Your wings and grant that we may worthily partake of your blessings to the end of our days, for the illumination of our soul and body to inherit the kingdom of heaven."
 euPL.Key1205.text = properties_en_US_holycross.deprecated.key
 euPL.Key1206.title = ""
 euPL.Key1206.text = "Almighty Master, You created the universe in wisdom. By Your ineffable forethought and great goodness, You led us to these sacred days for cleansing of souls and bodies, for subduing passions, and for hope of resurrection. For forty days, You shaped the tablets written with godlike characters for Your servant Moses. Grant also to us, good Lord, to fight the good fight, to finish the course of the fast, to keep the faith whole, to shatter the heads of unseen dragons, and to show ourselves victorious over sin, and to arrive blamelessly, without condemnation, to worship also Your holy resurrection."
 euPL.MM.Key1207.text = "" //for media
 euPL.Key1208.title = ""
 euPL.Key1208.text = "O Lord our God, You have led us to these sacred days and made us partakers of Your awesome mysteries. Unite us with Your reasonable flock, and make us inheritors of Your kingdom, now and forever and to the ages of ages. Amen."
-
