@@ -145,6 +145,7 @@ pr.GloryToYouChristHope.text = "Glory to You, O Christ God, our hope. Glory to Y
 pr.GloryToYouGod.text = "Glory to You, O God."
 pr.GloryToYouGodHope.incipit = ""
 pr.GloryToYouGodHope.text = ""
+
 pr.GloryToYouLord.text = "Glory to You, O Lord. Glory to You."
 pr.GloryToYouOurGod.incipit = "Glory to You, our God…"
 pr.GloryToYouOurGod.text = "Glory to You, our God. Glory to You."
@@ -221,6 +222,8 @@ pr.pet09.text = "For favorable weather, an abundance of the fruits of the earth,
 pr.pet10.incipit = "For travelers by land, sea…"
 pr.pet10.text = "For travelers by land, sea and air, for the sick, the suffering, for captives, and for their salvation, let us pray to the Lord."
 pr.pet11.text = "For our deliverance from all affliction, wrath, danger, and distress, let us pray to the Lord."
+
+
 pr.pet12.incipit = "Help us, save us, have…"
 pr.pet12.text = "Help us, save us, have mercy upon us and protect us, O God, by Your grace."
 pr.pet13.incipit = "Remembering our most holy, pure…"
@@ -320,6 +323,7 @@ pr.petCatechumens08.text = "Catechumens, bow Your heads to the Lord."
 pr.petCatechumens09.text = "So that they, together with us, may glorify Your honorable and majestic name, of the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 pr.petCatechumens10.text = "All catechumens depart. Catechumens depart."
 pr.petCatechumens11.text = "All catechumens depart. Let no catechumen remain."
+
 pr.petCatechumens12.text = "All faithful, let us again in peace pray to the Lord."
 pr.petCatechumens13.text = "All who are ready for illumination come forward."
 pr.petCatechumens14.text = "Pray all of you who are preparing for illumination. Let us pray to the Lord."
@@ -356,7 +360,7 @@ pr.petConsecration13a.text = "Remembering our most holy, pure, blessed, and glor
 pr.petConsecration13b.text = "with all the saints, let us commit ourselves and one another and our whole life to Christ our God."
 pr.petCross05.incipit = "Again we pray for the…"
 pr.petCross05.text = "Again we pray for the soul of every Orthodox Christian, for their health, salvation, and forgiveness of sins."
-pr.petFuneral01.incipit = "Again we pray for the…"
+pr.petFuneral01.incipit = "Again we pray for the repose…"
 pr.petFuneral01.text = "Again we pray for the repose of the soul of the departed servant of God (Name), who has fallen asleep, and for the forgiveness of all his (her) sins, voluntary and involuntary."
 pr.petFuneral02.incipit = "May the Lord God place…"
 pr.petFuneral02.text = "May the Lord God place his (her) soul where the righteous repose. Let us ask for the mercies of God, the kingdom of Heaven, and the forgiveness of his (her) sins from Christ our immortal king and our God."
