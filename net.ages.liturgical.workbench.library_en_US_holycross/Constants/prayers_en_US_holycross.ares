@@ -62,6 +62,7 @@ pr.epi01a.text = "The reading is from"
 pr.epi01b.text = "" // leave blank in English
 pr.epi02.text = "Peace be to you."
 pr.epi03.text = "Peace be to you the reader."
+pr.epi04.text = ""
 pr.exc01.incipit = "For to You belong all…"
 pr.exc01.text = "For to You belong all glory, honor, and worship, to the Father and the Son and the Holy Spirit, now and forever and to the ages of ages."
 pr.exc01a.incipit = "For to You belong all…"
