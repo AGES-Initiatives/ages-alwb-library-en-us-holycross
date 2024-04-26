@@ -5,7 +5,7 @@ trMA.Kontakion1.melody = ""
 trMA.Kontakion1.incipit = "With the Saints give rest…"
 trMA.Kontakion1.text = "With the Saints give rest, O Christ, to the souls of Your servants where there is no pain, nor sorrow, nor suffering, but life everlasting."
 
-trLI.Kontakion1.mode = trMA.Kontakion1.mode
-trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = tr.d014_en_US_holycross.trMA.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d014_en_US_holycross.trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = tr.d014_en_US_holycross.trMA.Kontakion1.incipit
+trLI.Kontakion1.text = tr.d014_en_US_holycross.trMA.Kontakion1.text
