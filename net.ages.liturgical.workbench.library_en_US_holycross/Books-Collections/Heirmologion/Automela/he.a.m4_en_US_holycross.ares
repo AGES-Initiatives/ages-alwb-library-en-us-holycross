@@ -21,8 +21,8 @@ heAU.EdokasSimeiosin.text = ""
 heAU.EpefanisSimeron.greekname = ""
 heAU.EpefanisSimeron.melody = miscellanea_en_US_holycross.misc.Automelon
 heAU.EpefanisSimeron.mode = miscellanea_en_US_holycross.misc.Mode4
-heAU.EpefanisSimeron.notmetered = "N/M (You appeared.)"
-heAU.EpefanisSimeron.name = "N/M (You appeared.)"
+heAU.EpefanisSimeron.notmetered = "N/M (You revealed yourself today.)"
+heAU.EpefanisSimeron.name = "N/M (You revealed yourself today.)"
 heAU.EpefanisSimeron.incipit = "…"
 heAU.EpefanisSimeron.text = ""
 

@@ -36,7 +36,7 @@ heHE.AntitheonProstagma.mode = miscellanea_en_US_holycross.misc.Mode2
 heHE.AntitheonProstagma.ode = miscellanea_en_US_holycross.misc.Ode7
 heHE.AntitheonProstagma.text = ""
 
-heHE.AporeiPasaGlossa.notmetered = "N/M (Every tongue.)"
+heHE.AporeiPasaGlossa.notmetered = "N/M (Mortal tongues are unable.)"
 heHE.AporeiPasaGlossa.greekname = ""
 heHE.AporeiPasaGlossa.name = ""
 heHE.AporeiPasaGlossa.incipit = "…"
@@ -252,7 +252,7 @@ heHE.IEnOuranois.mode = miscellanea_en_US_holycross.misc.Mode2
 heHE.IEnOuranois.ode = miscellanea_en_US_holycross.misc.Ode9
 heHE.IEnOuranois.text = ""
 
-heHE.IFoniTouLogou.notmetered = "N/M (The voice of the Logos.)"
+heHE.IFoniTouLogou.notmetered = "N/M (As he is the voice.)"
 heHE.IFoniTouLogou.greekname = ""
 heHE.IFoniTouLogou.name = ""
 heHE.IFoniTouLogou.incipit = "…"
@@ -297,7 +297,7 @@ heHE.IdeteIdeteOEnThalassi.mode = miscellanea_en_US_holycross.misc.Mode2
 heHE.IdeteIdeteOEnThalassi.ode = miscellanea_en_US_holycross.misc.Ode2
 heHE.IdeteIdeteOEnThalassi.text = ""
 
-heHE.IisousOZoisArchigos.notmetered = "N/M (He is Jesus.)"
+heHE.IisousOZoisArchigos.notmetered = "N/M (It is Jesus, the Author of life.)"
 heHE.IisousOZoisArchigos.greekname = ""
 heHE.IisousOZoisArchigos.name = ""
 heHE.IisousOZoisArchigos.incipit = "…"
@@ -339,7 +339,7 @@ heHE.IndalmatosChrysou.mode = miscellanea_en_US_holycross.misc.Mode2
 heHE.IndalmatosChrysou.ode = miscellanea_en_US_holycross.misc.Ode8
 heHE.IndalmatosChrysou.text = ""
 
-heHE.IschynODidous.notmetered = "N/M (The Lord who bestows.)"
+heHE.IschynODidous.notmetered = "N/M (Indeed, He gives strength.)"
 heHE.IschynODidous.greekname = ""
 heHE.IschynODidous.name = ""
 heHE.IschynODidous.incipit = "…"
@@ -366,7 +366,7 @@ heHE.MesitisTheou.mode = miscellanea_en_US_holycross.misc.Mode2
 heHE.MesitisTheou.ode = miscellanea_en_US_holycross.misc.Ode5
 heHE.MesitisTheou.text = ""
 
-heHE.MystirionParadoxon.notmetered = "N/M (The furnace once.)"
+heHE.MystirionParadoxon.notmetered = "N/M (Of old, the furnace in Babylon.)"
 heHE.MystirionParadoxon.greekname = ""
 heHE.MystirionParadoxon.name = ""
 heHE.MystirionParadoxon.incipit = "…"
@@ -375,7 +375,7 @@ heHE.MystirionParadoxon.mode = miscellanea_en_US_holycross.misc.Mode2
 heHE.MystirionParadoxon.ode = miscellanea_en_US_holycross.misc.Ode8
 heHE.MystirionParadoxon.text = ""
 
-heHE.NeousEfseveis.notmetered = "N/M (When the pious youths.)"
+heHE.NeousEfseveis.notmetered = "N/M (Young and pious men.)"
 heHE.NeousEfseveis.greekname = ""
 heHE.NeousEfseveis.name = ""
 heHE.NeousEfseveis.incipit = "…"
@@ -813,7 +813,7 @@ heHE.VythoAmartimaton.mode = miscellanea_en_US_holycross.misc.Mode2
 heHE.VythoAmartimaton.ode = miscellanea_en_US_holycross.misc.Ode6
 heHE.VythoAmartimaton.text = ""
 
-heHE.VythouAnekalypse.notmetered = "N/M (The Lord who is powerful.)"
+heHE.VythouAnekalypse.notmetered = "N/M (Behold, how the Lord.)"
 heHE.VythouAnekalypse.greekname = ""
 heHE.VythouAnekalypse.name = ""
 heHE.VythouAnekalypse.incipit = "…"
