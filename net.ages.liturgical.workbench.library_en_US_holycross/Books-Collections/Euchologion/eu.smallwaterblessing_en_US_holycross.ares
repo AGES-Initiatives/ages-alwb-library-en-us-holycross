@@ -223,21 +223,25 @@ euSWB.Key0401a.text = "O Lord our God, Who are mighty in counsel and wondrous in
 euSWB.Key0401b.text = "Yea, we beseech You visit our weaknesses, O Good One, and heal our infirmities both of spirit and of body through Your mercy; through the prayers of the all-pure, exceedingly blessed Lady Theotokos and Ever-Virgin Mary; Through the intercessions of the precious and life-creating Cross; through the protection of the glorious bodiless Powers of the Heavens; through the intercessions of the glorious Prophet and Forerunner John the Baptist; of the holy, glorious and all-praiseworthy Apostles; of the holy and God-bearing Fathers; of our Fathers among the Saints, the great Hierarchs and ecumenical Teachers, Basil the Great, Gregory the Theologian, and John Chrysostom; of our Fathers the Saints, Athanasios, Kyrillos, and John the Merciful, Patriarchs of Alexandria; of Nicholas Bishop of Myra in Lycia; of Spyridon the Wonderworker Of Trymitheus; of the holy, glorious Martyrs, George the Victorious, Demetrios the Exhaler of Myrrh, Theodore of Tyron and Theodore Stratilatis; and of the holy and glorious Hieromartyrs Charalambos and Eleutherios, and of all the righteous Martyrs; of the holy and righteous forefathers Joachim and Anna; of the holy wonderworking Unmercenaries, Kosmas and Damian, Kyros and John, Panteleimon and Hermolaus; Samson and Diomedes, Mokios and Anekitas, Thallelaios and Tryphon;"
 euSWB.Key0402.text = "of Saint (Name of the Saint of the Day), whose memory we commemorate; and of all Your Saints."
 euSWB.Key0403.text = "Preserve, Lord, the president of the United States, and all the other Civil Authorities enabled by the American people."
-euSWB.Key0404.text = "Save, O God, all Orthodox Bishops who rightly divide the word of Your truth, granting unto them spiritual and bodily health; be merciful unto this Christian habitation which labors for You; have in remembrance, O God, every priestly and monastic order and their salvation; have in remembrance, O God, both those that hate us and those who love us, the brethren who serve with us; the people here present; and who for any cause are worthy of blessing and have gone forth having empowered us, unworthy though we are, to pray, for them; have in remembrance, O God, our brethren who are in captivity and affliction, and show mercy unto them according to Your great Mercy, delivering them from every tribulation. For You are the Fountain of healing, O Christ our God, and to You do we send up all glory, together with Your Eternal Father and Your All-Holy, Good, and Life-creating Spirit, both now and ever, and to the ages of ages."
+euSWB.Key0404.text = "Save, O God, all Orthodox Bishops who rightly divide the word of Your truth, granting unto them spiritual and bodily health; be merciful unto this Christian habitation which labors for You; have in remembrance, O God, every priestly and monastic order and their salvation; have in remembrance, O God, both those that hate us and those who love us, the brethren who serve with us; the people here present; and who for any cause are worthy of blessing and have gone forth having empowered us, unworthy though we are, to pray, for them; have in remembrance, O God, our brethren who are in captivity and affliction, and show mercy unto them according to Your great Mercy, delivering them from every tribulation."
+euSWB.Key0405.text = "For You are the Fountain of healing, O Christ our God, and to You do we send up all glory, together with Your Eternal Father and Your All-Holy, Good, and Life-creating Spirit, both now and ever, and to the ages of ages."
 
 euSWB.R501 = "" //Another shorter prayer.
 euSWB.Key0501.text = ""
 
 euSWB.Key0502.title = ""
+euSWB.Key0502.incipit = "…"
 euSWB.Key0502.text = ""
 
 euSWB.Key0503.title = ""
-euSWB.Key0503.inicpit = ""
-euSWB.Key0503.text = ""
+euSWB.Key0503.inicpit = "…"
+euSWB.Key0503a.text = ""
+euSWB.Key0503b.text = ""
+euSWB.Key0503c.text = ""
 euSWB.Key0504.text = ""
 
 euSWB.R601 = ""
-euSWB.Key0601.text = "Bow down Your ear and listen to us, O Lord, Who deigned to be baptized in the river Jordan, and there sanctified the water. Bless us all who by the bowing of our heads do show forth our apprehension that we are Your servants. Grant that we may be filled with Your sanctification through the partaking of this water, and let it be for us, O Lord, for the health of soul and body."
+euSWB.Key0601.text = eu.greatblessingofwater_en_US_holycross.euGW.Prayer41.text
 
 euSWB.R602 = "Then the Priest, taking up the venerable Cross, dips it crosswise in the Water thrice, singing the Troparion:"
 
