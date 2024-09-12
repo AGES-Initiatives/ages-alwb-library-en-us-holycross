@@ -117,7 +117,7 @@ heHE.EisakikoaKyrieTinAkoin.mode = miscellanea_en_US_holycross.misc.Mode1
 heHE.EisakikoaKyrieTinAkoin.ode = miscellanea_en_US_holycross.misc.Ode4
 heHE.EisakikoaKyrieTinAkoin.text = ""
 
-heHE.EkNyktosErgon.notmetered = "N/M (Would that You come.)"
+heHE.EkNyktosErgon.notmetered = "N/M (Now rising.)"
 heHE.EkNyktosErgon.greekname = ""
 heHE.EkNyktosErgon.name = ""
 heHE.EkNyktosErgon.incipit = "…"
@@ -262,7 +262,7 @@ heHE.FotizouFotizou.mode = miscellanea_en_US_holycross.misc.Mode1
 heHE.FotizouFotizou.ode = miscellanea_en_US_holycross.misc.Ode9
 heHE.FotizouFotizou.text = ""
 
-heHE.GenousVroteiou.notmetered = "N/M (Prophet Habakkuk.)"
+heHE.GenousVroteiou.notmetered = "N/M (Of old, Habakkuk's ode.)"
 heHE.GenousVroteiou.greekname = ""
 heHE.GenousVroteiou.name = ""
 heHE.GenousVroteiou.incipit = "…"
@@ -366,7 +366,7 @@ heHE.MegaToMystirion.mode = miscellanea_en_US_holycross.misc.Mode1
 heHE.MegaToMystirion.ode = miscellanea_en_US_holycross.misc.Ode4
 heHE.MegaToMystirion.text = ""
 
-heHE.MitranAflektos.notmetered = "N/M (Standing in fire.)"
+heHE.MitranAflektos.notmetered = "N/M (As the Young Men of old.)"
 heHE.MitranAflektos.greekname = ""
 heHE.MitranAflektos.name = ""
 heHE.MitranAflektos.incipit = "…"
@@ -389,7 +389,7 @@ heHE.MystirionXenon.mode = miscellanea_en_US_holycross.misc.Mode1
 heHE.MystirionXenon.ode = miscellanea_en_US_holycross.misc.Ode9
 heHE.MystirionXenon.text = ""
 
-heHE.NaionIonas.notmetered = "N/M (Jonah, as he sat.)"
+heHE.NaionIonas.notmetered = "N/M (Gripped in the gorges.)"
 heHE.NaionIonas.greekname = ""
 heHE.NaionIonas.name = ""
 heHE.NaionIonas.incipit = "…"
@@ -403,7 +403,7 @@ heHE.NaionIonas3.text = ""
 heHE.NaionIonas4.text = ""
 heHE.NaionIonas5.text = ""
 
-heHE.NefsonProsYmnous.notmetered = "N/M (Hearken, Benefactor.)"
+heHE.NefsonProsYmnous.notmetered = "N/M (Incline Your ear.)"
 heHE.NefsonProsYmnous.greekname = ""
 heHE.NefsonProsYmnous.name = ""
 heHE.NefsonProsYmnous.incipit = "…"
@@ -723,7 +723,7 @@ heHE.StereothitoIKardiaMou.mode = miscellanea_en_US_holycross.misc.Mode1
 heHE.StereothitoIKardiaMou.ode = miscellanea_en_US_holycross.misc.Ode3
 heHE.StereothitoIKardiaMou.text = ""
 
-heHE.StergeinMenImas.notmetered = "N/M (Easier for us.)"
+heHE.StergeinMenImas.notmetered = "N/M (To favor being silent.)"
 heHE.StergeinMenImas.greekname = ""
 heHE.StergeinMenImas.name = ""
 heHE.StergeinMenImas.incipit = "…"
@@ -809,7 +809,7 @@ heHE.ToFaeinonIminExanateilon.mode = miscellanea_en_US_holycross.misc.Mode1
 heHE.ToFaeinonIminExanateilon.ode = miscellanea_en_US_holycross.misc.Ode5
 heHE.ToFaeinonIminExanateilon.text = ""
 
-heHE.ToPantanaktos.notmetered = "N/M (As the three young men.)"
+heHE.ToPantanaktos.notmetered = "N/M (In Babylon, the three Servants.)"
 heHE.ToPantanaktos.greekname = ""
 heHE.ToPantanaktos.name = ""
 heHE.ToPantanaktos.incipit = "…"
