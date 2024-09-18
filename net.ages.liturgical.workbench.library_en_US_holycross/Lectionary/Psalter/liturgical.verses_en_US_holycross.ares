@@ -1,8 +1,12 @@
 A_Resource_Whose_Name = liturgical.verses_en_US_holycross
 
-psEU.baptism.hymn1.title = "Psalm 31."
+psEU.baptism.hymn1.title = ps_en_US_holycross.psa31.title
 psEU.baptism.hymn1.info = ps_en_US_holycross.psa31.v1.number
 psEU.baptism.hymn1.text = "Blessed are they whose iniquities are forgiven, and whose sins are covered."
+psEU.baptism.hymn2.text = ""
+psEU.baptism.communion.title = ps_en_US_holycross.psa115.title
+psEU.baptism.communion.info = ps_en_US_holycross.psa115.v4.number
+psEU.baptism.communion.text = "I will drink from the cup of salvation; I will call upon the name of the Lord."
 
 psEU.childbirth.fortydays.v1.info = ps_en_US_holycross.psa5.v8.number
 psEU.childbirth.fortydays.v1.text = ""
