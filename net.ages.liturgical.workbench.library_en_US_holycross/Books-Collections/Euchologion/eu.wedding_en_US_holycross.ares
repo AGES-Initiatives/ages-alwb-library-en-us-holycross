@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = eu.wedding_en_US_holycross
 
 euWED.title = "Holy Matrimony"
-euWED.translator1 = "Prayers by Holy Cross Press."
+euWED.translator1 = "Prayers by Holy Cross Press, 1977."
 euWED.translator2 = "Hymns by Holy Cross Press."
 
 euWED.Key0100.title = "The Service of Betrothal"
@@ -16,6 +16,7 @@ euWED.Key0107.text = "O Lord our God, Who accompanied the servant of the patriar
 euWED.Key0108.text = "For You are He that blesses and sanctifies all things, and to You do we send up Glory: to the Father, and to the Son, and to the Holy Spirit, both now and ever, and to the ages of ages."
 
 euWED.Key0200.title = "The Service of the Crowning - The Service of Marriage"
+euWED.Key0200.text = prayers_en_US_holycross.pr.GloryToYouOurGod.text
 
 euWED.Key0210.text = "O God most pure, Author of all creation, Who through Your manbefriending love transformed a rib of Adam the forefather into a woman, and blessed them and said, “Increase and multiply, and have dominion over the earth,” and, by the conjoining, declared them both to be one member, for because of this a man shall forsake his father and his mother, and shall cleave unto his wife, and the two shall be one flesh-and whom God has joined together let not man put asunder; Who did also bless Your servant Abraham, and opened the womb of Sara, and made him the father of many nations; Who bestowed Isaac upon Rebecca, and blessed her offspring; Who joined Jacob and Rachel, and from them made manifest the twelve patriarchs; Who yoked Joseph and Asenath together, and as the fruit of generation did bestow upon them Ephrem and Manasse; Who accepted Zacharias and Elizabeth, and declared their offspring the Forerunner; Who out of the root of Jesse, according to the flesh, produced the Ever-Virgin Mary, and from her were Incarnate-born for the salvation of the human race; Who through Your unspeakable Grace and plentiful goodness were present in Cana of Galilee, and blessed the marriage there, that You might show a lawful union, and a generation there from, is according to Your Will; do You Yourself, O Most Holy Master, accept the prayer of us, Your servants; and as You were present there, be present also here with Your invisible protection. Bless (+) this marriage and grant unto these Your servants (Name) and (Name) a peaceful life, length of days, chastity, love for one another in a bond of peace, offspring long-lived, fair fame by reason of their children, and a crown of glory that does not fade away. Account them worthy to see their children’s children. Keep their wedlock safe against every hostile scheme; give them of the dew from the Heavens above, and of the fatness of the earth. Fill their houses with bountiful food, and with every good thing, that they may have to give to them that are in need, bestowing also on them that are here assembled with us all their supplications that are unto salvation."
 euWED.Key0211.text = "For a God of mercy and of compassion, and of manbefriending love are You, and to You do we send up Glory: as to Your eternal Father and Your All-Holy, Good, and Life-creating Spirit, both now and ever, and to the ages of ages."
@@ -26,11 +27,17 @@ euWED.Key0215.text = "The servant of God (Name) is crowned for the servant of Go
 euWED.Key0216.text = "The servant of God (Name) is crowned for the servant of God (Name), in the Name of the Father, and of the Son, and of the Holy Spirit."
 euWED.Key0217.text = "O Lord, our God, crown them with glory and honor."
 
+euWED.Key0220.title = "THE READINGS"
+euWED.MM.Prokeimenon.text = properties_en_US_holycross.media.key
+euWED.MM.Alleluia.text = properties_en_US_holycross.media.key
+
 euWED.Key0301.text = "O Lord our God, Who in Your saving Providence did promise in Cana of Galilee to declare marriage honorable by Your presence, do You Yourself preserve in peace and oneness of mind these Your servants (Name) and (Name), whom You are well pleased should be joined to one another. Declare their marriage honorable. Preserve their bed undefiled. Grant that their life together be with be without spot of sin. And assure that they may be worthy to attain unto a ripe old age, keeping Your commandments in a pure heart."
 euWED.Key0302.text = "For You are our God, the God to have mercy and save, and to You do we send up all Glory, as to Your Eternal Father, and Your All-Holy, Good, and Life-creating Spirit, both now and ever, and to the ages of ages."
 euWED.Key0303.title = ""
 euWED.Key0303.text = "O God, Who by Your might create all things, and confirm the universe, and adorn the crown of all things created by You, do You, with Your spiritual blessing (+), bless also this common cup given to them that are joined in the community of marriage."
 euWED.Key0304.text = "For blessed is Your Holy Name, and glorified is the Kingdom of the Father, and of the Son, and of the Holy Spirit, both now and ever, and to the ages of ages."
+
+euWED.MM.CommunionHymn.text = properties_en_US_holycross.media.key
 
 euWED.Key0306.title = "The Dance of Isaiah"
 euWED.Key0306.mode = "Tone 5."
