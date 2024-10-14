@@ -326,6 +326,8 @@ pr.petCatechumens10.text = "All catechumens depart. Catechumens depart."
 pr.petCatechumens11.text = "All catechumens depart. Let no catechumen remain."
 
 pr.petCatechumens12.text = "All faithful, let us again in peace pray to the Lord."
+pr.petCatechumens12a.text = "All faithful:"
+pr.petCatechumens12b.text = "Let us again in peace pray to the Lord."
 pr.petCatechumens13.text = "All who are ready for illumination come forward."
 pr.petCatechumens14.text = "Pray all of you who are preparing for illumination. Let us pray to the Lord."
 pr.petCatechumens15.text = "Let us the faithful pray to the Lord for our brethren who are preparing for holy illumination and for their salvation."
