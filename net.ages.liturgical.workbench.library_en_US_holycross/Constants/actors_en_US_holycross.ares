@@ -16,3 +16,7 @@ ac.People = "PEOPLE"
 ac.Priest = "PRIEST"
 //ac.PriestOrDeacon = ""
 //ac.Reader = ""
+
+ac.LC.Archbishop = "Archbishop"
+ac.LC.Hierarch = "Hierarch"
+ac.LC.Deacon = "Deacon"
