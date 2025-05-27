@@ -12,27 +12,27 @@ ocGE.MM.BothHeirmologic.text = properties_en_US_holycross.media.key
 
 ocSV.Dogmatic.mode = miscellanea_en_US_holycross.misc.Mode2
 ocSV.Dogmatic.melody = ""
-ocSV.Dogmatic.incipit = ""
+ocSV.Dogmatic.incipit = "…"
 ocSV.Dogmatic.text = ""
 
 ocSV.Aposticha1.mode = miscellanea_en_US_holycross.misc.Mode2
 ocSV.Aposticha1.melody = he.a.m2_en_US_holycross.heAU.OteEkTouXylou.name
-ocSV.Aposticha1.incipit = ""
+ocSV.Aposticha1.incipit = "…"
 ocSV.Aposticha1.text = ""
 
 ocSV.Aposticha2.mode = miscellanea_en_US_holycross.misc.Mode2
 ocSV.Aposticha2.melody = he.a.m2_en_US_holycross.heAU.OteEkTouXylou.name
-ocSV.Aposticha2.incipit = ""
+ocSV.Aposticha2.incipit = "…"
 ocSV.Aposticha2.text = ""
 
 ocSV.Aposticha3.mode = miscellanea_en_US_holycross.misc.Mode2
 ocSV.Aposticha3.melody = he.a.m2_en_US_holycross.heAU.OteEkTouXylou.name
-ocSV.Aposticha3.incipit = ""
+ocSV.Aposticha3.incipit = "…"
 ocSV.Aposticha3.text = ""
 
 ocSV.AposDogmatic.mode = miscellanea_en_US_holycross.misc.Mode2
 ocSV.AposDogmatic.melody = ""
-ocSV.AposDogmatic.incipit = ""
+ocSV.AposDogmatic.incipit = "…"
 ocSV.AposDogmatic.text = ""
 
 ocVE.MM.LIHC1.text = properties_en_US_holycross.media.key
